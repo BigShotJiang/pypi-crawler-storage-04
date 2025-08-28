@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T17:18:50.006276
-- **Total Packages**: 83
-- **Total Size**: 38.17 MB
+- **Download Time**: 2025-08-28T17:41:14.156968
+- **Total Packages**: 82
+- **Total Size**: 6.94 MB
 
 ## Packages List
-- cybrid-api-organization-python
-- feature-engine
-- cisne
-- sourmash-plugin-pangenomics
-- koubou
-- jaf-py
-- xlizard
 - adafruit-circuitpython-fruitjam
 - kaxanuk.data-curator-extensions.yahoo-finance
 - sdk-pytest-checkmate
@@ -89,3 +82,9 @@
 - syntha
 - drap
 - picasso-phylo
+- any-agent
+- agent-eval
+- dyff-storage
+- archimedes
+- cucu
+- RockyRoad
