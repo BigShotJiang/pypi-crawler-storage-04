@@ -1,0 +1,11 @@
+{
+  "name": "napari-3d-counter",
+  "version": "0.5.4",
+  "summary": "A simple plugin for counting objects in 3D images",
+  "author": "Peter Newstein",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/pnewstein/napari-3d-counter",
+  "download_filename": "napari_3d_counter-0.5.4.tar.gz",
+  "download_time": "2025-08-28T21:38:39.989198",
+  "package_url": "https://pypi.org/project/napari-3d-counter/"
+}

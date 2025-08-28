@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.MATCTheme",
+  "version": "1.0.7",
+  "summary": "A Docassemble Bootstrap theme for the Massachusetts Trial Court",
+  "author": "Sam Glover",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://github.com/SuffolkLITLab/docassemble-MATCTheme/",
+  "download_filename": "docassemble_matctheme-1.0.7.tar.gz",
+  "download_time": "2025-08-28T21:38:48.911037",
+  "package_url": "https://pypi.org/project/docassemble.MATCTheme/"
+}
