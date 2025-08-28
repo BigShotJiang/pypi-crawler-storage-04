@@ -1,11 +1,11 @@
 {
   "name": "easter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "High-level communication between services using a RabbitMQ broker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easter-0.0.2.tar.gz",
-  "download_time": "2025-08-28T14:55:48.673895",
+  "download_filename": "easter-0.0.3.tar.gz",
+  "download_time": "2025-08-28T16:47:49.820608",
   "package_url": "https://pypi.org/project/easter/"
 }

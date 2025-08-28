@@ -1,0 +1,11 @@
+{
+  "name": "chart-builder",
+  "version": "0.3.1",
+  "summary": "A library for building customizable charts in Python",
+  "author": "Brandyn Hamilton",
+  "license": null,
+  "home_page": "https://github.com/BrandynHamilton/Chart-Builder",
+  "download_filename": "chart_builder-0.3.1.tar.gz",
+  "download_time": "2025-08-28T16:48:10.292161",
+  "package_url": "https://pypi.org/project/chart-builder/"
+}

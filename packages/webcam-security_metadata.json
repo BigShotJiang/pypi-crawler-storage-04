@@ -1,0 +1,11 @@
+{
+  "name": "webcam-security",
+  "version": "0.3.20",
+  "summary": "A webcam security monitoring system with Telegram notifications",
+  "author": "Javier Oramas",
+  "license": "MIT",
+  "home_page": "https://github.com/JavierOramas/webcam-security",
+  "download_filename": "webcam_security-0.3.20.tar.gz",
+  "download_time": "2025-08-28T16:48:05.029669",
+  "package_url": "https://pypi.org/project/webcam-security/"
+}

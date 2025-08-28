@@ -1,0 +1,11 @@
+{
+  "name": "picasso-phylo",
+  "version": "0.1.0a1",
+  "summary": "Phylogenetic Inference of Copy number Alterations in Single-cell Sequencing data Optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "picasso_phylo-0.1.0a1.tar.gz",
+  "download_time": "2025-08-28T16:47:49.301141",
+  "package_url": "https://pypi.org/project/picasso-phylo/"
+}

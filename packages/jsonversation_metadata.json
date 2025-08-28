@@ -1,11 +1,11 @@
 {
   "name": "jsonversation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fast and type-safe JSON stream parser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsonversation-0.1.1.tar.gz",
-  "download_time": "2025-08-28T16:27:11.900574",
+  "download_filename": "jsonversation-0.1.2.tar.gz",
+  "download_time": "2025-08-28T16:48:17.613515",
   "package_url": "https://pypi.org/project/jsonversation/"
 }

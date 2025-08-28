@@ -1,11 +1,11 @@
 {
   "name": "zsynctech-studio-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "SDK Python para integração com plataforma ZSync Studio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zsynctech_studio_sdk-0.2.1.tar.gz",
-  "download_time": "2025-08-28T14:20:59.104979",
+  "download_filename": "zsynctech_studio_sdk-0.2.2.tar.gz",
+  "download_time": "2025-08-28T16:47:56.071414",
   "package_url": "https://pypi.org/project/zsynctech-studio-sdk/"
 }

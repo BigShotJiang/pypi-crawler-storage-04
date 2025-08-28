@@ -1,0 +1,11 @@
+{
+  "name": "gentroutils",
+  "version": "3.0.0",
+  "summary": "Open Targets python genetics utility CLI tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gentroutils-3.0.0.tar.gz",
+  "download_time": "2025-08-28T16:47:46.517085",
+  "package_url": "https://pypi.org/project/gentroutils/"
+}

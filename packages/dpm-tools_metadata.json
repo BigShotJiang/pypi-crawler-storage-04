@@ -1,0 +1,11 @@
+{
+  "name": "dpm-tools",
+  "version": "1.0.0",
+  "summary": "A collection of tools and workflows to streamline the processing and visualization of porous media images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpm_tools-1.0.0.tar.gz",
+  "download_time": "2025-08-28T16:48:01.911837",
+  "package_url": "https://pypi.org/project/dpm-tools/"
+}
