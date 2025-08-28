@@ -1,0 +1,11 @@
+{
+  "name": "db-attribute",
+  "version": "2.1.1.1",
+  "summary": "DataBase attribute package",
+  "author": "Shutkanos",
+  "license": "MIT",
+  "home_page": "https://github.com/shutkanos/Db-Attribute",
+  "download_filename": "db_attribute-2.1.1.1.tar.gz",
+  "download_time": "2025-08-28T07:51:41.310933",
+  "package_url": "https://pypi.org/project/db-attribute/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-quiz-generator",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server for generating HTML and Word quiz files from Markdown content",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_quiz_generator-0.1.1.tar.gz",
+  "download_time": "2025-08-28T07:51:49.231222",
+  "package_url": "https://pypi.org/project/mcp-quiz-generator/"
+}
