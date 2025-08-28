@@ -1,11 +1,11 @@
 {
   "name": "hiverge-cli",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Universal Command Line Interface for Hive agent.",
   "author": "Hiverge Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hiverge_cli-0.2.3.tar.gz",
-  "download_time": "2025-08-28T12:42:20.858251",
+  "download_filename": "hiverge_cli-0.2.4.tar.gz",
+  "download_time": "2025-08-28T23:52:14.051269",
   "package_url": "https://pypi.org/project/hiverge-cli/"
 }

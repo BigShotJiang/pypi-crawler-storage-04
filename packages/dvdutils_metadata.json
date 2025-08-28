@@ -1,0 +1,11 @@
+{
+  "name": "dvdutils",
+  "version": "0.1.0",
+  "summary": "DVD IFO parser and title extracter.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dvdutils-0.1.0.tar.gz",
+  "download_time": "2025-08-28T23:52:15.876202",
+  "package_url": "https://pypi.org/project/dvdutils/"
+}
