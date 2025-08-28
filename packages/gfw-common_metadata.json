@@ -1,0 +1,11 @@
+{
+  "name": "gfw-common",
+  "version": "0.1.0rc12",
+  "summary": "Common place for GFW reusable Python components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gfw_common-0.1.0rc12.tar.gz",
+  "download_time": "2025-08-28T21:52:54.038246",
+  "package_url": "https://pypi.org/project/gfw-common/"
+}

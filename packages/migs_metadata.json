@@ -1,0 +1,11 @@
+{
+  "name": "migs",
+  "version": "0.1.7",
+  "summary": "CLI tool for managing Google Cloud Managed Instance Groups",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "migs-0.1.7.tar.gz",
+  "download_time": "2025-08-28T21:52:49.401919",
+  "package_url": "https://pypi.org/project/migs/"
+}

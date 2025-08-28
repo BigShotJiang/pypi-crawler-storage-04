@@ -1,0 +1,11 @@
+{
+  "name": "morpheus-neo4j",
+  "version": "0.2.0",
+  "summary": "DAG-based migration tool for Neo4j databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "morpheus_neo4j-0.2.0.tar.gz",
+  "download_time": "2025-08-28T21:52:36.941222",
+  "package_url": "https://pypi.org/project/morpheus-neo4j/"
+}

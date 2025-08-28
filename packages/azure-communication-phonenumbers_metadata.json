@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-phonenumbers",
+  "version": "1.4.0",
+  "summary": "Microsoft Azure Communication Phone Numbers Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_communication_phonenumbers-1.4.0.tar.gz",
+  "download_time": "2025-08-28T21:52:54.619615",
+  "package_url": "https://pypi.org/project/azure-communication-phonenumbers/"
+}

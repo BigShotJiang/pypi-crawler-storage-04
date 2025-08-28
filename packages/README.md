@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T21:39:14.782318
-- **Total Packages**: 77
-- **Total Size**: 38.29 MB
+- **Download Time**: 2025-08-28T21:53:24.448329
+- **Total Packages**: 91
+- **Total Size**: 15.73 MB
 
 ## Packages List
+- powerdns-cli
+- kolox
+- pftools
+- uurest
+- colorby
+- sinapsis-huggingface-transformers
+- sinapsis-huggingface-embeddings
+- sinapsis-huggingface
+- ai-infra
+- bradLib
+- sdl2-alpha
+- beadclust
+- morpheus-neo4j
+- tonutils
+- pypomes-sob
+- payloop
+- thds.atacama
+- thds.mops
+- abstract-gui
+- thds.humenc
+- thds.core
+- thds.adls
+- safronauts
+- binchicken
+- catocli
+- MultiPyVu
+- embeddingframework
+- fastj2
+- async-kernel
+- aryadocr
+- khoj
+- fluid-labels
+- migs
+- Mathics-Scanner
+- kaqing
+- specforged
+- openinference-instrumentation-langchain
+- zenable-mcp
+- openinference-instrumentation-openlit
+- gfw-common
+- azure-communication-phonenumbers
+- langchain-callback-parquet-logger
 - kognitos-bdk-api
 - ddi-fw
 - mtcli-book
@@ -23,7 +65,6 @@
 - nuTens
 - struktx-ai
 - totvs-dta-utils
-- kaqing
 - cinetica
 - cdklabs.cdk-proserve-lib
 - skfobserver
@@ -52,34 +93,7 @@
 - eegdash
 - DashAI
 - openapi2jsonschema2
-- abstract-gui
 - usearch
 - qumulo-api
 - cybrid-api-bank-python
 - t-nextgen
-- jdata
-- bluesky-tiled-plugins
-- tumblrbot
-- cybrid-api-organization-python
-- openfhe-numpy
-- cybrid-api-id-python
-- dactyl-generation
-- TInCuP
-- cyberdesk
-- sdl2-alpha
-- mobject-klixz
-- django-psa
-- dash-dashkit
-- vibe-llama
-- terra_ui_components
-- layrz-protocol
-- ses-cloudwatch
-- postleaks
-- virtool
-- edge-tts
-- krakenvirus
-- konecty-sdk-python
-- mapp-tricks
-- cfncli
-- ts-sdk-connectors-python
-- pysmartyaml
