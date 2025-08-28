@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-protocol-binarystream",
+  "version": "1.2.0",
+  "summary": "Minecraft BinaryStream Library",
+  "author": "GlacieTeam",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "bedrock_protocol_binarystream-1.2.0-py3-none-any.whl",
+  "download_time": "2025-08-28T14:55:40.451162",
+  "package_url": "https://pypi.org/project/bedrock-protocol-binarystream/"
+}

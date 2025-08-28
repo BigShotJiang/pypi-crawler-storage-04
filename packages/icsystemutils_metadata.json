@@ -1,0 +1,11 @@
+{
+  "name": "icsystemutils",
+  "version": "0.2.4",
+  "summary": "Utilities for interacting with system resources, e.g. cpu, network etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icsystemutils-0.2.4.tar.gz",
+  "download_time": "2025-08-28T14:55:42.177156",
+  "package_url": "https://pypi.org/project/icsystemutils/"
+}

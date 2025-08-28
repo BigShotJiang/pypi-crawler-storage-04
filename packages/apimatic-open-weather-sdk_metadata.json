@@ -1,0 +1,11 @@
+{
+  "name": "apimatic-open-weather-sdk",
+  "version": "1.0.0",
+  "summary": "**OpenWeather API** provides current weather data, forecasts, and historical information for any location worldwide.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apimatic_open_weather_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-28T14:55:24.177484",
+  "package_url": "https://pypi.org/project/apimatic-open-weather-sdk/"
+}

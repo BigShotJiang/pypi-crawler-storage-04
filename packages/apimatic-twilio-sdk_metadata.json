@@ -1,0 +1,11 @@
+{
+  "name": "apimatic-twilio-sdk",
+  "version": "1.0.0",
+  "summary": "Twilio API enables developers to integrate communication services like SMS, voice calls, video, and messaging into applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apimatic_twilio_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-28T14:55:45.062786",
+  "package_url": "https://pypi.org/project/apimatic-twilio-sdk/"
+}

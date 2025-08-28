@@ -1,0 +1,11 @@
+{
+  "name": "openaleph-search",
+  "version": "0.0.4",
+  "summary": "OpenAleph index & search module",
+  "author": "Simon Wörpel",
+  "license": "AGPLv3+",
+  "home_page": "https://openaleph.org/docs/lib/openaleph-search",
+  "download_filename": "openaleph_search-0.0.4.tar.gz",
+  "download_time": "2025-08-28T14:55:47.518549",
+  "package_url": "https://pypi.org/project/openaleph-search/"
+}

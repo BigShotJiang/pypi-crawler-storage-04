@@ -1,11 +1,11 @@
 {
   "name": "golf-mcp",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Framework for building MCP servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "golf_mcp-0.2.4.tar.gz",
-  "download_time": "2025-08-28T14:45:00.914224",
+  "download_filename": "golf_mcp-0.2.5.tar.gz",
+  "download_time": "2025-08-28T14:55:31.244286",
   "package_url": "https://pypi.org/project/golf-mcp/"
 }

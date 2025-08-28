@@ -1,11 +1,11 @@
 {
   "name": "WebCrawler-x",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "summary": null,
   "author": "jackson_tao",
   "license": null,
   "home_page": null,
-  "download_filename": "WebCrawler_x-5.2.1.tar.gz",
-  "download_time": "2025-08-28T14:20:18.781835",
+  "download_filename": "WebCrawler_x-5.2.2.tar.gz",
+  "download_time": "2025-08-28T14:55:38.512278",
   "package_url": "https://pypi.org/project/WebCrawler-x/"
 }

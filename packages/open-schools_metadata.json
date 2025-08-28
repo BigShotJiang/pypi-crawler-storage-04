@@ -1,11 +1,11 @@
 {
   "name": "open-schools",
-  "version": "0.0.0.dev1",
+  "version": "0.0.0.dev2",
   "summary": "Open Source School Software(OSSS)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "open_schools-0.0.0.dev1.tar.gz",
-  "download_time": "2025-08-28T13:19:20.549463",
+  "download_filename": "open_schools-0.0.0.dev2.tar.gz",
+  "download_time": "2025-08-28T14:55:52.699645",
   "package_url": "https://pypi.org/project/open-schools/"
 }

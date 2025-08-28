@@ -1,0 +1,11 @@
+{
+  "name": "icat-plus-client",
+  "version": "1.0.0",
+  "summary": "ICAT+ API",
+  "author": "Alejandro De Maria Antolinos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icat-plus-client-1.0.0.tar.gz",
+  "download_time": "2025-08-28T14:55:35.397102",
+  "package_url": "https://pypi.org/project/icat-plus-client/"
+}
