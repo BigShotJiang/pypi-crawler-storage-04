@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-assets-management",
+  "version": "14.0.1.7.0",
+  "summary": "Gestione Cespiti",
+  "author": "Openforce, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo14_addon_assets_management-14.0.1.7.0-py3-none-any.whl",
+  "download_time": "2025-08-28T10:21:54.290417",
+  "package_url": "https://pypi.org/project/odoo14-addon-assets-management/"
+}

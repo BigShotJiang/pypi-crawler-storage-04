@@ -1,0 +1,11 @@
+{
+  "name": "syft-crypto",
+  "version": "0.1.1",
+  "summary": "End-to-end encryption utilities for SyftBox using X3DH protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syft_crypto-0.1.1.tar.gz",
+  "download_time": "2025-08-28T10:22:38.107974",
+  "package_url": "https://pypi.org/project/syft-crypto/"
+}

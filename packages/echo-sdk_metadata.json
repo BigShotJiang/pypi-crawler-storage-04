@@ -1,0 +1,11 @@
+{
+  "name": "echo-sdk",
+  "version": "1.0.2",
+  "summary": "Echo SDK - To building custom AI agent plugins for Echo AI Framework",
+  "author": "Jonas Kahn",
+  "license": "MIT",
+  "home_page": "https://github.com/jonaskahn/echo-sdk",
+  "download_filename": "echo_sdk-1.0.2.tar.gz",
+  "download_time": "2025-08-28T10:22:02.551646",
+  "package_url": "https://pypi.org/project/echo-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dds-cli",
+  "version": "2.12.0",
+  "summary": "A command line tool to manage data and projects in the SciLifeLab Data Delivery System.",
+  "author": "SciLifeLab Data Centre",
+  "license": "MIT",
+  "home_page": "https://github.com/ScilifelabDataCentre/dds_cli",
+  "download_filename": "dds_cli-2.12.0.tar.gz",
+  "download_time": "2025-08-28T10:22:25.779982",
+  "package_url": "https://pypi.org/project/dds-cli/"
+}

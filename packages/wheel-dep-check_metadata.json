@@ -1,0 +1,11 @@
+{
+  "name": "wheel-dep-check",
+  "version": "0.1.0",
+  "summary": "Check missing shared library dependencies in Python wheels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wheel_dep_check-0.1.0.tar.gz",
+  "download_time": "2025-08-28T10:22:32.756466",
+  "package_url": "https://pypi.org/project/wheel-dep-check/"
+}

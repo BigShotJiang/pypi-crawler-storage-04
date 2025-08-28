@@ -1,0 +1,11 @@
+{
+  "name": "utcp-agent",
+  "version": "1.0.0",
+  "summary": "A ready-to-use agent for UTCP tool calling",
+  "author": "UTCP Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp_agent-1.0.0.tar.gz",
+  "download_time": "2025-08-28T10:22:30.038065",
+  "package_url": "https://pypi.org/project/utcp-agent/"
+}
