@@ -1,0 +1,11 @@
+{
+  "name": "zsl",
+  "version": "1.7.5",
+  "summary": "zsl application framework for web based services",
+  "author": "Atteq s.r.o.",
+  "license": "MIT",
+  "home_page": "https://github.com/AtteqCom/zsl",
+  "download_filename": "zsl-1.7.5.tar.gz",
+  "download_time": "2025-08-28T05:52:36.335356",
+  "package_url": "https://pypi.org/project/zsl/"
+}

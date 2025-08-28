@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-httpserver",
+  "version": "1.5.0",
+  "summary": "Fuzzy matching HTTP file server with autocomplete and fallback",
+  "author": "PakCyberbot",
+  "license": null,
+  "home_page": "https://github.com/PakCyberbot/fuzzy-httpserver",
+  "download_filename": "fuzzy_httpserver-1.5.0.tar.gz",
+  "download_time": "2025-08-28T05:52:35.241305",
+  "package_url": "https://pypi.org/project/fuzzy-httpserver/"
+}
