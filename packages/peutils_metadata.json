@@ -1,0 +1,11 @@
+{
+  "name": "peutils",
+  "version": "0.0.132",
+  "summary": "utils for text,audio,video,excel,file and so on.",
+  "author": "henry.wang",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/yunsansheng/peutils",
+  "download_filename": "peutils-0.0.132.tar.gz",
+  "download_time": "2025-08-28T06:56:12.958691",
+  "package_url": "https://pypi.org/project/peutils/"
+}

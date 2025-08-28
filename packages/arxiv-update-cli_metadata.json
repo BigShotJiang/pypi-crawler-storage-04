@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-update-cli",
+  "version": "1.2.1",
+  "summary": "Fetch new articles on arXiv by keywords",
+  "author": "Juliette Monsel",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/j_4321/arxivscript",
+  "download_filename": "arxiv_update_cli-1.2.1.tar.gz",
+  "download_time": "2025-08-28T06:56:04.662468",
+  "package_url": "https://pypi.org/project/arxiv-update-cli/"
+}
