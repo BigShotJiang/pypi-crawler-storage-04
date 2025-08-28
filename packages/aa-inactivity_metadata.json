@@ -1,0 +1,11 @@
+{
+  "name": "aa-inactivity",
+  "version": "2.0.0",
+  "summary": "Activity monitoring app for Alliance Auth.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aa_inactivity-2.0.0.tar.gz",
+  "download_time": "2025-08-28T18:51:18.107635",
+  "package_url": "https://pypi.org/project/aa-inactivity/"
+}

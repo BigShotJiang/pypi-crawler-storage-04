@@ -1,11 +1,11 @@
 {
   "name": "calve",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "A Python-based data pipeline for ingesting, cataloging, reporting, and querying data using Apache Iceberg as the storage format and DuckDB for lightweight analytics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calve-0.0.1.tar.gz",
-  "download_time": "2025-08-28T17:51:49.047604",
+  "download_filename": "calve-0.0.5.tar.gz",
+  "download_time": "2025-08-28T18:51:12.182297",
   "package_url": "https://pypi.org/project/calve/"
 }

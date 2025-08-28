@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T18:30:23.974298
-- **Total Packages**: 84
-- **Total Size**: 74.47 MB
+- **Download Time**: 2025-08-28T18:51:44.221541
+- **Total Packages**: 85
+- **Total Size**: 33.07 MB
 
 ## Packages List
+- mkdocs-anti-ai-scraper-plugin
+- multipers
+- mcp-server-mikrotik
+- minecraft-datapack-language
+- meta-ads-mcp
+- fsai-proto-specs
+- kode-kronical
+- ra-netsuite-shared-utils
+- payabli
+- pysmartyaml
+- mcp-nano-banana
+- rubin-nublado-client
+- kani
+- interpres
+- load-distribution
+- pyneoinstance
+- apicurioregistrysdk
+- tenzir
+- gammarers.aws-resource-naming
+- muff
+- claude-mpm
+- imap-processing
+- letta-client
+- SQLHelpersAJM
+- taman
+- koubou
+- aind-metadata-service-client
+- aind-metadata-service-async-client
+- pipmaster
+- gas-network-sdk
+- atopile
+- dexray-insight
+- apache-superset-extensions-cli
+- earlysign
+- opentrons-shared-data
+- calve
+- lance-namespace-urllib3-client
+- lance-namespace
+- decima
+- wbtools
+- polygon
+- opentrons
+- aa-inactivity
+- sentor-ml
+- piidata-masker
+- annex4risk-detector
+- dawnai-strategy-sdk
+- jupytext
+- assemblyline-core
+- assemblyline
+- assemblyline-v4-service
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- UW-RestClients-Canvas
+- hessra-py
 - bioio-ome-zarr
 - rdworks
 - pyconverters-cairn_xml
@@ -23,7 +79,6 @@
 - wagtail
 - hippius
 - solids
-- minecraft-datapack-language
 - lusid-sdk
 - xacro
 - primfunctions
@@ -35,58 +90,4 @@
 - sbomvis
 - ScriptCollection
 - matrix-schema
-- piidata-masker
 - qctrl-commons
-- dataflash-mcp-haystack
-- common-grants-sdk
-- p2v-compiler
-- fastapi-okta
-- mcp-server-mikrotik
-- uqlm
-- dspy-profiles
-- akari-bot-webui
-- baec
-- scAllele
-- ipxact2systemverilog
-- grpcAPI
-- pytidb
-- py-surepetcare
-- recce-nightly
-- prefect-aws
-- tabdpt
-- pyrudof
-- ICAR-pydantic
-- geofig
-- generalanalysis
-- spmat
-- graphistry
-- momovu
-- deeporigin
-- claude-code-indexer
-- chart-review
-- earlysign
-- worker-automate-hub
-- opendapi
-- relcheck
-- festim
-- embeddingframework
-- footsies-gym
-- cyber-skyline-chall-parser
-- cyber-skyline-chall-check
-- omnipresense
-- qtexture
-- cloudsnorkel.cdk-github-runners
-- mtcli-book
-- ndvi2gif
-- mesh-to-sim-asset
-- dionn
-- emcd-projects
-- pulumi-pagerduty
-- agentuity
-- nb-canvas-quiz
-- tenzir-platform
-- punchbowl
-- ProfiWiki
-- punchpipe
-- terra_ui_components
-- flax

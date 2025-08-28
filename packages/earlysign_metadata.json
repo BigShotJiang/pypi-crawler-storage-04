@@ -1,11 +1,11 @@
 {
   "name": "earlysign",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Early signs, faster decisions. A Python library for sequential/safe testing (alpha-spending, e-processes, etc.).",
   "author": "Takeshi Teshima",
   "license": "Apache-2.0",
   "home_page": "https://github.com/takeshi-teshima/EarlySign",
-  "download_filename": "earlysign-0.1.0.tar.gz",
-  "download_time": "2025-08-28T17:51:52.546870",
+  "download_filename": "earlysign-0.1.4.tar.gz",
+  "download_time": "2025-08-28T18:51:10.840200",
   "package_url": "https://pypi.org/project/earlysign/"
 }

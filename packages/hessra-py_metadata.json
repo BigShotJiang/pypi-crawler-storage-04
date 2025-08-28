@@ -1,0 +1,11 @@
+{
+  "name": "hessra-py",
+  "version": "0.2.1",
+  "summary": "Python bindings for the Hessra authorization system with Biscuit token verification and mTLS support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hessra_py-0.2.1.tar.gz",
+  "download_time": "2025-08-28T18:51:26.435002",
+  "package_url": "https://pypi.org/project/hessra-py/"
+}

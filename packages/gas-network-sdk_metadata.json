@@ -1,0 +1,11 @@
+{
+  "name": "gas-network-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for Gas Network API - gas price prediction and optimization",
+  "author": "rshuwy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gas_network_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-28T18:51:07.963490",
+  "package_url": "https://pypi.org/project/gas-network-sdk/"
+}
