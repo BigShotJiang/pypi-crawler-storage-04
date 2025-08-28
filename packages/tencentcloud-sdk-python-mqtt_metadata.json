@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-mqtt",
+  "version": "3.0.1452",
+  "summary": "Tencent Cloud Mqtt SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-mqtt-3.0.1452.tar.gz",
+  "download_time": "2025-08-28T20:52:49.463163",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-mqtt/"
+}
