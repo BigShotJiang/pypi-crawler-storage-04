@@ -1,0 +1,11 @@
+{
+  "name": "smqtk_descriptors",
+  "version": "0.20.0",
+  "summary": "Algorithms, data structures and utilities around computingdescriptor vectors from data.",
+  "author": "Kitware, Inc.",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Kitware/SMQTK-Descriptors",
+  "download_filename": "smqtk_descriptors-0.20.0.tar.gz",
+  "download_time": "2025-08-28T18:29:50.766394",
+  "package_url": "https://pypi.org/project/smqtk_descriptors/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "embeddingframework",
+  "version": "1.0.2",
+  "summary": "A high-performance, asynchronous, and extensible Python package for processing files, generating embeddings, and storing them in various vector databases with optional cloud storage integration.",
+  "author": "SathishKumar Nagarajan",
+  "license": null,
+  "home_page": "https://github.com/isathish/embeddingframework",
+  "download_filename": "embeddingframework-1.0.2.tar.gz",
+  "download_time": "2025-08-28T18:30:13.061689",
+  "package_url": "https://pypi.org/project/embeddingframework/"
+}

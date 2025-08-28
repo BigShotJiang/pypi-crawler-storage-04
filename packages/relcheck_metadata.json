@@ -1,0 +1,11 @@
+{
+  "name": "relcheck",
+  "version": "0.1.1",
+  "summary": "CLI diagnostic tool for kubernetes resources",
+  "author": "Aditya Ranaut",
+  "license": null,
+  "home_page": null,
+  "download_filename": "relcheck-0.1.1.tar.gz",
+  "download_time": "2025-08-28T18:30:11.995243",
+  "package_url": "https://pypi.org/project/relcheck/"
+}

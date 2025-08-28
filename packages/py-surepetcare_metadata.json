@@ -1,11 +1,11 @@
 {
   "name": "py-surepetcare",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Python library for SurePetcare API",
   "author": "FredrikM97",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_surepetcare-0.4.3.tar.gz",
-  "download_time": "2025-08-28T17:52:02.145929",
+  "download_filename": "py_surepetcare-0.4.4.tar.gz",
+  "download_time": "2025-08-28T18:30:02.113754",
   "package_url": "https://pypi.org/project/py-surepetcare/"
 }

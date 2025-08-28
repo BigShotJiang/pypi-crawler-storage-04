@@ -1,0 +1,11 @@
+{
+  "name": "matrix-schema",
+  "version": "0.4.1",
+  "summary": "The collected MATRIX schemas",
+  "author": "Nicolas Matentzoglu",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "matrix_schema-0.4.1.tar.gz",
+  "download_time": "2025-08-28T18:29:53.898950",
+  "package_url": "https://pypi.org/project/matrix-schema/"
+}

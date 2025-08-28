@@ -1,0 +1,11 @@
+{
+  "name": "footsies-gym",
+  "version": "0.2.3",
+  "summary": "A reinforcement learning environment for HiFight's Footsies game",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "footsies_gym-0.2.3.tar.gz",
+  "download_time": "2025-08-28T18:30:13.572810",
+  "package_url": "https://pypi.org/project/footsies-gym/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ICAR-pydantic",
-  "version": "1.4.0.dev1",
+  "version": "1.4.0.dev2",
   "summary": "ICAR Pydantic models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "icar_pydantic-1.4.0.dev1.tar.gz",
-  "download_time": "2025-08-28T17:51:44.400216",
+  "download_filename": "icar_pydantic-1.4.0.dev2.tar.gz",
+  "download_time": "2025-08-28T18:30:04.725865",
   "package_url": "https://pypi.org/project/ICAR-pydantic/"
 }

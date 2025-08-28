@@ -1,0 +1,11 @@
+{
+  "name": "scAllele",
+  "version": "0.0.9.5",
+  "summary": "A versatile tool for the detection and analysis of nucleotide variants in scRNA-seq",
+  "author": "Giovanni Quinones Valdez",
+  "license": null,
+  "home_page": "https://github.com/gxiaolab/scAllele",
+  "download_filename": "scallele-0.0.9.5.tar.gz",
+  "download_time": "2025-08-28T18:30:00.061820",
+  "package_url": "https://pypi.org/project/scAllele/"
+}

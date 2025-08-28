@@ -1,0 +1,11 @@
+{
+  "name": "wagtail",
+  "version": "7.1.1",
+  "summary": "A Django content management system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail-7.1.1.tar.gz",
+  "download_time": "2025-08-28T18:29:46.548807",
+  "package_url": "https://pypi.org/project/wagtail/"
+}

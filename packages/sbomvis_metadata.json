@@ -1,0 +1,11 @@
+{
+  "name": "sbomvis",
+  "version": "0.0.0rc14",
+  "summary": "Surfactant SBOM Visualization",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "sbomvis-0.0.0rc14.tar.gz",
+  "download_time": "2025-08-28T18:29:52.865028",
+  "package_url": "https://pypi.org/project/sbomvis/"
+}

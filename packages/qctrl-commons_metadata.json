@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-commons",
+  "version": "25.1.2",
+  "summary": "Q-CTRL Commons",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_commons-25.1.2.tar.gz",
+  "download_time": "2025-08-28T18:29:54.929661",
+  "package_url": "https://pypi.org/project/qctrl-commons/"
+}

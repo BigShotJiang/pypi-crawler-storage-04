@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-book",
+  "version": "0.1.1",
+  "summary": "Plugin mtcli do book de ofertas",
+  "author": "Valmir França da Silva",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/vfranca/mtcli-book",
+  "download_filename": "mtcli_book-0.1.1.tar.gz",
+  "download_time": "2025-08-28T18:30:16.672901",
+  "package_url": "https://pypi.org/project/mtcli-book/"
+}
