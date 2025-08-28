@@ -1,0 +1,11 @@
+{
+  "name": "instagram-cli",
+  "version": "1.4.1",
+  "summary": "Use Instagram in the terminal, the end of brainrot is here",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instagram_cli-1.4.1.tar.gz",
+  "download_time": "2025-08-28T15:42:15.695446",
+  "package_url": "https://pypi.org/project/instagram-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caerus",
+  "version": "1.0.0",
+  "summary": "caerus is a Python library for peak detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "caerus-1.0.0.tar.gz",
+  "download_time": "2025-08-28T15:42:09.805698",
+  "package_url": "https://pypi.org/project/caerus/"
+}

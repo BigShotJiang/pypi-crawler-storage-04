@@ -1,0 +1,11 @@
+{
+  "name": "cc-sessions",
+  "version": "0.2.1",
+  "summary": "Claude Code Sessions Framework - Enforced methodology for AI pair programming",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cc_sessions-0.2.1.tar.gz",
+  "download_time": "2025-08-28T15:41:57.277068",
+  "package_url": "https://pypi.org/project/cc-sessions/"
+}

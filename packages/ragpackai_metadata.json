@@ -1,11 +1,11 @@
 {
   "name": "ragpackai",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Portable Retrieval-Augmented Generation Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ragpackai-0.1.2.tar.gz",
-  "download_time": "2025-08-28T14:45:01.554200",
+  "download_filename": "ragpackai-0.1.4.tar.gz",
+  "download_time": "2025-08-28T15:41:56.209478",
   "package_url": "https://pypi.org/project/ragpackai/"
 }

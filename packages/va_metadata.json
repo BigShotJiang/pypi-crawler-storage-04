@@ -1,11 +1,11 @@
 {
   "name": "va",
-  "version": "0.0.1.dev128",
+  "version": "0.0.1.dev129",
   "summary": "CryoEM validation toolkit",
   "author": "Zhe Wang",
   "license": "Apache License",
   "home_page": "https://test.pypi.org/project/va/",
-  "download_filename": "va-0.0.1.dev128.tar.gz",
-  "download_time": "2025-08-28T14:44:59.887931",
+  "download_filename": "va-0.0.1.dev129.tar.gz",
+  "download_time": "2025-08-28T15:42:10.897674",
   "package_url": "https://pypi.org/project/va/"
 }

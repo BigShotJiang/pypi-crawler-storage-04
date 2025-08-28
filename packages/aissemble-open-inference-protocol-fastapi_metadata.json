@@ -1,0 +1,11 @@
+{
+  "name": "aissemble-open-inference-protocol-fastapi",
+  "version": "1.0.0",
+  "summary": "A FastAPI implementation of the Open Inference Protocol",
+  "author": "aiSSEMBLE Solutions Community",
+  "license": "Booz Allen Public License v1.0",
+  "home_page": "https://github.com/boozallen/aissemble-open-inference-protocol",
+  "download_filename": "aissemble_open_inference_protocol_fastapi-1.0.0.tar.gz",
+  "download_time": "2025-08-28T15:42:14.073580",
+  "package_url": "https://pypi.org/project/aissemble-open-inference-protocol-fastapi/"
+}

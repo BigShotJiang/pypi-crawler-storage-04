@@ -1,0 +1,11 @@
+{
+  "name": "dbmini",
+  "version": "0.2.0",
+  "summary": "A simple DB connector for MySQL, SQLite, and MongoDB",
+  "author": "Prathamesh Patil ",
+  "license": null,
+  "home_page": "https://github.com/prathamesh9669/dbmini",
+  "download_filename": "dbmini-0.2.0.tar.gz",
+  "download_time": "2025-08-28T15:41:49.872281",
+  "package_url": "https://pypi.org/project/dbmini/"
+}

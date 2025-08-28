@@ -1,0 +1,11 @@
+{
+  "name": "make-api-request",
+  "version": "0.2.0",
+  "summary": "A modern Python HTTP client library with built-in authentication and response handling",
+  "author": "Sideko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "make_api_request-0.2.0.tar.gz",
+  "download_time": "2025-08-28T15:41:43.424225",
+  "package_url": "https://pypi.org/project/make-api-request/"
+}
