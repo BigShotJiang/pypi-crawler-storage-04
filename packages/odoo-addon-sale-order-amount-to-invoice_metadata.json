@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-amount-to-invoice",
+  "version": "16.0.1.0.0.6",
+  "summary": "Show total amount to invoice in quotations/sales orders",
+  "author": "Cetmix, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_amount_to_invoice-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-08-28T04:24:47.645799",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-amount-to-invoice/"
+}

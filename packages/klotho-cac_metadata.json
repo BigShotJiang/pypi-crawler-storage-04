@@ -1,0 +1,11 @@
+{
+  "name": "klotho-cac",
+  "version": "3.12.8",
+  "summary": "Graph-Oriented Computer-Assisted Composition in Python",
+  "author": "Ryan Millett",
+  "license": "CC-BY-SA-4.0",
+  "home_page": "https://github.com/kr4g/Klotho",
+  "download_filename": "klotho_cac-3.12.8.tar.gz",
+  "download_time": "2025-08-28T04:24:34.906554",
+  "package_url": "https://pypi.org/project/klotho-cac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hpeOneView",
+  "version": "10.2.0",
+  "summary": "HPE OneView Python Library",
+  "author": "Hewlett Packard Enterprise Development LP",
+  "license": "Apache",
+  "home_page": "https://github.com/HewlettPackard/oneview-python",
+  "download_filename": "hpeoneview-10.2.0.tar.gz",
+  "download_time": "2025-08-28T04:24:44.472611",
+  "package_url": "https://pypi.org/project/hpeOneView/"
+}

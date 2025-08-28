@@ -1,0 +1,11 @@
+{
+  "name": "access-mopper",
+  "version": "2.3.0a24",
+  "summary": "ACCESS Model Output Post-Processor, maps raw model output to CMIP-style defined variables and produce post-processed output using CMOR3",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "access_mopper-2.3.0a24.tar.gz",
+  "download_time": "2025-08-28T04:24:42.163191",
+  "package_url": "https://pypi.org/project/access-mopper/"
+}

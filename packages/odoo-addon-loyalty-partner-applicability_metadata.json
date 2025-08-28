@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-loyalty-partner-applicability",
+  "version": "16.0.4.0.0.2",
+  "summary": "Enables the definition of a customer filter for promotion rules that will only be applied to customers who meet the specified conditions in the filter.",
+  "author": "Tecnativa,ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-promotion",
+  "download_filename": "odoo_addon_loyalty_partner_applicability-16.0.4.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-28T04:24:55.808832",
+  "package_url": "https://pypi.org/project/odoo-addon-loyalty-partner-applicability/"
+}
