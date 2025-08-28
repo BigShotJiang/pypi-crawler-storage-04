@@ -1,0 +1,11 @@
+{
+  "name": "mathdiagram",
+  "version": "1.0.2",
+  "summary": "Generic mathematical diagram generation library for any topic",
+  "author": "MathDiagram Library",
+  "license": "MIT",
+  "home_page": "https://github.com/mathdiagram/mathdiagram",
+  "download_filename": "mathdiagram-1.0.2.tar.gz",
+  "download_time": "2025-08-28T22:52:18.210555",
+  "package_url": "https://pypi.org/project/mathdiagram/"
+}

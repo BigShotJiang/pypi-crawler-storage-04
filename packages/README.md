@@ -1,16 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T22:41:35.299780
-- **Total Packages**: 83
-- **Total Size**: 16.27 MB
+- **Download Time**: 2025-08-28T22:52:54.912510
+- **Total Packages**: 79
+- **Total Size**: 2.65 MB
 
 ## Packages List
+- cjm-fasthtml-sse
+- pyfabricops
+- MOBPY
+- TInCuP
+- paasta-tools
+- mgz
+- data-go-mcp.pps-narajangteo
+- desync-search
+- pitchoune
+- qbraid
+- mathdiagram
+- prom
+- compy-python
+- gradio-propertysheet
+- sqlalchemy-pydantic-mapper
+- babybert
+- sequence
+- handit-ai
+- statsig-python-core
+- kaqing
 - luminarycloud
 - calcite
 - cogent3-h5seqs
 - skewsentry
-- babybert
 - ursa-ai
 - pathling
 - aryadocr
@@ -19,8 +38,6 @@
 - kamiwaza-sdk
 - openapi-spec-tools
 - segmented-creator
-- handit-ai
-- kaqing
 - nomadicml
 - modusa
 - anysecret-io
@@ -68,24 +85,3 @@
 - cdk-s3-vectors
 - experiment-runner
 - mcpsquared-base
-- experiment-generator
-- chattr
-- devboiler
-- bbot
-- NieMarkov
-- opteryx
-- aorta-sirius-dev
-- latinum-wallet-mcp
-- pyecholog
-- pbs-installer
-- streaq
-- qnty
-- appian-locust
-- sqlmesh
-- launchdarkly-observability
-- habluetooth
-- snitun
-- datasurface
-- aislib
-- cipdb
-- zyra
