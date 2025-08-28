@@ -1,0 +1,11 @@
+{
+  "name": "rdstation-api-helper",
+  "version": "1.1.2",
+  "summary": "ETL module for RD Station API database-optimized DataFrame processing",
+  "author": "Joao Brito",
+  "license": "GPL",
+  "home_page": "https://github.com/machado000/rdstation-api-helper",
+  "download_filename": "rdstation_api_helper-1.1.2.tar.gz",
+  "download_time": "2025-08-28T20:41:33.119988",
+  "package_url": "https://pypi.org/project/rdstation-api-helper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "txtai.py",
+  "version": "9.0.0",
+  "summary": "Python client for txtai",
+  "author": "NeuML",
+  "license": "Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/neuml/txtai.py",
+  "download_filename": "txtai.py-9.0.0.tar.gz",
+  "download_time": "2025-08-28T20:41:44.316491",
+  "package_url": "https://pypi.org/project/txtai.py/"
+}

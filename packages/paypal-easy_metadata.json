@@ -1,11 +1,11 @@
 {
   "name": "paypal-easy",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "A simplified wrapper for PayPal's Python Server SDK",
   "author": "William Mabotja",
   "license": null,
   "home_page": "https://github.com/doculearn/paypal-easy",
-  "download_filename": "paypal_easy-0.1.5.tar.gz",
-  "download_time": "2025-08-28T16:48:07.628919",
+  "download_filename": "paypal_easy-0.1.8.tar.gz",
+  "download_time": "2025-08-28T20:41:30.395950",
   "package_url": "https://pypi.org/project/paypal-easy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-srl-usd",
+  "version": "2.0.0",
+  "summary": "SRL Python USD utils",
+  "author": "NVIDIA Seattle Robotics Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvidia_srl_usd-2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-28T20:41:34.686789",
+  "package_url": "https://pypi.org/project/nvidia-srl-usd/"
+}

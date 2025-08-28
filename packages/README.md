@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T20:23:14.783367
-- **Total Packages**: 87
-- **Total Size**: 50.68 MB
+- **Download Time**: 2025-08-28T20:42:10.070079
+- **Total Packages**: 90
+- **Total Size**: 15.4 MB
 
 ## Packages List
+- landuse-intensity-analysis
+- cua-agent
+- letta-client
+- mapp-tricks
+- m24842-ml
+- markdown-to-confluence
+- ntscli-client
+- ggpyscraper
+- siliconsuite-symbol-generator
+- dlt-mcp
+- keeptalking
+- load-distribution
+- camino-ai-sdk
+- academic-refchecker
+- claude-cto
+- akari-bot-webrender
+- type-enforced
+- paypal-easy
+- deepsweepai
 - lrdbenchmark
+- django-cfdi
+- feed-to-sqlite
+- rdstation-api-helper
+- python3-core-api-client
+- nats-app
+- nvidia-srl-usd
+- agent-rails
+- DynamicalComponentsAnalysis
+- mlx-cpu
+- maps4fs
+- pulumi-datarobot
+- npcpy
+- skfobserver
+- hifi-solves-run-humanwgs
+- koubou
+- jx
+- modal
+- jvserve
+- jvmanager
+- jvclient
+- jvcli
+- jivas
+- txtai.py
 - OctoBot-Trading
 - http-html
 - ekogram
@@ -21,7 +63,6 @@
 - mircat-v2
 - lineplot
 - pycarlo
-- m24842-ml
 - elide
 - lisien
 - tonutils
@@ -51,45 +92,7 @@
 - trulens-apps-langgraph
 - trulens-apps-langchain
 - methodaws
-- maps4fs
 - cinetica
-- lrdbench
 - CrumblPy
 - hvplot
 - testdata
-- changedetection.io
-- spark-analyzer
-- usearch
-- django-pbx-admin
-- pypomes-db
-- sqler
-- pyphotomol
-- abstract-gui
-- mlcast
-- gable
-- pyt
-- agi-tools
-- invasync
-- pipecat-ai
-- wizit_context_ingestor
-- coaiapy
-- pingera-cli
-- infrahub-server
-- infrahub-testcontainers
-- langchain-callback-parquet-logger
-- polars-u64-idx
-- quantconnect-stubs
-- polars-lts-cpu
-- polars
-- primfunctions
-- kubelingo
-- nats-app
-- appwindows
-- luxorasap
-- NEMO-billing
-- ratio1
-- utils-api-pipefy
-- cjm-fasthtml-sse
-- pyclassifiers
-- vovk-hello-world
-- PyQrackIsing
