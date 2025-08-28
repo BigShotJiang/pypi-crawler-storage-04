@@ -1,0 +1,11 @@
+{
+  "name": "tox-recreate",
+  "version": "0.0.6",
+  "summary": "Recreate tox virtual environments when `pyproject.toml`, `setup.cfg` or `setup.py` change.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox_recreate-0.0.6.tar.gz",
+  "download_time": "2025-08-28T17:18:37.965817",
+  "package_url": "https://pypi.org/project/tox-recreate/"
+}

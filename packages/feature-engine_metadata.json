@@ -1,11 +1,11 @@
 {
   "name": "feature-engine",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Feature engineering and selection package with Scikit-learn's fit transform functionality",
   "author": null,
   "license": "BSD 3 clause",
   "home_page": null,
-  "download_filename": "feature_engine-1.9.0.tar.gz",
-  "download_time": "2025-08-28T05:20:09.750227",
+  "download_filename": "feature_engine-1.9.1.tar.gz",
+  "download_time": "2025-08-28T17:18:00.303240",
   "package_url": "https://pypi.org/project/feature-engine/"
 }

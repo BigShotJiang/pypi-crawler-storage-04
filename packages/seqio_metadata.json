@@ -1,0 +1,11 @@
+{
+  "name": "seqio",
+  "version": "0.0.20",
+  "summary": "SeqIO: Task-based datasets, preprocessing, and evaluation for sequence models.",
+  "author": "Google Inc.",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/google/seqio",
+  "download_filename": "seqio-0.0.20-py2.py3-none-any.whl",
+  "download_time": "2025-08-28T17:18:23.473417",
+  "package_url": "https://pypi.org/project/seqio/"
+}

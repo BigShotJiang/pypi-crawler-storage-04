@@ -1,0 +1,11 @@
+{
+  "name": "cycode",
+  "version": "3.4.0",
+  "summary": "Boost security in your dev lifecycle via SAST, SCA, Secrets & IaC scanning.",
+  "author": "Cycode",
+  "license": "MIT",
+  "home_page": "https://github.com/cycodehq/cycode-cli",
+  "download_filename": "cycode-3.4.0.tar.gz",
+  "download_time": "2025-08-28T17:18:46.676700",
+  "package_url": "https://pypi.org/project/cycode/"
+}

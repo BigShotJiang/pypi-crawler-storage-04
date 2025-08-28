@@ -1,0 +1,11 @@
+{
+  "name": "brevitas",
+  "version": "0.12.1",
+  "summary": "Quantization-aware training in PyTorch",
+  "author": "AMD Research and Advanced Development",
+  "license": null,
+  "home_page": "https://github.com/Xilinx/brevitas",
+  "download_filename": "brevitas-0.12.1.tar.gz",
+  "download_time": "2025-08-28T17:18:12.851046",
+  "package_url": "https://pypi.org/project/brevitas/"
+}

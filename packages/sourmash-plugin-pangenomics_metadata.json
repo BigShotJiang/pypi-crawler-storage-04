@@ -1,0 +1,11 @@
+{
+  "name": "sourmash-plugin-pangenomics",
+  "version": "0.3.2",
+  "summary": "sourmash plugin to do pangenomics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sourmash_plugin_pangenomics-0.3.2.tar.gz",
+  "download_time": "2025-08-28T17:18:01.463488",
+  "package_url": "https://pypi.org/project/sourmash-plugin-pangenomics/"
+}

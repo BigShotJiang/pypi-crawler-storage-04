@@ -1,0 +1,11 @@
+{
+  "name": "dronecot",
+  "version": "1.1.0",
+  "summary": "Display Drones in Team Awareness Kit (TAK).",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/snstac/dronecot",
+  "download_filename": "dronecot-1.1.0.tar.gz",
+  "download_time": "2025-08-28T17:18:16.991389",
+  "package_url": "https://pypi.org/project/dronecot/"
+}
