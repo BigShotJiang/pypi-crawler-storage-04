@@ -1,68 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T10:44:26.276154
-- **Total Packages**: 89
-- **Total Size**: 58.96 MB
+- **Download Time**: 2025-08-28T10:55:47.177519
+- **Total Packages**: 84
+- **Total Size**: 6.9 MB
 
 ## Packages List
-- passagemath-gap-pkg-semigroups
-- passagemath-sws2rst
-- passagemath-standard
-- passagemath-setup
-- passagemath-gap
-- passagemath-repl
-- passagemath-frobby
-- ncatbot
-- passagemath-pari-seadata-small
-- passagemath-fricas
-- passagemath-flint
-- passagemath-pari-seadata-big
-- passagemath-eclib
-- passagemath-pari-nftables
-- passagemath-ecl
-- passagemath-pari-nflistdata
-- passagemath-docbuild
-- passagemath-doc-pdf
-- passagemath-pari-galdata
-- passagemath-doc-html
-- smlmlp
-- OASYS1-shadow4
-- passagemath-database-polytopes-4d
-- codegraphcontext
-- passagemath-gap-pkg-tomlib-data
-- passagemath-gap-pkg-smallgrp-data
-- passagemath-gap-pkg-primgrp-data
-- passagemath-gap-pkg-irredsol-data
-- passagemath-database-cremona-ellcurve
-- passagemath-gap-pkg-factint-data
-- passagemath-coxeter3
-- passagemath-gap-pkg-ctbllib-data
-- passagemath-conf
-- django-clickify
-- passagemath-environment
-- passagemath-database-symbolic-data
-- passagemath-database-odlyzko-zeta
-- super-secret-malicious-dependencie
-- passagemath-database-mutation-class
-- passagemath-database-jones-numfield
-- passagemath-buckygen
-- passagemath-database-cunningham
-- passagemath-brial
-- passagemath-bliss
-- passagemath-benzene
-- letta-nightly
-- data-retrieval-monitor
-- pydorm
-- shoji
-- aiauto-client
-- panda3d-interrogate
-- ai_app
-- ut-eviq
-- mesh-sandbox
 - syft-rds
 - wyrestorm-networkhd
 - AssetsStore
+- super-secret-malicious-dependencie
 - pynguin
 - ease-tts
 - qrpa
@@ -84,6 +31,7 @@
 - omdnotificationforwarder
 - hypothesis
 - kodit
+- smlmlp
 - dihlibs
 - mfd-testing
 - raihan0824-prometheus-mcp-server
@@ -95,3 +43,50 @@
 - usf-agents
 - comet-ml
 - aiogram-sqlalchemy-storage
+- data-go-mcp.nts-business-verification
+- onetick.query-webapi
+- yz-rpa-utils
+- atex
+- elastic-opentelemetry
+- aa-ledger
+- sagemaker-core
+- worldnex
+- bce-python-sdk
+- pytest-api-framework-alpha
+- daphantom
+- intentkit
+- scc-firewall-manager-sdk
+- sefaria-sdk
+- scrutipy
+- rnet
+- odoo14-addon-assets-management
+- lingam
+- miniflood
+- ecotransformers
+- ultralytics
+- trophy
+- freeai-utils
+- datamarket
+- konokenj.cdk-api-mcp-server
+- evaluation-service-base
+- gdstk
+- logger-36
+- shancx
+- echo-sdk
+- ediri-stackit
+- synapse-sdk
+- dataplaybook
+- pyplantsim
+- pysaten
+- ai-edge-torch-nightly
+- geepillow
+- oslo.config
+- luigi-tools
+- momapy
+- kinglet
+- deeplotx
+- gst-signalling
+- arthur-client
+- modelaudit
+- acolytes
+- abarorm

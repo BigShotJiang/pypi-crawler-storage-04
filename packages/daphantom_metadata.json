@@ -1,0 +1,11 @@
+{
+  "name": "daphantom",
+  "version": "0.0.3",
+  "summary": "Ghost Crawler Data Terminator - a stealthy web crawler framework by Xiaomu (小木).",
+  "author": "Xiaomu",
+  "license": "MIT",
+  "home_page": "https://www.jiangongfang.top",
+  "download_filename": "daphantom-0.0.3-py3-none-any.whl",
+  "download_time": "2025-08-28T10:55:26.856209",
+  "package_url": "https://pypi.org/project/daphantom/"
+}
