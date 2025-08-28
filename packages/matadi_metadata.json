@@ -1,0 +1,11 @@
+{
+  "name": "matadi",
+  "version": "0.4.0",
+  "summary": "Material Definition with Automatic Differentiation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matadi-0.4.0.tar.gz",
+  "download_time": "2025-08-28T19:39:05.025114",
+  "package_url": "https://pypi.org/project/matadi/"
+}

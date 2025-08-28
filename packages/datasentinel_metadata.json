@@ -1,0 +1,11 @@
+{
+  "name": "datasentinel",
+  "version": "0.1.2",
+  "summary": "Data Sentinel is a powerful tool to monitor data pipelines and ensure data quality.",
+  "author": "Sumz SAS",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": null,
+  "download_filename": "datasentinel-0.1.2-py3-none-any.whl",
+  "download_time": "2025-08-28T19:38:51.805902",
+  "package_url": "https://pypi.org/project/datasentinel/"
+}
