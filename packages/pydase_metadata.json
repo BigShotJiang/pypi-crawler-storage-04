@@ -1,0 +1,11 @@
+{
+  "name": "pydase",
+  "version": "0.10.21",
+  "summary": "A flexible and robust Python library for creating, managing, and interacting with data services, with built-in support for web and RPC servers, and customizable features for diverse use cases.",
+  "author": "Mose Müller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydase-0.10.21.tar.gz",
+  "download_time": "2025-08-28T11:38:46.270440",
+  "package_url": "https://pypi.org/project/pydase/"
+}

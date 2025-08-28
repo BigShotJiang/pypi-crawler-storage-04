@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-games-scraper",
+  "version": "0.2.0",
+  "summary": "A package to solve LinkedIn games by extracting solutions",
+  "author": "LinkedIn Games Scraper",
+  "license": null,
+  "home_page": "https://github.com/sebtheo/linkedin-games-scraper",
+  "download_filename": "linkedin_games_scraper-0.2.0.tar.gz",
+  "download_time": "2025-08-28T11:39:02.020761",
+  "package_url": "https://pypi.org/project/linkedin-games-scraper/"
+}

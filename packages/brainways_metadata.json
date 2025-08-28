@@ -1,0 +1,11 @@
+{
+  "name": "brainways",
+  "version": "0.1.16.3",
+  "summary": "Brainways",
+  "author": "Ben Kantor",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/bkntr/brainways",
+  "download_filename": "brainways-0.1.16.3.tar.gz",
+  "download_time": "2025-08-28T11:38:51.037261",
+  "package_url": "https://pypi.org/project/brainways/"
+}

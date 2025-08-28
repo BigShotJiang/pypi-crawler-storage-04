@@ -1,0 +1,11 @@
+{
+  "name": "snappi-ixnetwork",
+  "version": "1.34.0",
+  "summary": "The Snappi IxNetwork Open Traffic Generator Python Package",
+  "author": "Keysight Technologies",
+  "license": "MIT",
+  "home_page": "https://github.com/open-traffic-generator/snappi-ixnetwork",
+  "download_filename": "snappi_ixnetwork-1.34.0.tar.gz",
+  "download_time": "2025-08-28T11:38:58.876779",
+  "package_url": "https://pypi.org/project/snappi-ixnetwork/"
+}
