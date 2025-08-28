@@ -1,15 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T04:44:15.072156
+- **Download Time**: 2025-08-28T04:55:09.537613
 - **Total Packages**: 86
-- **Total Size**: 14.34 MB
+- **Total Size**: 2.49 MB
 
 ## Packages List
+- scrapery
+- bigtrack
+- hammett-washington-sdk
+- hyperquant
+- stream-pose-ml
+- rotab
+- zenx
+- iamdata
+- maleo-soma-enums
+- automated-neural-adapter-ANA
+- apipeline
+- dbpoint
+- pyelastica
+- pi-tokenize
+- enrichm
 - odoo-addon-shopfloor-reception
 - py-adtools
 - destiny_sdk
-- automated-neural-adapter-ANA
 - odoo-addon-website-search-header
 - pybooster
 - netan
@@ -18,7 +32,6 @@
 - pancham
 - agentcrew-ai
 - meshcore-cli
-- hammett-washington-sdk
 - pkbrokers
 - sqlframe
 - ocpi-pydantic
@@ -79,16 +92,3 @@
 - molgraph
 - pydoll-python
 - odoo-addon-product-customerinfo-elaboration
-- odoo-addon-sale-order-amount-to-invoice
-- tirex-mirror
-- maleo-toolkit-text
-- odoo14-addon-sale-order-amount-to-invoice
-- shirotsubaki
-- ambivo-agents
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- zmanim-core-bindings
-- PyQrackIsing
-- chromedriver-binary

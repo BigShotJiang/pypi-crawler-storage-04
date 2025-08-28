@@ -1,0 +1,11 @@
+{
+  "name": "enrichm",
+  "version": "0.6.6",
+  "summary": "enrichm is a toolbox for comparing the functional composition of population genomes",
+  "author": "Joel Boyd, Ben Woodcroft, Alexander Baker",
+  "license": "GPL3+",
+  "home_page": "https://github.com/geronimp/enrichM",
+  "download_filename": "enrichm-0.6.6.tar.gz",
+  "download_time": "2025-08-28T04:54:30.505134",
+  "package_url": "https://pypi.org/project/enrichm/"
+}

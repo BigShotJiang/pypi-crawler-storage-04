@@ -1,0 +1,11 @@
+{
+  "name": "apipeline",
+  "version": "0.2.4",
+  "summary": "Python pipeline with asyncio support",
+  "author": "weedge",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/weedge/pipeline-py",
+  "download_filename": "apipeline-0.2.4.tar.gz",
+  "download_time": "2025-08-28T04:54:28.189929",
+  "package_url": "https://pypi.org/project/apipeline/"
+}
