@@ -1,0 +1,11 @@
+{
+  "name": "cybotrade",
+  "version": "2.0.5",
+  "summary": "Primitives and utilities for automated trading strategies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cybotrade-2.0.5-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-08-28T14:45:02.348309",
+  "package_url": "https://pypi.org/project/cybotrade/"
+}

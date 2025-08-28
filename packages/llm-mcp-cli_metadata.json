@@ -1,0 +1,11 @@
+{
+  "name": "llm-mcp-cli",
+  "version": "1.0.5",
+  "summary": "LLM plugin for Model Context Protocol (MCP) integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_mcp_cli-1.0.5.tar.gz",
+  "download_time": "2025-08-28T14:44:33.328238",
+  "package_url": "https://pypi.org/project/llm-mcp-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jellyfin-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Possible Official Python SDK for Jellyfin.",
   "author": "Webysther Sperandio",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "jellyfin_sdk-0.1.1.tar.gz",
-  "download_time": "2025-08-28T12:42:11.112600",
+  "download_filename": "jellyfin_sdk-0.1.2.tar.gz",
+  "download_time": "2025-08-28T14:44:37.318909",
   "package_url": "https://pypi.org/project/jellyfin-sdk/"
 }

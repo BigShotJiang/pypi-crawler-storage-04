@@ -1,0 +1,11 @@
+{
+  "name": "fullscreen-alert",
+  "version": "0.1.1",
+  "summary": "A simple fullscreen alert window module",
+  "author": "pengmin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fullscreen_alert-0.1.1.tar.gz",
+  "download_time": "2025-08-28T14:44:15.527257",
+  "package_url": "https://pypi.org/project/fullscreen-alert/"
+}
