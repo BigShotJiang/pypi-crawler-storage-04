@@ -1,0 +1,11 @@
+{
+  "name": "copilot-auth",
+  "version": "0.1.1",
+  "summary": "Copilot authentication library to get GitHub and Copilot tokens",
+  "author": "Bhanuchander Udhayakumar",
+  "license": "MIT",
+  "home_page": "https://github.com/bhachauk/copilot-auth.git",
+  "download_filename": "copilot_auth-0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-28T07:22:13.439648",
+  "package_url": "https://pypi.org/project/copilot-auth/"
+}

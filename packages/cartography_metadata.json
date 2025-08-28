@@ -1,0 +1,11 @@
+{
+  "name": "cartography",
+  "version": "0.111.0",
+  "summary": "Explore assets and their relationships across your technical infrastructure.",
+  "author": null,
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "cartography-0.111.0.tar.gz",
+  "download_time": "2025-08-28T07:22:18.157256",
+  "package_url": "https://pypi.org/project/cartography/"
+}

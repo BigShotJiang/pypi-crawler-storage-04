@@ -1,0 +1,11 @@
+{
+  "name": "vtscan",
+  "version": "1.0.20",
+  "summary": "Utility to scan for malicious files using the VirusTotal API",
+  "author": "Prahlad Yeri",
+  "license": "MIT",
+  "home_page": "https://github.com/prahladyeri/vtscan",
+  "download_filename": "vtscan-1.0.20.tar.gz",
+  "download_time": "2025-08-28T07:22:02.846395",
+  "package_url": "https://pypi.org/project/vtscan/"
+}

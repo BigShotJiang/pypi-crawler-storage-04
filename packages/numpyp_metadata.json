@@ -1,11 +1,11 @@
 {
   "name": "numpyp",
-  "version": "0.2.27",
+  "version": "0.2.29",
   "summary": "This is the simplest module for quick work with files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "numpyp-0.2.27.tar.gz",
-  "download_time": "2025-08-28T06:55:59.535714",
+  "download_filename": "numpyp-0.2.29.tar.gz",
+  "download_time": "2025-08-28T07:22:10.020002",
   "package_url": "https://pypi.org/project/numpyp/"
 }

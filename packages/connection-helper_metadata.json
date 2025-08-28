@@ -1,0 +1,11 @@
+{
+  "name": "connection-helper",
+  "version": "0.13.0",
+  "summary": "A collection of helper for sql connections",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "connection_helper-0.13.0.tar.gz",
+  "download_time": "2025-08-28T07:22:21.629784",
+  "package_url": "https://pypi.org/project/connection-helper/"
+}
