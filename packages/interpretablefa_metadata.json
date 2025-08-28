@@ -1,0 +1,11 @@
+{
+  "name": "interpretablefa",
+  "version": "4.0.3",
+  "summary": "A package for interpretable factor analysis",
+  "author": "Justin Philip Tuazon, Gia Mizrane Abubo",
+  "license": "GNU General Public License 3.0",
+  "home_page": null,
+  "download_filename": "interpretablefa-4.0.3.tar.gz",
+  "download_time": "2025-08-28T19:52:02.515310",
+  "package_url": "https://pypi.org/project/interpretablefa/"
+}

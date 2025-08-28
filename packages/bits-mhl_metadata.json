@@ -1,0 +1,11 @@
+{
+  "name": "bits-mhl",
+  "version": "1.21.6",
+  "summary": "BITS MHL",
+  "author": "DevNull",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/broadinstitute/bits-mhl.git",
+  "download_filename": "bits_mhl-1.21.6.tar.gz",
+  "download_time": "2025-08-28T19:52:19.742347",
+  "package_url": "https://pypi.org/project/bits-mhl/"
+}

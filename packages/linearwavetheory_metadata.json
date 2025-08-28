@@ -1,0 +1,11 @@
+{
+  "name": "linearwavetheory",
+  "version": "0.0.23",
+  "summary": "Python package that implements linear wave theory for ocean surface gravity waves",
+  "author": "Pieter Bart Smit",
+  "license": "Apache 2 License",
+  "home_page": "https://github.com/sofarocean/linearwavetheory.git",
+  "download_filename": "linearwavetheory-0.0.23.tar.gz",
+  "download_time": "2025-08-28T19:52:18.167055",
+  "package_url": "https://pypi.org/project/linearwavetheory/"
+}

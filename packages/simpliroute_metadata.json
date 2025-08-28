@@ -1,0 +1,11 @@
+{
+  "name": "simpliroute",
+  "version": "1.0.4.1",
+  "summary": "Package to abstract simpliroute Rest api.",
+  "author": "Matias Rivera",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpliroute-1.0.4.1.tar.gz",
+  "download_time": "2025-08-28T19:52:05.889667",
+  "package_url": "https://pypi.org/project/simpliroute/"
+}
