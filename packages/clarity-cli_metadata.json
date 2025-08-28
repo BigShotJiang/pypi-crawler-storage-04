@@ -1,0 +1,11 @@
+{
+  "name": "clarity-cli",
+  "version": "1.0.8",
+  "summary": "Interactive CLI for test management and execution",
+  "author": "Clarity Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clarity_cli-1.0.8.tar.gz",
+  "download_time": "2025-08-28T11:17:33.254073",
+  "package_url": "https://pypi.org/project/clarity-cli/"
+}

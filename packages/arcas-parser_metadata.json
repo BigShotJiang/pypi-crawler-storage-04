@@ -1,0 +1,11 @@
+{
+  "name": "arcas-parser",
+  "version": "0.1.1",
+  "summary": "Analyzer project for Verilog/OpenCores",
+  "author": "Sudheer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcas_parser-0.1.1.tar.gz",
+  "download_time": "2025-08-28T11:17:10.207641",
+  "package_url": "https://pypi.org/project/arcas-parser/"
+}

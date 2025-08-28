@@ -1,0 +1,11 @@
+{
+  "name": "apache-fory",
+  "version": "0.1.1",
+  "summary": "A Python package for fury",
+  "author": "chaokunyang",
+  "license": null,
+  "home_page": "https://github.com/chaokunyang/fury",
+  "download_filename": "apache_fory-0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-28T11:17:26.238869",
+  "package_url": "https://pypi.org/project/apache-fory/"
+}

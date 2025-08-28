@@ -1,0 +1,11 @@
+{
+  "name": "petcmd",
+  "version": "1.0.5",
+  "summary": "Library for creating a command line tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "petcmd-1.0.5.tar.gz",
+  "download_time": "2025-08-28T11:17:12.104164",
+  "package_url": "https://pypi.org/project/petcmd/"
+}

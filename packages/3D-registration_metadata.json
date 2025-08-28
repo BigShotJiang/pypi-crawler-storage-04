@@ -1,0 +1,11 @@
+{
+  "name": "3D-registration",
+  "version": "0.5.4",
+  "summary": "Some scripts to register images in space and time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "3d_registration-0.5.4.tar.gz",
+  "download_time": "2025-08-28T11:17:52.962174",
+  "package_url": "https://pypi.org/project/3D-registration/"
+}

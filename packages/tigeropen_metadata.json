@@ -1,0 +1,11 @@
+{
+  "name": "tigeropen",
+  "version": "3.4.6",
+  "summary": "TigerBrokers Open API",
+  "author": "TigerBrokers",
+  "license": "Apache License v2",
+  "home_page": "https://github.com/tigerbrokers/openapi-python-sdk",
+  "download_filename": "tigeropen-3.4.6.tar.gz",
+  "download_time": "2025-08-28T11:17:13.720157",
+  "package_url": "https://pypi.org/project/tigeropen/"
+}

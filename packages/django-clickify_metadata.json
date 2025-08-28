@@ -1,11 +1,11 @@
 {
   "name": "django-clickify",
-  "version": "0.1.0",
-  "summary": "A Django app to track file downloads with rate limiting, IP filtering, and geolocation.",
+  "version": "0.1.1",
+  "summary": "A Django app to track link clicks with rate limiting, IP filtering, and geolocation.",
   "author": "Romjan Ali",
   "license": "MIT",
   "home_page": "https://github.com/romjanxr/django-clickify",
-  "download_filename": "django_clickify-0.1.0-py3-none-any.whl",
-  "download_time": "2025-08-28T10:43:55.223282",
+  "download_filename": "django_clickify-0.1.1.tar.gz",
+  "download_time": "2025-08-28T11:17:47.999748",
   "package_url": "https://pypi.org/project/django-clickify/"
 }
