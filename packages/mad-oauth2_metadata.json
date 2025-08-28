@@ -1,0 +1,11 @@
+{
+  "name": "mad-oauth2",
+  "version": "4.0.0",
+  "summary": "A Django app extension of django-oauth-toolkit that implements scope based applications.",
+  "author": "Haseeb Ur Rehman",
+  "license": "Other/Proprietary License",
+  "home_page": "https://www.madithouse.com/",
+  "download_filename": "mad_oauth2-4.0.0.tar.gz",
+  "download_time": "2025-08-28T15:53:24.062616",
+  "package_url": "https://pypi.org/project/mad-oauth2/"
+}

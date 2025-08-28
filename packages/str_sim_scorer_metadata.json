@@ -1,11 +1,11 @@
 {
   "name": "str_sim_scorer",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": null,
   "author": "Devin McCabe",
   "license": null,
   "home_page": null,
-  "download_filename": "str_sim_scorer-3.0.1.tar.gz",
-  "download_time": "2025-08-28T15:42:07.539818",
+  "download_filename": "str_sim_scorer-3.0.2.tar.gz",
+  "download_time": "2025-08-28T15:53:12.119194",
   "package_url": "https://pypi.org/project/str_sim_scorer/"
 }

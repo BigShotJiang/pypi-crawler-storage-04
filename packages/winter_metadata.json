@@ -1,11 +1,11 @@
 {
   "name": "winter",
-  "version": "31.0.1",
+  "version": "31.0.2",
   "summary": "Web Framework with focus on python typing, dataclasses and modular design",
   "author": "Alexander Egorov",
   "license": null,
   "home_page": "https://github.com/WinterFramework/winter",
-  "download_filename": "winter-31.0.1.tar.gz",
-  "download_time": "2025-08-28T14:44:44.284600",
+  "download_filename": "winter-31.0.2.tar.gz",
+  "download_time": "2025-08-28T15:53:14.224270",
   "package_url": "https://pypi.org/project/winter/"
 }

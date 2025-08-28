@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T15:42:30.325394
-- **Total Packages**: 82
-- **Total Size**: 53.17 MB
+- **Download Time**: 2025-08-28T15:53:58.058038
+- **Total Packages**: 89
+- **Total Size**: 19.7 MB
 
 ## Packages List
+- pybass-emu
+- driverlessai
+- codemie-mcp-datasources
+- str_sim_scorer
+- decrypt-cookies
+- Flask-Exts
+- codemie-mcp-assistants
+- winter
+- aipmodel
+- neurograd
+- devsecops-engine-tools
+- grimoirelab
+- smartsheet-python-sdk
+- ltc-client
+- payload-generator
+- safir-logging
+- safir-arq
+- safir
+- onesecondtrader
+- blazemetrics
+- cyberdesk
+- wizardspell
+- get-some-ncbi-genomes
+- mad-oauth2
+- python3-cyberfusion-file-support
+- upgini
+- Kurigramfork
+- cliify
+- retab
+- pytidb
+- dbmini
+- tsmd
+- jellyfin-sdk
+- sirmordred
+- smartcut
+- vicpyx
+- coordinated-workers
+- ccs-digitalmarketplace-frontend-jinja
+- lecrapaud
+- plotmath
+- langchain-google-bigtable
+- pdal-ign-macro
+- hbrowser
+- capellambse-context-diagrams
+- tsugu
+- galileo-core
+- ap-mail
+- codemie-sdk-python
 - ICAR-pydantic
 - make-api-request
 - pycarlo
@@ -19,7 +67,6 @@
 - email-template-review-mcp
 - ecotransformers
 - vibe-llama
-- dbmini
 - gotenberg-client
 - processflow
 - qalita_core
@@ -36,10 +83,8 @@
 - cc-sessions
 - monocular-path-prediction
 - sourcemeta-jsonschema
-- plotmath
 - ml-trainer-sdk
 - iran-encoding
-- payload-generator
 - sentry-opensearch-nodestore
 - grimoire-elk
 - ahserver
@@ -50,41 +95,3 @@
 - perceval-interop
 - craft-application
 - fluent-checks
-- paperank
-- str_sim_scorer
-- pmini_sdk
-- cl-sii
-- libra-toolbox
-- caerus
-- dshellInterpreter
-- va
-- rekuest-next
-- aissemble-open-inference-protocol-shared
-- aissemble-open-inference-protocol-grpc
-- graph-games-proto
-- torchrl-nightly
-- aissemble-open-inference-protocol-fastapi
-- ai-infra-bench
-- libuuu
-- instagram-cli
-- inngest
-- neurograd
-- alita-sdk
-- lecrapaud
-- gravixlayer
-- PyQrackIsing
-- ht-fix
-- gllm-agents-binary
-- Bjob
-- get-some-ncbi-genomes
-- unique_toolkit
-- django-ant-autoapi
-- openfl-nightly
-- udl-sdk
-- codemie-mcp-datasources
-- lumberjack-sdk
-- canary-wm
-- codemie-mcp-assistants
-- gov-uk-dashboards
-- pymodaq_utils
-- kamae

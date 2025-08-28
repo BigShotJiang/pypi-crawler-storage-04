@@ -1,0 +1,11 @@
+{
+  "name": "tsmd",
+  "version": "0.1.4",
+  "summary": "The TSMD project brings together Motif Discovery methods for Time Series, aiming to compare their performance through well-defined research questions and to simplify their practical use. It provides both guidelines for selecting the most suitable methods based on the data, and accessible implementations of the most relevant approaches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsmd-0.1.4.tar.gz",
+  "download_time": "2025-08-28T15:53:28.235817",
+  "package_url": "https://pypi.org/project/tsmd/"
+}
