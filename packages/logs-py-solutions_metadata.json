@@ -1,0 +1,11 @@
+{
+  "name": "logs-py-solutions",
+  "version": "0.2.2",
+  "summary": "Prebuild solution library for the logs-py package",
+  "author": "Bruker BioSpin GmbH & Co KG",
+  "license": "MIT",
+  "home_page": "https://solutions.logs-python.com",
+  "download_filename": "logs_py_solutions-0.2.2.tar.gz",
+  "download_time": "2025-08-28T09:42:09.864490",
+  "package_url": "https://pypi.org/project/logs-py-solutions/"
+}

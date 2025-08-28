@@ -1,0 +1,11 @@
+{
+  "name": "k3down2",
+  "version": "0.1.19",
+  "summary": "convert markdown segment into easy to transfer media sucha images.",
+  "author": "Zhang Yanpo",
+  "license": "MIT",
+  "home_page": "https://github.com/pykit3/k3down2",
+  "download_filename": "k3down2-0.1.19.tar.gz",
+  "download_time": "2025-08-28T09:41:47.933835",
+  "package_url": "https://pypi.org/project/k3down2/"
+}

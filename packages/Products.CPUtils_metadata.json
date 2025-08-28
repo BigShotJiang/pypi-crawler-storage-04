@@ -1,0 +1,11 @@
+{
+  "name": "Products.CPUtils",
+  "version": "1.26",
+  "summary": "Some plone utilities as external methods, monkey patches, etc.",
+  "author": "Stephan Geulette",
+  "license": "GPL",
+  "home_page": "http://pypi.python.org/pypi/Products.CPUtils",
+  "download_filename": "Products.CPUtils-1.26.tar.gz",
+  "download_time": "2025-08-28T09:41:49.478057",
+  "package_url": "https://pypi.org/project/Products.CPUtils/"
+}

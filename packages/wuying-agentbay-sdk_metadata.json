@@ -1,0 +1,11 @@
+{
+  "name": "wuying-agentbay-sdk",
+  "version": "0.6.2",
+  "summary": "Python SDK for AgentBay service",
+  "author": "Alibaba Cloud",
+  "license": null,
+  "home_page": "https://github.com/aliyun/wuying-agentbay-sdk",
+  "download_filename": "wuying_agentbay_sdk-0.6.2.tar.gz",
+  "download_time": "2025-08-28T09:41:22.902674",
+  "package_url": "https://pypi.org/project/wuying-agentbay-sdk/"
+}

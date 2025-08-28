@@ -1,0 +1,11 @@
+{
+  "name": "smfc",
+  "version": "4.1.0",
+  "summary": "Super Micro Fan Control for Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smfc-4.1.0.tar.gz",
+  "download_time": "2025-08-28T09:41:55.757258",
+  "package_url": "https://pypi.org/project/smfc/"
+}

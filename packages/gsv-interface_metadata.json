@@ -1,0 +1,11 @@
+{
+  "name": "gsv-interface",
+  "version": "2.13.1",
+  "summary": "Generic State Vector Interface for Destination Earth data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsv_interface-2.13.1.tar.gz",
+  "download_time": "2025-08-28T09:41:35.425715",
+  "package_url": "https://pypi.org/project/gsv-interface/"
+}

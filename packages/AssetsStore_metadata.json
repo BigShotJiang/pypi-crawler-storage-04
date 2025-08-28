@@ -1,0 +1,11 @@
+{
+  "name": "AssetsStore",
+  "version": "1.8.3",
+  "summary": "Python package for managing file upload/download via selected file system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "assetsstore-1.8.3.tar.gz",
+  "download_time": "2025-08-28T09:41:29.132593",
+  "package_url": "https://pypi.org/project/AssetsStore/"
+}
