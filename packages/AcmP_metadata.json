@@ -1,0 +1,11 @@
+{
+  "name": "AcmP",
+  "version": "0.1.6",
+  "summary": "For developers of Advantech PCIE-12xx series access to the AdvMot API.",
+  "author": "Advantech/MA",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Michelle-Tsai/ma-advmot2",
+  "download_filename": "acmp-0.1.6.tar.gz",
+  "download_time": "2025-08-28T05:41:41.373000",
+  "package_url": "https://pypi.org/project/AcmP/"
+}

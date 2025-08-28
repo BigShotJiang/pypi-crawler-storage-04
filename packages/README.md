@@ -1,14 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T05:20:36.564128
-- **Total Packages**: 74
-- **Total Size**: 20.14 MB
+- **Download Time**: 2025-08-28T05:42:09.569759
+- **Total Packages**: 69
+- **Total Size**: 18.67 MB
 
 ## Packages List
+- pm-rank
+- ai-infra
+- aient
+- cognix
+- maleo-soma-enums
+- furiosa-llm
+- pulumi-aws-apigateway
+- pulumi-azuredevops
+- pulumi-cloudinit
+- pulumi-alicloud
+- bce-python-sdk-next
+- technical-analysis-mcp
+- pulumi-azuread
+- must-cdk
+- fine-python-ast
+- easy-vic-build
 - CVNN-Jamie
-- pulumi-archive
+- bazel-runfiles
+- finecode-extension-api
+- AcmP
+- mtcli
+- PyPAC
+- dbcfg
+- xrfm
+- prettier-markdown
+- wujihandpy
+- gllm-pipeline-binary
+- coq-tools
+- gllm-inference-binary
+- pulumi-artifactory
 - minecraft-datapack-language
+- pulumi-auth0
+- VectorCode
+- digiflow
+- pulumi-archive
 - pulumi
 - jfExt
 - pulumi-aiven
@@ -21,7 +53,6 @@
 - PyGIP
 - mtcli-pa
 - hammett-washington-sdk
-- maleo-soma-enums
 - dynamic-learning-model
 - chunklet
 - pytest-homeassistant-custom-component
@@ -44,39 +75,3 @@
 - bigtrack
 - hyperquant
 - stream-pose-ml
-- rotab
-- zenx
-- iamdata
-- automated-neural-adapter-ANA
-- apipeline
-- dbpoint
-- pyelastica
-- pi-tokenize
-- enrichm
-- odoo-addon-shopfloor-reception
-- py-adtools
-- destiny_sdk
-- odoo-addon-website-search-header
-- pybooster
-- netan
-- odoo-addon-web-systray-button-init-action
-- crds
-- agentcrew-ai
-- sqlframe
-- ocpi-pydantic
-- meshcore
-- xqute
-- ruru
-- MalwareClassifier
-- netbox-cable-labels
-- odoo-addon-stock-picking-line-sequence
-- odoo-addons-oca-stock-logistics-workflow
-- odoo-addon-stock-picking-batch-creation-split-kit
-- odoo-addon-stock-picking-batch-creation
-- odoo-addon-stock-split-picking-kit
-- sql-splitter
-- gllm-core-binary
-- gllm-inference-binary
-- bbot
-- increase
-- mapillary-tools
