@@ -1,13 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T21:53:24.448329
-- **Total Packages**: 91
-- **Total Size**: 15.73 MB
+- **Download Time**: 2025-08-28T22:20:17.369936
+- **Total Packages**: 85
+- **Total Size**: 39.34 MB
 
 ## Packages List
-- powerdns-cli
+- landuse-intensity-analysis
+- pymvr
+- xara
+- pyrauli
+- sdk-pytest-checkmate
+- fintself
+- abstract-ide
+- regula-documentreader-webclient
+- cdk-s3-vectors
+- experiment-runner
+- mcpsquared-base
+- experiment-generator
+- otsec
+- chattr
+- devboiler
+- bbot
+- NieMarkov
+- opteryx
+- aorta-sirius-dev
+- latinum-wallet-mcp
+- pyecholog
+- pbs-installer
+- streaq
+- qnty
+- appian-locust
+- sqlmesh
+- launchdarkly-observability
+- habluetooth
+- snitun
+- datasurface
+- aislib
+- thefuck-ai-rule
+- cipdb
+- zyra
+- cua-agent
+- nvfuser-cu126-torch28
+- langchain-callback-parquet-logger
+- embeddingframework
+- recreate-sdk
+- nvfuser-cu128-torch28
+- termtypr
+- uv
+- uv-build
+- nvfuser-cu129-torch28
+- keepercommander
+- GPmix
 - kolox
+- pypomes-sob
+- bciflow
+- powerdns-cli
 - pftools
 - uurest
 - colorby
@@ -20,7 +68,6 @@
 - beadclust
 - morpheus-neo4j
 - tonutils
-- pypomes-sob
 - payloop
 - thds.atacama
 - thds.mops
@@ -32,7 +79,6 @@
 - binchicken
 - catocli
 - MultiPyVu
-- embeddingframework
 - fastj2
 - async-kernel
 - aryadocr
@@ -45,55 +91,3 @@
 - openinference-instrumentation-langchain
 - zenable-mcp
 - openinference-instrumentation-openlit
-- gfw-common
-- azure-communication-phonenumbers
-- langchain-callback-parquet-logger
-- kognitos-bdk-api
-- ddi-fw
-- mtcli-book
-- pyhgvs2
-- mrx-runway
-- logic-lm-mcp-server
-- dcorelib
-- adif-mcp
-- rtsvg
-- s8
-- llmfastdev
-- radboy
-- mcpsquared-base
-- napari-3d-counter
-- nuTens
-- struktx-ai
-- totvs-dta-utils
-- cinetica
-- cdklabs.cdk-proserve-lib
-- skfobserver
-- aco-djssp
-- skewsentry
-- datarobot
-- hnet
-- HoloSTT
-- HoloTTS
-- nominal-api-protos
-- nominal-api
-- cdk-s3-vectors
-- docassemble.MATCTheme
-- PyQrackIsing
-- splunk-soar-sdk
-- SSDraw
-- codearkt
-- Habiticalib
-- sentry-infra-tools
-- extract-model
-- fragaria
-- loadbearing-wall
-- faery
-- ubo-app
-- minesweepervariants
-- eegdash
-- DashAI
-- openapi2jsonschema2
-- usearch
-- qumulo-api
-- cybrid-api-bank-python
-- t-nextgen

@@ -1,11 +1,11 @@
 {
   "name": "bciflow",
-  "version": "1.0.0.dev8",
+  "version": "1.0.0.dev9",
   "summary": "A package for BCI-related tasks, including dataset loading, preprocessing, feature extraction, and classification.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bciflow-1.0.0.dev8-py3-none-any.whl",
-  "download_time": "2025-08-28T19:52:07.527588",
+  "download_filename": "bciflow-1.0.0.dev9-py3-none-any.whl",
+  "download_time": "2025-08-28T22:19:55.658700",
   "package_url": "https://pypi.org/project/bciflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nvfuser-cu126-torch28",
+  "version": "0.2.30.dev20250828",
+  "summary": "A Fusion Code Generator for NVIDIA GPUs (commonly known as 'nvFuser')",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NVIDIA/Fuser",
+  "download_filename": "nvfuser_cu126_torch28-0.2.30.dev20250828-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-28T22:19:46.711955",
+  "package_url": "https://pypi.org/project/nvfuser-cu126-torch28/"
+}

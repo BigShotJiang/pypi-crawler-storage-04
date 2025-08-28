@@ -1,0 +1,11 @@
+{
+  "name": "pyecholog",
+  "version": "3.0.4",
+  "summary": "EchoLog: colorful, configurable logging with JSON and rotation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyecholog-3.0.4.tar.gz",
+  "download_time": "2025-08-28T22:19:36.924355",
+  "package_url": "https://pypi.org/project/pyecholog/"
+}
