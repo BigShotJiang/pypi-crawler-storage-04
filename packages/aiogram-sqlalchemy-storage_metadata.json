@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-sqlalchemy-storage",
+  "version": "0.2.0.post0",
+  "summary": "SQLAlchemy-based storage for aiogram FSM",
+  "author": "meshya",
+  "license": null,
+  "home_page": "https://github.com/meshya/aiogram-sqlalchemy-storage",
+  "download_filename": "aiogram_sqlalchemy_storage-0.2.0.post0.tar.gz",
+  "download_time": "2025-08-28T10:44:25.762028",
+  "package_url": "https://pypi.org/project/aiogram-sqlalchemy-storage/"
+}

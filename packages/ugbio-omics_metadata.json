@@ -1,0 +1,11 @@
+{
+  "name": "ugbio-omics",
+  "version": "1.14.0",
+  "summary": "Ultima Genomics bioinfo utils for working with AWS Health-Omics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ugbio_omics-1.14.0.tar.gz",
+  "download_time": "2025-08-28T10:44:13.446762",
+  "package_url": "https://pypi.org/project/ugbio-omics/"
+}

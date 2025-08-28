@@ -1,0 +1,11 @@
+{
+  "name": "echo-app",
+  "version": "1.0.2",
+  "summary": "Echo AI - Multi-agent AI orchestration system with plugin management",
+  "author": "Jonas Kahn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "echo_app-1.0.2.tar.gz",
+  "download_time": "2025-08-28T10:44:24.074675",
+  "package_url": "https://pypi.org/project/echo-app/"
+}

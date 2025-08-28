@@ -1,0 +1,11 @@
+{
+  "name": "shoji",
+  "version": "0.41.2",
+  "summary": "post process *clip reads after alignment. Replacement for htseq-clip",
+  "author": "Sudeep Sahadevan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shoji-0.41.2.tar.gz",
+  "download_time": "2025-08-28T10:44:03.828109",
+  "package_url": "https://pypi.org/project/shoji/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mesh-sandbox",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "summary": "NHSDigital mesh sandbox, a locally testable version of the MESH api",
   "author": "spinecore",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mesh_sandbox-1.0.30-py3-none-any.whl",
-  "download_time": "2025-08-28T09:41:35.946214",
+  "download_filename": "mesh_sandbox-1.0.31-py3-none-any.whl",
+  "download_time": "2025-08-28T10:44:06.526515",
   "package_url": "https://pypi.org/project/mesh-sandbox/"
 }
