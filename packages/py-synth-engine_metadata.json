@@ -1,0 +1,11 @@
+{
+  "name": "py-synth-engine",
+  "version": "0.1.0",
+  "summary": "A Python library for algorithmic music generation and audio DSP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_synth_engine-0.1.0.tar.gz",
+  "download_time": "2025-08-28T23:19:37.480686",
+  "package_url": "https://pypi.org/project/py-synth-engine/"
+}

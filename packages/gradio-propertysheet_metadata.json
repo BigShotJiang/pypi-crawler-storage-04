@@ -1,11 +1,11 @@
 {
   "name": "gradio-propertysheet",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Property sheet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_propertysheet-0.0.11.tar.gz",
-  "download_time": "2025-08-28T22:52:19.844994",
+  "download_filename": "gradio_propertysheet-0.0.12.tar.gz",
+  "download_time": "2025-08-28T23:19:30.792539",
   "package_url": "https://pypi.org/project/gradio-propertysheet/"
 }

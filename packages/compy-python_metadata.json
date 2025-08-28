@@ -1,11 +1,11 @@
 {
   "name": "compy-python",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "contains necessary python code for Compy projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "compy_python-0.0.3.tar.gz",
-  "download_time": "2025-08-28T22:52:19.300608",
+  "download_filename": "compy_python-0.0.4.tar.gz",
+  "download_time": "2025-08-28T23:19:39.242881",
   "package_url": "https://pypi.org/project/compy-python/"
 }
