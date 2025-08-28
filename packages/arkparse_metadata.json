@@ -1,0 +1,11 @@
+{
+  "name": "arkparse",
+  "version": "0.2.4",
+  "summary": "A package to parse and modify ark save files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arkparse-0.2.4.tar.gz",
+  "download_time": "2025-08-28T06:31:14.480113",
+  "package_url": "https://pypi.org/project/arkparse/"
+}
