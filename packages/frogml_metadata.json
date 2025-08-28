@@ -1,11 +1,11 @@
 {
   "name": "frogml",
-  "version": "1.1.71",
+  "version": "1.1.74",
   "summary": "frogml contains the necessary objects and communication tools for using the JFrog ml Platform",
   "author": "JFrog",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "frogml-1.1.71.tar.gz",
-  "download_time": "2025-08-28T08:49:11.606964",
+  "download_filename": "frogml-1.1.74.tar.gz",
+  "download_time": "2025-08-28T16:27:05.430165",
   "package_url": "https://pypi.org/project/frogml/"
 }

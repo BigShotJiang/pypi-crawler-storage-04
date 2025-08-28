@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-twilio",
+  "version": "0.16.0",
+  "summary": "Source implementation for Twilio.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_twilio-0.16.0.tar.gz",
+  "download_time": "2025-08-28T16:27:02.787008",
+  "package_url": "https://pypi.org/project/airbyte-source-twilio/"
+}

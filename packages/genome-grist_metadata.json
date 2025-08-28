@@ -1,0 +1,11 @@
+{
+  "name": "genome-grist",
+  "version": "0.11.7",
+  "summary": "tools to support genome and metagenome analysis",
+  "author": "C. Titus Brown, Luiz Irber, N. Tessa Pierce-Ward, Taylor Reiter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genome_grist-0.11.7.tar.gz",
+  "download_time": "2025-08-28T16:27:11.379483",
+  "package_url": "https://pypi.org/project/genome-grist/"
+}

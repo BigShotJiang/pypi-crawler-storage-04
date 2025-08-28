@@ -1,0 +1,11 @@
+{
+  "name": "oda-integral-wrapper",
+  "version": "1.5.18",
+  "summary": "wrapper for INTEGRAL analysis using the API plugin for Multi-messenger online data analysis",
+  "author": "Carlo Ferrigno",
+  "license": null,
+  "home_page": "https://gitlab.astro.unige.ch/oda/api-clients/oda_api_wrapper",
+  "download_filename": "oda_integral_wrapper-1.5.18.tar.gz",
+  "download_time": "2025-08-28T16:27:06.984142",
+  "package_url": "https://pypi.org/project/oda-integral-wrapper/"
+}

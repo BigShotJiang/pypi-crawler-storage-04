@@ -1,11 +1,11 @@
 {
   "name": "fastauth-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastauth_api-0.0.3.tar.gz",
-  "download_time": "2025-08-28T14:44:32.755627",
+  "download_filename": "fastauth_api-0.0.4.tar.gz",
+  "download_time": "2025-08-28T16:26:51.633831",
   "package_url": "https://pypi.org/project/fastauth-api/"
 }

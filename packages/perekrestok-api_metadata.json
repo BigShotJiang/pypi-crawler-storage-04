@@ -1,0 +1,11 @@
+{
+  "name": "perekrestok-api",
+  "version": "0.1.8",
+  "summary": "A Python API client for Perekrestok catalog",
+  "author": "Miskler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "perekrestok_api-0.1.8.tar.gz",
+  "download_time": "2025-08-28T16:27:25.738090",
+  "package_url": "https://pypi.org/project/perekrestok-api/"
+}
