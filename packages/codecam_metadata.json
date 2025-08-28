@@ -1,11 +1,11 @@
 {
   "name": "codecam",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Select and snapshot project files for sharing with LLMs",
   "author": "Conor Mahany",
   "license": null,
   "home_page": null,
-  "download_filename": "codecam-0.1.2.tar.gz",
-  "download_time": "2025-08-28T16:27:19.440077",
+  "download_filename": "codecam-0.1.3.tar.gz",
+  "download_time": "2025-08-28T17:52:27.916291",
   "package_url": "https://pypi.org/project/codecam/"
 }

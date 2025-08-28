@@ -1,11 +1,11 @@
 {
   "name": "minesweepervariants",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "summary": null,
   "author": "WuZh-Rh",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "minesweepervariants-0.3.2.tar.gz",
-  "download_time": "2025-08-28T11:17:43.159897",
+  "download_filename": "minesweepervariants-1.0.0.tar.gz",
+  "download_time": "2025-08-28T17:51:45.639413",
   "package_url": "https://pypi.org/project/minesweepervariants/"
 }

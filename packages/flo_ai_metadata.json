@@ -1,0 +1,11 @@
+{
+  "name": "flo_ai",
+  "version": "1.0.1",
+  "summary": "A easy way to create structured AI agents",
+  "author": "rootflo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flo_ai-1.0.1.tar.gz",
+  "download_time": "2025-08-28T17:52:20.054593",
+  "package_url": "https://pypi.org/project/flo_ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aduib_rpc",
+  "version": "1.0.0",
+  "summary": "Aduib RPC - A Python library for Aduib AI RPC framework.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aduib_rpc-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-28T17:52:08.822501",
+  "package_url": "https://pypi.org/project/aduib_rpc/"
+}

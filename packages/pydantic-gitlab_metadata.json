@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-gitlab",
+  "version": "0.2.5",
+  "summary": "Pydantic models for parsing and validating GitLab CI/CD YAML configuration files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_gitlab-0.2.5.tar.gz",
+  "download_time": "2025-08-28T17:52:26.779931",
+  "package_url": "https://pypi.org/project/pydantic-gitlab/"
+}

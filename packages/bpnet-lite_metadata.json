@@ -1,0 +1,11 @@
+{
+  "name": "bpnet-lite",
+  "version": "0.9.4",
+  "summary": "bpnet-lite is a minimal implementation of BPNet, a neural network aimed at interpreting regulatory activity of the genome.",
+  "author": "Jacob Schreiber",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/jmschrei/bpnet-lite",
+  "download_filename": "bpnet_lite-0.9.4.tar.gz",
+  "download_time": "2025-08-28T17:52:16.748420",
+  "package_url": "https://pypi.org/project/bpnet-lite/"
+}

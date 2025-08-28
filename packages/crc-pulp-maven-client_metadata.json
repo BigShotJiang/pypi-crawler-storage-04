@@ -1,11 +1,11 @@
 {
   "name": "crc-pulp-maven-client",
-  "version": "20250828.2",
+  "version": "20250828.3",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPLv2+",
   "home_page": null,
-  "download_filename": "crc_pulp_maven_client-20250828.2.tar.gz",
-  "download_time": "2025-08-28T13:46:06.335695",
+  "download_filename": "crc_pulp_maven_client-20250828.3.tar.gz",
+  "download_time": "2025-08-28T17:52:04.365723",
   "package_url": "https://pypi.org/project/crc-pulp-maven-client/"
 }

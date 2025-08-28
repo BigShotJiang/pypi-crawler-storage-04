@@ -1,0 +1,11 @@
+{
+  "name": "qtexture",
+  "version": "0.1.1",
+  "summary": "A library for calculating quantum state texture monotones.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtexture-0.1.1.tar.gz",
+  "download_time": "2025-08-28T17:51:59.374404",
+  "package_url": "https://pypi.org/project/qtexture/"
+}
