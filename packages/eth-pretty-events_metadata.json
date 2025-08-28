@@ -1,0 +1,11 @@
+{
+  "name": "eth-pretty-events",
+  "version": "0.1.10",
+  "summary": "Add a short description here!",
+  "author": "Guillermo M. Narvaja",
+  "license": "MIT",
+  "home_page": "https://github.com/pyscaffold/pyscaffold/",
+  "download_filename": "eth_pretty_events-0.1.10.tar.gz",
+  "download_time": "2025-08-28T11:52:06.617579",
+  "package_url": "https://pypi.org/project/eth-pretty-events/"
+}

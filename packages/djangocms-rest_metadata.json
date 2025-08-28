@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-rest",
+  "version": "0.8.0",
+  "summary": "API endpoints for django CMS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangocms_rest-0.8.0.tar.gz",
+  "download_time": "2025-08-28T11:52:06.098151",
+  "package_url": "https://pypi.org/project/djangocms-rest/"
+}

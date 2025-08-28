@@ -1,0 +1,11 @@
+{
+  "name": "calimero-client-py-bindings",
+  "version": "0.1.0",
+  "summary": "Python client library for Calimero Network - a comprehensive blockchain API client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "calimero_client_py_bindings-0.1.0.tar.gz",
+  "download_time": "2025-08-28T11:52:03.486056",
+  "package_url": "https://pypi.org/project/calimero-client-py-bindings/"
+}

@@ -1,13 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T11:39:24.822758
-- **Total Packages**: 79
-- **Total Size**: 32.73 MB
+- **Download Time**: 2025-08-28T11:52:28.170502
+- **Total Packages**: 89
+- **Total Size**: 18.93 MB
 
 ## Packages List
-- paypal-easy
+- passagemath-topcom
+- passagemath-tdlib
+- passagemath-tachyon
+- dcaspt2-input-generator
+- passagemath-sympow
+- passagemath-symbolics
+- qalita
+- plotlp
+- passagemath-sirocco
 - mfd-testing
+- passagemath-singular
+- passagemath-schemes
+- passagemath-rubiks
+- passagemath-rankwidth
+- passagemath-qepcad
+- passagemath-polyhedra
+- passagemath-plot
+- passagemath-plantri
+- passagemath-planarity
+- passagemath-pari
+- passagemath-palp
+- passagemath-objects
+- passagemath-ntl
+- passagemath-nauty
+- passagemath-msolve
+- codex-bridge
+- packse
+- momapy
+- pyxcp
+- apscale-installer
+- aiosonic
+- usf-agents
+- telnyx
+- opticlp
+- mcp-email-server
+- yz-rpa-utils
+- back-chat
+- agenta
+- viadot2
+- multipers
+- amusic
+- p1-taskqueue
+- calimero-client-py-bindings
+- cdk-s3-vectors
+- lusid-scheduler-sdk
+- bigdata-research-tools
+- volcengine
+- djangocms-rest
+- eth-pretty-events
+- physlp
+- helpr
+- notionary
+- edwh-devdb-plugin
+- paypal-easy
 - dicom-qr
 - icostate
 - minecraft-datapack-language
@@ -43,45 +95,3 @@
 - clear-skies-akeyless-custom-wiz
 - xync-schema
 - nodelp
-- linkedin-games-scraper
-- x13-seasonal-adjustment
-- ssslm
-- smsfusion
-- maia-test-framework
-- parslet
-- supersayan
-- aioresonate
-- maxx
-- amusic
-- dg-sqlmesh
-- arcas-parser
-- aps-common-toolkit
-- ease-tts
-- antchain-ak-6f8b0e7502ec49d28cd8ad0e5807bbf9
-- arrlp
-- XMWAI
-- helpr
-- odoo-addon-account-reconcile-oca
-- quantec
-- applp
-- lium-cli
-- ai_app
-- property-driven-ml
-- min-llm-server-client
-- tigermcp
-- EmbedSelection
-- petcmd
-- arazzo-generator
-- tigeropen
-- dbt-mcp
-- datadreamer
-- tb-nightly
-- langchain-ibm
-- gslides-api
-- odp-sdk
-- odoo-addon-product-pricelist-direct-print
-- cosmotalker
-- scembed
-- odoo14-addon-ssi-telegram
-- tiled
-- Apimatic

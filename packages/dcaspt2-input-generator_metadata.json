@@ -1,0 +1,11 @@
+{
+  "name": "dcaspt2-input-generator",
+  "version": "0.8.0",
+  "summary": "This is a GUI tool for supporting the generation of input files for DIRAC_CASPT2 calculation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcaspt2_input_generator-0.8.0.tar.gz",
+  "download_time": "2025-08-28T11:51:42.305931",
+  "package_url": "https://pypi.org/project/dcaspt2-input-generator/"
+}

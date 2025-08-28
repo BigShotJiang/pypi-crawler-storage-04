@@ -1,0 +1,11 @@
+{
+  "name": "edwh-devdb-plugin",
+  "version": "0.5.4",
+  "summary": "edwh plugin for quick database snapshot creation and recovery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edwh_devdb_plugin-0.5.4.tar.gz",
+  "download_time": "2025-08-28T11:52:08.716026",
+  "package_url": "https://pypi.org/project/edwh-devdb-plugin/"
+}

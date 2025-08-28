@@ -1,0 +1,11 @@
+{
+  "name": "physlp",
+  "version": "0.1.0",
+  "summary": "A library providing tools for basic physics.",
+  "author": "LancelotPincet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physlp-0.1.0.tar.gz",
+  "download_time": "2025-08-28T11:52:07.138307",
+  "package_url": "https://pypi.org/project/physlp/"
+}
