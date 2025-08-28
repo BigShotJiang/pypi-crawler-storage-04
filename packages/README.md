@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T04:25:13.845008
-- **Total Packages**: 81
-- **Total Size**: 57.32 MB
+- **Download Time**: 2025-08-28T04:44:15.072156
+- **Total Packages**: 86
+- **Total Size**: 14.34 MB
 
 ## Packages List
+- odoo-addon-shopfloor-reception
+- py-adtools
+- destiny_sdk
+- automated-neural-adapter-ANA
+- odoo-addon-website-search-header
+- pybooster
+- netan
+- odoo-addon-web-systray-button-init-action
+- crds
+- pancham
+- agentcrew-ai
+- meshcore-cli
+- hammett-washington-sdk
+- pkbrokers
+- sqlframe
+- ocpi-pydantic
+- meshcore
+- xqute
+- ruru
+- MalwareClassifier
+- netbox-cable-labels
+- obvyr-agent
+- odoo-addon-stock-picking-line-sequence
+- odoo-addons-oca-stock-logistics-workflow
+- odoo-addon-stock-picking-batch-creation-split-kit
+- odoo-addon-stock-picking-batch-creation
+- odoo-addon-stock-split-picking-kit
+- sql-splitter
+- gllm-core-binary
+- gllm-inference-binary
+- bbot
+- increase
+- mapillary-tools
+- multimodal-sdk
+- neurograd
+- minecraft-datapack-language
+- settings-os
+- code-loader
+- gemini-groundcite
+- ai-healthcheck
+- reactivated
+- parsehub
+- principal-package
 - hdx-python-utilities
 - cube-alchemy
 - odoo-addon-stock-picking-putaway-recompute
@@ -18,9 +61,7 @@
 - wherobots-python-dbapi
 - odoo-addon-mail-activity-meeting-reminder
 - qsl
-- netan
 - klotho-cac
-- pkbrokers
 - pyface-docsaid
 - cartomancy
 - mtbp3cd
@@ -34,11 +75,8 @@
 - deriva-ml
 - access-mopper
 - mira
-- minecraft-datapack-language
 - hpeOneView
 - molgraph
-- increase
-- neurograd
 - pydoll-python
 - odoo-addon-product-customerinfo-elaboration
 - odoo-addon-sale-order-amount-to-invoice
@@ -54,36 +92,3 @@
 - zmanim-core-bindings
 - PyQrackIsing
 - chromedriver-binary
-- parsehub
-- odoo-addon-sale-loyalty-partner-applicability
-- odoo-addon-loyalty-partner-applicability
-- XMWAI
-- enhlib
-- pulumi-provider-boilerplate
-- cdktf-cdktf-provider-pagerduty
-- onefinity
-- pulumi-xyz
-- ai-interactive-feedback
-- gitlabcis
-- zenx
-- odoo-addon-purchase-order-line-sequence
-- vellum-workflow-server
-- lynkr
-- rxfoundry.clients.swifty_oauth_api
-- rxfoundry.clients.swifty_api
-- bk-plugin-framework
-- bk-plugin-runtime
-- graphlit-client
-- spark-analyzer
-- policyengine-us
-- multimodal-sdk
-- c3d-parser
-- odoo-addon-product-variant-default-code
-- halcyon
-- pulumi-pagerduty
-- robhan-cdk-lib.aws-grafana
-- keras-nightly
-- robhan-cdk-lib.aws-aps
-- athelas
-- shancx
-- robhan-cdk-lib.utils
