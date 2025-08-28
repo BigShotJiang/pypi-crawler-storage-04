@@ -1,0 +1,11 @@
+{
+  "name": "lrdbench",
+  "version": "1.6.0",
+  "summary": "Long-Range Dependence Benchmarking Toolkit with Enhanced ML and Neural Network Estimators",
+  "author": "LRDBench Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dave2k77/LRDBenchmark",
+  "download_filename": "lrdbench-1.6.0.tar.gz",
+  "download_time": "2025-08-28T20:22:51.911448",
+  "package_url": "https://pypi.org/project/lrdbench/"
+}

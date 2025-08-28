@@ -1,0 +1,11 @@
+{
+  "name": "lrdbenchmark",
+  "version": "1.5.1",
+  "summary": "Long-Range Dependence Benchmarking Toolkit",
+  "author": "LRDBench Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dave2k77/LRDBenchmark",
+  "download_filename": "lrdbenchmark-1.5.1.tar.gz",
+  "download_time": "2025-08-28T20:22:25.982745",
+  "package_url": "https://pypi.org/project/lrdbenchmark/"
+}

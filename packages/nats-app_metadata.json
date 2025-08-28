@@ -1,11 +1,11 @@
 {
   "name": "nats-app",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "NATS App is wrapper client on NATS Connection",
   "author": "Vadym Statishyn",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nats_app-0.7.1.tar.gz",
-  "download_time": "2025-08-28T13:18:46.814895",
+  "download_filename": "nats_app-0.7.2.tar.gz",
+  "download_time": "2025-08-28T20:23:08.024619",
   "package_url": "https://pypi.org/project/nats-app/"
 }

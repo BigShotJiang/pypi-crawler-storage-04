@@ -1,0 +1,11 @@
+{
+  "name": "copyparty",
+  "version": "1.19.7",
+  "summary": "Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copyparty-1.19.7.tar.gz",
+  "download_time": "2025-08-28T20:22:36.742535",
+  "package_url": "https://pypi.org/project/copyparty/"
+}

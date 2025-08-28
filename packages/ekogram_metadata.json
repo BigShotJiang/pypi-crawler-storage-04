@@ -1,0 +1,11 @@
+{
+  "name": "ekogram",
+  "version": "0.28",
+  "summary": "Lightweight library for working with Telegram Bot Api + Generate Images, Audio and Text",
+  "author": "Siri-Team",
+  "license": "MIT",
+  "home_page": "https://github.com/SiriRSST/Ekogram",
+  "download_filename": "ekogram-0.28.tar.gz",
+  "download_time": "2025-08-28T20:22:27.596342",
+  "package_url": "https://pypi.org/project/ekogram/"
+}
