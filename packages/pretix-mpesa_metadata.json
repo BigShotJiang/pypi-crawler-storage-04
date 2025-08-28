@@ -1,0 +1,11 @@
+{
+  "name": "pretix-mpesa",
+  "version": "1.0.3",
+  "summary": "Adds safaricom mpesa payments to pretix",
+  "author": "Joakim Bwire",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/enyachoke/pretix-mpesa",
+  "download_filename": "pretix_mpesa-1.0.3.tar.gz",
+  "download_time": "2025-08-28T14:20:34.460990",
+  "package_url": "https://pypi.org/project/pretix-mpesa/"
+}

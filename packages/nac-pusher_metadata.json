@@ -1,11 +1,11 @@
 {
   "name": "nac-pusher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for pushing messages to Feishu (Lark)",
-  "author": "Your Name",
+  "author": "Necoarc",
   "license": null,
   "home_page": "https://github.com/yourusername/nac-pusher",
-  "download_filename": "nac_pusher-0.1.0.tar.gz",
-  "download_time": "2025-08-28T13:45:41.346711",
+  "download_filename": "nac_pusher-0.1.1.tar.gz",
+  "download_time": "2025-08-28T14:20:41.386895",
   "package_url": "https://pypi.org/project/nac-pusher/"
 }

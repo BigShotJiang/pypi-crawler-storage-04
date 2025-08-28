@@ -1,0 +1,11 @@
+{
+  "name": "autogaita",
+  "version": "1.4.0",
+  "summary": "Automatic Gait Analysis in Python. A toolbox to streamline and standardise the analysis of kinematics across species after ML-based body posture tracking. Despite being optimised for gait analyses, AutoGaitA has the potential to be used for any kind of kinematic analysis.",
+  "author": "Mahan Hosseini",
+  "license": "GPLv3",
+  "home_page": "https://github.com/mahan-hosseini/AutoGaitA/",
+  "download_filename": "autogaita-1.4.0.tar.gz",
+  "download_time": "2025-08-28T14:20:52.200889",
+  "package_url": "https://pypi.org/project/autogaita/"
+}

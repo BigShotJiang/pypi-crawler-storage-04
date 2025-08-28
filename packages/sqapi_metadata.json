@@ -1,11 +1,11 @@
 {
   "name": "sqapi",
-  "version": "0.59",
+  "version": "0.60",
   "summary": "A python package that simplifies interactions with the SQUIDLE+ API. It can be used to integrate automated labelling from machine learning algorithms and plenty other cool things.",
   "author": "Greybits Engineering",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://bitbucket.org/ariell/pysq",
-  "download_filename": "sqapi-0.59.tar.gz",
-  "download_time": "2025-08-28T13:45:46.559075",
+  "download_filename": "sqapi-0.60.tar.gz",
+  "download_time": "2025-08-28T14:21:04.444097",
   "package_url": "https://pypi.org/project/sqapi/"
 }

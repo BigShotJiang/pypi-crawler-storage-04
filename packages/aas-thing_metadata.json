@@ -1,0 +1,11 @@
+{
+  "name": "aas-thing",
+  "version": "0.9.6",
+  "summary": "A Python toolkit for building Industry 4.0-compliant Things as Asset Administration Shells (AAS), with seamless integration into the Smart Systems Service Infrastructure (S³I).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aas_thing-0.9.6.tar.gz",
+  "download_time": "2025-08-28T14:20:50.033322",
+  "package_url": "https://pypi.org/project/aas-thing/"
+}

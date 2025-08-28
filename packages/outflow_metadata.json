@@ -1,11 +1,11 @@
 {
   "name": "outflow",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Outflow is a framework that helps you create and execute sequential, parallel as well as distributed task workflows.",
   "author": "Gregoire Duvauchelle",
   "license": "CECILL-2.1",
   "home_page": "https://outflow.dev",
-  "download_filename": "outflow-0.9.1.tar.gz",
-  "download_time": "2025-08-28T13:46:15.118969",
+  "download_filename": "outflow-0.9.2.tar.gz",
+  "download_time": "2025-08-28T14:20:58.041506",
   "package_url": "https://pypi.org/project/outflow/"
 }
