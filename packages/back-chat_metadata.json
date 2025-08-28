@@ -1,11 +1,11 @@
 {
   "name": "back-chat",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": null,
   "author": "agrubio",
   "license": null,
   "home_page": "https://github.com/AbelGRubio/backend-chat.git",
-  "download_filename": "back_chat-1.1.4.tar.gz",
-  "download_time": "2025-08-28T11:52:00.346879",
+  "download_filename": "back_chat-1.1.5.tar.gz",
+  "download_time": "2025-08-28T12:42:17.612803",
   "package_url": "https://pypi.org/project/back-chat/"
 }

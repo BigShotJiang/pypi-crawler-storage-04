@@ -1,0 +1,11 @@
+{
+  "name": "datrie",
+  "version": "0.8.3",
+  "summary": "Super-fast, efficiently stored Trie for Python.",
+  "author": "Mikhail Korobov",
+  "license": "LGPLv2+",
+  "home_page": "https://github.com/kmike/datrie",
+  "download_filename": "datrie-0.8.3.tar.gz",
+  "download_time": "2025-08-28T12:42:08.934052",
+  "package_url": "https://pypi.org/project/datrie/"
+}

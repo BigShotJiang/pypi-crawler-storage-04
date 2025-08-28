@@ -1,0 +1,11 @@
+{
+  "name": "kite-order",
+  "version": "0.2.0",
+  "summary": "A Python module for placing bracket orders with Zerodha's KiteConnect API, featuring authentication, dashboard, Google Sheets integration, and customizable logging.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kite_order-0.2.0.tar.gz",
+  "download_time": "2025-08-28T12:42:14.378130",
+  "package_url": "https://pypi.org/project/kite-order/"
+}
