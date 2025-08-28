@@ -1,0 +1,11 @@
+{
+  "name": "sr2t",
+  "version": "0.5.1",
+  "summary": "Converts scanning reports to a tabular format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sr2t-0.5.1.tar.gz",
+  "download_time": "2025-08-28T08:27:39.538364",
+  "package_url": "https://pypi.org/project/sr2t/"
+}

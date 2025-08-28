@@ -1,0 +1,11 @@
+{
+  "name": "orthanc-tools",
+  "version": "0.17.6",
+  "summary": "Python Orthanc Tools",
+  "author": "Orthanc Team",
+  "license": null,
+  "home_page": "https://github.com/orthanc-team/python-orthanc-tools",
+  "download_filename": "orthanc_tools-0.17.6.tar.gz",
+  "download_time": "2025-08-28T08:27:48.408364",
+  "package_url": "https://pypi.org/project/orthanc-tools/"
+}

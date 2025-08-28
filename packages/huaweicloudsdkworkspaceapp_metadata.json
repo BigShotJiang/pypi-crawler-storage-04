@@ -1,0 +1,11 @@
+{
+  "name": "huaweicloudsdkworkspaceapp",
+  "version": "3.1.165",
+  "summary": "WorkspaceApp",
+  "author": "HuaweiCloud SDK",
+  "license": "Apache LICENSE 2.0",
+  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
+  "download_filename": "huaweicloudsdkworkspaceapp-3.1.165-py3-none-any.whl",
+  "download_time": "2025-08-28T08:27:55.209083",
+  "package_url": "https://pypi.org/project/huaweicloudsdkworkspaceapp/"
+}
