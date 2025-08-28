@@ -1,0 +1,11 @@
+{
+  "name": "anydbx",
+  "version": "0.1.3",
+  "summary": "Agnostic SQLAlchemy helper with engine registry, safe transactions, and pandas I/O.",
+  "author": "Daniel Torres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anydbx-0.1.3.tar.gz",
+  "download_time": "2025-08-28T13:19:17.945501",
+  "package_url": "https://pypi.org/project/anydbx/"
+}

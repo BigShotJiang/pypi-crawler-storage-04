@@ -1,0 +1,11 @@
+{
+  "name": "sadi",
+  "version": "1.0.0",
+  "summary": "SADI for Python - Semantic Automated Discovery and Integration framework",
+  "author": "Jamie McCusker",
+  "license": "BSD-3-Clause",
+  "home_page": "http://code.google.com/p/sadi/",
+  "download_filename": "sadi-1.0.0.tar.gz",
+  "download_time": "2025-08-28T13:19:29.474303",
+  "package_url": "https://pypi.org/project/sadi/"
+}

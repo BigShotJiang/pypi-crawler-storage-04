@@ -1,0 +1,11 @@
+{
+  "name": "modeldag",
+  "version": "0.10.1",
+  "summary": "Access and Interact with ZTF Fields",
+  "author": "Mickael Rigault",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/MickaelRigault/modeldag",
+  "download_filename": "modeldag-0.10.1.tar.gz",
+  "download_time": "2025-08-28T13:19:24.730395",
+  "package_url": "https://pypi.org/project/modeldag/"
+}

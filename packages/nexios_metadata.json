@@ -1,0 +1,11 @@
+{
+  "name": "nexios",
+  "version": "2.10.3",
+  "summary": "Nexios is a modern, high-performance ASGI web framework for Python with multi-server support with zero overhead.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexios-2.10.3.tar.gz",
+  "download_time": "2025-08-28T13:19:10.277345",
+  "package_url": "https://pypi.org/project/nexios/"
+}

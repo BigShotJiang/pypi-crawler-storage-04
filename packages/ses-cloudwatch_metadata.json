@@ -1,0 +1,11 @@
+{
+  "name": "ses-cloudwatch",
+  "version": "1.2.0",
+  "summary": "ses-cloudwatch",
+  "author": "Pablo Cano<pablo.cano@merapar.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/pablocano/ses-cloudwatch.git",
+  "download_filename": "ses_cloudwatch-1.2.0.tar.gz",
+  "download_time": "2025-08-28T13:19:25.273343",
+  "package_url": "https://pypi.org/project/ses-cloudwatch/"
+}

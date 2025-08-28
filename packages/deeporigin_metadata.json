@@ -1,0 +1,11 @@
+{
+  "name": "deeporigin",
+  "version": "3.30.0",
+  "summary": "Command line tool and Python client for working with Deep Origin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deeporigin-3.30.0.tar.gz",
+  "download_time": "2025-08-28T13:19:18.465664",
+  "package_url": "https://pypi.org/project/deeporigin/"
+}

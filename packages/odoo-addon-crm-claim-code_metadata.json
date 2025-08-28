@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-claim-code",
+  "version": "16.0.1.1.0",
+  "summary": "Sequential Code for Claims",
+  "author": "AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/crm",
+  "download_filename": "odoo_addon_crm_claim_code-16.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-28T13:18:55.448335",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-claim-code/"
+}

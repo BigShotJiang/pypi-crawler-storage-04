@@ -1,0 +1,11 @@
+{
+  "name": "feature-schema",
+  "version": "0.1.5",
+  "summary": "A lightweight package to extract, document, and validate feature schemas from pandas DataFrames for ML workflows.",
+  "author": "Chaaanakyaa Milkuri",
+  "license": "MIT",
+  "home_page": "https://github.com/chaanakyaaM/Feature_Schema",
+  "download_filename": "feature_schema-0.1.5.tar.gz",
+  "download_time": "2025-08-28T13:19:23.691187",
+  "package_url": "https://pypi.org/project/feature-schema/"
+}

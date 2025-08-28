@@ -1,0 +1,11 @@
+{
+  "name": "responses-validator",
+  "version": "0.3.0",
+  "summary": "Write response validation scripts for requests using flexible YAML syntax, including: status_code, headers, text, and json()",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "responses_validator-0.3.0-cp312-cp312-macosx_10_13_x86_64.whl",
+  "download_time": "2025-08-28T13:19:20.031124",
+  "package_url": "https://pypi.org/project/responses-validator/"
+}

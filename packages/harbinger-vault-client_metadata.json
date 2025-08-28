@@ -1,0 +1,11 @@
+{
+  "name": "harbinger-vault-client",
+  "version": "0.2.0",
+  "summary": "Enterprise-grade vault client with automatic retries, connection pooling, and rate limiting",
+  "author": "Moises Gaspar",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/harbinger-vault-client",
+  "download_filename": "harbinger_vault_client-0.2.0.tar.gz",
+  "download_time": "2025-08-28T13:19:06.013186",
+  "package_url": "https://pypi.org/project/harbinger-vault-client/"
+}
