@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract-price-revision",
+  "version": "18.0.1.0.0.2",
+  "summary": "Easy revision of contract prices",
+  "author": "ACSONE SA/NV, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/contract",
+  "download_filename": "odoo_addon_contract_price_revision-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-28T09:52:47.237017",
+  "package_url": "https://pypi.org/project/odoo-addon-contract-price-revision/"
+}

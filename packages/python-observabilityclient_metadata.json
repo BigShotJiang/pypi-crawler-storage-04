@@ -1,0 +1,11 @@
+{
+  "name": "python-observabilityclient",
+  "version": "1.2.0",
+  "summary": "OpenStack Observability Client",
+  "author": "OpenStack",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://opendev.org/openstack/python-observabilityclient",
+  "download_filename": "python_observabilityclient-1.2.0.tar.gz",
+  "download_time": "2025-08-28T09:52:59.517943",
+  "package_url": "https://pypi.org/project/python-observabilityclient/"
+}

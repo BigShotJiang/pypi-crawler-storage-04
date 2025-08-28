@@ -1,0 +1,11 @@
+{
+  "name": "gepeto",
+  "version": "1.1.22",
+  "summary": "pip install gepeto",
+  "author": "Uzair",
+  "license": null,
+  "home_page": "https://github.com/gepetoai/gepeto",
+  "download_filename": "gepeto-1.1.22.tar.gz",
+  "download_time": "2025-08-28T09:53:16.039567",
+  "package_url": "https://pypi.org/project/gepeto/"
+}

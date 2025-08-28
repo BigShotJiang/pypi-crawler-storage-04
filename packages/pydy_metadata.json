@@ -1,0 +1,11 @@
+{
+  "name": "pydy",
+  "version": "0.8.0",
+  "summary": "Python tool kit for multi-body dynamics.",
+  "author": "PyDy Authors",
+  "license": "LICENSE.txt",
+  "home_page": "http://pydy.org",
+  "download_filename": "pydy-0.8.0.tar.gz",
+  "download_time": "2025-08-28T09:53:05.397586",
+  "package_url": "https://pypi.org/project/pydy/"
+}
