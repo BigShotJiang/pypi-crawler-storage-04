@@ -1,0 +1,11 @@
+{
+  "name": "copyforward",
+  "version": "0.2.1",
+  "summary": "Fast similarity search using forward-looking LSH",
+  "author": "Sean Gallagher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copyforward-0.2.1.tar.gz",
+  "download_time": "2025-08-28T13:45:48.607281",
+  "package_url": "https://pypi.org/project/copyforward/"
+}

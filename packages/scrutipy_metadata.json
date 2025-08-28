@@ -1,11 +1,11 @@
 {
   "name": "scrutipy",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A toolset for detecting inconsistencies in summary data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrutipy-0.1.10.tar.gz",
-  "download_time": "2025-08-28T10:55:28.973481",
+  "download_filename": "scrutipy-0.1.11.tar.gz",
+  "download_time": "2025-08-28T13:46:03.253214",
   "package_url": "https://pypi.org/project/scrutipy/"
 }

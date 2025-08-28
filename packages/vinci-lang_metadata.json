@@ -1,0 +1,11 @@
+{
+  "name": "vinci-lang",
+  "version": "1.0.6",
+  "summary": "VINCI is a general purpose programming language that is numbers oriented and retro.",
+  "author": "SeafoodStudios",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vinci_lang-1.0.6.tar.gz",
+  "download_time": "2025-08-28T13:45:37.766012",
+  "package_url": "https://pypi.org/project/vinci-lang/"
+}

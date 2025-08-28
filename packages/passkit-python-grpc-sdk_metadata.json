@@ -1,0 +1,11 @@
+{
+  "name": "passkit-python-grpc-sdk",
+  "version": "1.1.123.1",
+  "summary": "Python SDK for Apple Wallet and Google Pay Membership / Loyalty / Access Cards, Coupons, Flights & Event-Tickets.",
+  "author": "passkit",
+  "license": null,
+  "home_page": "https://github.com/PassKit/passkit-python-grpc-sdk",
+  "download_filename": "passkit_python_grpc_sdk-1.1.123.1.tar.gz",
+  "download_time": "2025-08-28T13:45:38.278510",
+  "package_url": "https://pypi.org/project/passkit-python-grpc-sdk/"
+}

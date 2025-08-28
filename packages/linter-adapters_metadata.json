@@ -1,0 +1,11 @@
+{
+  "name": "linter-adapters",
+  "version": "0.1.2",
+  "summary": "An adapter which provides categorization & descriptions on popular linters & checkers",
+  "author": "Peter Zaitcev",
+  "license": "BSD 2-clause license",
+  "home_page": "https://gitlab.com/Hares-Lab/tools/linter-adapters",
+  "download_filename": "linter_adapters-0.1.2.tar.gz",
+  "download_time": "2025-08-28T13:45:55.278726",
+  "package_url": "https://pypi.org/project/linter-adapters/"
+}

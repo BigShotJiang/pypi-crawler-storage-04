@@ -1,0 +1,11 @@
+{
+  "name": "dpmm",
+  "version": "0.1.9",
+  "summary": "dpmm: a library for synthetic tabular data generation with rich functionality and end-to-end Differential Privacy guarantees",
+  "author": "Sofiane Mahiou, Georgi Ganev",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sassoftware/dpmm",
+  "download_filename": "dpmm-0.1.9.tar.gz",
+  "download_time": "2025-08-28T13:45:49.117449",
+  "package_url": "https://pypi.org/project/dpmm/"
+}

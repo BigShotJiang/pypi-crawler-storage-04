@@ -1,0 +1,11 @@
+{
+  "name": "pangoline-tool",
+  "version": "0.3.0",
+  "summary": "Synthetic document rendering with parallel ALTO output",
+  "author": "Benjamin Kiessling",
+  "license": "Apache-2.0",
+  "home_page": "http://pangoline.github.io",
+  "download_filename": "pangoline_tool-0.3.0.tar.gz",
+  "download_time": "2025-08-28T13:46:04.287620",
+  "package_url": "https://pypi.org/project/pangoline-tool/"
+}

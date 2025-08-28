@@ -1,0 +1,11 @@
+{
+  "name": "laplaciannb",
+  "version": "0.6.1",
+  "summary": "**LaplacianNB** is a Python module developed at **Novartis AG** for Naive Bayes classifier for laplacian modified models based on scikit-learn Naive Bayes implementation.",
+  "author": null,
+  "license": "BSD 3",
+  "home_page": null,
+  "download_filename": "laplaciannb-0.6.1.tar.gz",
+  "download_time": "2025-08-28T13:45:34.681071",
+  "package_url": "https://pypi.org/project/laplaciannb/"
+}
