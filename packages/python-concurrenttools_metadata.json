@@ -1,0 +1,11 @@
+{
+  "name": "python-concurrenttools",
+  "version": "0.1.1",
+  "summary": "Python concurrent tools.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-concurrenttools",
+  "download_filename": "python_concurrenttools-0.1.1.tar.gz",
+  "download_time": "2025-08-28T07:39:38.437395",
+  "package_url": "https://pypi.org/project/python-concurrenttools/"
+}

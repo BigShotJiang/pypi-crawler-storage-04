@@ -1,0 +1,11 @@
+{
+  "name": "plus_sync",
+  "version": "0.7.3",
+  "summary": "Convenient command line tool to sync all kind of data.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "plus_sync-0.7.3.tar.gz",
+  "download_time": "2025-08-28T07:39:32.606378",
+  "package_url": "https://pypi.org/project/plus_sync/"
+}

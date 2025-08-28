@@ -1,0 +1,11 @@
+{
+  "name": "data-go-mcp.nps-business-enrollment",
+  "version": "0.1.0",
+  "summary": "MCP server for Korea National Pension Service business enrollment API from data.go.kr",
+  "author": "Data.go.kr MCP Servers Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "data_go_mcp_nps_business_enrollment-0.1.0.tar.gz",
+  "download_time": "2025-08-28T07:39:44.158178",
+  "package_url": "https://pypi.org/project/data-go-mcp.nps-business-enrollment/"
+}

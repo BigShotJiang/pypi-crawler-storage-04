@@ -1,0 +1,11 @@
+{
+  "name": "investec-python",
+  "version": "1.1.0",
+  "summary": "A Python wrapper for the Investec Banking API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "investec_python-1.1.0.tar.gz",
+  "download_time": "2025-08-28T07:39:58.943634",
+  "package_url": "https://pypi.org/project/investec-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ukrdc-sqla",
+  "version": "2.8.1",
+  "summary": "SQLAlchemy models for the UKRDC",
+  "author": "Joel Collins",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ukrdc_sqla-2.8.1.tar.gz",
+  "download_time": "2025-08-28T07:39:46.237700",
+  "package_url": "https://pypi.org/project/ukrdc-sqla/"
+}
