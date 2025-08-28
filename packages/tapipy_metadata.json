@@ -1,0 +1,11 @@
+{
+  "name": "tapipy",
+  "version": "1.9.1",
+  "summary": "Python lib for interacting with an instance of the Tapis API Framework",
+  "author": "Joe Stubbs",
+  "license": "BSD-4-Clause",
+  "home_page": "https://github.com/tapis-project/tapipy",
+  "download_filename": "tapipy-1.9.1.tar.gz",
+  "download_time": "2025-08-28T23:38:50.423247",
+  "package_url": "https://pypi.org/project/tapipy/"
+}

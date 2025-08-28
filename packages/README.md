@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T23:20:07.722085
-- **Total Packages**: 77
-- **Total Size**: 16.18 MB
+- **Download Time**: 2025-08-28T23:39:12.366410
+- **Total Packages**: 84
+- **Total Size**: 13.09 MB
 
 ## Packages List
+- lacuscore
+- hippolyzer
+- langgraph-sdk
+- tobiko-cloud-helpers
+- codegen
+- py-chains-of-recurrences
+- tobiko-cloud-api-client
+- tobiko-cloud-pydantic
+- pve-cli
+- yt-dlp
+- payi
+- safari-sdk
+- new-pykube
+- notte-sdk
+- notte-mcp
+- notte-integrations
+- notte-eval
+- notte-core
+- notte-browser
+- notte-agent
+- notte
+- nv-ingest-client
+- flexprofiler
+- cinetica
+- cybrid-api-bank-python
+- PlaywrightCapture
+- cybrid-api-id-python
+- cybrid-api-organization-python
+- bournemouth-forced-aligner
+- mcpstore
+- cua-agent
+- wdin
+- cjm-fasthtml-sse
+- django-typed2django
+- wan22
+- safir-logging
+- odoo-addon-l10n-br-account
+- safir-arq
+- safir
+- bear-utils
+- pygator
+- weave
+- tapipy
+- gfw-common
+- pypomes-sob
+- opensourceleg
 - cfbd
 - LoSearch
 - aws-sam-translator
@@ -17,7 +63,6 @@
 - triplethreading
 - rxfoundry.clients.swifty_oauth_api
 - rxfoundry.clients.swifty_api
-- wan22
 - snowflake-data-validation
 - TInCuP
 - lusid-sdk
@@ -25,7 +70,6 @@
 - gradio-propertysheet
 - flwr-nightly
 - pipen-poplog
-- gfw-common
 - pybass-emu
 - pyzill
 - shahmat
@@ -34,52 +78,15 @@
 - sqler
 - modusa
 - py-synth-engine
-- safari-sdk
 - GameBox
 - compy-python
 - multi-storage-client
-- wdin
 - khoj
 - desync-search
-- pypomes-sob
 - xqute
 - dcqc
 - gable
 - colorby
 - kaqing
-- cjm-fasthtml-sse
 - pyfabricops
 - MOBPY
-- paasta-tools
-- mgz
-- data-go-mcp.pps-narajangteo
-- pitchoune
-- qbraid
-- mathdiagram
-- prom
-- sqlalchemy-pydantic-mapper
-- babybert
-- sequence
-- handit-ai
-- statsig-python-core
-- luminarycloud
-- calcite
-- cogent3-h5seqs
-- skewsentry
-- ursa-ai
-- pathling
-- aryadocr
-- langchain-callback-parquet-logger
-- MainyDB
-- kamiwaza-sdk
-- openapi-spec-tools
-- segmented-creator
-- nomadicml
-- mcp-jupyter
-- fastapi-qengine
-- HoloTTS
-- npcpy
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- tobiko-cloud-helpers
-- iadrive
