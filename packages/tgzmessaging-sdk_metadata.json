@@ -1,11 +1,11 @@
 {
   "name": "tgzmessaging-sdk",
-  "version": "0.0.1",
-  "summary": "A Python SDK that provides a unified interface for producing and dispatching messages to multiple channels (WhatsApp, Email, SMS). Built with extensibility in mind, it abstracts transport details, integrates with asynchronous backends (e.g., Redis Streams, FastAPI), and simplifies building scalable notification services.",
+  "version": "0.0.2",
+  "summary": "An Official Python SDK from TechGenzi for sending messages across multiple channels like WhatsApp, Email, and SMS.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tgzmessaging_sdk-0.0.1.tar.gz",
-  "download_time": "2025-08-28T08:27:45.253810",
+  "download_filename": "tgzmessaging_sdk-0.0.2.tar.gz",
+  "download_time": "2025-08-28T08:48:50.482881",
   "package_url": "https://pypi.org/project/tgzmessaging-sdk/"
 }

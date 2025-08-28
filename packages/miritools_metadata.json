@@ -1,0 +1,11 @@
+{
+  "name": "miritools",
+  "version": "4.0.6",
+  "summary": "\"MIRI JWST convenience tools for analysis and data manipulation\"",
+  "author": "\"Christophe Cossou\"",
+  "license": null,
+  "home_page": "https://github.com/ccossou/miritools",
+  "download_filename": "miritools-4.0.6.tar.gz",
+  "download_time": "2025-08-28T08:49:08.028448",
+  "package_url": "https://pypi.org/project/miritools/"
+}

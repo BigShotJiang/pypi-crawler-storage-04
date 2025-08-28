@@ -1,0 +1,11 @@
+{
+  "name": "pypcaptools",
+  "version": "2.0",
+  "summary": "一个用于解析pcap文件的python库",
+  "author": "aimafan123",
+  "license": null,
+  "home_page": "https://github.com/aimafan123/pypcaptools.git",
+  "download_filename": "pypcaptools-2.0.tar.gz",
+  "download_time": "2025-08-28T08:48:49.463828",
+  "package_url": "https://pypi.org/project/pypcaptools/"
+}

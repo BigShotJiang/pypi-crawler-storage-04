@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-partial-dependence-plot",
+  "version": "2.1.0",
+  "summary": "AI Verify implementation of Partial Dependence Plot (PDP) that explains how each feature and its feature value contribute to the predictions.",
+  "author": "AI Verify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_partial_dependence_plot-2.1.0.tar.gz",
+  "download_time": "2025-08-28T08:48:56.115631",
+  "package_url": "https://pypi.org/project/aiverify-partial-dependence-plot/"
+}

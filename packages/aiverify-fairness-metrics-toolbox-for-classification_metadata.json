@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-fairness-metrics-toolbox-for-classification",
+  "version": "2.1.0",
+  "summary": "AI Verify Fairness Metrics Toolbox (FMT) for Classification contains a list of fairness metrics to measure how resources (e.g. opportunities, food, loan, medical help) are allocated among the demographic groups (e.g. married male, married female) given a set of sensitive feature(s) (e.g. gender, marital status). This plugin is developed for classification models.",
+  "author": "AI Verify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_fairness_metrics_toolbox_for_classification-2.1.0.tar.gz",
+  "download_time": "2025-08-28T08:48:59.689855",
+  "package_url": "https://pypi.org/project/aiverify-fairness-metrics-toolbox-for-classification/"
+}

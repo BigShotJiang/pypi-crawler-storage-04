@@ -1,0 +1,11 @@
+{
+  "name": "STMiner",
+  "version": "1.1.2",
+  "summary": "Python package for spatial transcriptomics data analysis",
+  "author": "Peisen Sun",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/xjtu-omics/STMiner",
+  "download_filename": "STMiner-1.1.2.tar.gz",
+  "download_time": "2025-08-28T08:48:53.548421",
+  "package_url": "https://pypi.org/project/STMiner/"
+}

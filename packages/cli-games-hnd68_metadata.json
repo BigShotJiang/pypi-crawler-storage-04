@@ -1,0 +1,11 @@
+{
+  "name": "cli-games-hnd68",
+  "version": "0.1.1",
+  "summary": "Fun CLI games: Number Guessing Duel, Math Quiz Duel, Typing Speed Race",
+  "author": "Wai Phyo Aung",
+  "license": null,
+  "home_page": "https://github.com/Orgpg/CLI-Game",
+  "download_filename": "cli_games_hnd68-0.1.1.tar.gz",
+  "download_time": "2025-08-28T08:49:09.559057",
+  "package_url": "https://pypi.org/project/cli-games-hnd68/"
+}

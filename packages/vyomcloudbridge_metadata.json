@@ -1,11 +1,11 @@
 {
   "name": "vyomcloudbridge",
-  "version": "0.2.71",
+  "version": "0.2.72",
   "summary": "A communication service for vyom cloud",
   "author": "Vyom OS Admin",
   "license": null,
   "home_page": null,
-  "download_filename": "vyomcloudbridge-0.2.71.tar.gz",
-  "download_time": "2025-08-28T07:39:34.261799",
+  "download_filename": "vyomcloudbridge-0.2.72.tar.gz",
+  "download_time": "2025-08-28T08:49:11.093242",
   "package_url": "https://pypi.org/project/vyomcloudbridge/"
 }

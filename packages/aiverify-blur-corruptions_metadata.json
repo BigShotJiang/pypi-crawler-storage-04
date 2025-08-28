@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-blur-corruptions",
+  "version": "2.1.0",
+  "summary": "Part of AI Verify image corruption toolbox. This package includes algorithms that adds blur corruptions (defocus, gaussian, glass, horizontal motion, vertical motion and zoom Blur) to images at different severity levels, to test the robustness of machine learning models.",
+  "author": "AI Verify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_blur_corruptions-2.1.0.tar.gz",
+  "download_time": "2025-08-28T08:48:58.669725",
+  "package_url": "https://pypi.org/project/aiverify-blur-corruptions/"
+}

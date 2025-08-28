@@ -1,0 +1,11 @@
+{
+  "name": "netpin2excel",
+  "version": "0.2.0",
+  "summary": "A sample Python package with a .pyd file",
+  "author": "hfh",
+  "license": null,
+  "home_page": "https://github.com/yourusername/my_package",
+  "download_filename": "netpin2excel-0.2.0.tar.gz",
+  "download_time": "2025-08-28T08:48:44.365153",
+  "package_url": "https://pypi.org/project/netpin2excel/"
+}

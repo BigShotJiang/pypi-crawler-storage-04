@@ -1,0 +1,11 @@
+{
+  "name": "text2emoji",
+  "version": "0.1.1",
+  "summary": "Convert words in text to emojis",
+  "author": "Mohammad Shohag",
+  "license": null,
+  "home_page": "https://github.com/shohagcsediu/text2emoji",
+  "download_filename": "text2emoji-0.1.1.tar.gz",
+  "download_time": "2025-08-28T08:48:48.444604",
+  "package_url": "https://pypi.org/project/text2emoji/"
+}

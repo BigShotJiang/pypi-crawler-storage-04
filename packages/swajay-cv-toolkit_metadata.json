@@ -1,0 +1,11 @@
+{
+  "name": "swajay-cv-toolkit",
+  "version": "1.0.9",
+  "summary": "Advanced Computer Vision Toolkit for Image Classification",
+  "author": "Swajay",
+  "license": "MIT",
+  "home_page": "https://github.com/swajayresources/swajay-cv-toolkit",
+  "download_filename": "swajay_cv_toolkit-1.0.9.tar.gz",
+  "download_time": "2025-08-28T08:49:02.243975",
+  "package_url": "https://pypi.org/project/swajay-cv-toolkit/"
+}
