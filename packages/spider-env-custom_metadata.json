@@ -1,0 +1,11 @@
+{
+  "name": "spider-env-custom",
+  "version": "0.1.0",
+  "summary": "Environment wrapper for the Spider dataset",
+  "author": "Kha Nguyen Van",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spider_env_custom-0.1.0.tar.gz",
+  "download_time": "2025-08-28T09:22:19.876837",
+  "package_url": "https://pypi.org/project/spider-env-custom/"
+}

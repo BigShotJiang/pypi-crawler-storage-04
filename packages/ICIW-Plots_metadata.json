@@ -1,0 +1,11 @@
+{
+  "name": "ICIW-Plots",
+  "version": "1.0.43",
+  "summary": "A collection of tools for use in the Institute of Chemical Engineering at Ulm University.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "iciw_plots-1.0.43.tar.gz",
+  "download_time": "2025-08-28T09:22:37.039669",
+  "package_url": "https://pypi.org/project/ICIW-Plots/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lightly-mundig",
+  "version": "0.1.3",
+  "summary": "Python bindings for selection",
+  "author": "Lightly Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightly_mundig-0.1.3-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-28T09:22:17.795331",
+  "package_url": "https://pypi.org/project/lightly-mundig/"
+}

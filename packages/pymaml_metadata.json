@@ -1,0 +1,11 @@
+{
+  "name": "pymaml",
+  "version": "0.3.4",
+  "summary": "Python reader, writer and validator for Meta yAML (MAML).",
+  "author": "TrystanScottLambert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymaml-0.3.4.tar.gz",
+  "download_time": "2025-08-28T09:22:05.196271",
+  "package_url": "https://pypi.org/project/pymaml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PyFrag",
+  "version": "2025.101b1",
+  "summary": "Automation of fragment calculations of the AMS package in quantum chemistry",
+  "author": "X. Sun, J. Poater, T. A. Hamlin, F. M. Bickelhaupt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfrag-2025.101b1.tar.gz",
+  "download_time": "2025-08-28T09:22:22.001340",
+  "package_url": "https://pypi.org/project/PyFrag/"
+}

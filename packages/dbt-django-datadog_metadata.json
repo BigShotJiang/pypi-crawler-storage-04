@@ -1,0 +1,11 @@
+{
+  "name": "dbt-django-datadog",
+  "version": "0.1.2",
+  "summary": "A package to configuring datadog for DBT applications running in DBT Platform (AWS copilot/fargate)",
+  "author": "sre@digital.trade.gov.uk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_django_datadog-0.1.2.tar.gz",
+  "download_time": "2025-08-28T09:22:01.479427",
+  "package_url": "https://pypi.org/project/dbt-django-datadog/"
+}

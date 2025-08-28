@@ -1,0 +1,11 @@
+{
+  "name": "collective.behavior.talcondition",
+  "version": "1.1.1",
+  "summary": "This package contains a Dexterity behavior and AT schemaextender to add a TAL condition on a content type.",
+  "author": "IMIO",
+  "license": "GPL V2",
+  "home_page": "http://pypi.python.org/pypi/collective.behavior.talcondition",
+  "download_filename": "collective.behavior.talcondition-1.1.1.tar.gz",
+  "download_time": "2025-08-28T09:21:58.323977",
+  "package_url": "https://pypi.org/project/collective.behavior.talcondition/"
+}

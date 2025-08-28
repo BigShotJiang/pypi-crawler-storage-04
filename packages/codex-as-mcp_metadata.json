@@ -1,0 +1,11 @@
+{
+  "name": "codex-as-mcp",
+  "version": "0.1.16",
+  "summary": "MCP server that provides access to codex CLI for code generation and review",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_as_mcp-0.1.16.tar.gz",
+  "download_time": "2025-08-28T09:22:04.158460",
+  "package_url": "https://pypi.org/project/codex-as-mcp/"
+}
