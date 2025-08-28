@@ -1,0 +1,11 @@
+{
+  "name": "postleaks",
+  "version": "1.1.8",
+  "summary": "Postleaks",
+  "author": "Sébastien Copin",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/cosad3s/postleaks",
+  "download_filename": "postleaks-1.1.8.tar.gz",
+  "download_time": "2025-08-28T21:18:42.473970",
+  "package_url": "https://pypi.org/project/postleaks/"
+}

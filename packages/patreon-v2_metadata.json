@@ -1,0 +1,11 @@
+{
+  "name": "patreon-v2",
+  "version": "0.5.1",
+  "summary": "Python library for interacting with the Patreon API. OAuth-centric for now.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "patreon_v2-0.5.1.tar.gz",
+  "download_time": "2025-08-28T21:18:59.206950",
+  "package_url": "https://pypi.org/project/patreon-v2/"
+}
