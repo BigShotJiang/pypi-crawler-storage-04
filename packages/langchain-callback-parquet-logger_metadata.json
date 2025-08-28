@@ -1,11 +1,11 @@
 {
   "name": "langchain-callback-parquet-logger",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Parquet-based callback handler for logging LangChain LLM interactions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_callback_parquet_logger-0.1.4.tar.gz",
-  "download_time": "2025-08-28T22:19:47.290665",
+  "download_filename": "langchain_callback_parquet_logger-0.1.5.tar.gz",
+  "download_time": "2025-08-28T22:40:55.680933",
   "package_url": "https://pypi.org/project/langchain-callback-parquet-logger/"
 }

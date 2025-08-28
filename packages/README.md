@@ -1,24 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T22:20:17.369936
-- **Total Packages**: 85
-- **Total Size**: 39.34 MB
+- **Download Time**: 2025-08-28T22:41:35.299780
+- **Total Packages**: 83
+- **Total Size**: 16.27 MB
 
 ## Packages List
+- luminarycloud
+- calcite
+- cogent3-h5seqs
+- skewsentry
+- babybert
+- ursa-ai
+- pathling
+- aryadocr
+- langchain-callback-parquet-logger
+- MainyDB
+- kamiwaza-sdk
+- openapi-spec-tools
+- segmented-creator
+- handit-ai
+- kaqing
+- nomadicml
+- modusa
+- anysecret-io
+- mcp-jupyter
+- fastapi-qengine
+- HoloTTS
+- npcpy
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- tobiko-cloud-helpers
+- iadrive
+- wan22
+- augint-billing-lib
+- pvevti
+- object-clerk
+- thefuck-ai-rule
+- evo-objects
+- reflex-agent
+- virtool
+- evo-sdk-common
+- solveig
+- vivarium-public-health
+- relationalai
+- python-rucaptcha
+- bvalcalc
+- nvidia-srl-usd-to-urdf
+- bleak-esphome
+- agentuity
+- muff
+- extremecloudiq-api
+- otsec
+- arize-phoenix
+- bitarray
+- abstract-ide
+- nibabies-wrapper
+- nibabies
 - landuse-intensity-analysis
+- geochunk
 - pymvr
 - xara
 - pyrauli
 - sdk-pytest-checkmate
 - fintself
-- abstract-ide
 - regula-documentreader-webclient
 - cdk-s3-vectors
 - experiment-runner
 - mcpsquared-base
 - experiment-generator
-- otsec
 - chattr
 - devboiler
 - bbot
@@ -37,57 +87,5 @@
 - snitun
 - datasurface
 - aislib
-- thefuck-ai-rule
 - cipdb
 - zyra
-- cua-agent
-- nvfuser-cu126-torch28
-- langchain-callback-parquet-logger
-- embeddingframework
-- recreate-sdk
-- nvfuser-cu128-torch28
-- termtypr
-- uv
-- uv-build
-- nvfuser-cu129-torch28
-- keepercommander
-- GPmix
-- kolox
-- pypomes-sob
-- bciflow
-- powerdns-cli
-- pftools
-- uurest
-- colorby
-- sinapsis-huggingface-transformers
-- sinapsis-huggingface-embeddings
-- sinapsis-huggingface
-- ai-infra
-- bradLib
-- sdl2-alpha
-- beadclust
-- morpheus-neo4j
-- tonutils
-- payloop
-- thds.atacama
-- thds.mops
-- abstract-gui
-- thds.humenc
-- thds.core
-- thds.adls
-- safronauts
-- binchicken
-- catocli
-- MultiPyVu
-- fastj2
-- async-kernel
-- aryadocr
-- khoj
-- fluid-labels
-- migs
-- Mathics-Scanner
-- kaqing
-- specforged
-- openinference-instrumentation-langchain
-- zenable-mcp
-- openinference-instrumentation-openlit

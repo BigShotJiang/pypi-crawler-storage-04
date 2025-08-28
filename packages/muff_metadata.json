@@ -1,11 +1,11 @@
 {
   "name": "muff",
-  "version": "0.12.11",
+  "version": "0.12.11.1",
   "summary": "An extremely fast Python linter and code formatter (fork of Ruff), written in Rust.",
   "author": null,
   "license": null,
   "home_page": "https://docs.astral.sh/ruff",
-  "download_filename": "muff-0.12.11.tar.gz",
-  "download_time": "2025-08-28T18:51:02.150151",
+  "download_filename": "muff-0.12.11.1.tar.gz",
+  "download_time": "2025-08-28T22:41:14.302813",
   "package_url": "https://pypi.org/project/muff/"
 }

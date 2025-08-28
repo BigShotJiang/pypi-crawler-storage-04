@@ -1,0 +1,11 @@
+{
+  "name": "extremecloudiq-api",
+  "version": "25.4.3.post40",
+  "summary": "ExtremeCloud IQ API",
+  "author": "Extreme Networks Support",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "extremecloudiq-api-25.4.3.post40.tar.gz",
+  "download_time": "2025-08-28T22:41:14.817870",
+  "package_url": "https://pypi.org/project/extremecloudiq-api/"
+}
