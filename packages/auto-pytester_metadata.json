@@ -1,0 +1,11 @@
+{
+  "name": "auto-pytester",
+  "version": "0.1.2",
+  "summary": "Auto generate pytest cases from docstring examples",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_pytester-0.1.2.tar.gz",
+  "download_time": "2025-08-28T05:20:11.310199",
+  "package_url": "https://pypi.org/project/auto-pytester/"
+}

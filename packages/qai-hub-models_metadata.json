@@ -1,0 +1,11 @@
+{
+  "name": "qai-hub-models",
+  "version": "0.36.0",
+  "summary": "Models optimized for export to run on device.",
+  "author": "Qualcomm® Technologies, Inc.",
+  "license": "BSD-3",
+  "home_page": "https://github.com/quic/ai-hub-models",
+  "download_filename": "qai_hub_models-0.36.0-py3-none-any.whl",
+  "download_time": "2025-08-28T05:20:13.936283",
+  "package_url": "https://pypi.org/project/qai-hub-models/"
+}

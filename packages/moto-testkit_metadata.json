@@ -1,11 +1,11 @@
 {
   "name": "moto-testkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An extended testkit for AWS services using moto, with sync/async helpers and examples.",
   "author": "Rafael da Silva",
   "license": null,
   "home_page": "https://github.com/RafaeldaSilvaa/moto-testkit",
-  "download_filename": "moto_testkit-0.1.0.tar.gz",
-  "download_time": "2025-08-28T03:51:29.936503",
+  "download_filename": "moto_testkit-0.1.1.tar.gz",
+  "download_time": "2025-08-28T05:20:14.463726",
   "package_url": "https://pypi.org/project/moto-testkit/"
 }

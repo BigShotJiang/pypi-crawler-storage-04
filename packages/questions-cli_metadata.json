@@ -1,0 +1,11 @@
+{
+  "name": "questions-cli",
+  "version": "0.1.2",
+  "summary": "CLI for processing search queries for the app",
+  "author": "InshaManowar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "questions_cli-0.1.2.tar.gz",
+  "download_time": "2025-08-28T05:20:12.867140",
+  "package_url": "https://pypi.org/project/questions-cli/"
+}
