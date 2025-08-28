@@ -1,0 +1,11 @@
+{
+  "name": "tsugu-api-python",
+  "version": "1.5.9",
+  "summary": "Tsugu BanGDream Bot 的功能 API 统合包",
+  "author": "WindowsSov8",
+  "license": "MIT",
+  "home_page": "https://github.com/WindowsSov8forUs/tsugu-api-python",
+  "download_filename": "tsugu_api_python-1.5.9.tar.gz",
+  "download_time": "2025-08-28T15:22:01.089758",
+  "package_url": "https://pypi.org/project/tsugu-api-python/"
+}

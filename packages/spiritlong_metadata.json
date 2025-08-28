@@ -1,11 +1,11 @@
 {
   "name": "spiritlong",
-  "version": "0.0.88",
+  "version": "0.0.89",
   "summary": "SpiritLong python tool package from pip",
   "author": "SpiritLong",
   "license": null,
   "home_page": "https://spiritlong-exon.com/pip",
-  "download_filename": "spiritlong-0.0.88.tar.gz",
-  "download_time": "2025-08-28T14:44:28.558033",
+  "download_filename": "spiritlong-0.0.89.tar.gz",
+  "download_time": "2025-08-28T15:21:59.292035",
   "package_url": "https://pypi.org/project/spiritlong/"
 }

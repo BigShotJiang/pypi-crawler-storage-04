@@ -1,19 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-28T14:56:03.805284
-- **Total Packages**: 85
-- **Total Size**: 24.61 MB
+- **Download Time**: 2025-08-28T15:22:42.327000
+- **Total Packages**: 88
+- **Total Size**: 37.43 MB
 
 ## Packages List
+- arklex
+- codemie-sdk-python
+- assignment-codeval
+- jett
+- unionai
+- htmy
+- flashqda
+- letta-client
+- union
+- pygar-client
+- pycarlo
+- miniform
+- amalgam-lang
+- exoscale
+- aipmodel
+- deribit-trading-sdk
+- spiritlong
+- morgoth
+- icat-plus-client
+- tsugu-api-python
+- dagapp
+- barbara-updater
+- marshmallow
+- great-expectations-cloud
+- embed-rerank
+- python3-cyberfusion-queue-support
+- ns1-python
+- simple-python-tools
+- scc-firewall-manager-sdk
+- shsim
+- upgini
+- minecraft-datapack-language
+- perceval-opnfv
+- policyengine-us
+- mzapi-python
+- adm-osc
+- datamarket
+- gramps-webapi
+- builder-io
+- oc-python-sdk
+- crunch-model-runner
+- maps4fs
+- sortinghat-eclipse-foundation
+- restate-sdk
+- momosolaris-mcp-demo
+- kraken-virus
+- sortinghat-openinfra
+- python-elmoclient
+- rio-stac
+- launchdarkly-server-sdk-ai
+- bedrock-protocol-nbt
+- perceval-pontoon
+- jetbrains-cadence
+- perceval-topicbox
+- codecam
 - pyest
 - coiled
 - letschatty
 - dshellInterpreter
-- embed-rerank
 - dspy-profiles
 - grizabella
-- jetbrains-cadence
 - datasurface
 - bibleg
 - sapiens-transformers
@@ -41,53 +94,3 @@
 - py-html-logger
 - oxylabs-mcp
 - pas.plugins.kimug
-- datupapi
-- presto
-- maps4fs
-- icat-plus-client
-- plua
-- oianalytics
-- perceval
-- minecraft-datapack-language
-- WebCrawler-x
-- opik
-- qm-qua
-- bedrock-protocol-binarystream
-- nova-ci-rescue
-- emmaemb
-- icsystemutils
-- wtfami
-- qxmt
-- miniform
-- gr4vy
-- apimatic-twilio-sdk
-- EIR-auto-GP
-- wandelbots-api-client
-- dbos
-- openaleph-search
-- sopel-tld
-- easter
-- psiutils
-- email-template-review-mcp
-- plotmath
-- fullscreen-alert
-- gdal2numpy
-- mater
-- open-schools
-- devsecops-engine-tools
-- nglm-ai
-- data-go-mcp.presidential-speeches
-- mteb
-- cicore
-- flash-amr-tools
-- pygar-client
-- vidtally
-- mlflow-fr
-- PyQrackIsing
-- friendly-module-not-found-error
-- spiritlong
-- koubou
-- radboy
-- icsneopy
-- vae-toolkit
-- openaleph-procrastinate

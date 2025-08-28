@@ -1,11 +1,11 @@
 {
   "name": "miniform",
-  "version": "0.1.2.post4",
+  "version": "0.1.2.post6",
   "summary": "A neat little thing... with nightly updates",
   "author": "Izaiyah Stokes",
   "license": null,
   "home_page": "https://github.com/r3shape/miniform",
-  "download_filename": "miniform-0.1.2.post4.tar.gz",
-  "download_time": "2025-08-28T14:55:43.906954",
+  "download_filename": "miniform-0.1.2.post6.tar.gz",
+  "download_time": "2025-08-28T15:21:55.973291",
   "package_url": "https://pypi.org/project/miniform/"
 }

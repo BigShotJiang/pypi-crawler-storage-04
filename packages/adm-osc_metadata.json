@@ -1,0 +1,11 @@
+{
+  "name": "adm-osc",
+  "version": "1.0.2",
+  "summary": "ADM-OSC client/server Python module for ADM-OSC protocol validation, tests and stress",
+  "author": "Gael Martinet",
+  "license": null,
+  "home_page": "https://github.com/immersive-audio-live/ADM-OSC",
+  "download_filename": "adm_osc-1.0.2.tar.gz",
+  "download_time": "2025-08-28T15:22:10.803906",
+  "package_url": "https://pypi.org/project/adm-osc/"
+}
