@@ -1,0 +1,11 @@
+{
+  "name": "questionary",
+  "version": "2.1.1",
+  "summary": "Python library to build pretty command line user prompts ⭐️",
+  "author": "Tom Bocklisch",
+  "license": "MIT",
+  "home_page": "https://github.com/tmbo/questionary",
+  "download_filename": "questionary-2.1.1.tar.gz",
+  "download_time": "2025-08-28T19:17:13.437716",
+  "package_url": "https://pypi.org/project/questionary/"
+}

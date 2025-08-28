@@ -1,0 +1,11 @@
+{
+  "name": "gitbridge",
+  "version": "1.0.0",
+  "summary": "Synchronize GitHub repositories when git access is blocked",
+  "author": "Nevedomski Sergei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitbridge-1.0.0.tar.gz",
+  "download_time": "2025-08-28T19:17:05.640984",
+  "package_url": "https://pypi.org/project/gitbridge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-security-framework",
+  "version": "1.1.0",
+  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_security_framework-1.1.0.tar.gz",
+  "download_time": "2025-08-28T19:17:16.633742",
+  "package_url": "https://pypi.org/project/mcp-security-framework/"
+}

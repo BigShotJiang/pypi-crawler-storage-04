@@ -1,11 +1,11 @@
 {
   "name": "rootly-mcp-server",
-  "version": "2.0.12",
+  "version": "2.0.13",
   "summary": "A Model Context Protocol server for Rootly APIs using OpenAPI spec",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rootly_mcp_server-2.0.12.tar.gz",
-  "download_time": "2025-08-28T17:52:11.746794",
+  "download_filename": "rootly_mcp_server-2.0.13.tar.gz",
+  "download_time": "2025-08-28T19:17:15.526694",
   "package_url": "https://pypi.org/project/rootly-mcp-server/"
 }

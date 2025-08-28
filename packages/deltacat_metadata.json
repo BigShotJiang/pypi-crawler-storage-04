@@ -1,0 +1,11 @@
+{
+  "name": "deltacat",
+  "version": "1.1.38",
+  "summary": "A scalable, fast, ACID-compliant Data Catalog powered by Ray.",
+  "author": "Ray Team",
+  "license": null,
+  "home_page": "https://github.com/ray-project/deltacat",
+  "download_filename": "deltacat-1.1.38.tar.gz",
+  "download_time": "2025-08-28T19:17:22.805667",
+  "package_url": "https://pypi.org/project/deltacat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ediri-stackit",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A Pulumi package for creating and managing stackit resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://www.pulumi.com",
-  "download_filename": "ediri_stackit-0.2.5.tar.gz",
-  "download_time": "2025-08-28T10:55:37.435775",
+  "download_filename": "ediri_stackit-0.2.6.tar.gz",
+  "download_time": "2025-08-28T19:17:09.267128",
   "package_url": "https://pypi.org/project/ediri-stackit/"
 }

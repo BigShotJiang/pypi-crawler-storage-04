@@ -1,0 +1,11 @@
+{
+  "name": "kodexa-document",
+  "version": "8.0.17305633056",
+  "summary": "Python SDK for the Kodexa Document Database (KDDB)",
+  "author": "Austin Redenbaugh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kodexa_document-8.0.17305633056.tar.gz",
+  "download_time": "2025-08-28T19:16:49.478815",
+  "package_url": "https://pypi.org/project/kodexa-document/"
+}
