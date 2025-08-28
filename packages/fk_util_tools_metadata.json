@@ -1,0 +1,11 @@
+{
+  "name": "fk_util_tools",
+  "version": "0.1.22",
+  "summary": "Herramientas de utilidad o funciones comunes para los proyectos de FK.",
+  "author": "Steven Santacruz Garcia",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/f3315/team-back-end/cross/packages/package_utils",
+  "download_filename": "fk_util_tools-0.1.22.tar.gz",
+  "download_time": "2025-08-28T03:51:24.522393",
+  "package_url": "https://pypi.org/project/fk_util_tools/"
+}

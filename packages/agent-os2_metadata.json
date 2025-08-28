@@ -1,0 +1,11 @@
+{
+  "name": "agent-os2",
+  "version": "1.2.4.post1",
+  "summary": "面向LLM的工作流图嵌套调度框架",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_os2-1.2.4.post1.tar.gz",
+  "download_time": "2025-08-28T03:51:20.792113",
+  "package_url": "https://pypi.org/project/agent-os2/"
+}

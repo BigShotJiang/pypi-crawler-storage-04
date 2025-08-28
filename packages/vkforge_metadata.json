@@ -1,0 +1,11 @@
+{
+  "name": "vkforge",
+  "version": "0.5.8",
+  "summary": "VkForge: A Vulkan User-End API Implementation Generator for Renderer Development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vkforge-0.5.8-py3-none-any.whl",
+  "download_time": "2025-08-28T03:51:47.125967",
+  "package_url": "https://pypi.org/project/vkforge/"
+}

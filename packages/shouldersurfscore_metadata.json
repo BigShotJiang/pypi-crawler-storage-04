@@ -1,0 +1,11 @@
+{
+  "name": "shouldersurfscore",
+  "version": "1.0.3",
+  "summary": "A python library intended to help researchers build more practical measures for shoulder surfing attack efficacy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shouldersurfscore-1.0.3.tar.gz",
+  "download_time": "2025-08-28T03:51:42.832288",
+  "package_url": "https://pypi.org/project/shouldersurfscore/"
+}
