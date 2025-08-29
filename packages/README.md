@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T03:36:10.308229
-- **Total Packages**: 78
-- **Total Size**: 60.13 MB
+- **Download Time**: 2025-08-29T03:55:38.341836
+- **Total Packages**: 79
+- **Total Size**: 31.18 MB
 
 ## Packages List
+- pulumi-sdwan
+- easy-tos
+- hammett-washington-sdk
+- SimpleLinestring
+- string-kit
+- minecraft-datapack-language
+- lumibot
+- keras-nightly
+- pulumi-confluentcloud
+- dify-sdk
+- arcas-parser
+- passive_equipment
+- kera
+- XMWAI
+- maas-backoff-scheduler
+- deepllm
+- pyasic
+- ivybloom
+- uptick-datawarehouse
+- pipen
+- p115client
+- gllm-inference-binary
+- pan-mcp-relay
+- maleo-toolkit-imaging
+- ve-mobile-use
+- odoo-addon-product-logistics-uom-total-weight
+- zepben.ewb
+- oscillatorlookups
+- numba-lapack
+- abstract-ide
+- fyuneru
+- anl-agents
+- simile
+- icsneopy
+- tigermcp
+- agentstr-sdk
+- sincpro-payments-sdk
 - odoo-addon-openupgrade-scripts
 - kengine-mcp-server
 - slimformers
@@ -13,19 +50,15 @@
 - duowen-agent
 - zenx
 - sawmil
-- p115client
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - capybara-docsaid
 - robhan-cdk-lib.utils
 - keras-rs-nightly
-- minecraft-datapack-language
 - pyqqq
 - rxfoundry.clients.swifty_oauth_api
 - rxfoundry.clients.swifty_api
 - GANDLF
-- abstract-ide
-- XMWAI
 - ugly-bot
 - xcmap
 - pact-python-ffi
@@ -52,35 +85,3 @@
 - pacc-cli
 - goblet-gcp
 - amrita
-- devstack-cli
-- toastapi
-- gfw-common
-- modal-hj3415
-- odoo14-addon-ssi-telegram
-- landuse-intensity-analysis
-- regula-facesdk-webclient
-- wujing
-- pypomes-sob
-- odoo-addon-partner-event
-- odoo-addon-event-registration-partner-unique
-- lseg-analytics
-- matlab-prodserver-client
-- types-geopandas
-- types-yt-dlp
-- types-networkx
-- pypcaptools
-- lakehouse-plumber
-- CVNN-Jamie
-- rda-python-common
-- mcpsquared-base
-- tpchgen-cli
-- CreativePython
-- odoo-addon-voip-oca
-- lite-tools
-- crawlo
-- odoo14-addon-ssi-mail-telegram
-- naif-eop-high-prec
-- evaluation-service-base
-- abstract-gui
-- hyperquant
-- pytidb

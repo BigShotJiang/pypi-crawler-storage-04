@@ -1,11 +1,11 @@
 {
   "name": "deepllm",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "summary": "Deep, recursive, goal-driven LLM explorer",
   "author": "Paul Tarau",
   "license": "GPL-3",
   "home_page": "https://github.com/ptarau/recursors.git",
-  "download_filename": "deepllm-1.8.5.tar.gz",
-  "download_time": "2025-08-28T21:18:57.594195",
+  "download_filename": "deepllm-1.8.6.tar.gz",
+  "download_time": "2025-08-29T03:55:03.810709",
   "package_url": "https://pypi.org/project/deepllm/"
 }

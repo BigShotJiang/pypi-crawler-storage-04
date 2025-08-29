@@ -1,11 +1,11 @@
 {
   "name": "XMWAI",
-  "version": "0.3.24",
+  "version": "0.3.25",
   "summary": "Small code King AI related library",
   "author": "pydevelopment",
   "license": null,
   "home_page": "https://github.com/Tonykai88/XMWAI.git",
-  "download_filename": "xmwai-0.3.24.tar.gz",
-  "download_time": "2025-08-29T03:35:34.040686",
+  "download_filename": "xmwai-0.3.25.tar.gz",
+  "download_time": "2025-08-29T03:55:02.764685",
   "package_url": "https://pypi.org/project/XMWAI/"
 }
