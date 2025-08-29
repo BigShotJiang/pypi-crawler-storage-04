@@ -1,0 +1,11 @@
+{
+  "name": "airflow-providers-wherobots",
+  "version": "1.4.2",
+  "summary": "Airflow extension for communicating with Wherobots Cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_providers_wherobots-1.4.2.tar.gz",
+  "download_time": "2025-08-29T04:43:53.482790",
+  "package_url": "https://pypi.org/project/airflow-providers-wherobots/"
+}
