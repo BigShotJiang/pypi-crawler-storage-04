@@ -1,11 +1,11 @@
 {
   "name": "segmented-creator",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Add description",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "segmented_creator-0.1.12.tar.gz",
-  "download_time": "2025-08-29T21:38:17.877369",
+  "download_filename": "segmented_creator-0.1.14.tar.gz",
+  "download_time": "2025-08-29T21:52:28.345029",
   "package_url": "https://pypi.org/project/segmented-creator/"
 }

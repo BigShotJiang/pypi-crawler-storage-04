@@ -1,0 +1,11 @@
+{
+  "name": "python-build-utils",
+  "version": "0.3.3",
+  "summary": "Small collection of command line utilities to assist with building your python wheels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_build_utils-0.3.3.tar.gz",
+  "download_time": "2025-08-29T21:52:24.797257",
+  "package_url": "https://pypi.org/project/python-build-utils/"
+}

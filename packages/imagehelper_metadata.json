@@ -1,0 +1,11 @@
+{
+  "name": "imagehelper",
+  "version": "0.8.0",
+  "summary": "Simple utilites for image resizing and uploading and stuff like that.",
+  "author": "Jonathan Vanasco",
+  "license": "BSD",
+  "home_page": "http://github.com/jvanasco/imagehelper",
+  "download_filename": "imagehelper-0.8.0.tar.gz",
+  "download_time": "2025-08-29T21:52:21.197000",
+  "package_url": "https://pypi.org/project/imagehelper/"
+}
