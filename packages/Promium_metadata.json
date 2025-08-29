@@ -1,0 +1,11 @@
+{
+  "name": "Promium",
+  "version": "3.6.11",
+  "summary": "Selenium wrapper for testing Web UI",
+  "author": "Denis Korytkin, Nataliia Guieva, Roman Zaporozhets, Vladimir Kritov, Oleh Dykusha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "promium-3.6.11.tar.gz",
+  "download_time": "2025-08-29T14:43:15.785415",
+  "package_url": "https://pypi.org/project/Promium/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scann",
+  "version": "1.4.2",
+  "summary": "Scalable Nearest Neighbor search library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scann-1.4.2-cp310-cp310-manylinux_2_27_aarch64.whl",
+  "download_time": "2025-08-29T14:43:11.613305",
+  "package_url": "https://pypi.org/project/scann/"
+}

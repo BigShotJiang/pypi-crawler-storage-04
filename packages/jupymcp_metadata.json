@@ -1,0 +1,11 @@
+{
+  "name": "jupymcp",
+  "version": "0.2.0",
+  "summary": "Jupyter + MCP with comprehensive resource support",
+  "author": "Ziya Tang (唐梓涯)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupymcp-0.2.0.tar.gz",
+  "download_time": "2025-08-29T14:43:12.132261",
+  "package_url": "https://pypi.org/project/jupymcp/"
+}

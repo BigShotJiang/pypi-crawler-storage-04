@@ -1,0 +1,11 @@
+{
+  "name": "vuefinder-wsgi",
+  "version": "1.5.1",
+  "summary": "WSGI app to use PyFilesystem2 with vuefinder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vuefinder_wsgi-1.5.1.tar.gz",
+  "download_time": "2025-08-29T14:43:02.624915",
+  "package_url": "https://pypi.org/project/vuefinder-wsgi/"
+}

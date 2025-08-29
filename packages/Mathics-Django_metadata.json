@@ -1,0 +1,11 @@
+{
+  "name": "Mathics-Django",
+  "version": "9.0.0",
+  "summary": "A Django front end for Mathics3.",
+  "author": null,
+  "license": "GPL",
+  "home_page": "https://mathics.org/",
+  "download_filename": "mathics_django-9.0.0.tar.gz",
+  "download_time": "2025-08-29T14:43:09.471814",
+  "package_url": "https://pypi.org/project/Mathics-Django/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-ibm",
+  "version": "0.5.0",
+  "summary": "llama-index embeddings IBM watsonx.ai integration",
+  "author": "IBM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_ibm-0.5.0.tar.gz",
+  "download_time": "2025-08-29T14:43:00.540039",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-ibm/"
+}

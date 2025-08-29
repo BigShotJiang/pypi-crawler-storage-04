@@ -1,0 +1,11 @@
+{
+  "name": "nwmurl",
+  "version": "1.0.4",
+  "summary": "URL generator tool for National Water Model data",
+  "author": "Sepehr Karimi (CIROH)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nwmurl-1.0.4.tar.gz",
+  "download_time": "2025-08-29T14:43:27.269726",
+  "package_url": "https://pypi.org/project/nwmurl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paquo",
+  "version": "0.9.0",
+  "summary": "library for interacting with QuPath",
+  "author": "Santiago Villalba, Andreas Poehlmann",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bayer-science-for-a-better-life/paquo",
+  "download_filename": "paquo-0.9.0.tar.gz",
+  "download_time": "2025-08-29T14:43:12.652094",
+  "package_url": "https://pypi.org/project/paquo/"
+}
