@@ -1,0 +1,11 @@
+{
+  "name": "iLaplace",
+  "version": "1.2.0",
+  "summary": "A minimal Python interface for computing inverse Laplace transforms using Talbot’s method — designed as a clean and practical wrapper around sympy & mpmath",
+  "author": "Mohammad Hossein Rostami",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ilaplace-1.2.0.tar.gz",
+  "download_time": "2025-08-29T20:52:17.512518",
+  "package_url": "https://pypi.org/project/iLaplace/"
+}

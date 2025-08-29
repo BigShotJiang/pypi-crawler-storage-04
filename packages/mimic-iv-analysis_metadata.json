@@ -1,11 +1,11 @@
 {
   "name": "mimic-iv-analysis",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "A data science and machine learning framework for nursing research",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mimic_iv_analysis-1.6.0.tar.gz",
-  "download_time": "2025-08-29T20:22:23.044216",
+  "download_filename": "mimic_iv_analysis-1.6.1.tar.gz",
+  "download_time": "2025-08-29T20:52:20.693639",
   "package_url": "https://pypi.org/project/mimic-iv-analysis/"
 }

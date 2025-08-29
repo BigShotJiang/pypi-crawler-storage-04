@@ -1,17 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T20:41:24.688592
-- **Total Packages**: 82
-- **Total Size**: 30.05 MB
+- **Download Time**: 2025-08-29T20:53:01.320334
+- **Total Packages**: 85
+- **Total Size**: 11.0 MB
 
 ## Packages List
+- git-rebase-branches
+- iLaplace
+- sapiopycommons
+- authentik-client
+- paypal-agent-toolkit
+- common-grants-sdk
+- franklin-cli
+- mimic-iv-analysis
+- BridgeFuncRecovery
+- rediskit
+- mdfusion
+- textcompat
+- aient
+- snowpipe-streaming
+- sae-lens
+- floofyredpanda
+- l6e-forge-cli
+- l6e-forge
+- flippy-lang
+- claude-mpm
+- multicollections
+- flashplot
+- aind-dynamic-foraging-data-utils
+- yahi
+- trl
+- coiled
+- phonetic-bangla
+- pyfusefilter
+- openstack-lb-info
+- narada-pyodide
+- narada-core
+- narada
+- revoxx
 - cdk-s3-vectors
 - truss-transfer
 - surya-ocr
 - numero-fun
-- flashplot
-- authentik-client
 - neutronapi
 - distilled
 - devsecops-engine-tools
@@ -19,7 +50,6 @@
 - trancit
 - Trajectree
 - pyspecan
-- mdfusion
 - neurograd
 - flash-llm-rl
 - pycrdt
@@ -53,7 +83,6 @@
 - tensor-engine
 - picoagents
 - fink-client
-- trl
 - csv-to-json-format
 - globus-cli
 - sage-agent-internal
@@ -62,29 +91,3 @@
 - nominal-api
 - oprc-py
 - boto3-refresh-session
-- amweb
-- codearkt
-- blackops-legacy
-- alignsar
-- starhtml
-- luxorasap
-- fetchtastic
-- affine-gaps
-- desto
-- cdk8s-plus-32
-- cdk8s-plus-31
-- pavdedutor
-- mimic-iv-analysis
-- datasentinel
-- prismintelligence
-- zoom-meeting-sdk
-- academia-mcp
-- PULSEY
-- wandelbots-api-client
-- i3-auto-floating
-- ibm-watsonx-orchestrate
-- sbt-zapp
-- polvo
-- ozzy-pic
-- behave-parallel-runners
-- nsa-fusion

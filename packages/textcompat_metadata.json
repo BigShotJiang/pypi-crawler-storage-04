@@ -1,0 +1,11 @@
+{
+  "name": "textcompat",
+  "version": "0.1.0a0",
+  "summary": "Python library handling conversions from `typing.Text` (Python 2 `unicode`, Python 3 `str`) to UTF-8, URI, stdin/stdout, and filesystem `str`s, and vice versa.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textcompat-0.1.0a0.tar.gz",
+  "download_time": "2025-08-29T20:52:22.810874",
+  "package_url": "https://pypi.org/project/textcompat/"
+}
