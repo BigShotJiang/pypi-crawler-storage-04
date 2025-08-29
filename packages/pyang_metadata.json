@@ -1,0 +1,11 @@
+{
+  "name": "pyang",
+  "version": "2.7.1",
+  "summary": "A YANG (RFC 6020/7950) validator and converter",
+  "author": "Martin Bjorklund",
+  "license": "BSD",
+  "home_page": "https://github.com/mbj4668/pyang",
+  "download_filename": "pyang-2.7.1.tar.gz",
+  "download_time": "2025-08-29T07:39:02.400446",
+  "package_url": "https://pypi.org/project/pyang/"
+}

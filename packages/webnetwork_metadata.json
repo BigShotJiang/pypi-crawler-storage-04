@@ -1,11 +1,11 @@
 {
   "name": "webnetwork",
-  "version": "1.1.4",
+  "version": "1.2.3",
   "summary": "Automatic web server monitoring and defensive DoS/DDoS detection with blocking",
   "author": "hackinglab",
   "license": "MIT",
   "home_page": "https://github.com/bytebreach/webnetwork",
-  "download_filename": "webnetwork-1.1.4.tar.gz",
-  "download_time": "2025-08-29T07:20:06.072411",
+  "download_filename": "webnetwork-1.2.3.tar.gz",
+  "download_time": "2025-08-29T07:39:34.792027",
   "package_url": "https://pypi.org/project/webnetwork/"
 }

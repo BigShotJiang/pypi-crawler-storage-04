@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-atr",
+  "version": "0.1.0",
+  "summary": "Plugin mtcli do indicador ATR",
+  "author": "Valmir França da Silva",
+  "license": null,
+  "home_page": "https://pypi.org/project/mtcli-atr",
+  "download_filename": "mtcli_atr-0.1.0.tar.gz",
+  "download_time": "2025-08-29T07:39:18.857290",
+  "package_url": "https://pypi.org/project/mtcli-atr/"
+}

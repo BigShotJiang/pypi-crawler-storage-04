@@ -1,0 +1,11 @@
+{
+  "name": "PyQtInspect",
+  "version": "0.4.0",
+  "summary": "To inspect PyQt/PySide program elements like Chrome's element inspector",
+  "author": "Jianzhang Chen",
+  "license": "EPL-2.0",
+  "home_page": "https://jeza-chen.com/PyqtInspect",
+  "download_filename": "pyqtinspect-0.4.0.tar.gz",
+  "download_time": "2025-08-29T07:39:25.090926",
+  "package_url": "https://pypi.org/project/PyQtInspect/"
+}

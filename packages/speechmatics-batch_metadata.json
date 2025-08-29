@@ -1,0 +1,11 @@
+{
+  "name": "speechmatics-batch",
+  "version": "0.4.1",
+  "summary": "Speechmatics Batch API Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speechmatics_batch-0.4.1.tar.gz",
+  "download_time": "2025-08-29T07:39:22.446841",
+  "package_url": "https://pypi.org/project/speechmatics-batch/"
+}

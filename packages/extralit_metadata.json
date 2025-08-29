@@ -1,0 +1,11 @@
+{
+  "name": "extralit",
+  "version": "0.6.1",
+  "summary": "Open-source tool for accurate & fast scientific literature data extraction with LLM and human-in-the-loop.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "extralit-0.6.1.tar.gz",
+  "download_time": "2025-08-29T07:39:20.013860",
+  "package_url": "https://pypi.org/project/extralit/"
+}
