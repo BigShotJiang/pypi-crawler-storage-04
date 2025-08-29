@@ -1,0 +1,11 @@
+{
+  "name": "cloudmersive-cdr-api-client",
+  "version": "3.0.0",
+  "summary": "CDR API",
+  "author": null,
+  "license": null,
+  "home_page": "https://cloudmersive.com/cdr-api",
+  "download_filename": "cloudmersive_cdr_api_client-3.0.0.tar.gz",
+  "download_time": "2025-08-29T05:20:05.460156",
+  "package_url": "https://pypi.org/project/cloudmersive-cdr-api-client/"
+}
