@@ -1,11 +1,11 @@
 {
   "name": "amusic",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "summary": "A MIDI visualizer with VFX.",
   "author": "SolamateanTehCoder",
   "license": null,
   "home_page": "https://github.com/SolamateanTehCoder/amusic",
-  "download_filename": "amusic-2.4.3.tar.gz",
-  "download_time": "2025-08-28T13:45:42.885252",
+  "download_filename": "amusic-2.4.4.tar.gz",
+  "download_time": "2025-08-29T16:47:05.027213",
   "package_url": "https://pypi.org/project/amusic/"
 }

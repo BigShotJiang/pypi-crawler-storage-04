@@ -1,0 +1,11 @@
+{
+  "name": "tonic-textual",
+  "version": "3.12.1",
+  "summary": "Wrappers around the Tonic Textual API",
+  "author": "Adam Kamor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tonic_textual-3.12.1.tar.gz",
+  "download_time": "2025-08-29T16:47:04.376269",
+  "package_url": "https://pypi.org/project/tonic-textual/"
+}

@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T16:26:57.768172
-- **Total Packages**: 94
-- **Total Size**: 26.37 MB
+- **Download Time**: 2025-08-29T16:47:57.256164
+- **Total Packages**: 86
+- **Total Size**: 29.65 MB
 
 ## Packages List
+- vellum-ai
+- tower
+- sppyte
+- orb-billing
+- tonic-textual
+- amusic
+- amino.dorks.fix
+- kfactory
+- schematicpy
+- authentik-client
+- snakestack
+- ytsaurus-client
+- multimodal-communication
+- gfw-common
+- python-flint
+- testflows.github.hetzner.runners
+- neurograd
+- tidy-cli
+- wxautox
+- expr-codegen
+- lightrag-hku
+- standardbots
+- rslearn
+- dialectid
+- featureform-enterprise
+- kumo-api
+- detquantlib
+- splicespectrax
+- calimero-client-py
+- nbitk
+- fastsqs
+- pulumi-aws-native
+- tessdb-dao
+- bids-validator-deno
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- policyengine-us
+- gdsfactoryplus
+- Whispey
+- mcdreforged
+- handit-ai
+- odoo-addon-loyalty-partner-applicability
+- cisco-network-simulation-by-karpagam
+- worker-automate-hub
+- colocationpy
+- cocalc-api
+- LogicExplainML
+- watershed-delineation
+- pwnkit
+- aqwel-aion
+- xlizard
+- dj-stripe
 - hyperquant
 - insee-mcp
 - wyrestorm-networkhd
@@ -13,9 +65,7 @@
 - edgartools
 - odoo-addon-event-registration-multi-qty
 - data-retrieval-monitor
-- OSAnlizer
 - multi-agent-rlenv
-- LogicExplainML
 - dibisoplot
 - aiorezka
 - openghg
@@ -25,7 +75,6 @@
 - genicam
 - im-data-manager-job-decoder
 - vercel-cli
-- bids-validator-deno
 - onnx-diagnostic
 - phdu
 - gevent
@@ -34,7 +83,6 @@
 - lineagentic-kg
 - hilcat
 - gcloud-rest-storage
-- handit-ai
 - cognee-community-hybrid-adapter-duckdb
 - neuracore
 - videosdk-plugins-turn-detector
@@ -44,59 +92,3 @@
 - videosdk-plugins-smallestai
 - pyrtex
 - videosdk-plugins-sip
-- videosdk-plugins-simli
-- videosdk-plugins-silero
-- access-specifiers
-- videosdk-plugins-sarvamai
-- videosdk-plugins-rnnoise
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- autocrud
-- SSDraw
-- videosdk-plugins-papla
-- videosdk-plugins-openai
-- videosdk-plugins-neuphonic
-- videosdk-plugins-navana
-- videosdk-plugins-lmnt
-- videosdk-plugins-inworldai
-- videosdk-plugins-humeai
-- authentik-client
-- videosdk-plugins-groq
-- videosdk-plugins-google
-- konfuzio-sdk
-- videosdk-plugins-elevenlabs
-- videosdk-plugins-deepgram
-- McCalcTools
-- videosdk-plugins-cerebras
-- videosdk-plugins-cartesia
-- videosdk-plugins-aws
-- synmax-api-python-client
-- videosdk-plugins-assemblyai
-- videosdk-plugins-anthropic
-- videosdk-agents
-- keboola-mcp-server
-- devboiler
-- roseau-load-flow-engine
-- llama-index-workflows
-- echemdb-ecdata
-- flink-mcp
-- veloxx
-- Avalara.SDK
-- rfs-framework
-- motoko
-- fluidattacks-core
-- yandex-neurosupport
-- langgate-transform
-- langgate-server
-- langgate-sdk
-- langgate-registry
-- langgate-processor
-- langgate-core
-- langgate-client
-- langgate
-- zalfmas-capnp-schemas
-- phylum
-- agi-med-common
-- pybiolib
-- cuda-pathfinder
-- myhelloworld-pypi

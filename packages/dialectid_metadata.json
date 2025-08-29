@@ -1,0 +1,11 @@
+{
+  "name": "dialectid",
+  "version": "0.1.4",
+  "summary": "Set of algorithms to detect the dialect of a given text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dialectid-0.1.4.tar.gz",
+  "download_time": "2025-08-29T16:47:17.214016",
+  "package_url": "https://pypi.org/project/dialectid/"
+}

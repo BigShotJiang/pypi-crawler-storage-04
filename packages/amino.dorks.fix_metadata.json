@@ -1,11 +1,11 @@
 {
   "name": "amino.dorks.fix",
-  "version": "2.3.6.1",
-  "summary": "Library for Amino. Discord - https://discord.gg/Bf3dpBRJHj",
-  "author": "MISTERIO_IS_GOD",
+  "version": "2.3.6.2",
+  "summary": "Library for Amino. Telegram - https://t.me/aminodorks",
+  "author": "misterio",
   "license": "MIT",
-  "home_page": "https://github.com/Minori100/Amino.fix",
-  "download_filename": "amino_dorks_fix-2.3.6.1.tar.gz",
-  "download_time": "2025-08-29T14:42:57.386109",
+  "home_page": "https://github.com/misterio060/amino.dorks.fix",
+  "download_filename": "amino_dorks_fix-2.3.6.2.tar.gz",
+  "download_time": "2025-08-29T16:47:05.665043",
   "package_url": "https://pypi.org/project/amino.dorks.fix/"
 }
