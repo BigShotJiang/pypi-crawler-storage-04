@@ -1,11 +1,11 @@
 {
   "name": "aiopurpleair",
-  "version": "2025.8.0",
+  "version": "2025.8.1",
   "summary": "A Python 3, asyncio-based library to interact with the PurpleAir API",
   "author": "Aaron Bach",
   "license": "MIT",
   "home_page": "https://github.com/bachya/aiopurpleair",
-  "download_filename": "aiopurpleair-2025.8.0.tar.gz",
-  "download_time": "2025-08-29T20:22:44.103611",
+  "download_filename": "aiopurpleair-2025.8.1.tar.gz",
+  "download_time": "2025-08-29T20:41:00.117748",
   "package_url": "https://pypi.org/project/aiopurpleair/"
 }

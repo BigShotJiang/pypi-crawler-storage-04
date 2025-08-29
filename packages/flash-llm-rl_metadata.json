@@ -1,0 +1,11 @@
+{
+  "name": "flash-llm-rl",
+  "version": "1.0.3",
+  "summary": "flash llm rl",
+  "author": "Lucas Liu",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/yaof20/Flash-RL",
+  "download_filename": "flash_llm_rl-1.0.3.tar.gz",
+  "download_time": "2025-08-29T20:40:49.723724",
+  "package_url": "https://pypi.org/project/flash-llm-rl/"
+}

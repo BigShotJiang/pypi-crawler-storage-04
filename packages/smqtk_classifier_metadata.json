@@ -1,0 +1,11 @@
+{
+  "name": "smqtk_classifier",
+  "version": "0.20.0",
+  "summary": "Algorithms, data structures and utilities around performing classificationof inputs.",
+  "author": "Kitware, Inc.",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Kitware/SMQTK-Classifier",
+  "download_filename": "smqtk_classifier-0.20.0.tar.gz",
+  "download_time": "2025-08-29T20:40:52.368363",
+  "package_url": "https://pypi.org/project/smqtk_classifier/"
+}
