@@ -1,0 +1,11 @@
+{
+  "name": "cas-tools",
+  "version": "1.1.8",
+  "summary": "Cell Annotation Schema tools.",
+  "author": "Huseyin Kir",
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "cas_tools-1.1.8.tar.gz",
+  "download_time": "2025-08-29T17:42:36.356678",
+  "package_url": "https://pypi.org/project/cas-tools/"
+}

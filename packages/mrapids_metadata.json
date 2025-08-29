@@ -1,11 +1,11 @@
 {
   "name": "mrapids",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Python bindings for MicroRapids API Runtime - high-performance API client built with Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mrapids-0.1.4.tar.gz",
-  "download_time": "2025-08-29T03:35:39.243596",
+  "download_filename": "mrapids-0.1.7.tar.gz",
+  "download_time": "2025-08-29T17:42:47.841414",
   "package_url": "https://pypi.org/project/mrapids/"
 }

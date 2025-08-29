@@ -1,0 +1,11 @@
+{
+  "name": "gamdl",
+  "version": "2.6",
+  "summary": "A command-line app for downloading Apple Music songs, music videos and post videos.",
+  "author": "glomatico",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamdl-2.6.tar.gz",
+  "download_time": "2025-08-29T17:42:30.558060",
+  "package_url": "https://pypi.org/project/gamdl/"
+}

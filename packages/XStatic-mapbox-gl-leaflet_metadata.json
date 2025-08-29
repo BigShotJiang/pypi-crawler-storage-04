@@ -1,0 +1,11 @@
+{
+  "name": "XStatic-mapbox-gl-leaflet",
+  "version": "0.0.16.2",
+  "summary": "mapbox-gl-leaflet 0.0.16 (XStatic packaging standard)",
+  "author": null,
+  "license": "(same as mapbox-gl-leaflet)",
+  "home_page": "https://github.com/mapbox/mapbox-gl-leaflet",
+  "download_filename": "xstatic_mapbox_gl_leaflet-0.0.16.2.tar.gz",
+  "download_time": "2025-08-29T17:42:43.454079",
+  "package_url": "https://pypi.org/project/XStatic-mapbox-gl-leaflet/"
+}

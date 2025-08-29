@@ -1,0 +1,11 @@
+{
+  "name": "dcmbench",
+  "version": "0.1.2",
+  "summary": "A comprehensive benchmarking framework for discrete choice models",
+  "author": "Carlos Guirado",
+  "license": "MIT",
+  "home_page": "https://github.com/carlosguirado/dcmbench",
+  "download_filename": "dcmbench-0.1.2.tar.gz",
+  "download_time": "2025-08-29T17:42:31.718426",
+  "package_url": "https://pypi.org/project/dcmbench/"
+}
