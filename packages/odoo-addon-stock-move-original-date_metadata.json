@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-original-date",
+  "version": "18.0.1.0.0.3",
+  "summary": "adds the Original Date Scheduled to stock moves.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_original_date-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-08-29T04:25:48.216331",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-original-date/"
+}

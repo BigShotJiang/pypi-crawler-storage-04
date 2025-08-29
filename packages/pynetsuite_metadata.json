@@ -1,0 +1,11 @@
+{
+  "name": "pynetsuite",
+  "version": "1.0.0",
+  "summary": "NetSuite REST Record API",
+  "author": "Oracle NetSuite",
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "pynetsuite-1.0.0.tar.gz",
+  "download_time": "2025-08-29T04:26:00.630069",
+  "package_url": "https://pypi.org/project/pynetsuite/"
+}
