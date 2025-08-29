@@ -1,0 +1,11 @@
+{
+  "name": "pydov",
+  "version": "3.3.1",
+  "summary": "A Python package to download data from Databank Ondergrond Vlaanderen (DOV).",
+  "author": "DOV-Vlaanderen",
+  "license": "MIT license",
+  "home_page": "https://github.com/DOV-Vlaanderen/pydov",
+  "download_filename": "pydov-3.3.1.tar.gz",
+  "download_time": "2025-08-29T14:20:05.974579",
+  "package_url": "https://pypi.org/project/pydov/"
+}

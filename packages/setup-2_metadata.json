@@ -1,0 +1,11 @@
+{
+  "name": "setup-2",
+  "version": "0.1.0",
+  "summary": "A simple multi-database connection library (MySQL, MongoDB, SQLite)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/setup_2",
+  "download_filename": "setup_2-0.1.0.tar.gz",
+  "download_time": "2025-08-29T14:20:23.076326",
+  "package_url": "https://pypi.org/project/setup-2/"
+}

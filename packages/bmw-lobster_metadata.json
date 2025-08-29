@@ -1,0 +1,11 @@
+{
+  "name": "bmw-lobster",
+  "version": "0.14.4",
+  "summary": "Metapackage to install all LOBSTER Tools",
+  "author": "Bayerische Motoren Werke Aktiengesellschaft (BMW AG)",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/bmw-software-engineering/lobster",
+  "download_filename": "bmw_lobster-0.14.4-py3-none-any.whl",
+  "download_time": "2025-08-29T14:20:21.908466",
+  "package_url": "https://pypi.org/project/bmw-lobster/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bakedpotato",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A silly pixel-art potato baking simulator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bakedpotato-1.0.0.tar.gz",
-  "download_time": "2025-08-29T13:44:08.909587",
+  "download_filename": "bakedpotato-1.0.1.tar.gz",
+  "download_time": "2025-08-29T14:20:30.229979",
   "package_url": "https://pypi.org/project/bakedpotato/"
 }

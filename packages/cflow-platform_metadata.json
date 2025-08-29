@@ -1,0 +1,11 @@
+{
+  "name": "cflow-platform",
+  "version": "0.1.5",
+  "summary": "CFlow Platform (Phase 1 wrapper) for MCP public API, env verification, and hook installation",
+  "author": "Cerebral",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cflow_platform-0.1.5.tar.gz",
+  "download_time": "2025-08-29T14:20:01.845901",
+  "package_url": "https://pypi.org/project/cflow-platform/"
+}

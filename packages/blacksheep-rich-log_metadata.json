@@ -1,0 +1,11 @@
+{
+  "name": "blacksheep-rich-log",
+  "version": "0.0.1.1",
+  "summary": "BlackSheep access log middleware.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/@blacksheep-extensions/blacksheep-rich-log",
+  "download_filename": "blacksheep_rich_log-0.0.1.1.tar.gz",
+  "download_time": "2025-08-29T14:19:44.336627",
+  "package_url": "https://pypi.org/project/blacksheep-rich-log/"
+}

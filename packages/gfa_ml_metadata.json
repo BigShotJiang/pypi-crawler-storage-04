@@ -1,11 +1,11 @@
 {
   "name": "gfa_ml",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "summary": "ML library for end-to-end ML pipeline",
   "author": "Minh-Tri Nguyen (GreenFactory.AI)",
   "license": null,
   "home_page": null,
-  "download_filename": "gfa_ml-0.0.15.tar.gz",
-  "download_time": "2025-08-29T12:42:23.330501",
+  "download_filename": "gfa_ml-0.0.17.tar.gz",
+  "download_time": "2025-08-29T14:20:03.013908",
   "package_url": "https://pypi.org/project/gfa_ml/"
 }

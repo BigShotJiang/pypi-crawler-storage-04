@@ -1,0 +1,11 @@
+{
+  "name": "queens",
+  "version": "0.1.2",
+  "summary": "QUEENS (Queryable Energy National Statistics) — ETL + API + CLI for UK energy data.",
+  "author": "Alessandro Bigazzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "queens-0.1.2.tar.gz",
+  "download_time": "2025-08-29T14:19:45.718410",
+  "package_url": "https://pypi.org/project/queens/"
+}

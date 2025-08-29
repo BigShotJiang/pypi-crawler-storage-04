@@ -1,0 +1,11 @@
+{
+  "name": "bmw-lobster-core",
+  "version": "0.14.4",
+  "summary": "Lightweight Open BMW Software Traceability Evidence Report",
+  "author": "Bayerische Motoren Werke Aktiengesellschaft (BMW AG)",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/bmw-software-engineering/lobster",
+  "download_filename": "bmw_lobster_core-0.14.4-py3-none-any.whl",
+  "download_time": "2025-08-29T14:20:21.331350",
+  "package_url": "https://pypi.org/project/bmw-lobster-core/"
+}

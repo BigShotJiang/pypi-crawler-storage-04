@@ -1,11 +1,11 @@
 {
   "name": "lusid-drive-sdk",
-  "version": "2.1.72",
+  "version": "2.1.73",
   "summary": "FINBOURNE Drive API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": "https://github.com/finbourne/drive-sdk-python",
-  "download_filename": "lusid_drive_sdk-2.1.72.tar.gz",
-  "download_time": "2025-08-28T16:26:52.158947",
+  "download_filename": "lusid_drive_sdk-2.1.73.tar.gz",
+  "download_time": "2025-08-29T14:20:12.609051",
   "package_url": "https://pypi.org/project/lusid-drive-sdk/"
 }

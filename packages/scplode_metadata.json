@@ -1,0 +1,11 @@
+{
+  "name": "scplode",
+  "version": "0.1.0",
+  "summary": "scplode: a memory-efficient fast accesser for adata files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scplode-0.1.0.tar.gz",
+  "download_time": "2025-08-29T14:20:04.800181",
+  "package_url": "https://pypi.org/project/scplode/"
+}

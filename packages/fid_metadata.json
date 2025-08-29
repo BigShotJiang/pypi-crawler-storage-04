@@ -1,11 +1,11 @@
 {
   "name": "fid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "fid-0.1.1.tar.gz",
-  "download_time": "2025-08-29T06:31:20.550679",
+  "download_filename": "fid-0.1.2.tar.gz",
+  "download_time": "2025-08-29T14:19:58.794331",
   "package_url": "https://pypi.org/project/fid/"
 }
