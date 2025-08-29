@@ -5,7 +5,7 @@
   "author": "Simon Nilsson, Jia Jie Choong, Sophia Hwang",
   "license": "Modified BSD 3-Clause License",
   "home_page": "https://github.com/sgoldenlab/simba",
-  "download_filename": "simba_uw_tf_dev-3.7.2-py3-none-any.whl",
-  "download_time": "2025-08-29T14:54:12.438464",
+  "download_filename": "simba_uw_tf_dev-3.7.2.tar.gz",
+  "download_time": "2025-08-29T15:19:39.189921",
   "package_url": "https://pypi.org/project/simba-uw-tf-dev/"
 }

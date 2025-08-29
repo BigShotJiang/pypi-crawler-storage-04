@@ -1,0 +1,11 @@
+{
+  "name": "pixelbin",
+  "version": "4.3.0",
+  "summary": "Pixelbin SDK for Python",
+  "author": "Pixelbin",
+  "license": "MIT",
+  "home_page": "https://github.com/pixelbin-dev/pixelbin-python-sdk",
+  "download_filename": "pixelbin-4.3.0.tar.gz",
+  "download_time": "2025-08-29T15:19:26.465068",
+  "package_url": "https://pypi.org/project/pixelbin/"
+}

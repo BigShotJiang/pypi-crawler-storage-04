@@ -1,0 +1,11 @@
+{
+  "name": "ytsaurus-mcp",
+  "version": "0.1.0a1",
+  "summary": "MCP server for YT client.",
+  "author": "YTsaurus",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ytsaurus_mcp-0.1.0a1-py2.py3-none-any.whl",
+  "download_time": "2025-08-29T15:19:24.769368",
+  "package_url": "https://pypi.org/project/ytsaurus-mcp/"
+}

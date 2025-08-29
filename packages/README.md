@@ -1,15 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T14:54:57.047248
+- **Download Time**: 2025-08-29T15:20:06.438296
 - **Total Packages**: 87
-- **Total Size**: 44.05 MB
+- **Total Size**: 18.96 MB
 
 ## Packages List
-- control-arena
+- pyavd
+- icicle-playgrounds
+- phylodata
+- fiboa-cli
+- dev-agents
+- evenfasterapi
+- jupyter-ascend-theme
+- PyQrackIsing
+- sinapsis-huggingface-transformers
+- sinapsis-huggingface-grounding-dino
+- viur-core
+- sinapsis-huggingface-embeddings
+- sinapsis-huggingface-diffusers
+- sinapsis-huggingface
+- pixi-diff-to-markdown
+- ipycalc
+- scc-firewall-manager-sdk
 - emannotationschemas
-- DepthTensor
+- ytsaurus-mcp
 - forteenall-kit
+- rtems-proxy
+- pixelbin
+- senselab
+- pysdmx
+- tavo
+- alita-sdk
+- mlx-whisper
+- mongoflow
+- naeural-core
+- kaist-or-gym
+- eval-studio-client
+- eval-studio-guardrails
+- ssvc
+- airflow-laminar
+- snews-pt
+- control-arena
+- DepthTensor
 - airflow-supervisor
 - sinapsis-anomaly-detection
 - sinapsis-anomalib
@@ -60,36 +93,3 @@
 - tuzi-mcp
 - pydantic-graph
 - unitsnet-py
-- pydantic-evals
-- pydantic-ai-slim
-- pydantic-ai-examples
-- pydantic-ai
-- clai
-- wrk-platform-sdk
-- tessdb-dao
-- odoo-addon-currency-rate-update-boi
-- midr
-- ossprey
-- snowflake-data-validation
-- lineindex
-- blacksheep-rich-log
-- df-gallery
-- rainfallqc
-- fluxfootprints
-- scembed
-- tesseract-olap
-- ign-pdal-tools
-- hyperquant
-- license-checker
-- sinapsis-mem0
-- sinapsis-llama-index
-- sinapsis-llama-cpp
-- sinapsis-chatbots-base
-- drf-spectacular-auth
-- sinapsis-chatbots
-- sinapsis-chat-history
-- punchhole
-- sinapsis-anthropic
-- elluminate
-- amino.dorks.fix
-- DNMR
