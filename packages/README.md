@@ -1,27 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T04:44:31.184593
-- **Total Packages**: 71
-- **Total Size**: 8.8 MB
+- **Download Time**: 2025-08-29T04:55:54.822652
+- **Total Packages**: 69
+- **Total Size**: 11.87 MB
 
 ## Packages List
+- syft-flwr
+- xfinance-sdk
+- trl-jobs
+- aorta-sirius-dev
+- gllm-inference-binary
+- zaku
+- modusa
+- pulumi-oci
+- gitlab-api
+- statsig-python-core
+- zrb
+- aquiles-rag
+- gemini-parallel
+- taggie
+- iamdata
 - minecraft-datapack-language
+- svc-infra
 - tapestrysdk
 - robloxmemoryapi
 - airflow-providers-wherobots
 - arcas-parser
 - snaketrail
 - tlds
-- zepben.ewb
 - roe-ai
 - blues-lib
-- trl-jobs
 - chirality-framework
 - zmkj-rknn-tools
 - hds
 - augint-billing-lib
-- zaku
 - aind-registration-utils
 - tasty-agent
 - mtbp3cd
@@ -37,7 +50,6 @@
 - odoo-addon-stock-picking-batch-creation-split-kit
 - keras-nlp-nightly
 - keras-hub-nightly
-- aquiles-rag
 - pipen-cli-require
 - odoo-addon-stock-move-purchase-uom
 - sf-quant
@@ -63,17 +75,3 @@
 - ocpi-pydantic
 - keyboardsounds
 - yz-rpa-utils
-- claude-mpm
-- odoo-addon-product-customerinfo-elaboration
-- ugly-bot
-- fastvideo
-- sllmipy
-- pulumi-sdwan
-- easy-tos
-- hammett-washington-sdk
-- SimpleLinestring
-- string-kit
-- lumibot
-- keras-nightly
-- pulumi-confluentcloud
-- dify-sdk

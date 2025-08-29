@@ -1,11 +1,11 @@
 {
   "name": "taggie",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "It's like Badgie but for tags!",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "taggie-0.1.0.tar.gz",
-  "download_time": "2025-08-28T07:22:08.830969",
+  "download_filename": "taggie-0.2.0.tar.gz",
+  "download_time": "2025-08-29T04:55:18.630048",
   "package_url": "https://pypi.org/project/taggie/"
 }
