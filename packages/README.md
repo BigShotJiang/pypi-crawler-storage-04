@@ -1,19 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T20:53:01.320334
-- **Total Packages**: 85
-- **Total Size**: 11.0 MB
+- **Download Time**: 2025-08-29T21:19:17.039196
+- **Total Packages**: 81
+- **Total Size**: 10.9 MB
 
 ## Packages List
-- git-rebase-branches
+- PD-loss-balancing
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- qb-gui-api
+- tobiko-cloud-helpers
+- nsa-fusion
+- pypomes-db
+- mimic-iv-analysis
+- flippy-lang
+- architext
+- nous-llm
+- CordForge
+- policyengine-us
+- desto
+- paypal-agent-toolkit
+- eval-protocol
 - iLaplace
+- odoo-addon-l10n-br-nfe-spec
+- contraqctor
+- napari-explorer
+- standardbots
+- truss
+- pyhtml5
+- git-rebase-branches
 - sapiopycommons
 - authentik-client
-- paypal-agent-toolkit
 - common-grants-sdk
 - franklin-cli
-- mimic-iv-analysis
 - BridgeFuncRecovery
 - rediskit
 - mdfusion
@@ -24,7 +44,6 @@
 - floofyredpanda
 - l6e-forge-cli
 - l6e-forge
-- flippy-lang
 - claude-mpm
 - multicollections
 - flashplot
@@ -57,37 +76,14 @@
 - modal
 - mad-oauth2
 - smqtk_classifier
-- truss
 - workbench
 - restack_ai
-- architext
 - muso
 - workbench-bridges
 - pan-omic-consciousness-engine
 - home-assistant-intents
 - pixBoards
-- PD-loss-balancing
 - GluonixDesigner
 - openfiles-ai
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
-- aiopurpleair
-- container-registry-card-catalog
-- oaas-sdk2-py
-- nx-neptune
-- vijil-dome
-- gink
-- cerebrium
-- bauplan
-- autoreqgen
-- tensor-engine
-- picoagents
-- fink-client
-- csv-to-json-format
-- globus-cli
-- sage-agent-internal
-- satori-ci
-- nominal-api-protos
-- nominal-api
-- oprc-py
-- boto3-refresh-session

@@ -1,0 +1,11 @@
+{
+  "name": "nous-llm",
+  "version": "0.2.0",
+  "summary": "Intelligent No Frills LLM Router - A unified interface for multiple LLM providers",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "nous_llm-0.2.0.tar.gz",
+  "download_time": "2025-08-29T21:18:35.960970",
+  "package_url": "https://pypi.org/project/nous-llm/"
+}

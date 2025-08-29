@@ -1,11 +1,11 @@
 {
   "name": "architext",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "The Context Engineering framework for building smarter, more reliable AI Agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "architext-0.1.4.tar.gz",
-  "download_time": "2025-08-29T20:40:54.460048",
+  "download_filename": "architext-0.1.7.tar.gz",
+  "download_time": "2025-08-29T21:18:35.363487",
   "package_url": "https://pypi.org/project/architext/"
 }

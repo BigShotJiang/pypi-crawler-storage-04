@@ -1,0 +1,11 @@
+{
+  "name": "napari-explorer",
+  "version": "0.0.5",
+  "summary": "Browse files in a folder, filter, and open within napari",
+  "author": "Tim Monko",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/TimMonko/napari-explorer",
+  "download_filename": "napari_explorer-0.0.5.tar.gz",
+  "download_time": "2025-08-29T21:18:41.377114",
+  "package_url": "https://pypi.org/project/napari-explorer/"
+}
