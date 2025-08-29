@@ -1,0 +1,11 @@
+{
+  "name": "ScoringPy",
+  "version": "1.1.4",
+  "summary": "ScoringPy is an open-source Python library designed to streamline the development and deployment of classical credit scorecards.",
+  "author": "Anri Tvalabeishvili, Kristine Dzneladze, Akaki Benidze",
+  "license": null,
+  "home_page": "https://github.com/Qubdi/ScoringPy",
+  "download_filename": "scoringpy-1.1.4.tar.gz",
+  "download_time": "2025-08-29T11:38:56.674433",
+  "package_url": "https://pypi.org/project/ScoringPy/"
+}

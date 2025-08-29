@@ -1,0 +1,11 @@
+{
+  "name": "py12flogging",
+  "version": "0.8.0",
+  "summary": "Python logging module for developing microservices conforming to 12 Factor App methodology.",
+  "author": "Toni Sissala",
+  "license": "EUPL v1.2",
+  "home_page": "https://gitlab.tuni.fi/fsd/py12flogging",
+  "download_filename": "py12flogging-0.8.0.tar.gz",
+  "download_time": "2025-08-29T11:38:55.136984",
+  "package_url": "https://pypi.org/project/py12flogging/"
+}

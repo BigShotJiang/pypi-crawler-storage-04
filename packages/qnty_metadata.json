@@ -1,11 +1,11 @@
 {
   "name": "qnty",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "High-performance unit system library for Python with dimensional safety and fast unit conversions",
   "author": "tn3wman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qnty-0.0.1.tar.gz",
-  "download_time": "2025-08-28T22:19:38.612279",
+  "download_filename": "qnty-0.0.2.tar.gz",
+  "download_time": "2025-08-29T11:38:48.257206",
   "package_url": "https://pypi.org/project/qnty/"
 }

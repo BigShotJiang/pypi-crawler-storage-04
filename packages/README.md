@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T11:18:03.751295
-- **Total Packages**: 83
-- **Total Size**: 40.78 MB
+- **Download Time**: 2025-08-29T11:39:35.453717
+- **Total Packages**: 85
+- **Total Size**: 29.38 MB
 
 ## Packages List
+- qnty
+- quarto-cli
+- acconeer-exptool
+- keynet
+- ida-ios-helper
+- hotsos
+- qa-project-gen
+- funcnodes-core
+- janito
+- mapchete
+- pytemplify
+- MeUtils
+- py12flogging
+- environ-odoo-config
+- ntt-ai-observability-exporter
+- ScoringPy
+- cornsnake
+- cellplot
+- torchx-nightly
+- ashdisperse
+- piopiy-ai
+- lazyllm
+- ryoma-ai
+- tinybird-toolset
+- nonebot-plugin-arkguesser
+- pybiwenger
+- piprints
+- scc-firewall-manager-sdk
+- public-transport-datasets
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- python-venusclient
+- mars-patcher
+- file-detector
+- nltkaz
+- aa-freight
+- vre-language
+- angelcv
+- adestis-netbox-certificate-management
+- fastembed-gpu
+- fastembed
+- SPODESext
+- otto-api42
+- jndataset-up
+- contrast-calculus
+- acforge
+- beswarm
+- ccs-digitalmarketplace-frontend-jinja
 - fast-boiler
 - codemie-mcp-datasources
 - codemie-mcp-assistants
@@ -14,8 +62,6 @@
 - tavo
 - tb-nightly
 - mdbq
-- acforge
-- piopiy-ai
 - cloe-nessy
 - dciclient
 - jupyter-ascend-theme
@@ -36,7 +82,6 @@
 - adif-mcp
 - worker-automate-hub
 - opentelemetry-distro-odoo
-- beswarm
 - milvus-dataset
 - speedy-bg
 - codemie-sdk-python
@@ -46,46 +91,3 @@
 - odoo-addon-edi-ediversa-oca
 - odoo-addon-edi-ediversa-oca-sale-order-import
 - scikit-surgeryimage
-- python-cyborgclient
-- purpura
-- aryadocr
-- modal
-- cogent3-h5seqs
-- HandsON-BuildHat-API
-- qml-essentials
-- djangocms-rest
-- django-admin-recent-inlines
-- pyiskra
-- passagemath-rankwidth
-- passagemath-plot
-- passagemath-planarity
-- passagemath-objects
-- netkiller-chart
-- passagemath-homfly
-- passagemath-graphs
-- passagemath-glpk
-- yta-video-ffmpeg
-- passagemath-cmr
-- passagemath-cliquer
-- passagemath-cddlib
-- passagemath-categories
-- maimai-py
-- econt-bg
-- sphinx-notionbuilder
-- mcp-fofa
-- m3-db-utils
-- ert
-- cache-dit
-- readme-weaver
-- osbot-fast-api-serverless
-- aird
-- wsnsimpy
-- aioresonate
-- bakta
-- econt
-- zalfmas-capnp-schemas
-- aiorgwadmin
-- commonmeta-py
-- whatsapp-export-md
-- plane-sdk
-- konduktor-nightly
