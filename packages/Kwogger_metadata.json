@@ -1,0 +1,11 @@
+{
+  "name": "Kwogger",
+  "version": "0.2.1",
+  "summary": "A logging adapter that provides context data to each logging call over its lifetime.",
+  "author": "Brad Corlett",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kwogger-0.2.1.tar.gz",
+  "download_time": "2025-08-29T23:38:47.156547",
+  "package_url": "https://pypi.org/project/Kwogger/"
+}

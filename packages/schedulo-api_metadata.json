@@ -1,0 +1,11 @@
+{
+  "name": "schedulo-api",
+  "version": "2.4.0",
+  "summary": "An API for retrieving public data from the University of Ottawa and Carleton University.",
+  "author": "Mohammed Elhasnaoui",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/Rain6435/uoapi",
+  "download_filename": "schedulo_api-2.4.0.tar.gz",
+  "download_time": "2025-08-29T23:38:51.089205",
+  "package_url": "https://pypi.org/project/schedulo-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MetPy",
+  "version": "1.7.1",
+  "summary": "Collection of tools for reading, visualizing and performing calculations with weather data.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "metpy-1.7.1-py3-none-any.whl",
+  "download_time": "2025-08-29T23:38:53.253909",
+  "package_url": "https://pypi.org/project/MetPy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ndp-ep",
+  "version": "0.1.1",
+  "summary": "Python client library for NDP EP API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ndp_ep-0.1.1.tar.gz",
+  "download_time": "2025-08-29T23:38:47.683103",
+  "package_url": "https://pypi.org/project/ndp-ep/"
+}

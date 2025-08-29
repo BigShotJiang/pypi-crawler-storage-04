@@ -1,0 +1,11 @@
+{
+  "name": "python-simpleconf",
+  "version": "0.7.2",
+  "summary": "Simple configuration management with python.",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/simpleconf",
+  "download_filename": "python_simpleconf-0.7.2.tar.gz",
+  "download_time": "2025-08-29T23:38:48.777488",
+  "package_url": "https://pypi.org/project/python-simpleconf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "latex2mathml",
+  "version": "3.78.1",
+  "summary": "Pure Python library for LaTeX to MathML conversion",
+  "author": "Ronie Martinez",
+  "license": "MIT",
+  "home_page": "https://github.com/roniemartinez/latex2mathml",
+  "download_filename": "latex2mathml-3.78.1.tar.gz",
+  "download_time": "2025-08-29T23:38:39.526198",
+  "package_url": "https://pypi.org/project/latex2mathml/"
+}
