@@ -1,11 +1,11 @@
 {
   "name": "feed-to-sqlite",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Save an RSS or ATOM feed to a SQLITE database",
   "author": "Chris Amico",
   "license": null,
   "home_page": null,
-  "download_filename": "feed_to_sqlite-0.6.0.tar.gz",
-  "download_time": "2025-08-28T20:41:32.599032",
+  "download_filename": "feed_to_sqlite-0.6.2.tar.gz",
+  "download_time": "2025-08-29T19:16:22.628225",
   "package_url": "https://pypi.org/project/feed-to-sqlite/"
 }

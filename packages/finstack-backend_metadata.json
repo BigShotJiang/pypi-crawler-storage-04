@@ -1,11 +1,11 @@
 {
   "name": "finstack-backend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Shared backend utilities for FinStack applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finstack-backend-1.0.3.tar.gz",
-  "download_time": "2025-08-29T18:27:47.674448",
+  "download_filename": "finstack_backend-1.0.4.tar.gz",
+  "download_time": "2025-08-29T19:16:22.116943",
   "package_url": "https://pypi.org/project/finstack-backend/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "httplib2",
+  "version": "0.30.0",
+  "summary": "A comprehensive HTTP client library.",
+  "author": "Joe Gregorio",
+  "license": "MIT",
+  "home_page": "https://github.com/httplib2/httplib2",
+  "download_filename": "httplib2-0.30.0.tar.gz",
+  "download_time": "2025-08-29T19:16:27.852328",
+  "package_url": "https://pypi.org/project/httplib2/"
+}

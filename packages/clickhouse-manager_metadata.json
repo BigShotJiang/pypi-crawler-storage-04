@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-manager",
+  "version": "0.1.3",
+  "summary": "Простой и безопасный интерфейс для работы с ClickHouse",
+  "author": "Bogdan Tiyanich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickhouse_manager-0.1.3.tar.gz",
+  "download_time": "2025-08-29T19:16:08.663875",
+  "package_url": "https://pypi.org/project/clickhouse-manager/"
+}

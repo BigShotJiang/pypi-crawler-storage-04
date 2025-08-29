@@ -1,0 +1,11 @@
+{
+  "name": "cognito-ses-domain",
+  "version": "0.0.0",
+  "summary": "cognito-ses-domain",
+  "author": "Pablo Cano<pablo.cano@merapar.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/pablocano/cognito-ses-domain.git",
+  "download_filename": "cognito_ses_domain-0.0.0.tar.gz",
+  "download_time": "2025-08-29T19:16:43.412392",
+  "package_url": "https://pypi.org/project/cognito-ses-domain/"
+}

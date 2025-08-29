@@ -1,0 +1,11 @@
+{
+  "name": "active-framework",
+  "version": "2.0.0",
+  "summary": "Automated Control Testbed for Integration Verification and Emulation",
+  "author": "Kadir Amasyali",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "active_framework-2.0.0.tar.gz",
+  "download_time": "2025-08-29T19:16:40.315388",
+  "package_url": "https://pypi.org/project/active-framework/"
+}

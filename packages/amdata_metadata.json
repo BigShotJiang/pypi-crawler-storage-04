@@ -1,0 +1,11 @@
+{
+  "name": "amdata",
+  "version": "0.1.2",
+  "summary": "A simple and easy-to-use library to manage SQLite databases.",
+  "author": "Amjad",
+  "license": null,
+  "home_page": "https://github.com/HACKER-AMJAD",
+  "download_filename": "amdata-0.1.2.tar.gz",
+  "download_time": "2025-08-29T19:16:24.702589",
+  "package_url": "https://pypi.org/project/amdata/"
+}
