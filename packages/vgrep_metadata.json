@@ -1,0 +1,11 @@
+{
+  "name": "vgrep",
+  "version": "0.1.4",
+  "summary": "Vector-based grep tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vgrep-0.1.4.tar.gz",
+  "download_time": "2025-08-29T22:52:59.299156",
+  "package_url": "https://pypi.org/project/vgrep/"
+}

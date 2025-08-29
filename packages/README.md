@@ -1,11 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T22:41:27.060840
-- **Total Packages**: 97
-- **Total Size**: 31.9 MB
+- **Download Time**: 2025-08-29T22:53:23.360378
+- **Total Packages**: 95
+- **Total Size**: 20.25 MB
 
 ## Packages List
+- pulumi-digitalocean
+- pulumi-ec
+- ngiab-data-preprocess
+- pulumi-xyz
+- pavdedutor
+- rffickle
+- pulumi-meraki
+- pulumi-venafi
+- pulumi-wavefront
+- pulumi-splunk
+- tobiko-cloud-api-client
+- pulumi-tailscale
+- tobiko-cloud-helpers
+- pulumi-scm
+- tobiko-cloud-pydantic
+- ethyca-fides
+- trancit
+- pulumi-postgresql
+- resonator_measurement_FrankFei
+- pulumi-linode
+- radboy
+- pulumi-newrelic
+- honeybee-openstudio
+- pysoda-fairdataihub-tools
+- pulumi-mysql
+- natlog
+- pulumi-nomad
+- pulumi-slack
+- minecraft-datapack-language
+- pulumi-hcloud
+- pulumi-gitlab
+- pulumi-signalfx
+- sokrates-mcp
+- boto3-refresh-session
+- pulumi-harness
+- cliify
+- pulumi-rabbitmq
+- montecarlo-opentelemetry
+- pulumi-akamai
+- passagemath-topcom
+- passagemath-tdlib
+- passagemath-tachyon
+- passagemath-sympow
+- passagemath-symbolics
+- passagemath-sws2rst
+- passagemath-standard-no-symbolics
+- pulumi-opsgenie
+- pulumi-null
+- passagemath-standard
+- passagemath-sirocco
+- pulumi-openstack
+- passagemath-singular
+- passagemath-setup
+- vgrep
+- passagemath-schemes
+- passagemath-rubiks
+- regex
+- passagemath-repl
+- passagemath-qepcad
 - passagemath-polyhedra
 - passagemath-plantri
 - powerdns-cli
@@ -22,7 +81,6 @@
 - passagemath-pari
 - pulumi-ns1
 - langchain-cli-v2
-- trancit
 - todo-agent
 - neurograd
 - passagemath-palp
@@ -30,11 +88,9 @@
 - passagemath-ntl
 - passagemath-nauty
 - passagemath-msolve
-- cliify
 - passagemath-meataxe
 - pulumi-ise
 - passagemath-mcqd
-- minecraft-datapack-language
 - passagemath-maxima
 - passagemath-macaulay2
 - passagemath-lrslib
@@ -45,61 +101,3 @@
 - passagemath-latte-4ti2
 - passagemath-kissat
 - passagemath-kenzo
-- pulumi-kong
-- passagemath-groups
-- passagemath-glucose
-- passagemath-giac
-- tyro
-- passagemath-gfan
-- pulumi-azuread
-- passagemath-gap-pkg-transgrp-data
-- passagemath-gap-pkg-tomlib-data
-- passagemath-gap-pkg-smallgrp-data
-- passagemath-gap-pkg-semigroups
-- lance-ray
-- passagemath-gap-pkg-primgrp-data
-- passagemath-gap-pkg-irredsol-data
-- passagemath-gap-pkg-factint-data
-- PD-loss-balancing
-- pulumi-mailgun
-- passagemath-gap-pkg-ctbllib-data
-- passagemath-gap
-- passagemath-frobby
-- passagemath-fricas
-- passagemath-flint
-- passagemath-environment
-- passagemath-eclib
-- passagemath-ecl
-- pulumi-http
-- passagemath-docbuild
-- passagemath-doc-pdf
-- passagemath-doc-html
-- passagemath-database-symbolic-data
-- passagemath-database-stein-watkins-mini
-- passagemath-database-stein-watkins
-- pulumi-kafka
-- pulumi-keycloak
-- passagemath-database-polytopes-4d
-- passagemath-database-odlyzko-zeta
-- pulumi-fastly
-- passagemath-database-mutation-class
-- passagemath-database-kohel
-- passagemath-database-jones-numfield
-- passagemath-database-cunningham
-- passagemath-database-cremona-ellcurve
-- pulumi-github
-- passagemath-coxeter3
-- passagemath-conf
-- authentik-client
-- passagemath-buckygen
-- passagemath-brial
-- passagemath-bliss
-- passagemath-benzene
-- pulumi-f5bigip
-- pulumi-consul
-- zptess-dao
-- pulumi-external
-- pulumi-dbtcloud
-- badwulf
-- scc-firewall-manager-sdk
-- aient

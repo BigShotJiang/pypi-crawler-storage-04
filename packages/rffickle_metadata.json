@@ -1,0 +1,11 @@
+{
+  "name": "rffickle",
+  "version": "0.2.2",
+  "summary": "Roboflow fork of fickle - load pickled data as safely as possible",
+  "author": "Eduard Christian Dumitrescu, Roboflow Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/roboflow/fickle",
+  "download_filename": "rffickle-0.2.2.tar.gz",
+  "download_time": "2025-08-29T22:52:31.406134",
+  "package_url": "https://pypi.org/project/rffickle/"
+}

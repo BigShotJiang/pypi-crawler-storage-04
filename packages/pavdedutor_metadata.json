@@ -1,11 +1,11 @@
 {
   "name": "pavdedutor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Cálculo otimizado de valores deduzíveis para análise de patologias em pavimentos rígidos",
   "author": "['Wellington Moura', 'Francisco Macedo']",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pavdedutor-0.1.0.tar.gz",
-  "download_time": "2025-08-29T21:38:26.010591",
+  "download_filename": "pavdedutor-0.1.1.tar.gz",
+  "download_time": "2025-08-29T22:52:30.819555",
   "package_url": "https://pypi.org/project/pavdedutor/"
 }

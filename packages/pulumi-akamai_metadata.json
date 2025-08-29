@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-akamai",
+  "version": "9.0.1",
+  "summary": "A Pulumi package for creating and managing akamai cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_akamai-9.0.1.tar.gz",
+  "download_time": "2025-08-29T22:52:50.866017",
+  "package_url": "https://pypi.org/project/pulumi-akamai/"
+}
