@@ -1,0 +1,11 @@
+{
+  "name": "p01.publisher",
+  "version": "1.0.5",
+  "summary": "NO ZODB publisher components for Zope3",
+  "author": "Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/p01.publisher",
+  "download_filename": "p01.publisher-1.0.5.tar.gz",
+  "download_time": "2025-08-29T10:21:27.438404",
+  "package_url": "https://pypi.org/project/p01.publisher/"
+}

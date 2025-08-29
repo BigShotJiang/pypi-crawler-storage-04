@@ -1,0 +1,11 @@
+{
+  "name": "tgbotgen",
+  "version": "0.2.1",
+  "summary": "Генератор структуры проекта для Telegram-бота",
+  "author": "Александр Аваков",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tgbotgen-0.2.1.tar.gz",
+  "download_time": "2025-08-29T10:21:38.022974",
+  "package_url": "https://pypi.org/project/tgbotgen/"
+}

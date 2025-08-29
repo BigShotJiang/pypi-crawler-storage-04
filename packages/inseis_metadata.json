@@ -1,0 +1,11 @@
+{
+  "name": "inseis",
+  "version": "1.1.1",
+  "summary": "A GUI-based application for creating and running Seismic Unix workflows on Windows using the Linux subsystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inseis-1.1.1.tar.gz",
+  "download_time": "2025-08-29T10:22:02.872491",
+  "package_url": "https://pypi.org/project/inseis/"
+}

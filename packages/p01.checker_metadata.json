@@ -1,0 +1,11 @@
+{
+  "name": "p01.checker",
+  "version": "0.5.15",
+  "summary": "Python, ZCML, PT, HTML, JS, CSS source checking/linting",
+  "author": "Adam Groszer, Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/p01.checker",
+  "download_filename": "p01.checker-0.5.15.tar.gz",
+  "download_time": "2025-08-29T10:21:31.176033",
+  "package_url": "https://pypi.org/project/p01.checker/"
+}

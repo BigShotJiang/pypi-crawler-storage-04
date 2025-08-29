@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-forge",
+  "version": "3.0.0",
+  "summary": "DEPRECATED: This package has been renamed to 'acforge'. Please use 'uv tool install acforge' instead.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_code_forge-3.0.0.tar.gz",
+  "download_time": "2025-08-29T10:21:55.675384",
+  "package_url": "https://pypi.org/project/ai-code-forge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gh_release_tools",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Tools for data wrangling in github releases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gh_release_tools-0.1.6.tar.gz",
-  "download_time": "2025-08-29T07:20:18.156748",
+  "download_filename": "gh_release_tools-0.1.7.tar.gz",
+  "download_time": "2025-08-29T10:21:57.287812",
   "package_url": "https://pypi.org/project/gh_release_tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agentup",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "summary": "Create AI agents with all the trappings, out of the box.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentup-0.7.1-py3-none-any.whl",
-  "download_time": "2025-08-29T09:22:42.109879",
+  "download_filename": "agentup-0.7.3-py3-none-any.whl",
+  "download_time": "2025-08-29T10:21:29.570568",
   "package_url": "https://pypi.org/project/agentup/"
 }

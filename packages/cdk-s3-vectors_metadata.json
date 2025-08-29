@@ -1,11 +1,11 @@
 {
   "name": "cdk-s3-vectors",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "cdk-s3-vectors",
   "author": "Bimnet Tesfamariam<bimnett@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/bimnett/cdk-s3-vectors.git",
-  "download_filename": "cdk_s3_vectors-0.1.2.tar.gz",
-  "download_time": "2025-08-28T22:19:29.229737",
+  "download_filename": "cdk_s3_vectors-0.1.3.tar.gz",
+  "download_time": "2025-08-29T10:21:23.017660",
   "package_url": "https://pypi.org/project/cdk-s3-vectors/"
 }
