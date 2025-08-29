@@ -1,0 +1,11 @@
+{
+  "name": "uplc",
+  "version": "1.0.12",
+  "summary": "Python implementation of untyped plutus language core",
+  "author": "nielstron",
+  "license": "MIT",
+  "home_page": "https://github.com/opshin/uplc",
+  "download_filename": "uplc-1.0.12.tar.gz",
+  "download_time": "2025-08-29T13:44:16.148803",
+  "package_url": "https://pypi.org/project/uplc/"
+}

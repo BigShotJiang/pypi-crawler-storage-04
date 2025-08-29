@@ -1,0 +1,11 @@
+{
+  "name": "mcp-claude-code",
+  "version": "0.5.1",
+  "summary": "MCP implementation of Claude Code capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_claude_code-0.5.1.tar.gz",
+  "download_time": "2025-08-29T13:44:03.976804",
+  "package_url": "https://pypi.org/project/mcp-claude-code/"
+}

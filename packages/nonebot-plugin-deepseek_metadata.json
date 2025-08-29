@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-deepseek",
+  "version": "0.2.0",
+  "summary": "NoneBot DeepSeek 插件。接入 DeepSeek 模型，提供智能对话与问答功能",
+  "author": "KomoriDev ",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_deepseek-0.2.0.tar.gz",
+  "download_time": "2025-08-29T13:44:24.305831",
+  "package_url": "https://pypi.org/project/nonebot-plugin-deepseek/"
+}

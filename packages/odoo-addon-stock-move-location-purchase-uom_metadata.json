@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-location-purchase-uom",
+  "version": "18.0.1.0.0.2",
+  "summary": "This module 'glues' the modules stock_move_location and stock_move_purchase_uom.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_move_location_purchase_uom-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-29T13:44:22.082735",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-location-purchase-uom/"
+}

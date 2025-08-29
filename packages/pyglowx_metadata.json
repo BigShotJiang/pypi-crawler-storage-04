@@ -1,0 +1,11 @@
+{
+  "name": "pyglowx",
+  "version": "1.5.0",
+  "summary": "pyglow is a lightweight, feature rich, cross-platform, markdown-style console output formatter library for python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyglowx-1.5.0.tar.gz",
+  "download_time": "2025-08-29T13:44:35.278656",
+  "package_url": "https://pypi.org/project/pyglowx/"
+}

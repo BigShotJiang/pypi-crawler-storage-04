@@ -1,0 +1,11 @@
+{
+  "name": "checkPy",
+  "version": "2.1.2",
+  "summary": "A simple python testing framework for educational purposes",
+  "author": "Jelleas",
+  "license": "MIT",
+  "home_page": "https://github.com/Jelleas/CheckPy",
+  "download_filename": "checkpy-2.1.2.tar.gz",
+  "download_time": "2025-08-29T13:44:25.914712",
+  "package_url": "https://pypi.org/project/checkPy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dashgram",
+  "version": "0.1.0",
+  "summary": "A Python SDK for Dashgram",
+  "author": "MrNereof",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dashgram-0.1.0.tar.gz",
+  "download_time": "2025-08-29T13:44:18.907193",
+  "package_url": "https://pypi.org/project/dashgram/"
+}

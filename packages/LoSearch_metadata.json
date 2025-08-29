@@ -1,11 +1,11 @@
 {
   "name": "LoSearch",
-  "version": "0.1.1",
+  "version": "0.1.1.post1",
   "summary": "A high-performance Python search library with intelligent relevance scoring, advanced indexing capabilities, and multilingual support for Persian and English.",
   "author": "Madric",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/MadricTeam/LoSearch",
-  "download_filename": "losearch-0.1.1.tar.gz",
-  "download_time": "2025-08-29T12:42:25.988503",
+  "download_filename": "losearch-0.1.1.post1.tar.gz",
+  "download_time": "2025-08-29T13:44:39.546001",
   "package_url": "https://pypi.org/project/LoSearch/"
 }

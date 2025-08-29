@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-achievements",
+  "version": "0.1.1",
+  "summary": "Streamlit component that lets you have achievements in your application",
+  "author": "lejuliennn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_achievements-0.1.1.tar.gz",
+  "download_time": "2025-08-29T13:44:21.546933",
+  "package_url": "https://pypi.org/project/streamlit-achievements/"
+}

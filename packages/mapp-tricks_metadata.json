@@ -1,11 +1,11 @@
 {
   "name": "mapp-tricks",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Reusable code developed during my PhD in the Medical Applications of Particle Physics group at the University of Bern.",
   "author": "Lars Eggimann",
   "license": null,
   "home_page": null,
-  "download_filename": "mapp_tricks-0.1.3.tar.gz",
-  "download_time": "2025-08-28T21:18:46.757225",
+  "download_filename": "mapp_tricks-0.1.4.tar.gz",
+  "download_time": "2025-08-29T13:44:13.411053",
   "package_url": "https://pypi.org/project/mapp-tricks/"
 }

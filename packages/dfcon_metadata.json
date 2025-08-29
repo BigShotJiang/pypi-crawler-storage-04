@@ -1,0 +1,11 @@
+{
+  "name": "dfcon",
+  "version": "0.2.10",
+  "summary": "To make access to the database easier.",
+  "author": "Tamon Mikawa",
+  "license": "MIT License",
+  "home_page": "https://github.com/MTamon/dataFileController.git",
+  "download_filename": "dfcon-0.2.10.tar.gz",
+  "download_time": "2025-08-29T13:44:22.619030",
+  "package_url": "https://pypi.org/project/dfcon/"
+}

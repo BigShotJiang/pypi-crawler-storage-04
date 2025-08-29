@@ -1,0 +1,11 @@
+{
+  "name": "drf-sso-dev-internal",
+  "version": "0.0.1b8",
+  "summary": "Django DRF module for SSO authentication using CAS, OIDC, SAML, etc. Under development, use at your own risks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_sso_dev_internal-0.0.1b8.tar.gz",
+  "download_time": "2025-08-29T13:44:28.048973",
+  "package_url": "https://pypi.org/project/drf-sso-dev-internal/"
+}

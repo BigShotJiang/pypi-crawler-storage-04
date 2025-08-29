@@ -1,0 +1,11 @@
+{
+  "name": "rag-firewall",
+  "version": "0.3.1",
+  "summary": "Client-side retrieval firewall for RAG systems — blocks prompt injection and secret leaks, re-ranks stale or untrusted content, and keeps all data inside your environment.",
+  "author": "RAG Firewall Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rag_firewall-0.3.1.tar.gz",
+  "download_time": "2025-08-29T13:44:18.368702",
+  "package_url": "https://pypi.org/project/rag-firewall/"
+}
