@@ -1,0 +1,11 @@
+{
+  "name": "energyquantified",
+  "version": "0.14.7",
+  "summary": "Energy Quantified Time series API client.",
+  "author": "Energy Quantified AS",
+  "license": null,
+  "home_page": "https://github.com/energyquantified/eq-python-client",
+  "download_filename": "energyquantified-0.14.7.tar.gz",
+  "download_time": "2025-08-29T12:42:08.192286",
+  "package_url": "https://pypi.org/project/energyquantified/"
+}

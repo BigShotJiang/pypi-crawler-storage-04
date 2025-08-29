@@ -1,11 +1,11 @@
 {
   "name": "whalegamer-forecast-mcp",
-  "version": "0.1.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "A第三个版本，希望能用",
   "author": "Jker",
   "license": null,
   "home_page": null,
-  "download_filename": "whalegamer_forecast_mcp-0.1.1.tar.gz",
-  "download_time": "2025-08-28T15:22:35.009999",
+  "download_filename": "whalegamer_forecast_mcp-0.1.2.tar.gz",
+  "download_time": "2025-08-29T12:42:22.811436",
   "package_url": "https://pypi.org/project/whalegamer-forecast-mcp/"
 }

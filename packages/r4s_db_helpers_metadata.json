@@ -1,11 +1,11 @@
 {
   "name": "r4s_db_helpers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "High level classes to communicate with dbs",
   "author": "Artyom rock4ts@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "r4s_db_helpers-0.1.0.tar.gz",
-  "download_time": "2025-08-29T11:52:33.829065",
+  "download_filename": "r4s_db_helpers-0.1.1.tar.gz",
+  "download_time": "2025-08-29T12:42:24.887059",
   "package_url": "https://pypi.org/project/r4s_db_helpers/"
 }

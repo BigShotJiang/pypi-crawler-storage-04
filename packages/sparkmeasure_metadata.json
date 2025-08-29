@@ -1,0 +1,11 @@
+{
+  "name": "sparkmeasure",
+  "version": "0.26.0",
+  "summary": "Python API for sparkMeasure, a tool for performance troubleshooting of Apache Spark workloads.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "sparkmeasure-0.26.0.tar.gz",
+  "download_time": "2025-08-29T12:42:17.069909",
+  "package_url": "https://pypi.org/project/sparkmeasure/"
+}

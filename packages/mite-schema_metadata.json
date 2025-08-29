@@ -1,11 +1,11 @@
 {
   "name": "mite-schema",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "Containing the Minimum Information about a Tailoring Enzymes data standard schema and auxiliary methods",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mite_schema-1.8.1.tar.gz",
-  "download_time": "2025-08-29T10:22:01.781971",
+  "download_filename": "mite_schema-1.8.2.tar.gz",
+  "download_time": "2025-08-29T12:42:03.501817",
   "package_url": "https://pypi.org/project/mite-schema/"
 }

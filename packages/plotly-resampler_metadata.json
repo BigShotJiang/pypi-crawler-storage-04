@@ -1,0 +1,11 @@
+{
+  "name": "plotly-resampler",
+  "version": "0.11.0",
+  "summary": "Visualizing large time series with plotly",
+  "author": "Jonas Van Der Donckt",
+  "license": "MIT",
+  "home_page": "https://github.com/predict-idlab/plotly-resampler",
+  "download_filename": "plotly_resampler-0.11.0.tar.gz",
+  "download_time": "2025-08-29T12:42:27.025954",
+  "package_url": "https://pypi.org/project/plotly-resampler/"
+}

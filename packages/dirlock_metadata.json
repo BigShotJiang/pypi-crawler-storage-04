@@ -1,0 +1,11 @@
+{
+  "name": "dirlock",
+  "version": "0.3",
+  "summary": "A simple directory based lock implementation for Python.",
+  "author": "Falk B. Schimweg",
+  "license": "MIT",
+  "home_page": "https://github.com/z3rone-org/dirlock",
+  "download_filename": "dirlock-0.3.tar.gz",
+  "download_time": "2025-08-29T12:42:01.916373",
+  "package_url": "https://pypi.org/project/dirlock/"
+}

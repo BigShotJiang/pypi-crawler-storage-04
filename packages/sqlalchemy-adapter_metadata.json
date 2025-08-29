@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-adapter",
+  "version": "1.7.0",
+  "summary": "SQLAlchemy Adapter for PyCasbin",
+  "author": "Casbin",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/officialpycasbin/sqlalchemy-adapter",
+  "download_filename": "sqlalchemy_adapter-1.7.0.tar.gz",
+  "download_time": "2025-08-29T12:42:05.084327",
+  "package_url": "https://pypi.org/project/sqlalchemy-adapter/"
+}

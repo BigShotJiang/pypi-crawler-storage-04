@@ -1,11 +1,11 @@
 {
   "name": "contrast-calculus",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A high-performance computational framework for braided fusion categories and TQFT applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contrast_calculus-1.0.1.tar.gz",
-  "download_time": "2025-08-29T11:39:12.692107",
+  "download_filename": "contrast_calculus-1.0.3.tar.gz",
+  "download_time": "2025-08-29T12:41:56.205494",
   "package_url": "https://pypi.org/project/contrast-calculus/"
 }

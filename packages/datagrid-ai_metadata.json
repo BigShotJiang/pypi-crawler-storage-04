@@ -1,0 +1,11 @@
+{
+  "name": "datagrid-ai",
+  "version": "0.1.0",
+  "summary": "The official Python library for the datagrid API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datagrid_ai-0.1.0.tar.gz",
+  "download_time": "2025-08-29T12:41:46.728826",
+  "package_url": "https://pypi.org/project/datagrid-ai/"
+}

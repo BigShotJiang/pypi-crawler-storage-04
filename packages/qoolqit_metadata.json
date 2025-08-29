@@ -1,0 +1,11 @@
+{
+  "name": "qoolqit",
+  "version": "0.1.2",
+  "summary": "A Python library for developing algorithms in the Rydberg Analog Model.",
+  "author": null,
+  "license": "MIT-derived",
+  "home_page": null,
+  "download_filename": "qoolqit-0.1.2.tar.gz",
+  "download_time": "2025-08-29T12:41:57.751418",
+  "package_url": "https://pypi.org/project/qoolqit/"
+}

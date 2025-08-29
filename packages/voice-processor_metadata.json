@@ -1,11 +1,11 @@
 {
   "name": "voice-processor",
-  "version": "0.0.3",
-  "summary": "Voice recognition and text-to-speech package with Indian language support",
+  "version": "0.0.6",
+  "summary": "Voice processing: STT, TTS, and audio playback",
   "author": "mrfidal",
   "license": null,
   "home_page": "https://github.com/bytebreach/voice-processor",
-  "download_filename": "voice_processor-0.0.3.tar.gz",
-  "download_time": "2025-08-29T09:22:31.362327",
+  "download_filename": "voice_processor-0.0.6.tar.gz",
+  "download_time": "2025-08-29T12:42:00.352581",
   "package_url": "https://pypi.org/project/voice-processor/"
 }
