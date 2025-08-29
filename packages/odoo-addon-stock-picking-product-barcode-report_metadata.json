@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-picking-product-barcode-report",
-  "version": "17.0.1.0.1",
+  "version": "18.0.1.0.0.2",
   "summary": "It provides a wizard to select how many barcodes print.",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-barcode",
-  "download_filename": "odoo_addon_stock_picking_product_barcode_report-17.0.1.0.1-py3-none-any.whl",
-  "download_time": "2025-08-29T07:20:24.149150",
+  "download_filename": "odoo_addon_stock_picking_product_barcode_report-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-29T22:19:53.491298",
   "package_url": "https://pypi.org/project/odoo-addon-stock-picking-product-barcode-report/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sheshe",
+  "version": "0.1.7",
+  "summary": "SheShe: Smart High-dimensional Edge Segmentation & Hyperboundary Explorer",
+  "author": "JC + ChatGPT",
+  "license": "MIT",
+  "home_page": "https://example.com/sheshe",
+  "download_filename": "sheshe-0.1.7.tar.gz",
+  "download_time": "2025-08-29T22:19:38.035886",
+  "package_url": "https://pypi.org/project/sheshe/"
+}

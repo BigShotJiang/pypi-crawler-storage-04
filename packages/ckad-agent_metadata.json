@@ -1,0 +1,11 @@
+{
+  "name": "ckad-agent",
+  "version": "0.2.0",
+  "summary": "A CKAD (Certified Kubernetes Application Developer) exam preparation assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ckad_agent-0.2.0.tar.gz",
+  "download_time": "2025-08-29T22:19:39.127145",
+  "package_url": "https://pypi.org/project/ckad-agent/"
+}

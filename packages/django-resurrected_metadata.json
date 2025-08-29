@@ -1,0 +1,11 @@
+{
+  "name": "django-resurrected",
+  "version": "0.3.0",
+  "summary": "Soft-delete functionality for Django projects with relationship-aware deletion and restoration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_resurrected-0.3.0.tar.gz",
+  "download_time": "2025-08-29T22:19:56.072145",
+  "package_url": "https://pypi.org/project/django-resurrected/"
+}

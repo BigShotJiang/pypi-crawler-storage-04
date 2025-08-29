@@ -1,0 +1,11 @@
+{
+  "name": "konfai",
+  "version": "1.2.6",
+  "summary": "Modular and configurable Deep Learning framework with YAML and PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "konfai-1.2.6.tar.gz",
+  "download_time": "2025-08-29T22:20:02.452232",
+  "package_url": "https://pypi.org/project/konfai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "PD-loss-balancing",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A package for stabalizing and controllolling loss with feedback control",
   "author": "Addie Foote",
   "license": null,
   "home_page": null,
-  "download_filename": "pd_loss_balancing-0.1.5.tar.gz",
-  "download_time": "2025-08-29T21:18:29.953821",
+  "download_filename": "pd_loss_balancing-0.1.6.tar.gz",
+  "download_time": "2025-08-29T22:19:36.212043",
   "package_url": "https://pypi.org/project/PD-loss-balancing/"
 }

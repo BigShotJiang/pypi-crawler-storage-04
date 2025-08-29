@@ -1,0 +1,11 @@
+{
+  "name": "merrypopins",
+  "version": "1.0.4",
+  "summary": "Merrypopins: Automated pop-in detection for nano-indentation experiments tooling: load_datasets, preprocess, locate, statistics & make_dataset",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "merrypopins-1.0.4.tar.gz",
+  "download_time": "2025-08-29T22:19:34.442389",
+  "package_url": "https://pypi.org/project/merrypopins/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "listengb",
+  "version": "0.1.0",
+  "summary": "A UDP broadcast listener library for Python",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/listengb",
+  "download_filename": "listengb-0.1.0.tar.gz",
+  "download_time": "2025-08-29T22:19:50.393204",
+  "package_url": "https://pypi.org/project/listengb/"
+}

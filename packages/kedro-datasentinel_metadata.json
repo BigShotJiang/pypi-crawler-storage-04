@@ -1,0 +1,11 @@
+{
+  "name": "kedro-datasentinel",
+  "version": "0.0.1b1",
+  "summary": "A Kedro plugin to integrate Data Sentinel in Kedro projects.",
+  "author": "Sumz SAS",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": null,
+  "download_filename": "kedro_datasentinel-0.0.1b1-py3-none-any.whl",
+  "download_time": "2025-08-29T22:19:55.027292",
+  "package_url": "https://pypi.org/project/kedro-datasentinel/"
+}

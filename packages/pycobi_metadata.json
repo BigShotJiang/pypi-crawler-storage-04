@@ -1,0 +1,11 @@
+{
+  "name": "pycobi",
+  "version": "0.9.0",
+  "summary": "Python tool for parameter continuation and bifurcation analysis",
+  "author": "Richard Gast",
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "pycobi-0.9.0.tar.gz",
+  "download_time": "2025-08-29T22:19:46.231189",
+  "package_url": "https://pypi.org/project/pycobi/"
+}

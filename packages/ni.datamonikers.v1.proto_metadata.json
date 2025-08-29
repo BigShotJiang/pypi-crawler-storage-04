@@ -1,0 +1,11 @@
+{
+  "name": "ni.datamonikers.v1.proto",
+  "version": "0.1.0.dev0",
+  "summary": "Protobuf data types and service stub for NI data moniker gRPC APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_datamonikers_v1_proto-0.1.0.dev0.tar.gz",
+  "download_time": "2025-08-29T22:19:47.258903",
+  "package_url": "https://pypi.org/project/ni.datamonikers.v1.proto/"
+}
