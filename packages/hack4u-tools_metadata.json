@@ -1,0 +1,11 @@
+{
+  "name": "hack4u-tools",
+  "version": "0.5.0",
+  "summary": "Una biblioteca para consultar cursos de hack4u.",
+  "author": "Marcos",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "hack4u_tools-0.5.0.tar.gz",
+  "download_time": "2025-08-29T19:39:39.979317",
+  "package_url": "https://pypi.org/project/hack4u-tools/"
+}

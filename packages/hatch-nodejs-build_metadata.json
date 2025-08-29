@@ -1,0 +1,11 @@
+{
+  "name": "hatch-nodejs-build",
+  "version": "1.1.1",
+  "summary": "Hatch build hook plugin for Node.js builds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_nodejs_build-1.1.1.tar.gz",
+  "download_time": "2025-08-29T19:39:03.242579",
+  "package_url": "https://pypi.org/project/hatch-nodejs-build/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geointel",
+  "version": "0.1.11",
+  "summary": "AI powered geo-location to uncover the location of photos.",
+  "author": "Atiilla",
+  "license": "MIT",
+  "home_page": "https://github.com/atiilla/geointel",
+  "download_filename": "geointel-0.1.11.tar.gz",
+  "download_time": "2025-08-29T19:39:24.063740",
+  "package_url": "https://pypi.org/project/geointel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "TSSort",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A library and tool for implementing TSSort in Python, which allows for the sorting of a list using pairwise comparisons while accounting for noisy data.",
   "author": "Alexandra Fort, Daniel Swanson, Nicholas Howell",
   "license": null,
   "home_page": null,
-  "download_filename": "tssort-0.0.2.tar.gz",
-  "download_time": "2025-08-29T19:16:10.209102",
+  "download_filename": "tssort-0.0.3.tar.gz",
+  "download_time": "2025-08-29T19:38:51.704946",
   "package_url": "https://pypi.org/project/TSSort/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mpflash",
-  "version": "1.26.1",
+  "version": "1.26.2",
   "summary": "Flash and download tool for MicroPython firmwares",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mpflash-1.26.1-py3-none-any.whl",
-  "download_time": "2025-08-28T20:22:37.266488",
+  "download_filename": "mpflash-1.26.2-py3-none-any.whl",
+  "download_time": "2025-08-29T19:39:01.722825",
   "package_url": "https://pypi.org/project/mpflash/"
 }
