@@ -1,0 +1,11 @@
+{
+  "name": "somelang",
+  "version": "0.0.1",
+  "summary": "Advanced language detection library - Name reservation",
+  "author": "SomeAB",
+  "license": null,
+  "home_page": "https://github.com/SomeAB/somelang",
+  "download_filename": "somelang-0.0.1.tar.gz",
+  "download_time": "2025-08-29T02:54:42.103638",
+  "package_url": "https://pypi.org/project/somelang/"
+}

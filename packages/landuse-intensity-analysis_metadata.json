@@ -1,11 +1,11 @@
 {
   "name": "landuse-intensity-analysis",
-  "version": "1.0.5",
-  "summary": "A comprehensive Python library for land use intensity analysis implementing the Pontius-Aldwaik methodology.",
+  "version": "2.0.3",
+  "summary": "A comprehensive Python library for analyzing land use and land cover change over time using scientifically rigorous methods.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "landuse_intensity_analysis-1.0.5.tar.gz",
-  "download_time": "2025-08-28T22:19:24.271455",
+  "download_filename": "landuse_intensity_analysis-2.0.3.tar.gz",
+  "download_time": "2025-08-29T02:54:11.829995",
   "package_url": "https://pypi.org/project/landuse-intensity-analysis/"
 }

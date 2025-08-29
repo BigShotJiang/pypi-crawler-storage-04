@@ -1,11 +1,11 @@
 {
   "name": "cognix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-powered CLI development assistant",
   "author": "Cognix",
   "license": null,
   "home_page": null,
-  "download_filename": "cognix-0.1.1.tar.gz",
-  "download_time": "2025-08-28T05:41:32.876283",
+  "download_filename": "cognix-0.1.2.tar.gz",
+  "download_time": "2025-08-29T02:54:28.550051",
   "package_url": "https://pypi.org/project/cognix/"
 }

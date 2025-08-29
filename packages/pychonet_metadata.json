@@ -1,0 +1,11 @@
+{
+  "name": "pychonet",
+  "version": "2.6.17",
+  "summary": "A library for interfacing via the ECHONETlite protocol.",
+  "author": "Scott Phillips",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/pychonet/",
+  "download_filename": "pychonet-2.6.17.tar.gz",
+  "download_time": "2025-08-29T02:54:24.921070",
+  "package_url": "https://pypi.org/project/pychonet/"
+}
