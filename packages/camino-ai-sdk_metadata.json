@@ -1,11 +1,11 @@
 {
   "name": "camino-ai-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Camino AI Python SDK for location intelligence and spatial reasoning",
   "author": "Camino AI",
   "license": "MIT",
   "home_page": "https://github.com/camino-ai/camino-sdks",
-  "download_filename": "camino_ai_sdk-0.2.0.tar.gz",
-  "download_time": "2025-08-28T23:52:18.795055",
+  "download_filename": "camino_ai_sdk-0.3.0.tar.gz",
+  "download_time": "2025-08-29T15:40:03.682962",
   "package_url": "https://pypi.org/project/camino-ai-sdk/"
 }

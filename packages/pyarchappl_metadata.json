@@ -1,11 +1,11 @@
 {
   "name": "pyarchappl",
-  "version": "1.0.0.post1",
+  "version": "1.0.0.post2",
   "summary": "Python interface to Archiver Appliance",
   "author": "Tong Zhang",
   "license": "GPL3+",
   "home_page": "https://github.com/zhangt58/pyarchappl",
-  "download_filename": "pyarchappl-1.0.0.post1-py2.py3-none-any.whl",
-  "download_time": "2025-08-29T14:54:11.847754",
+  "download_filename": "pyarchappl-1.0.0.post2-py2.py3-none-any.whl",
+  "download_time": "2025-08-29T15:40:28.222083",
   "package_url": "https://pypi.org/project/pyarchappl/"
 }

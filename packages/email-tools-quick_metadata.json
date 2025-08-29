@@ -1,11 +1,11 @@
 {
   "name": "email-tools-quick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A collection of tools for email processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "email_tools_quick-1.0.0.tar.gz",
-  "download_time": "2025-08-29T11:17:26.148768",
+  "download_filename": "email_tools_quick-1.0.1.tar.gz",
+  "download_time": "2025-08-29T15:40:27.643245",
   "package_url": "https://pypi.org/project/email-tools-quick/"
 }

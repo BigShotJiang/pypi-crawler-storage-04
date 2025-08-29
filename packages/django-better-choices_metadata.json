@@ -1,0 +1,11 @@
+{
+  "name": "django-better-choices",
+  "version": "1.18",
+  "summary": "Better choices library for Django web framework",
+  "author": "Alexander Lokhman",
+  "license": "MIT",
+  "home_page": "https://github.com/lokhman/django-better-choices",
+  "download_filename": "django_better_choices-1.18.tar.gz",
+  "download_time": "2025-08-29T15:40:55.904155",
+  "package_url": "https://pypi.org/project/django-better-choices/"
+}

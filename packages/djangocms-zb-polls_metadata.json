@@ -1,11 +1,11 @@
 {
   "name": "djangocms-zb-polls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Zibanu Polls Plugin for Django CMS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "djangocms_zb_polls-1.0.1.tar.gz",
-  "download_time": "2025-08-29T14:20:01.263590",
+  "download_filename": "djangocms_zb_polls-1.0.2.tar.gz",
+  "download_time": "2025-08-29T15:40:29.442692",
   "package_url": "https://pypi.org/project/djangocms-zb-polls/"
 }

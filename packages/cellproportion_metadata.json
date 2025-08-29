@@ -1,11 +1,11 @@
 {
   "name": "cellproportion",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Cell type proportion analysis for single-cell and spatial transcriptomics data",
   "author": "Ankit Patel",
   "license": "MIT",
   "home_page": "https://github.com/ankitpatel/cellproportion",
-  "download_filename": "cellproportion-1.1.0.tar.gz",
-  "download_time": "2025-08-29T14:43:01.579562",
+  "download_filename": "cellproportion-1.1.1.tar.gz",
+  "download_time": "2025-08-29T15:40:51.767976",
   "package_url": "https://pypi.org/project/cellproportion/"
 }

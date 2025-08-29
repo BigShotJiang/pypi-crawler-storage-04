@@ -1,0 +1,11 @@
+{
+  "name": "httpx_request",
+  "version": "0.1.8.4",
+  "summary": "httpx request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/httpx_request",
+  "download_filename": "httpx_request-0.1.8.4.tar.gz",
+  "download_time": "2025-08-29T15:40:07.480533",
+  "package_url": "https://pypi.org/project/httpx_request/"
+}

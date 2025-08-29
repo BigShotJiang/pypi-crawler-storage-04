@@ -1,0 +1,11 @@
+{
+  "name": "lightfm-next",
+  "version": "1.18.6",
+  "summary": "LightFM recommendation model - Python 3.12+ compatible fork",
+  "author": "Mirodimori (Forker)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lightfm_next-1.18.6.tar.gz",
+  "download_time": "2025-08-29T15:40:54.732770",
+  "package_url": "https://pypi.org/project/lightfm-next/"
+}

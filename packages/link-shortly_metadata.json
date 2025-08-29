@@ -1,11 +1,11 @@
 {
   "name": "link-shortly",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Link-Shortly is a simple Python library to shorten links using the Link-Shortly API or compatible services (like Adlinkfy, GPLinks, etc).",
   "author": "rkndeveloper",
   "license": null,
   "home_page": "https://github.com/RknDeveloper/link-shortly",
-  "download_filename": "link_shortly-0.0.4.tar.gz",
-  "download_time": "2025-08-28T13:19:10.795971",
+  "download_filename": "link_shortly-0.0.5.tar.gz",
+  "download_time": "2025-08-29T15:40:21.021985",
   "package_url": "https://pypi.org/project/link-shortly/"
 }

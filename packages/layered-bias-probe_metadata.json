@@ -1,11 +1,11 @@
 {
   "name": "layered-bias-probe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A comprehensive toolkit for layer-wise bias analysis in language models with fine-tuning support",
   "author": "DebK",
   "license": null,
-  "home_page": "https://github.com/DebK/layered-bias-probe",
-  "download_filename": "layered_bias_probe-1.0.0.tar.gz",
-  "download_time": "2025-08-29T14:20:31.523690",
+  "home_page": "https://github.com/DevDaring/layered-bias-probe",
+  "download_filename": "layered_bias_probe-1.0.1.tar.gz",
+  "download_time": "2025-08-29T15:40:01.931390",
   "package_url": "https://pypi.org/project/layered-bias-probe/"
 }
