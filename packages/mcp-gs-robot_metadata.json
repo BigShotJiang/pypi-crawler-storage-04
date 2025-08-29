@@ -1,11 +1,11 @@
 {
   "name": "mcp-gs-robot",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Gausium OpenAPI MCP Server - Control Gausium robots through Claude",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_gs_robot-0.1.4.tar.gz",
-  "download_time": "2025-08-29T17:42:26.457207",
+  "download_filename": "mcp_gs_robot-0.1.5.tar.gz",
+  "download_time": "2025-08-29T17:52:15.605989",
   "package_url": "https://pypi.org/project/mcp-gs-robot/"
 }

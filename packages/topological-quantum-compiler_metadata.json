@@ -1,0 +1,11 @@
+{
+  "name": "topological-quantum-compiler",
+  "version": "0.1.0",
+  "summary": "A universal compiler for quantum computers based on topological principles and anyonic braiding",
+  "author": "Krishna Bajpai",
+  "license": null,
+  "home_page": "https://github.com/krish567366/TQC",
+  "download_filename": "topological_quantum_compiler-0.1.0.tar.gz",
+  "download_time": "2025-08-29T17:52:00.482054",
+  "package_url": "https://pypi.org/project/topological-quantum-compiler/"
+}
