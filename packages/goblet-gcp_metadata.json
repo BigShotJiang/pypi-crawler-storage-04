@@ -1,0 +1,11 @@
+{
+  "name": "goblet-gcp",
+  "version": "0.14.0",
+  "summary": "Framework for writing serverless rest apis in python in google cloud.",
+  "author": "Austen",
+  "license": "MIT",
+  "home_page": "https://github.com/goblet/goblet",
+  "download_filename": "goblet_gcp-0.14.0.tar.gz",
+  "download_time": "2025-08-29T03:35:49.938472",
+  "package_url": "https://pypi.org/project/goblet-gcp/"
+}

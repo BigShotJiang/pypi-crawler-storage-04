@@ -1,0 +1,11 @@
+{
+  "name": "testmark-pytest",
+  "version": "0.0.2",
+  "summary": "Write language-agnostic unit tests in Markdown. Run them in pytest.",
+  "author": "Matt Holden",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testmark_pytest-0.0.2.tar.gz",
+  "download_time": "2025-08-29T03:35:40.512495",
+  "package_url": "https://pypi.org/project/testmark-pytest/"
+}

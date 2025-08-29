@@ -1,0 +1,11 @@
+{
+  "name": "dbt-starrocks-klook-data",
+  "version": "1.8.3",
+  "summary": "The Starrocks adapter plugin for dbt, Temp For doris",
+  "author": "fujianhj, long2ice, astralidea",
+  "license": null,
+  "home_page": "https://github.com/StarRocks/dbt-starrocks/",
+  "download_filename": "dbt_starrocks_klook_data-1.8.3.tar.gz",
+  "download_time": "2025-08-29T03:35:24.415041",
+  "package_url": "https://pypi.org/project/dbt-starrocks-klook-data/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pacc-cli",
+  "version": "1.0.0",
+  "summary": "Package manager for Claude Code - simplify installation and management of Claude Code extensions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pacc_cli-1.0.0.tar.gz",
+  "download_time": "2025-08-29T03:35:49.369428",
+  "package_url": "https://pypi.org/project/pacc-cli/"
+}
