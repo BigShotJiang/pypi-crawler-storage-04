@@ -1,11 +1,11 @@
 {
   "name": "DepthTensor",
-  "version": "1.11.1",
+  "version": "1.12.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depthtensor-1.11.1.tar.gz",
-  "download_time": "2025-08-29T14:20:10.158860",
+  "download_filename": "depthtensor-1.12.0.tar.gz",
+  "download_time": "2025-08-29T14:54:08.580287",
   "package_url": "https://pypi.org/project/DepthTensor/"
 }
