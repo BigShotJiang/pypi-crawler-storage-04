@@ -1,0 +1,11 @@
+{
+  "name": "osbot-fast-api-serverless",
+  "version": "1.16.0",
+  "summary": "OSBot-Fast-API-Serverless",
+  "author": "Dinis Cruz",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "osbot_fast_api_serverless-1.16.0.tar.gz",
+  "download_time": "2025-08-29T10:54:12.301818",
+  "package_url": "https://pypi.org/project/osbot-fast-api-serverless/"
+}

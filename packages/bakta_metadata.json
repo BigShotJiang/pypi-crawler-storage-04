@@ -1,0 +1,11 @@
+{
+  "name": "bakta",
+  "version": "1.11.4",
+  "summary": "Bakta: rapid & standardized annotation of bacterial genomes, MAGs & plasmids",
+  "author": "Oliver Schwengers",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oschwengers/bakta",
+  "download_filename": "bakta-1.11.4.tar.gz",
+  "download_time": "2025-08-29T10:54:14.344649",
+  "package_url": "https://pypi.org/project/bakta/"
+}
