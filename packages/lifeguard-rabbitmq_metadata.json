@@ -1,0 +1,11 @@
+{
+  "name": "lifeguard-rabbitmq",
+  "version": "1.1.1",
+  "summary": "Lifeguard integration with RabbitMQ",
+  "author": "Diego Rubin",
+  "license": "GPL2",
+  "home_page": "https://github.com/LifeguardSystem/lifeguard-rabbitmq",
+  "download_filename": "lifeguard_rabbitmq-1.1.1.tar.gz",
+  "download_time": "2025-08-29T10:43:21.686523",
+  "package_url": "https://pypi.org/project/lifeguard-rabbitmq/"
+}

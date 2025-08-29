@@ -1,18 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T10:22:07.626606
-- **Total Packages**: 85
-- **Total Size**: 23.48 MB
+- **Download Time**: 2025-08-29T10:43:40.110804
+- **Total Packages**: 81
+- **Total Size**: 16.44 MB
 
 ## Packages List
+- hyperquant
+- listpick
+- czudf-toolkit
+- smvp
+- letta-nightly
+- tavo
+- pythonflex
+- gfa_ml
+- centum
+- ETDQualitizer
+- pixelle-mcp
+- anvil-app-server
+- heaptree-sdk
+- mkdl
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- sqlalchemy-pydantic-mapper
+- neuronum
+- elevenlabs
+- pgcrypt
+- dagtool
+- phonikud-onnx
+- codemie-sdk-python
+- phylodata
+- policyengine-uk
+- kraken123
+- sarm-sdk
+- SOLIDserverCLI
+- mbxai
+- pyjelly
+- basketball-cleaner
+- django-admin-recent-inlines
+- json_tabulator
+- yta-video-ffmpeg
+- unifyai
+- clock-app
+- mu-invenio-cli
+- tokenizers
+- yango-tech-grocery-client
+- hello-lib1234
+- matrice
+- HandsON-BuildHat-API
+- tsugu
+- bustapi
+- pydpm-xl
+- mangono-addon-odoo_cron_patch
+- osbot-fast-api
+- lifeguard-rabbitmq
 - vvdutils
 - nztaxmicrosim
-- basketball-cleaner
 - agenta
 - SOLIDserverRest
 - crawlee
-- yta-video-ffmpeg
 - p01.cdn
 - drf-spectacular-auth
 - settings-os
@@ -40,54 +86,4 @@
 - minimal-csv-diff
 - mathicsscript
 - foliantcontrib.utils
-- mbxai
 - wallo
-- tgbotgen
-- django-oemof
-- dump-things-service
-- mas-cli
-- jsktoolbox
-- mite-extras
-- langgraph-checkpoint-oceanbase
-- pymilvus
-- syncraft
-- lisdk
-- brother
-- bluecellulab
-- most-client
-- volcanic-checker
-- power-grid-model
-- beacon-api
-- dfrobot-environmental-sensor
-- smsn-telegram-notify
-- rediacc
-- agentsociety
-- rejgoo
-- multidb
-- mostlyai
-- argus-toolbelt
-- odoo-addon-mrp-multi-level
-- gslides-api
-- tbp-nightly
-- rpyc-import-bridge
-- height-parser
-- ai-code-forge
-- jvincipy
-- odoo14-addon-ssi-equipment-request
-- gh_release_tools
-- acforge
-- emta
-- nucliadb-admin-assets
-- protoswift
-- koubou
-- hyperquant
-- teradata-mcp-server
-- mite-schema
-- agentic-layer-sdk-adk
-- inseis
-- dify_plugin
-- osbot-utils
-- matchbox-db
-- syft-flwr
-- le-jit
-- pyfactx

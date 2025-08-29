@@ -1,0 +1,11 @@
+{
+  "name": "anvil-app-server",
+  "version": "1.14.0",
+  "summary": "A standalone server for Anvil full-stack Python web apps",
+  "author": "Anvil",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://anvil.works",
+  "download_filename": "anvil_app_server-1.14.0.tar.gz",
+  "download_time": "2025-08-29T10:43:02.248663",
+  "package_url": "https://pypi.org/project/anvil-app-server/"
+}

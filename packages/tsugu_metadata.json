@@ -1,11 +1,11 @@
 {
   "name": "tsugu",
-  "version": "6.3.2",
+  "version": "6.4.0",
   "summary": "Tsugu Python Frontend",
   "author": "kumoSleeping",
   "license": "MIT",
   "home_page": "https://github.com/kumoSleeping/ChatTsuguPy",
-  "download_filename": "tsugu-6.3.2.tar.gz",
-  "download_time": "2025-08-28T17:18:43.844766",
+  "download_filename": "tsugu-6.4.0.tar.gz",
+  "download_time": "2025-08-29T10:43:19.075650",
   "package_url": "https://pypi.org/project/tsugu/"
 }

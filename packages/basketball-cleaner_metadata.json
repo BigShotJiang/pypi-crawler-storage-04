@@ -1,11 +1,11 @@
 {
   "name": "basketball-cleaner",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Fill null basketball stats ratios for your dataset",
   "author": "Ananya Srinivas",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "basketball_cleaner-0.1.0.tar.gz",
-  "download_time": "2025-08-29T10:21:18.578211",
+  "download_filename": "basketball_cleaner-0.1.2.tar.gz",
+  "download_time": "2025-08-29T10:43:12.657951",
   "package_url": "https://pypi.org/project/basketball-cleaner/"
 }

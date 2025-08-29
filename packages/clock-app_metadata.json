@@ -1,0 +1,11 @@
+{
+  "name": "clock-app",
+  "version": "0.1.0",
+  "summary": "A simple CLI clock",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/Kevin589981/clock-app",
+  "download_filename": "clock_app-0.1.0.tar.gz",
+  "download_time": "2025-08-29T10:43:15.372490",
+  "package_url": "https://pypi.org/project/clock-app/"
+}

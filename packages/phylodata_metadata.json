@@ -1,11 +1,11 @@
 {
   "name": "phylodata",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phylodata-0.23.0.tar.gz",
-  "download_time": "2025-08-28T07:51:44.448995",
+  "download_filename": "phylodata-0.24.0.tar.gz",
+  "download_time": "2025-08-29T10:43:09.004309",
   "package_url": "https://pypi.org/project/phylodata/"
 }

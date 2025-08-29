@@ -1,0 +1,11 @@
+{
+  "name": "yango-tech-grocery-client",
+  "version": "0.1.5",
+  "summary": "A Python client library for interacting with the Yango Tech Grocery API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yango_tech_grocery_client-0.1.5.tar.gz",
+  "download_time": "2025-08-29T10:43:16.962662",
+  "package_url": "https://pypi.org/project/yango-tech-grocery-client/"
+}

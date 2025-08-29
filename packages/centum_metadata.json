@@ -1,0 +1,11 @@
+{
+  "name": "centum",
+  "version": "0.1.6",
+  "summary": "A Python package for water accounting using energy and water balance modeling.",
+  "author": "Your Name",
+  "license": "GPL-3.0-or-later  # Use the SPDX identifier",
+  "home_page": "https://github.com/yourusername/centum",
+  "download_filename": "centum-0.1.6-py3-none-any.whl",
+  "download_time": "2025-08-29T10:43:00.604058",
+  "package_url": "https://pypi.org/project/centum/"
+}

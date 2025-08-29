@@ -1,11 +1,11 @@
 {
   "name": "tavo",
-  "version": "0.1.13",
-  "summary": "Bino full-stack framework CLI - Python backend + Rust/SWC React SSR",
+  "version": "0.1.14",
+  "summary": "Tavo full-stack framework CLI - Python backend + Rust/SWC React SSR",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "tavo-0.1.13.tar.gz",
-  "download_time": "2025-08-29T08:48:22.950106",
+  "download_filename": "tavo-0.1.14.tar.gz",
+  "download_time": "2025-08-29T10:42:58.976898",
   "package_url": "https://pypi.org/project/tavo/"
 }

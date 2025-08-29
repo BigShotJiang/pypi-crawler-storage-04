@@ -1,0 +1,11 @@
+{
+  "name": "phonikud-onnx",
+  "version": "1.0.5",
+  "summary": "Add diacritics to Hebrew text along with phonetic marks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonikud_onnx-1.0.5.tar.gz",
+  "download_time": "2025-08-29T10:43:07.956808",
+  "package_url": "https://pypi.org/project/phonikud-onnx/"
+}
