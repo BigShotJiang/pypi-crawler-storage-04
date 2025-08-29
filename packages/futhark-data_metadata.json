@@ -1,0 +1,11 @@
+{
+  "name": "futhark-data",
+  "version": "1.0.3",
+  "summary": "Reading and writing Futhark data files",
+  "author": "Troels Henriksen",
+  "license": "ISC",
+  "home_page": "https://github.com/diku-dk/futhark-data-python",
+  "download_filename": "futhark-data-1.0.3.tar.gz",
+  "download_time": "2025-08-29T09:41:23.466577",
+  "package_url": "https://pypi.org/project/futhark-data/"
+}

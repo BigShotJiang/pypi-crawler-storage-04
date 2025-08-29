@@ -1,13 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T09:22:59.669805
-- **Total Packages**: 88
-- **Total Size**: 26.58 MB
+- **Download Time**: 2025-08-29T09:42:06.715237
+- **Total Packages**: 90
+- **Total Size**: 20.31 MB
 
 ## Packages List
-- iflow-mcp_image-search
+- aiqtoolkit-mem0ai
+- aiqtoolkit-semantic-kernel
+- SyncAi
+- aiqtoolkit-llama-index
+- mignonFramework
+- aiqtoolkit-test
+- phonenumbers
+- syncraft
+- aiqtoolkit-weave
+- phonenumberslite
+- futhark-data
+- aiqtoolkit-crewai
+- phase-cli
+- instana
+- amsatop
+- scc-firewall-manager-sdk
+- git-analytics
+- ocpi-pydantic
+- opentelemetry-instrumentation-azure-aisearch
+- tokenizers
+- snakemake
+- sparkden
+- sunpeek
+- plane-sdk
+- workspace-services
+- jl95terceira-pytools
+- pyfactx
+- technical-analysis-mcp
+- taskcluster-taskgraph
+- xgae
+- dihlibs
+- nucliadb-admin-assets
+- mosamatic2
+- CBR-FoX
+- bleuai
+- db-connector-lib
+- cwtoken
+- foliantcontrib.confluence
+- height-parser
+- plotmath
+- mbxai
 - autorino
+- aenir
+- nldcsc
+- bitget-api-client
+- maleo-toolkit-text
+- tket
+- gato-hep
+- ci-analysis-agents
+- tinybear
+- iflow-mcp_python-execute-server
+- iflow-mcp_show2user
+- hopsworks
+- hgitaly
+- iflow-mcp_memory-system
+- iflow-mcp_image-search
 - claude-cto
 - iflow-mcp_excel-edit-server
 - py-ocr-pdf
@@ -37,60 +91,8 @@
 - visier-platform-sdk
 - kognic-io
 - mfd-testing
-- height-parser
 - vyomcloudbridge
 - theoprice
-- SyncAi
 - femagtools
 - voice-processor
 - forteenall-kit
-- django-lasuite
-- retemplar
-- plotmath
-- T3ChatApi
-- bubblebarrier
-- teams-alerter
-- mach2
-- orq-ai-sdk
-- rs-server-staging
-- rs-server-frontend
-- rs-server-common
-- rs-server-catalog
-- rs-server-cadip
-- rs-server-adgs
-- HSPiPy
-- rs-dpr-service
-- rs-client-libraries
-- gdcmd
-- github2gerrit
-- agentup
-- heaptree-test-sdk
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- cozeloop
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- torch-swan
-- uniconnector
-- gllm-inference-binary
-- git-pypi
-- augint-billing-lib
-- CodeVideoRenderer
-- purnamatools
-- bisheng-ragas
-- dooservice-cli
-- gufo-snmp
-- marktplaats
-- fast-validators
-- drf-spectacular-auth
-- search-index
-- graphql-http
-- netboxlabs-orb-worker
-- swavepy
-- file-detector
-- fers-calculations
-- BoschMiniRpa
-- yta-video-ffmpeg

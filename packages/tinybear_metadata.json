@@ -1,0 +1,11 @@
+{
+  "name": "tinybear",
+  "version": "0.3.1",
+  "summary": "Where you don't need pandas yet. Tools to work with TXT, CSV, HTML, XLSX etc.",
+  "author": "Dmitry K",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinybear-0.3.1.tar.gz",
+  "download_time": "2025-08-29T09:41:45.657439",
+  "package_url": "https://pypi.org/project/tinybear/"
+}

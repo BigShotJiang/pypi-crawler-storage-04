@@ -1,11 +1,11 @@
 {
   "name": "hand2text",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Convert handwritten PDF notes to text using OCR and LLM",
   "author": "ali askar",
   "license": null,
   "home_page": "https://github.com/alihaskar/hand2text",
-  "download_filename": "hand2text-0.1.1.tar.gz",
-  "download_time": "2025-08-29T09:22:16.414552",
+  "download_filename": "hand2text-0.1.2.tar.gz",
+  "download_time": "2025-08-29T09:41:51.936102",
   "package_url": "https://pypi.org/project/hand2text/"
 }

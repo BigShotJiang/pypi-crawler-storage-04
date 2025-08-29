@@ -1,0 +1,11 @@
+{
+  "name": "bleuai",
+  "version": "0.1.0",
+  "summary": "Python SDK for Bleu AI workflow execution",
+  "author": "Bleu AI",
+  "license": "MIT",
+  "home_page": "https://github.com/buildbleu/bleuai-python",
+  "download_filename": "bleuai-0.1.0.tar.gz",
+  "download_time": "2025-08-29T09:41:37.741333",
+  "package_url": "https://pypi.org/project/bleuai/"
+}

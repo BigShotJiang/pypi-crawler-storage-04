@@ -1,11 +1,11 @@
 {
   "name": "bitget-api-client",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Python client for the Bitget API V2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitget_api_client-0.1.4.tar.gz",
-  "download_time": "2025-08-28T13:45:40.326666",
+  "download_filename": "bitget_api_client-0.1.6.tar.gz",
+  "download_time": "2025-08-29T09:41:43.011067",
   "package_url": "https://pypi.org/project/bitget-api-client/"
 }
