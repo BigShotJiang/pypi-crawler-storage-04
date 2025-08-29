@@ -1,0 +1,11 @@
+{
+  "name": "pyramid_dogpile_cache2",
+  "version": "1.2.0",
+  "summary": "Integrates dogpile.cache for Pyramid",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyramid_dogpile_cache2-1.2.0.tar.gz",
+  "download_time": "2025-08-29T11:52:21.779268",
+  "package_url": "https://pypi.org/project/pyramid_dogpile_cache2/"
+}

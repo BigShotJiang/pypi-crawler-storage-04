@@ -1,11 +1,11 @@
 {
   "name": "keynet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Event-driven automation library for keyboard, mouse, system, and network events.",
-  "author": "Rudransh Joshi",
-  "license": null,
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "keynet-0.1.0.tar.gz",
-  "download_time": "2025-08-29T11:38:50.389038",
+  "download_filename": "keynet-0.1.1.tar.gz",
+  "download_time": "2025-08-29T11:52:33.309034",
   "package_url": "https://pypi.org/project/keynet/"
 }

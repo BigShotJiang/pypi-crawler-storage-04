@@ -1,11 +1,11 @@
 {
   "name": "email-template-review-mcp",
-  "version": "0.1.2",
+  "version": "1.1.1",
   "summary": "MCP Server for automated email template review and management",
   "author": "Email Template Review Team",
   "license": "MIT",
   "home_page": "https://github.com/example/email-template-review-mcp",
-  "download_filename": "email_template_review_mcp-0.1.2.tar.gz",
-  "download_time": "2025-08-28T16:27:13.505110",
+  "download_filename": "email_template_review_mcp-1.1.1.tar.gz",
+  "download_time": "2025-08-29T11:52:29.663740",
   "package_url": "https://pypi.org/project/email-template-review-mcp/"
 }

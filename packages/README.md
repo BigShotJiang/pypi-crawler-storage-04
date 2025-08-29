@@ -1,23 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T11:39:35.453717
-- **Total Packages**: 85
-- **Total Size**: 29.38 MB
+- **Download Time**: 2025-08-29T11:53:04.102457
+- **Total Packages**: 83
+- **Total Size**: 12.74 MB
 
 ## Packages List
+- th-helpers
+- tapestrysdk
+- sema4ai-action-server
+- openfund-taker
+- openfund-maker
+- pyramid_dogpile_cache2
+- MeUtils
+- mtv-mcp
+- rooki
+- mcp-rs-publish
+- qa-project-gen
+- open-api-apimatic
+- worker-automate-hub
+- immunity-python-agent
+- compas-invocations2
+- hero-base
+- laminar-learn
+- aa-eveprices
+- lightning-fabric
+- pytorch-lightning
+- email-template-review-mcp
+- lightning
+- qleo
+- askcarl
+- quatica
+- funcnodes-worker
+- Zerodha-Tradehull
+- keynet
+- r4s_db_helpers
+- python-hostlist
+- coupa-async-client
+- mcp-client-capabilities
+- universal-llm-service
+- odoo-addon-crm-industry
+- ts-scan
+- typst
+- victron-mqtt
+- ssvc
 - qnty
 - quarto-cli
 - acconeer-exptool
-- keynet
 - ida-ios-helper
 - hotsos
-- qa-project-gen
 - funcnodes-core
 - janito
 - mapchete
 - pytemplify
-- MeUtils
 - py12flogging
 - environ-odoo-config
 - ntt-ai-observability-exporter
@@ -54,40 +89,3 @@
 - acforge
 - beswarm
 - ccs-digitalmarketplace-frontend-jinja
-- fast-boiler
-- codemie-mcp-datasources
-- codemie-mcp-assistants
-- arvia
-- upgini
-- tavo
-- tb-nightly
-- mdbq
-- cloe-nessy
-- dciclient
-- jupyter-ascend-theme
-- qimomo-py-linux
-- tna-frontend-jinja
-- email-tools-quick
-- plugwise_usb
-- kraken123
-- unique_toolkit
-- mpt-extension-sdk
-- SOLIDserverCLI
-- cyclonedx-editor-validator
-- tips-cli-tool
-- regula-documentreader-webclient
-- localstack-core
-- gllm-pipeline-binary
-- pydpm-xl
-- adif-mcp
-- worker-automate-hub
-- opentelemetry-distro-odoo
-- milvus-dataset
-- speedy-bg
-- codemie-sdk-python
-- ccs-digitalmarketplace-content-loader
-- basketball-cleaner
-- odoo-addon-edi-ediversa-oca-invoice-send
-- odoo-addon-edi-ediversa-oca
-- odoo-addon-edi-ediversa-oca-sale-order-import
-- scikit-surgeryimage

@@ -1,0 +1,11 @@
+{
+  "name": "open-api-apimatic",
+  "version": "1.0.0",
+  "summary": "OpenAPI is a standard specification for defining and documenting RESTful APIs, making them easy to understand, test, and integrate across different platforms and tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_api_apimatic-1.0.0.tar.gz",
+  "download_time": "2025-08-29T11:52:24.951238",
+  "package_url": "https://pypi.org/project/open-api-apimatic/"
+}

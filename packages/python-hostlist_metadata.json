@@ -1,0 +1,11 @@
+{
+  "name": "python-hostlist",
+  "version": "2.3.0",
+  "summary": "Python module for hostlist handling",
+  "author": "Kent Engström",
+  "license": "GPL2+",
+  "home_page": "http://www.nsc.liu.se/~kent/python-hostlist/",
+  "download_filename": "python_hostlist-2.3.0.tar.gz",
+  "download_time": "2025-08-29T11:52:34.869492",
+  "package_url": "https://pypi.org/project/python-hostlist/"
+}
