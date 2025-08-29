@@ -1,11 +1,11 @@
 {
   "name": "milvus-dataset",
-  "version": "1.0.0.post34",
+  "version": "1.0.0.post35",
   "summary": "Default template for PDM package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "milvus_dataset-1.0.0.post34.tar.gz",
-  "download_time": "2025-08-29T06:30:48.540331",
+  "download_filename": "milvus_dataset-1.0.0.post35.tar.gz",
+  "download_time": "2025-08-29T07:20:08.567958",
   "package_url": "https://pypi.org/project/milvus-dataset/"
 }

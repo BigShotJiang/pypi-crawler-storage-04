@@ -1,0 +1,11 @@
+{
+  "name": "oba",
+  "version": "0.2.1",
+  "summary": "make iter object easy to access (item to attr)",
+  "author": "Jyonn Liu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/Jyonn/Oba",
+  "download_filename": "oba-0.2.1.tar.gz",
+  "download_time": "2025-08-29T07:20:25.813586",
+  "package_url": "https://pypi.org/project/oba/"
+}

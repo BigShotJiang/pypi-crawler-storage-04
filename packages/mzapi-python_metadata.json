@@ -1,11 +1,11 @@
 {
   "name": "mzapi-python",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "MZAPI的python的SDK",
   "author": "祁潇潇",
   "license": null,
   "home_page": "https://github.com/xiaomizhoubaobei/MZAPI-Python",
-  "download_filename": "mzapi_python-0.0.2.tar.gz",
-  "download_time": "2025-08-28T15:22:10.188719",
+  "download_filename": "mzapi_python-0.0.3.tar.gz",
+  "download_time": "2025-08-29T07:20:30.858905",
   "package_url": "https://pypi.org/project/mzapi-python/"
 }

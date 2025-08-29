@@ -1,0 +1,11 @@
+{
+  "name": "llm-canvas",
+  "version": "0.2.0",
+  "summary": "Visualize complex LLM conversation flows in infinite canvases",
+  "author": "LittleLittleCloud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_canvas-0.2.0.tar.gz",
+  "download_time": "2025-08-29T07:20:26.402470",
+  "package_url": "https://pypi.org/project/llm-canvas/"
+}

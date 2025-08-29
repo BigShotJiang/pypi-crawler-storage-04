@@ -1,11 +1,11 @@
 {
   "name": "Tonviewer",
-  "version": "6.0",
-  "summary": "Crypto (TON , USDT , BITCOIN , ... ) Info Scraper is a Python library without needing any APIs",
+  "version": "8.0",
+  "summary": "TON Crypto Info Scraper is a Python library that allows you to fetch ( real-time balance of wallet , transactions , price ) data without needing any APIs.",
   "author": "deep",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tonviewer-6.0.tar.gz",
-  "download_time": "2025-08-29T06:52:07.695719",
+  "download_filename": "tonviewer-8.0.tar.gz",
+  "download_time": "2025-08-29T07:20:40.916532",
   "package_url": "https://pypi.org/project/Tonviewer/"
 }
