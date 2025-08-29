@@ -1,11 +1,11 @@
 {
   "name": "fastsqs",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Async SQS routing and middleware library",
-  "author": "Your Name",
+  "author": "Gabriel LaFayette",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/fastsqs",
-  "download_filename": "fastsqs-0.1.0.tar.gz",
-  "download_time": "2025-08-29T16:47:21.423155",
+  "home_page": "https://github.com/lafayettegabe/fastsqs",
+  "download_filename": "fastsqs-0.1.2.tar.gz",
+  "download_time": "2025-08-29T17:18:11.779175",
   "package_url": "https://pypi.org/project/fastsqs/"
 }

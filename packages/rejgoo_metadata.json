@@ -1,11 +1,11 @@
 {
   "name": "rejgoo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Python package that solves mathematical equations",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "rejgoo-0.0.5.tar.gz",
-  "download_time": "2025-08-29T10:21:49.231488",
+  "download_filename": "rejgoo-0.0.6.tar.gz",
+  "download_time": "2025-08-29T17:18:19.172177",
   "package_url": "https://pypi.org/project/rejgoo/"
 }

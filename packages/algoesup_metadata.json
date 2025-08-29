@@ -1,0 +1,11 @@
+{
+  "name": "algoesup",
+  "version": "0.4.2",
+  "summary": "Algorithmic essay support library",
+  "author": "Michel Wermelinger",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/dsa-ou/algoesup/",
+  "download_filename": "algoesup-0.4.2.tar.gz",
+  "download_time": "2025-08-29T17:18:28.087838",
+  "package_url": "https://pypi.org/project/algoesup/"
+}

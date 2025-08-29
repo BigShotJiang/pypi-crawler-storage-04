@@ -1,11 +1,11 @@
 {
   "name": "dagtool",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "a friendly airflow dag build tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagtool-0.0.7.tar.gz",
-  "download_time": "2025-08-29T10:43:07.439042",
+  "download_filename": "dagtool-0.0.8.tar.gz",
+  "download_time": "2025-08-29T17:17:59.399116",
   "package_url": "https://pypi.org/project/dagtool/"
 }
