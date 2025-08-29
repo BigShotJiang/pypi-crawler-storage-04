@@ -1,11 +1,11 @@
 {
   "name": "passagemath-database-jones-numfield",
-  "version": "10.6.11",
+  "version": "10.6.12",
   "summary": "passagemath: Table of number fields",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_database_jones_numfield-10.6.11-py3-none-any.whl",
-  "download_time": "2025-08-28T10:43:58.927883",
+  "download_filename": "passagemath_database_jones_numfield-10.6.12.tar.gz",
+  "download_time": "2025-08-29T22:41:17.135342",
   "package_url": "https://pypi.org/project/passagemath-database-jones-numfield/"
 }

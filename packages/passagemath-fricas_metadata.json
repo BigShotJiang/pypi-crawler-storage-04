@@ -1,11 +1,11 @@
 {
   "name": "passagemath-fricas",
-  "version": "10.6.10",
+  "version": "10.6.12",
   "summary": "passagemath: Symbolic computation with the general purpose computer algebra system FriCAS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_fricas-10.6.10.tar.gz",
-  "download_time": "2025-08-28T10:43:39.959525",
+  "download_filename": "passagemath_fricas-10.6.12.tar.gz",
+  "download_time": "2025-08-29T22:41:07.197468",
   "package_url": "https://pypi.org/project/passagemath-fricas/"
 }

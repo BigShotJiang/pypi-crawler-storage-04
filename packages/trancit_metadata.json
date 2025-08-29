@@ -1,11 +1,11 @@
 {
   "name": "trancit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TranCIT: Transient Causal Interaction - A Python package for quantifying causal relationships in multivariate time series data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trancit-1.0.0.tar.gz",
-  "download_time": "2025-08-29T20:40:47.158970",
+  "download_filename": "trancit-1.0.1.tar.gz",
+  "download_time": "2025-08-29T22:40:44.664740",
   "package_url": "https://pypi.org/project/trancit/"
 }
