@@ -1,0 +1,11 @@
+{
+  "name": "pas.plugins.imio",
+  "version": "2.1.2",
+  "summary": "Pas plugin use to connect to auth.imio.be",
+  "author": "Benoit Suttor",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/pas.plugins.imio",
+  "download_filename": "pas_plugins_imio-2.1.2.tar.gz",
+  "download_time": "2025-08-29T08:28:08.679192",
+  "package_url": "https://pypi.org/project/pas.plugins.imio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "abs-nosql-repository-core",
+  "version": "0.11.2",
+  "summary": "Shared base repository and service utilities for Beanie(NoSQL)-backed FastAPI apps.",
+  "author": "AutoBridgeSystems",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abs_nosql_repository_core-0.11.2.tar.gz",
+  "download_time": "2025-08-29T08:27:41.974981",
+  "package_url": "https://pypi.org/project/abs-nosql-repository-core/"
+}

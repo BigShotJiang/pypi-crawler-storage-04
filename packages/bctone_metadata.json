@@ -1,0 +1,11 @@
+{
+  "name": "bctone",
+  "version": "0.1.0",
+  "summary": "bctone SDK for RAG SaaS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bctone-0.1.0.tar.gz",
+  "download_time": "2025-08-29T08:27:44.659181",
+  "package_url": "https://pypi.org/project/bctone/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nioflux",
-  "version": "0.0.1a0",
+  "version": "0.0.1a3",
   "summary": "A lightweight asynchronous scalable TCP frame protocol server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nioflux-0.0.1a0.tar.gz",
-  "download_time": "2025-08-29T07:52:34.396851",
+  "download_filename": "nioflux-0.0.1a3.tar.gz",
+  "download_time": "2025-08-29T08:27:45.197692",
   "package_url": "https://pypi.org/project/nioflux/"
 }

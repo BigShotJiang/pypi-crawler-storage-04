@@ -1,11 +1,11 @@
 {
   "name": "pynsg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python bindings for Navigating Spreading-Out Graph (NSG)",
   "author": "Theodor Wuebker",
   "license": "MIT",
   "home_page": "https://github.com/twuebker/nsg",
-  "download_filename": "pynsg-0.1.1.tar.gz",
-  "download_time": "2025-08-28T07:51:50.313724",
+  "download_filename": "pynsg-0.1.2.tar.gz",
+  "download_time": "2025-08-29T08:28:00.515168",
   "package_url": "https://pypi.org/project/pynsg/"
 }

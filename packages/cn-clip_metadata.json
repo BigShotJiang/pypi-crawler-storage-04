@@ -1,0 +1,11 @@
+{
+  "name": "cn-clip",
+  "version": "1.6.0",
+  "summary": "the Chinese version of CLIP.",
+  "author": "OFA-Sys",
+  "license": null,
+  "home_page": "https://github.com/OFA-Sys/Chinese-CLIP",
+  "download_filename": "cn_clip-1.6.0.tar.gz",
+  "download_time": "2025-08-29T08:28:11.973745",
+  "package_url": "https://pypi.org/project/cn-clip/"
+}

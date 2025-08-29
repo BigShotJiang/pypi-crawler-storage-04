@@ -1,11 +1,11 @@
 {
   "name": "engrate-sdk",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Engrate SDK for plugin developers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "engrate_sdk-0.0.20.tar.gz",
-  "download_time": "2025-08-28T09:52:55.068613",
+  "download_filename": "engrate_sdk-0.0.21.tar.gz",
+  "download_time": "2025-08-29T08:27:55.674061",
   "package_url": "https://pypi.org/project/engrate-sdk/"
 }

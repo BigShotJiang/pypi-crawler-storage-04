@@ -1,11 +1,11 @@
 {
   "name": "calcite",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A desktop application for data analysis and publication-quality graphing.",
   "author": "R. Abiru",
   "license": null,
   "home_page": "https://github.com/ryuabiru/calcite",
-  "download_filename": "calcite-0.1.1.tar.gz",
-  "download_time": "2025-08-28T22:40:52.010854",
+  "download_filename": "calcite-0.2.0.tar.gz",
+  "download_time": "2025-08-29T08:27:48.474072",
   "package_url": "https://pypi.org/project/calcite/"
 }
