@@ -1,0 +1,11 @@
+{
+  "name": "quearcode",
+  "version": "0.4.2",
+  "summary": "A tool for creating QR Codes",
+  "author": "Gwyn Ciesla",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://codeberg.org/gwync/quearcode",
+  "download_filename": "quearcode-0.4.2.tar.gz",
+  "download_time": "2025-08-29T15:52:26.308585",
+  "package_url": "https://pypi.org/project/quearcode/"
+}

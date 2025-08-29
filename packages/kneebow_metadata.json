@@ -1,11 +1,11 @@
 {
   "name": "kneebow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Knee or elbow detection for curves",
   "author": "Georg Unterholzner",
   "license": "MIT",
-  "home_page": "https://github.com/georg-un/kneebow",
-  "download_filename": "kneebow-1.0.3.tar.gz",
-  "download_time": "2025-08-29T15:40:22.757455",
+  "home_page": "https://github.com/georg-unterholzner/kneebow",
+  "download_filename": "kneebow-1.0.4.tar.gz",
+  "download_time": "2025-08-29T15:52:22.150662",
   "package_url": "https://pypi.org/project/kneebow/"
 }

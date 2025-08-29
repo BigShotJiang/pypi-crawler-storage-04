@@ -1,11 +1,11 @@
 {
   "name": "sprite.server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A simple server for uploading and downloading files.",
   "author": "Joey",
   "license": null,
   "home_page": null,
-  "download_filename": "sprite_server-1.0.2.tar.gz",
-  "download_time": "2025-08-28T14:20:42.455483",
+  "download_filename": "sprite_server-1.0.3.tar.gz",
+  "download_time": "2025-08-29T15:52:21.110120",
   "package_url": "https://pypi.org/project/sprite.server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-guardian",
-  "version": "3.0.7",
+  "version": "3.1.0",
   "summary": "Per object permissions for Django",
   "author": "Chris Maggiuli, Bona Fide IT GmbH, Columbia University, SIS Development and Application Services",
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "django_guardian-3.0.7.tar.gz",
-  "download_time": "2025-08-29T06:52:07.172156",
+  "download_filename": "django_guardian-3.1.0.tar.gz",
+  "download_time": "2025-08-29T15:52:47.118622",
   "package_url": "https://pypi.org/project/django-guardian/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyodys",
+  "version": "0.0.3",
+  "summary": "This is a robust and flexible Python package for solving ordinary differential equations (ODEs). The solver is built to handle both explicit and implicit Runge–Kutta methods using a powerful Butcher tableau approach, and it includes a numerical Jacobian for convenience.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyodys-0.0.3.tar.gz",
+  "download_time": "2025-08-29T15:52:33.038854",
+  "package_url": "https://pypi.org/project/pyodys/"
+}

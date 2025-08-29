@@ -1,0 +1,11 @@
+{
+  "name": "curl_cffi_request",
+  "version": "0.0.1.2",
+  "summary": "curl-cffi request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/curl_cffi_request",
+  "download_filename": "curl_cffi_request-0.0.1.2.tar.gz",
+  "download_time": "2025-08-29T15:52:38.767938",
+  "package_url": "https://pypi.org/project/curl_cffi_request/"
+}

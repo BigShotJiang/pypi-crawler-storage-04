@@ -1,0 +1,11 @@
+{
+  "name": "linegenerator",
+  "version": "0.1.1b0",
+  "summary": "CLI tool for generating log lines with customizable templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linegenerator-0.1.1b0.tar.gz",
+  "download_time": "2025-08-29T15:52:25.278186",
+  "package_url": "https://pypi.org/project/linegenerator/"
+}

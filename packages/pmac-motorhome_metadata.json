@@ -1,11 +1,11 @@
 {
   "name": "pmac-motorhome",
-  "version": "1.9",
+  "version": "1.10",
   "summary": "Generate homing procedures in pmc code for Delta Tau motion controllers",
   "author": "Arvinder Palaha",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/DiamondLightSource/pmac_motorhome",
-  "download_filename": "pmac_motorhome-1.9-py3-none-any.whl",
-  "download_time": "2025-08-29T15:40:31.256222",
+  "download_filename": "pmac_motorhome-1.10-py3-none-any.whl",
+  "download_time": "2025-08-29T15:52:23.686528",
   "package_url": "https://pypi.org/project/pmac-motorhome/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "asyncflow-sim",
+  "version": "0.1.1",
+  "summary": "Digital-twin simulator for distributed async systems. Build what-if scenarios and quantify capacity, latency and throughput offline, before you deploy.",
+  "author": "Gioele Botta",
+  "license": "MIT",
+  "home_page": "https://github.com/AsyncFlow-Sim/AsyncFlow",
+  "download_filename": "asyncflow_sim-0.1.1.tar.gz",
+  "download_time": "2025-08-29T15:52:37.211803",
+  "package_url": "https://pypi.org/project/asyncflow-sim/"
+}

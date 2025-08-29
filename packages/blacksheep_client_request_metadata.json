@@ -1,0 +1,11 @@
+{
+  "name": "blacksheep_client_request",
+  "version": "0.1.2.1",
+  "summary": "blacksheep request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/blacksheep_client_request",
+  "download_filename": "blacksheep_client_request-0.1.2.1.tar.gz",
+  "download_time": "2025-08-29T15:52:36.700284",
+  "package_url": "https://pypi.org/project/blacksheep_client_request/"
+}

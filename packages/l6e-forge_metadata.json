@@ -1,0 +1,11 @@
+{
+  "name": "l6e-forge",
+  "version": "0.1.0a0",
+  "summary": "Build & Deploy local agents with ease - alpha",
+  "author": "l6e AI",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "l6e_forge-0.1.0a0.tar.gz",
+  "download_time": "2025-08-29T15:52:43.959414",
+  "package_url": "https://pypi.org/project/l6e-forge/"
+}
