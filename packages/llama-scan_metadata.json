@@ -1,11 +1,11 @@
 {
   "name": "llama-scan",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A tool for converting PDFs to text files using Ollama.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_scan-0.1.6.tar.gz",
-  "download_time": "2025-08-29T21:38:27.574491",
+  "download_filename": "llama_scan-0.1.7.tar.gz",
+  "download_time": "2025-08-29T23:19:30.928826",
   "package_url": "https://pypi.org/project/llama-scan/"
 }

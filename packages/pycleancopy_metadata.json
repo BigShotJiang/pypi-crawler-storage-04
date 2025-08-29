@@ -1,0 +1,11 @@
+{
+  "name": "pycleancopy",
+  "version": "2025.8.29.0",
+  "summary": "Python bindings to the cleancopy lightweight markup language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycleancopy-2025.8.29.0.tar.gz",
+  "download_time": "2025-08-29T23:19:34.954799",
+  "package_url": "https://pypi.org/project/pycleancopy/"
+}
