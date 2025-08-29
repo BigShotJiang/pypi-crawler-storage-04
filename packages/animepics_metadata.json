@@ -1,0 +1,11 @@
+{
+  "name": "animepics",
+  "version": "0.1.0",
+  "summary": "A fun package to fetch random anime pictures from a public API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "animepics-0.1.0.tar.gz",
+  "download_time": "2025-08-29T01:39:44.796759",
+  "package_url": "https://pypi.org/project/animepics/"
+}

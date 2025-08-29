@@ -1,0 +1,11 @@
+{
+  "name": "mcp-kinetica",
+  "version": "7.2.3.1",
+  "summary": "MCP Server for Kinetica Database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_kinetica-7.2.3.1-py3-none-any.whl",
+  "download_time": "2025-08-29T01:40:21.947594",
+  "package_url": "https://pypi.org/project/mcp-kinetica/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "argx",
+  "version": "0.3.3",
+  "summary": "Super-charged argparse for python",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argx-0.3.3.tar.gz",
+  "download_time": "2025-08-29T01:39:52.206727",
+  "package_url": "https://pypi.org/project/argx/"
+}

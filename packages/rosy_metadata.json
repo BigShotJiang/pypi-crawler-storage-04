@@ -1,0 +1,11 @@
+{
+  "name": "rosy",
+  "version": "0.8.1",
+  "summary": "It's not ROS, but it is ROS-y! Simple, fast inter-process message passing for distributed Python processes",
+  "author": "Austin Bowen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rosy-0.8.1.tar.gz",
+  "download_time": "2025-08-29T01:39:57.023767",
+  "package_url": "https://pypi.org/project/rosy/"
+}
