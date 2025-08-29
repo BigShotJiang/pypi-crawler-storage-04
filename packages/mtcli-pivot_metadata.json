@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-pivot",
+  "version": "0.2.0",
+  "summary": "Plugin mtcli do indicador pivot point",
+  "author": "Valmir França da Silva",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/vfranca/mtcli-pivot",
+  "download_filename": "mtcli_pivot-0.2.0.tar.gz",
+  "download_time": "2025-08-29T05:41:38.785396",
+  "package_url": "https://pypi.org/project/mtcli-pivot/"
+}

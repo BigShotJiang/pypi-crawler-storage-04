@@ -1,0 +1,11 @@
+{
+  "name": "napari-prism",
+  "version": "0.1.7",
+  "summary": "A Python package for the inteRactive and Integrated analySis of Multiplexed tissue microarrays",
+  "author": "Rafael Tubelleza",
+  "license": "MIT",
+  "home_page": "https://github.com/clinicalomx/napari-prism",
+  "download_filename": "napari_prism-0.1.7-py3-none-any.whl",
+  "download_time": "2025-08-29T05:41:55.467443",
+  "package_url": "https://pypi.org/project/napari-prism/"
+}

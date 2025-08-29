@@ -1,0 +1,11 @@
+{
+  "name": "wexample-app",
+  "version": "0.0.48",
+  "summary": "Helpers for building Python app or cli.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wexample_app-0.0.48.tar.gz",
+  "download_time": "2025-08-29T05:41:54.955530",
+  "package_url": "https://pypi.org/project/wexample-app/"
+}

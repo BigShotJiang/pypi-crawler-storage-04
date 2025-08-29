@@ -1,11 +1,11 @@
 {
   "name": "contextlite",
-  "version": "1.1.17",
+  "version": "1.1.20",
   "summary": "Ultra-fast context engine for retrieval and AI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextlite-1.1.17.tar.gz",
-  "download_time": "2025-08-28T23:52:16.450816",
+  "download_filename": "contextlite-1.1.20.tar.gz",
+  "download_time": "2025-08-29T05:41:41.560475",
   "package_url": "https://pypi.org/project/contextlite/"
 }

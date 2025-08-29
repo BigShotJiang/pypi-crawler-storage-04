@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-activity-tracker",
+  "version": "0.1.0",
+  "summary": "基于nonebot的会话活跃检测插件，只对活跃会话推送信息",
+  "author": "zifox666",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_activity_tracker-0.1.0.tar.gz",
+  "download_time": "2025-08-29T05:42:01.596766",
+  "package_url": "https://pypi.org/project/nonebot-plugin-activity-tracker/"
+}
