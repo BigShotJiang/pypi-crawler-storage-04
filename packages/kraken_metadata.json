@@ -1,0 +1,11 @@
+{
+  "name": "kraken",
+  "version": "6.0.0",
+  "summary": "OCR/HTR engine for all the languages",
+  "author": "Benjamin Kiessling",
+  "license": "Apache",
+  "home_page": "https://kraken.re",
+  "download_filename": "kraken-6.0.0-py3-none-any.whl",
+  "download_time": "2025-08-29T21:38:37.620276",
+  "package_url": "https://pypi.org/project/kraken/"
+}

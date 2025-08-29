@@ -1,0 +1,11 @@
+{
+  "name": "multiprog",
+  "version": "1.0.0",
+  "summary": "Simple to use progress bar with subprocesses and threads.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multiprog-1.0.0.tar.gz",
+  "download_time": "2025-08-29T21:38:40.765537",
+  "package_url": "https://pypi.org/project/multiprog/"
+}

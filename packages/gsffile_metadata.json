@@ -1,0 +1,11 @@
+{
+  "name": "gsffile",
+  "version": "0.5.3",
+  "summary": "Read and write Gwyddion Simple Field files",
+  "author": "Carlo Dri, Angelo Peronio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsffile-0.5.3.tar.gz",
+  "download_time": "2025-08-29T21:38:15.243350",
+  "package_url": "https://pypi.org/project/gsffile/"
+}

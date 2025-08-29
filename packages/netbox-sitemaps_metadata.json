@@ -1,0 +1,11 @@
+{
+  "name": "netbox-sitemaps",
+  "version": "0.1.0",
+  "summary": "NetBox plugin to display sites on a map.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_sitemaps-0.1.0.tar.gz",
+  "download_time": "2025-08-29T21:38:39.204660",
+  "package_url": "https://pypi.org/project/netbox-sitemaps/"
+}

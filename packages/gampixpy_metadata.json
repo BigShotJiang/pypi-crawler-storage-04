@@ -1,0 +1,11 @@
+{
+  "name": "gampixpy",
+  "version": "0.2.1",
+  "summary": "Gampix Readout Simulation",
+  "author": "SLAC National Accelerator Laboratory",
+  "license": null,
+  "home_page": "https://github.com/DanielMDouglas/GAMPixPy",
+  "download_filename": "gampixpy-0.2.1.tar.gz",
+  "download_time": "2025-08-29T21:38:30.181335",
+  "package_url": "https://pypi.org/project/gampixpy/"
+}

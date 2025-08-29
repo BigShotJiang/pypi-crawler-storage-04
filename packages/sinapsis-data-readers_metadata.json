@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-data-readers",
+  "version": "0.1.17",
+  "summary": "Templates to read data in different formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_data_readers-0.1.17.tar.gz",
+  "download_time": "2025-08-29T21:38:29.661060",
+  "package_url": "https://pypi.org/project/sinapsis-data-readers/"
+}

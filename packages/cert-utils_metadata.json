@@ -1,0 +1,11 @@
+{
+  "name": "cert-utils",
+  "version": "1.1.0",
+  "summary": "TLS/SSL Certiicate Utilities",
+  "author": "Jonathan Vanasco",
+  "license": "MIT",
+  "home_page": "https://github.com/aptise/cert_utils",
+  "download_filename": "cert_utils-1.1.0.tar.gz",
+  "download_time": "2025-08-29T21:38:15.783443",
+  "package_url": "https://pypi.org/project/cert-utils/"
+}

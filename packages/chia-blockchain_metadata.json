@@ -1,0 +1,11 @@
+{
+  "name": "chia-blockchain",
+  "version": "2.5.5",
+  "summary": "Chia blockchain full node, farmer, timelord, and wallet.",
+  "author": "Mariano Sorgente",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chia_blockchain-2.5.5.tar.gz",
+  "download_time": "2025-08-29T21:38:37.065254",
+  "package_url": "https://pypi.org/project/chia-blockchain/"
+}

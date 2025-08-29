@@ -1,0 +1,11 @@
+{
+  "name": "behave",
+  "version": "1.3.2",
+  "summary": "behave is behaviour-driven development, Python style",
+  "author": "Benno Rice, Richard Jones",
+  "license": null,
+  "home_page": null,
+  "download_filename": "behave-1.3.2.tar.gz",
+  "download_time": "2025-08-29T21:38:19.502683",
+  "package_url": "https://pypi.org/project/behave/"
+}

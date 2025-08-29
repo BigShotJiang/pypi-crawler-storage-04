@@ -1,0 +1,11 @@
+{
+  "name": "kinship-vis",
+  "version": "0.1.1",
+  "summary": "Kinship graph visualizer for PLINK .genome and KING .kin0 with PNG/TIFF and interactive HTML outputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kinship_vis-0.1.1.tar.gz",
+  "download_time": "2025-08-29T21:38:32.788060",
+  "package_url": "https://pypi.org/project/kinship-vis/"
+}
