@@ -1,0 +1,11 @@
+{
+  "name": "atikin-cache",
+  "version": "1.0.0",
+  "summary": "High-performance in-memory caching library with TTL, LRU eviction, and persistence.",
+  "author": "Atikin Verse",
+  "license": null,
+  "home_page": "https://github.com/atikinverse/atikin-cache",
+  "download_filename": "atikin-cache-1.0.0.tar.gz",
+  "download_time": "2025-08-29T06:52:21.153079",
+  "package_url": "https://pypi.org/project/atikin-cache/"
+}
