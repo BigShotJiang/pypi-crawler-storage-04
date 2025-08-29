@@ -1,11 +1,11 @@
 {
   "name": "gitlab-api",
-  "version": "25.8.10",
+  "version": "25.8.11",
   "summary": "GitLab API Python Wrapper",
   "author": "Audel Rouhi",
   "license": "MIT",
   "home_page": "https://github.com/Knuckles-Team/gitlab-api",
-  "download_filename": "gitlab_api-25.8.10-py2.py3-none-any.whl",
-  "download_time": "2025-08-29T05:41:46.717429",
+  "download_filename": "gitlab_api-25.8.11-py2.py3-none-any.whl",
+  "download_time": "2025-08-29T05:52:50.999444",
   "package_url": "https://pypi.org/project/gitlab-api/"
 }

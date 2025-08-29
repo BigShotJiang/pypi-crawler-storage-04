@@ -1,11 +1,11 @@
 {
   "name": "subtitle-alchemy",
-  "version": "0.1.21",
+  "version": "0.1.30",
   "summary": "Process subtitle files with ease.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subtitle_alchemy-0.1.21.tar.gz",
-  "download_time": "2025-08-29T05:41:40.537311",
+  "download_filename": "subtitle_alchemy-0.1.30.tar.gz",
+  "download_time": "2025-08-29T05:53:00.363561",
   "package_url": "https://pypi.org/project/subtitle-alchemy/"
 }

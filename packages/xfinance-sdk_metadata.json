@@ -1,11 +1,11 @@
 {
   "name": "xfinance-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python SDK for X-Finance-Util API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xfinance_sdk-1.0.1.tar.gz",
-  "download_time": "2025-08-29T05:20:04.415541",
+  "download_filename": "xfinance_sdk-1.0.2.tar.gz",
+  "download_time": "2025-08-29T05:53:02.417250",
   "package_url": "https://pypi.org/project/xfinance-sdk/"
 }
