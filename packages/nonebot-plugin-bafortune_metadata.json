@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-bafortune",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "蔚蓝档案今日运势插件, BlueArchive fortune plugin",
   "author": "WR",
   "license": "GPL-3.0",
   "home_page": "https://github.com/captain-wangrun-cn/nonebot-plugin-bafortune",
-  "download_filename": "nonebot_plugin_bafortune-1.0.1.tar.gz",
-  "download_time": "2025-08-29T07:39:05.808388",
+  "download_filename": "nonebot_plugin_bafortune-1.0.4.tar.gz",
+  "download_time": "2025-08-29T07:52:14.199629",
   "package_url": "https://pypi.org/project/nonebot-plugin-bafortune/"
 }

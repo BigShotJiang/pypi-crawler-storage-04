@@ -1,23 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T07:39:48.018382
-- **Total Packages**: 78
-- **Total Size**: 26.1 MB
+- **Download Time**: 2025-08-29T07:52:51.636229
+- **Total Packages**: 69
+- **Total Size**: 16.34 MB
 
 ## Packages List
-- pyang
+- zscaler-sdk-python
+- mqt-yaqs
+- sopa
+- nonebot-plugin-bafortune
+- amulet-zlib
+- optimum-rbln
+- mbxai
+- lmcache
+- jusfltuls
+- jsktoolbox
+- aipyapp
+- kmoe-manga-downloader
+- portacode
+- pysoworks
 - hakoniwa-pdu
+- hgraph
+- kinto-wizard
+- map-utils-xethhung12
+- fluent-selectors
+- liron-utils
+- django-admin-otp
+- unrealon
+- dearning
+- hfb-math-sdk
+- word-to-txt-mcp
+- aenet-gpr
+- aioeasysqlite
+- odoo-addon-l10n-it-account-stamp
+- sc-utility
+- chris-study-mcp-demo
+- minitap
+- extralit-server
+- drf-spectacular-auth
+- pulumi-awsx
+- augint-billing-lib
+- vectordb-bench
+- modeldag
+- maas-backoff-scheduler
+- nioflux
+- pyang
 - ncpy
 - beancode
 - wagtail-draftail-anchors
-- nonebot-plugin-bafortune
 - zimagi
 - tgzmessaging-sdk
 - pkdevtools
-- amulet-zlib
 - FWU
-- maas-backoff-scheduler
 - autisticstuff
 - amulet-compiler-version
 - fyuneru
@@ -26,7 +61,6 @@
 - hestia-earth-aggregation
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- aenet-gpr
 - odoo-addon-mail-partner-opt-out
 - pkbrokers
 - nonebot-plugin-paper
@@ -41,46 +75,3 @@
 - feldera
 - speechmatics-batch
 - standard-packages
-- drf-spectacular-auth
-- gmsofttest
-- PyQtInspect
-- p115client
-- dana
-- agentup
-- netkiller-devops
-- risingwave-connect-py
-- ncloud-mlx-sdk
-- yayawallet-python-sdk
-- qrpa
-- minesweepervariants
-- mistune
-- chainlit-aki
-- python3-cloudpods
-- newberryai
-- fastapi-rtk
-- ya-market-api
-- otpylib
-- webnetwork
-- django-json-schema-editor
-- ipfabric_netbox
-- lgapp
-- milvus-dataset
-- onnxscript
-- oxmpl-py
-- lihu46382-mcp-demo
-- graphql-http-server
-- MeUtils
-- word-document-table-editor-mcp
-- beproduct
-- tf-models-nightly
-- docsloader
-- pdf-box-fields
-- word-document-comment-extractor-mcp
-- huawei-solar
-- gh_release_tools
-- peacepie
-- cuti
-- zsl-ma
-- libdata
-- jaf-py
-- word-document-text-editor-mcp

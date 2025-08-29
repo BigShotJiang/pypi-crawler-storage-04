@@ -1,0 +1,11 @@
+{
+  "name": "hfb-math-sdk",
+  "version": "0.1.0",
+  "summary": "A simple math operations Python SDK",
+  "author": "hufeibo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hfb_math_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-29T07:52:25.667090",
+  "package_url": "https://pypi.org/project/hfb-math-sdk/"
+}

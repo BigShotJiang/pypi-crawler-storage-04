@@ -1,0 +1,11 @@
+{
+  "name": "minitap",
+  "version": "0.1.0",
+  "summary": "PyPI meta-package for accessible packages published by Minitap",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minitap-0.1.0.tar.gz",
+  "download_time": "2025-08-29T07:52:29.525555",
+  "package_url": "https://pypi.org/project/minitap/"
+}

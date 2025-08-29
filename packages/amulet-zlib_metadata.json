@@ -1,11 +1,11 @@
 {
   "name": "amulet-zlib",
-  "version": "1.0.2a2.post250829072927",
+  "version": "1.0.3a0.post250829075035",
   "summary": "A Python and C++ wrapper around zlib.",
   "author": "James Clare",
   "license": null,
   "home_page": null,
-  "download_filename": "amulet_zlib-1.0.2a2.post250829072927-cp312-cp312-win_amd64.whl",
-  "download_time": "2025-08-29T07:39:07.993711",
+  "download_filename": "amulet_zlib-1.0.3a0.post250829075035-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-08-29T07:52:14.768128",
   "package_url": "https://pypi.org/project/amulet-zlib/"
 }
