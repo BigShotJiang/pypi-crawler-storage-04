@@ -1,16 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T18:28:22.787174
-- **Total Packages**: 91
-- **Total Size**: 45.71 MB
+- **Download Time**: 2025-08-29T18:48:29.957035
+- **Total Packages**: 88
+- **Total Size**: 15.1 MB
 
 ## Packages List
+- ccd-cli
+- marvin
+- meshcore-cli
+- ob-metaflow-stubs
+- qiskit-algorithms
+- codegraphcontext
+- dooservice-cli
+- mermake
+- neurograd
+- agentle
+- vcdvcd
+- pwsh
+- ob-metaflow-extensions
+- landuse-intensity-analysis
+- kagebunshin
+- sawmil
+- cinetica
+- pyfusefilter
+- koubou
+- langwatch
+- fastn-mcp-server
 - kognitos-bdk-api
 - tinyloop
 - authentik-client
 - aryadocr
-- mermake
 - charz
 - yugenkairo-sentinel-sdk
 - setuptools-rust
@@ -48,7 +68,6 @@
 - socket-proxy
 - upgini
 - minecraft-datapack-language
-- dooservice-cli
 - odoo-addon-stock-storage-type
 - tobiko-cloud-helpers
 - randomstatsmodels
@@ -58,42 +77,20 @@
 - tobiko-cloud-pydantic
 - zerogpt
 - aioskybellgen
-- landuse-intensity-analysis
-- surfari
 - ethyca-fides
 - langchain-tests
 - chinese-restauraunt-process
 - ragl
 - opentelemetry-instrumentation-writer
 - wulfric
-- koubou
 - PyTLidar
 - c2pa-python
 - py-allspice
 - sf-quant
 - wabdd
-- pwsh
 - traceloop-sdk
 - vivarium
 - returnn
 - snowglobe
 - ignition-api-stubs
 - warn-transformer
-- struktx-ai
-- ignition-api
-- agentic-doc
-- opentelemetry-instrumentation-weaviate
-- opentelemetry-instrumentation-watsonx
-- opentelemetry-instrumentation-vertexai
-- opentelemetry-instrumentation-transformers
-- opentelemetry-instrumentation-together
-- opentelemetry-instrumentation-sagemaker
-- opentelemetry-instrumentation-replicate
-- opentelemetry-instrumentation-qdrant
-- opentelemetry-instrumentation-pinecone
-- opentelemetry-instrumentation-openai-agents
-- opentelemetry-instrumentation-openai
-- opentelemetry-instrumentation-ollama
-- opentelemetry-instrumentation-mistralai
-- opentelemetry-instrumentation-milvus
-- opentelemetry-instrumentation-mcp

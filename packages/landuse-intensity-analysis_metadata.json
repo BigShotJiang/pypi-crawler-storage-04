@@ -1,11 +1,11 @@
 {
   "name": "landuse-intensity-analysis",
-  "version": "2.0.0a1",
+  "version": "2.0.0a2",
   "summary": "Modernized Python library for scientifically rigorous land use change analysis with intelligent auto-detection, comprehensive customization, and streamlined processing pipeline. Features automatic year detection from filenames and complete configuration framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "landuse_intensity_analysis-2.0.0a1.tar.gz",
-  "download_time": "2025-08-29T18:28:02.299429",
+  "download_filename": "landuse_intensity_analysis-2.0.0a2-py3-none-any.whl",
+  "download_time": "2025-08-29T18:47:48.073942",
   "package_url": "https://pypi.org/project/landuse-intensity-analysis/"
 }
