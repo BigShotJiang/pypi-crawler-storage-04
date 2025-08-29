@@ -1,0 +1,11 @@
+{
+  "name": "calibre",
+  "version": "0.2.1",
+  "summary": "Advanced probability calibration techniques for machine learning models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "calibre-0.2.1.tar.gz",
+  "download_time": "2025-08-29T13:55:16.177850",
+  "package_url": "https://pypi.org/project/calibre/"
+}

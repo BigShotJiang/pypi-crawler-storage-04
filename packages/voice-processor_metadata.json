@@ -1,11 +1,11 @@
 {
   "name": "voice-processor",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A Python package for voice recognition, text-to-speech, and continuous voice listening",
   "author": "mrfidal",
   "license": null,
   "home_page": null,
-  "download_filename": "voice_processor-0.0.7.tar.gz",
-  "download_time": "2025-08-29T13:44:30.349561",
+  "download_filename": "voice_processor-0.0.8.tar.gz",
+  "download_time": "2025-08-29T13:55:14.078145",
   "package_url": "https://pypi.org/project/voice-processor/"
 }
