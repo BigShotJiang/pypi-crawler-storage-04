@@ -1,11 +1,11 @@
 {
   "name": "pyqtgraph-scope-plots",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "summary": "Scope like plot utilities for pyqtgraph",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyqtgraph_scope_plots-1.5.5.tar.gz",
-  "download_time": "2025-08-29T22:19:39.641933",
+  "download_filename": "pyqtgraph_scope_plots-1.5.6.tar.gz",
+  "download_time": "2025-08-29T23:52:26.870511",
   "package_url": "https://pypi.org/project/pyqtgraph-scope-plots/"
 }
