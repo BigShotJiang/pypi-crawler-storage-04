@@ -1,0 +1,11 @@
+{
+  "name": "yta-video-ffmpeg",
+  "version": "0.0.6",
+  "summary": "Youtube Autonomous Video Ffmpeg Module",
+  "author": "danialcala94",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yta_video_ffmpeg-0.0.6.tar.gz",
+  "download_time": "2025-08-29T09:22:59.168886",
+  "package_url": "https://pypi.org/project/yta-video-ffmpeg/"
+}

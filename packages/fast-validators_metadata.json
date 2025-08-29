@@ -1,11 +1,11 @@
 {
   "name": "fast-validators",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Code validators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_validators-0.3.1-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2025-08-28T11:17:28.985954",
+  "download_filename": "fast_validators-0.3.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-29T09:22:54.043387",
   "package_url": "https://pypi.org/project/fast-validators/"
 }

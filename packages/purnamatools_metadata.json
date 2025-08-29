@@ -1,0 +1,11 @@
+{
+  "name": "purnamatools",
+  "version": "0.1",
+  "summary": "Paket Python untuk mempermudah tahap awal pembuatan model sebelum analisis lebih lanjut",
+  "author": "Nama Kamu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "purnamatools-0.1.tar.gz",
+  "download_time": "2025-08-29T09:22:50.956816",
+  "package_url": "https://pypi.org/project/purnamatools/"
+}

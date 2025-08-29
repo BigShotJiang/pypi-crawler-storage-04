@@ -1,11 +1,11 @@
 {
   "name": "HSPiPy",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "summary": "Hansen Solubility Parameters in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hspipy-0.3.2.tar.gz",
-  "download_time": "2025-08-28T11:17:37.142074",
+  "download_filename": "hspipy-1.0.0.tar.gz",
+  "download_time": "2025-08-29T09:22:39.550082",
   "package_url": "https://pypi.org/project/HSPiPy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "theoprice",
+  "version": "0.1.0",
+  "summary": "A Python CLI application for fetching real-time options trading data from Upstox API with Black-Scholes Greeks calculations",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/theoprice",
+  "download_filename": "theoprice-0.1.0.tar.gz",
+  "download_time": "2025-08-29T09:22:29.820690",
+  "package_url": "https://pypi.org/project/theoprice/"
+}

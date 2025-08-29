@@ -1,11 +1,11 @@
 {
   "name": "graphql-http",
-  "version": "1.6.2",
+  "version": "2.0.0",
   "summary": "HTTP Server for GraphQL.",
   "author": "Robert Parker",
   "license": "MIT",
   "home_page": "https://gitlab.com/parob/graphql-http",
-  "download_filename": "graphql_http-1.6.2.tar.gz",
-  "download_time": "2025-08-29T08:27:57.844191",
+  "download_filename": "graphql_http-2.0.0.tar.gz",
+  "download_time": "2025-08-29T09:22:56.098858",
   "package_url": "https://pypi.org/project/graphql-http/"
 }

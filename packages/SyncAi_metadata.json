@@ -1,0 +1,11 @@
+{
+  "name": "SyncAi",
+  "version": "3.0",
+  "summary": "AI designed for cybersecurity professionals, ethical hackers, Malware, and penetration testers. It assists in vulnerability analysis, security script generation, and cybersecurity research, Backdoor implementation.",
+  "author": "deep",
+  "license": "MIT",
+  "home_page": "https://github.com/DevZ44d/SyncAi",
+  "download_filename": "syncai-3.0.tar.gz",
+  "download_time": "2025-08-29T09:22:30.331499",
+  "package_url": "https://pypi.org/project/SyncAi/"
+}
