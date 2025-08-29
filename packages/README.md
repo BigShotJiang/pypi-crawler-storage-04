@@ -1,41 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-29T09:42:06.715237
-- **Total Packages**: 90
-- **Total Size**: 20.31 MB
+- **Download Time**: 2025-08-29T09:53:06.040728
+- **Total Packages**: 89
+- **Total Size**: 0.05 MB
 
 ## Packages List
-- aiqtoolkit-mem0ai
-- aiqtoolkit-semantic-kernel
-- SyncAi
-- aiqtoolkit-llama-index
-- mignonFramework
-- aiqtoolkit-test
-- phonenumbers
-- syncraft
-- aiqtoolkit-weave
-- phonenumberslite
-- futhark-data
-- aiqtoolkit-crewai
-- phase-cli
-- instana
-- amsatop
-- scc-firewall-manager-sdk
-- git-analytics
-- ocpi-pydantic
-- opentelemetry-instrumentation-azure-aisearch
-- tokenizers
-- snakemake
-- sparkden
-- sunpeek
-- plane-sdk
-- workspace-services
-- jl95terceira-pytools
-- pyfactx
-- technical-analysis-mcp
-- taskcluster-taskgraph
-- xgae
 - dihlibs
 - nucliadb-admin-assets
 - mosamatic2
@@ -49,6 +19,7 @@
 - mbxai
 - autorino
 - aenir
+- SyncAi
 - nldcsc
 - bitget-api-client
 - maleo-toolkit-text
@@ -96,3 +67,31 @@
 - femagtools
 - voice-processor
 - forteenall-kit
+- django-lasuite
+- retemplar
+- T3ChatApi
+- bubblebarrier
+- teams-alerter
+- mach2
+- orq-ai-sdk
+- rs-server-staging
+- rs-server-frontend
+- rs-server-common
+- rs-server-catalog
+- rs-server-cadip
+- rs-server-adgs
+- HSPiPy
+- rs-dpr-service
+- rs-client-libraries
+- gdcmd
+- github2gerrit
+- agentup
+- heaptree-test-sdk
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- cozeloop
+- autogluon.tabular
+- autogluon.features
+- autogluon.core
+- autogluon.common

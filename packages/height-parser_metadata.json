@@ -1,11 +1,11 @@
 {
   "name": "height-parser",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Convert date-like strings (e.g., 6/11/2000) into heights",
   "author": "Ananya Srinivas 25763727",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "height_parser-0.1.3.tar.gz",
-  "download_time": "2025-08-29T09:41:39.858728",
+  "download_filename": "height_parser-0.1.4.tar.gz",
+  "download_time": "2025-08-29T09:52:23.995122",
   "package_url": "https://pypi.org/project/height-parser/"
 }
