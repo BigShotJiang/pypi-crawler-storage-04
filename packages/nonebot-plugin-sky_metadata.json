@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-sky",
+  "version": "2.4.0",
+  "summary": "基于Nonebot2的sky光遇攻略插件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_sky-2.4.0.tar.gz",
+  "download_time": "2025-08-29T13:17:51.317911",
+  "package_url": "https://pypi.org/project/nonebot-plugin-sky/"
+}

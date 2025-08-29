@@ -1,11 +1,11 @@
 {
   "name": "drf-spectacular-auth",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Authentication UI for DRF Spectacular with AWS Cognito support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drf_spectacular_auth-1.0.4.tar.gz",
-  "download_time": "2025-08-29T10:21:21.890193",
+  "download_filename": "drf_spectacular_auth-1.0.5.tar.gz",
+  "download_time": "2025-08-29T13:17:44.329560",
   "package_url": "https://pypi.org/project/drf-spectacular-auth/"
 }

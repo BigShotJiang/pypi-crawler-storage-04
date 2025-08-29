@@ -1,0 +1,11 @@
+{
+  "name": "pytracksim",
+  "version": "1.2.0",
+  "summary": "A multilevel battery simulation tool for realistic battery cell data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytracksim-1.2.0.tar.gz",
+  "download_time": "2025-08-29T13:17:14.299245",
+  "package_url": "https://pypi.org/project/pytracksim/"
+}

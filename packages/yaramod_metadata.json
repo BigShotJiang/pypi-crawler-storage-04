@@ -1,0 +1,11 @@
+{
+  "name": "yaramod",
+  "version": "4.5.0",
+  "summary": "Library for manipulation of YARA files.",
+  "author": "Marek Milkovic",
+  "license": "MIT",
+  "home_page": "https://github.com/avast/yaramod",
+  "download_filename": "yaramod-4.5.0.tar.gz",
+  "download_time": "2025-08-29T13:17:21.030588",
+  "package_url": "https://pypi.org/project/yaramod/"
+}

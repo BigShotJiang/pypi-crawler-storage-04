@@ -1,11 +1,11 @@
 {
   "name": "digitalmeve",
-  "version": "0.1.3",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "1.6.0",
+  "summary": "DigitalMeve — The Certified Digital Memory (.MEVE) standard. Timestamp, hash, certify & verify documents.",
+  "author": "DigitalMeve Team",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "digitalmeve-0.1.3.tar.gz",
-  "download_time": "2025-08-28T06:56:06.202816",
+  "download_filename": "digitalmeve-1.6.0.tar.gz",
+  "download_time": "2025-08-29T13:17:46.120818",
   "package_url": "https://pypi.org/project/digitalmeve/"
 }

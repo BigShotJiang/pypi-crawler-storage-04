@@ -1,11 +1,11 @@
 {
   "name": "mite-extras",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Parsing, conversion, and validation functionality for Minimum Information about a Tailoring Enzyme (MITE) files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mite_extras-1.6.1.tar.gz",
-  "download_time": "2025-08-29T10:21:40.662966",
+  "download_filename": "mite_extras-1.6.2.tar.gz",
+  "download_time": "2025-08-29T13:17:09.266683",
   "package_url": "https://pypi.org/project/mite-extras/"
 }
