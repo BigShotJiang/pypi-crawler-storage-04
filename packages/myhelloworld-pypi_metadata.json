@@ -1,0 +1,11 @@
+{
+  "name": "myhelloworld-pypi",
+  "version": "0.0.1",
+  "summary": "A simple demo Python package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "myhelloworld_pypi-0.0.1.tar.gz",
+  "download_time": "2025-08-29T16:26:57.267242",
+  "package_url": "https://pypi.org/project/myhelloworld-pypi/"
+}

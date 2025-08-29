@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-cartesia",
-  "version": "0.0.28",
+  "version": "0.0.30",
   "summary": "VideoSDK Agent Framework plugin for Cartesia",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_cartesia-0.0.28.tar.gz",
-  "download_time": "2025-08-28T09:41:21.334628",
+  "download_filename": "videosdk_plugins_cartesia-0.0.30.tar.gz",
+  "download_time": "2025-08-29T16:26:40.498128",
   "package_url": "https://pypi.org/project/videosdk-plugins-cartesia/"
 }

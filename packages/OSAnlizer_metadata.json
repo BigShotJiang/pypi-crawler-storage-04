@@ -1,0 +1,11 @@
+{
+  "name": "OSAnlizer",
+  "version": "1.0.6",
+  "summary": "Educational PoC for dependency confusion and typo squatting testing",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "OSAnlizer-1.0.6.tar.gz",
+  "download_time": "2025-08-29T16:26:09.660184",
+  "package_url": "https://pypi.org/project/OSAnlizer/"
+}

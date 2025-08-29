@@ -1,0 +1,11 @@
+{
+  "name": "langgate-processor",
+  "version": "0.3.3",
+  "summary": "Envoy External Processor for LangGate AI Gateway",
+  "author": "Tanantor Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgate_processor-0.3.3.tar.gz",
+  "download_time": "2025-08-29T16:26:52.333666",
+  "package_url": "https://pypi.org/project/langgate-processor/"
+}

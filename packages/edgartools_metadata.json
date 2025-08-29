@@ -1,11 +1,11 @@
 {
   "name": "edgartools",
-  "version": "4.8.3",
+  "version": "4.9.0",
   "summary": "Navigate Edgar filings with ease",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edgartools-4.8.3.tar.gz",
-  "download_time": "2025-08-28T14:20:22.126971",
+  "download_filename": "edgartools-4.9.0.tar.gz",
+  "download_time": "2025-08-29T16:26:08.053155",
   "package_url": "https://pypi.org/project/edgartools/"
 }

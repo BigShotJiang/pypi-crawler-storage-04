@@ -1,0 +1,11 @@
+{
+  "name": "LogicExplainML",
+  "version": "0.1.0",
+  "summary": "XAI explainers to Machine Learning Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logicexplainml-0.1.0.tar.gz",
+  "download_time": "2025-08-29T16:26:10.763852",
+  "package_url": "https://pypi.org/project/LogicExplainML/"
+}
