@@ -1,0 +1,11 @@
+{
+  "name": "scikit-surgeryimage",
+  "version": "0.10.3",
+  "summary": "scikit-surgeryimage implements image processing tools and alogrithms for Image Guided Surgery.",
+  "author": "Stephen Thompson",
+  "license": "BSD-3 license",
+  "home_page": "https://github.com/SciKit-Surgery/scikit-surgeryimage",
+  "download_filename": "scikit_surgeryimage-0.10.3.tar.gz",
+  "download_time": "2025-08-29T11:17:39.209453",
+  "package_url": "https://pypi.org/project/scikit-surgeryimage/"
+}

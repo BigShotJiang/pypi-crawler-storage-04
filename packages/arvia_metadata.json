@@ -1,0 +1,11 @@
+{
+  "name": "arvia",
+  "version": "0.3.3",
+  "summary": "ARVIA (Antibiotic Resistance Variant Identifier for Pseudomonas aeruginosa) takes single-end/paired-end reads and/or assemblies to perform exhaustive variant calling of genes related to antibiotic resistance in Pseudomonas aeruginosa.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arvia-0.3.3.tar.gz",
+  "download_time": "2025-08-29T11:17:18.816388",
+  "package_url": "https://pypi.org/project/arvia/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qml-essentials",
+  "version": "0.1.36",
+  "summary": "A toolbox to make working with QML models easier.",
+  "author": "Melvin Strobl",
+  "license": "MIT",
+  "home_page": "https://cirkiters.github.io/qml-essentials/",
+  "download_filename": "qml_essentials-0.1.36.tar.gz",
+  "download_time": "2025-08-29T11:17:42.861094",
+  "package_url": "https://pypi.org/project/qml-essentials/"
+}

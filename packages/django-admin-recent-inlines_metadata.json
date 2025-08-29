@@ -1,11 +1,11 @@
 {
   "name": "django-admin-recent-inlines",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Recent inlines with view-all functionality",
   "author": "Konrad Beck",
   "license": "MIT",
   "home_page": "https://github.com/AugendLimited/django-admin-recent-inlines",
-  "download_filename": "django_admin_recent_inlines-0.1.2.tar.gz",
-  "download_time": "2025-08-29T10:54:16.385897",
+  "download_filename": "django_admin_recent_inlines-0.1.3.tar.gz",
+  "download_time": "2025-08-29T11:17:43.893606",
   "package_url": "https://pypi.org/project/django-admin-recent-inlines/"
 }

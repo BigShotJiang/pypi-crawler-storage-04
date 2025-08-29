@@ -1,11 +1,11 @@
 {
   "name": "passagemath-plot",
-  "version": "10.6.11",
+  "version": "10.6.12",
   "summary": "passagemath: Plotting and graphics with Matplotlib, Three.JS, etc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_plot-10.6.11.tar.gz",
-  "download_time": "2025-08-28T11:51:49.815590",
+  "download_filename": "passagemath_plot-10.6.12-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-08-29T11:17:45.522332",
   "package_url": "https://pypi.org/project/passagemath-plot/"
 }

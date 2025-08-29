@@ -1,0 +1,11 @@
+{
+  "name": "python-cyborgclient",
+  "version": "2.6.0",
+  "summary": "Python client for cyborg API",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-cyborgclient/latest/",
+  "download_filename": "python_cyborgclient-2.6.0.tar.gz",
+  "download_time": "2025-08-29T11:17:39.726491",
+  "package_url": "https://pypi.org/project/python-cyborgclient/"
+}
