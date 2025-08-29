@@ -1,11 +1,11 @@
 {
   "name": "luxorasap",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "summary": "Toolbox da Luxor para ingestão, análise e automação de dados financeiros.",
   "author": null,
   "license": "Proprietary – All rights reserved",
   "home_page": null,
-  "download_filename": "luxorasap-0.2.20.tar.gz",
-  "download_time": "2025-08-29T19:16:39.801607",
+  "download_filename": "luxorasap-0.2.21.tar.gz",
+  "download_time": "2025-08-29T20:22:18.304053",
   "package_url": "https://pypi.org/project/luxorasap/"
 }

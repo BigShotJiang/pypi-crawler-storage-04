@@ -1,0 +1,11 @@
+{
+  "name": "ibicus",
+  "version": "1.2.0",
+  "summary": "ibicus provides a flexible and user-friendly toolkit for the bias correction of climate models and associated evaluation.",
+  "author": "Fiona Spuler, Jakob Wessel & European Centre for Medium-Range Weather Forecasts (ECMWF)",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/ecmwf-projects/ibicus",
+  "download_filename": "ibicus-1.2.0.tar.gz",
+  "download_time": "2025-08-29T20:22:38.302626",
+  "package_url": "https://pypi.org/project/ibicus/"
+}

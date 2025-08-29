@@ -1,11 +1,11 @@
 {
   "name": "libfluora",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": "Aiden Vigue",
   "license": null,
   "home_page": null,
-  "download_filename": "libfluora-0.1.0.tar.gz",
-  "download_time": "2025-08-29T17:42:27.034324",
+  "download_filename": "libfluora-0.1.1.tar.gz",
+  "download_time": "2025-08-29T20:22:40.662752",
   "package_url": "https://pypi.org/project/libfluora/"
 }

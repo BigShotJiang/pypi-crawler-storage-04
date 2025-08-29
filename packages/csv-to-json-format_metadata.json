@@ -1,0 +1,11 @@
+{
+  "name": "csv-to-json-format",
+  "version": "0.0.1",
+  "summary": "Uma ferramenta simples para converter arquivos CSV para JSON.",
+  "author": "Simone A Diana",
+  "license": null,
+  "home_page": "https://github.com/SiDianaGit/csv_to_json_format",
+  "download_filename": "csv_to_json_format-0.0.1.tar.gz",
+  "download_time": "2025-08-29T20:22:08.514834",
+  "package_url": "https://pypi.org/project/csv-to-json-format/"
+}

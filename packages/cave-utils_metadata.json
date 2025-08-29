@@ -1,0 +1,11 @@
+{
+  "name": "cave-utils",
+  "version": "3.3.0",
+  "summary": "Python wrapper for api use in the cave_app",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cave_utils-3.3.0.tar.gz",
+  "download_time": "2025-08-29T20:22:38.945413",
+  "package_url": "https://pypi.org/project/cave-utils/"
+}

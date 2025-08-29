@@ -1,0 +1,11 @@
+{
+  "name": "i3-auto-floating",
+  "version": "1.4",
+  "summary": "Remember floating state of i3wm and Sway windows and automatically set it when a new window of the same app is created.",
+  "author": "Artem Avetisyan",
+  "license": "MIT",
+  "home_page": "https://github.com/artemave/i3_auto_floating",
+  "download_filename": "i3_auto_floating-1.4.tar.gz",
+  "download_time": "2025-08-29T20:22:27.737550",
+  "package_url": "https://pypi.org/project/i3-auto-floating/"
+}
