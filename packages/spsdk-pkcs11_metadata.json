@@ -1,0 +1,11 @@
+{
+  "name": "spsdk-pkcs11",
+  "version": "0.3.5",
+  "summary": "Signature Provider plugin for SPSDK using PKCS#11 interface",
+  "author": "NXP",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "spsdk_pkcs11-0.3.5.tar.gz",
+  "download_time": "2025-08-29T06:30:53.475171",
+  "package_url": "https://pypi.org/project/spsdk-pkcs11/"
+}

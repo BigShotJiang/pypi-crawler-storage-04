@@ -1,0 +1,11 @@
+{
+  "name": "spsdk-mcu-link",
+  "version": "0.6.6",
+  "summary": "SPSDK MCU-Link. A debugger probe plugin for SPSDK supporting LPC-Link/MCU-Link from NXP.",
+  "author": "NXP",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "spsdk_mcu_link-0.6.6.tar.gz",
+  "download_time": "2025-08-29T06:30:51.347944",
+  "package_url": "https://pypi.org/project/spsdk-mcu-link/"
+}

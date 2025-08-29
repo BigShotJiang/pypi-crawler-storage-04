@@ -1,0 +1,11 @@
+{
+  "name": "nxp-codecheck",
+  "version": "0.3.13",
+  "summary": "Simple set of checking tools for accepting code quality for NXP python projects",
+  "author": "NXP",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nxp_codecheck-0.3.13.tar.gz",
+  "download_time": "2025-08-29T06:30:52.411473",
+  "package_url": "https://pypi.org/project/nxp-codecheck/"
+}

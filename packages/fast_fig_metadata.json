@@ -1,11 +1,11 @@
 {
   "name": "fast_fig",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "FaSt_Fig is a wrapper for matplotlib with templates.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_fig-0.8.0.tar.gz",
-  "download_time": "2025-08-28T19:38:22.333708",
+  "download_filename": "fast_fig-0.8.1.tar.gz",
+  "download_time": "2025-08-29T06:31:24.443706",
   "package_url": "https://pypi.org/project/fast_fig/"
 }

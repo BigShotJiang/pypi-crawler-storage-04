@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-azokoop",
+  "version": "16.0.1.0.0",
+  "summary": "Custom Addons for Azokoop",
+  "author": "Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.coop",
+  "download_filename": "odoo_addon_azokoop-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-29T06:30:59.902132",
+  "package_url": "https://pypi.org/project/odoo-addon-azokoop/"
+}
