@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_docx-edit-server",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server providing docx edit capability",
+  "author": "iflow team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_docx_edit_server-0.1.1.tar.gz",
+  "download_time": "2025-08-29T08:48:33.226556",
+  "package_url": "https://pypi.org/project/iflow-mcp_docx-edit-server/"
+}

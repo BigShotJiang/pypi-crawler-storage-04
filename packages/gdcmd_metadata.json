@@ -1,11 +1,11 @@
 {
   "name": "gdcmd",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Griddot packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gdcmd-0.2.2.tar.gz",
-  "download_time": "2025-08-29T05:20:03.895867",
+  "download_filename": "gdcmd-0.2.3.tar.gz",
+  "download_time": "2025-08-29T08:48:30.159770",
   "package_url": "https://pypi.org/project/gdcmd/"
 }

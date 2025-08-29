@@ -1,0 +1,11 @@
+{
+  "name": "alibuild",
+  "version": "1.17.27",
+  "summary": "ALICE Build Tool",
+  "author": "Giulio Eulisse",
+  "license": null,
+  "home_page": "https://alisw.github.io/alibuild",
+  "download_filename": "alibuild-1.17.27.tar.gz",
+  "download_time": "2025-08-29T08:48:17.264757",
+  "package_url": "https://pypi.org/project/alibuild/"
+}

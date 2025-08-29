@@ -1,0 +1,11 @@
+{
+  "name": "liblogging",
+  "version": "0.1.15",
+  "summary": "Utilities for logging and sending logs.",
+  "author": "xi",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/XoriieInpottn/liblogging",
+  "download_filename": "liblogging-0.1.15.tar.gz",
+  "download_time": "2025-08-29T08:48:27.071431",
+  "package_url": "https://pypi.org/project/liblogging/"
+}

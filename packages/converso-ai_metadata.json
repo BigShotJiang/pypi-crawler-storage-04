@@ -1,0 +1,11 @@
+{
+  "name": "converso-ai",
+  "version": "1.0.6",
+  "summary": "Python client for Converso AI API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "converso_ai-1.0.6.tar.gz",
+  "download_time": "2025-08-29T08:48:13.666515",
+  "package_url": "https://pypi.org/project/converso-ai/"
+}

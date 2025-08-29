@@ -1,11 +1,11 @@
 {
   "name": "yayawallet-python-sdk",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": null,
   "author": "YaYa Wallet",
   "license": null,
   "home_page": null,
-  "download_filename": "yayawallet_python_sdk-1.5.2.tar.gz",
-  "download_time": "2025-08-29T07:39:29.278716",
+  "download_filename": "yayawallet_python_sdk-1.5.3.tar.gz",
+  "download_time": "2025-08-29T08:48:21.926149",
   "package_url": "https://pypi.org/project/yayawallet-python-sdk/"
 }

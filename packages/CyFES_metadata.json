@@ -1,0 +1,11 @@
+{
+  "name": "CyFES",
+  "version": "3.4",
+  "summary": "Cython Based Fast FES Calculation Toolkit.",
+  "author": "Dechin CHEN",
+  "license": "MIT",
+  "home_page": "https://gitee.com/dechin/cy-fes",
+  "download_filename": "CyFES-3.4.tar.gz",
+  "download_time": "2025-08-29T08:48:29.649362",
+  "package_url": "https://pypi.org/project/CyFES/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "marktplaats",
+  "version": "0.3.2",
+  "summary": "A small Python package to request listings from marktplaats.nl",
+  "author": "Jens de Ruiter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marktplaats-0.3.2.tar.gz",
+  "download_time": "2025-08-29T08:48:26.561618",
+  "package_url": "https://pypi.org/project/marktplaats/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "st-attn",
+  "version": "0.0.6",
+  "summary": "Sliding Tile Atteniton Kernel Used in FastVideo",
+  "author": "Hao AI Lab",
+  "license": null,
+  "home_page": "https://github.com/hao-ai-lab/FastVideo/tree/main/csrc/sliding_tile_attention",
+  "download_filename": "st_attn-0.0.6.tar.gz",
+  "download_time": "2025-08-29T08:48:25.544793",
+  "package_url": "https://pypi.org/project/st-attn/"
+}
