@@ -1,11 +1,11 @@
 {
   "name": "xpublish-tiles",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Tiles router for xpublish",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xpublish_tiles-0.1.13.tar.gz",
-  "download_time": "2025-08-28T19:17:16.120110",
+  "download_filename": "xpublish_tiles-0.1.14.tar.gz",
+  "download_time": "2025-08-29T19:52:03.709151",
   "package_url": "https://pypi.org/project/xpublish-tiles/"
 }
