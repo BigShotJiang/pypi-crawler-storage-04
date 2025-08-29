@@ -1,0 +1,11 @@
+{
+  "name": "zerogpt",
+  "version": "1.3.0",
+  "summary": "Python client for interacting with the ZeroGPT API and generating images.",
+  "author": "Redpiar",
+  "license": "MIT",
+  "home_page": "https://github.com/RedPiarOfficial/ZeroGPT",
+  "download_filename": "zerogpt-1.3.0.tar.gz",
+  "download_time": "2025-08-29T18:28:01.274289",
+  "package_url": "https://pypi.org/project/zerogpt/"
+}

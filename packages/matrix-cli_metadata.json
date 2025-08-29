@@ -1,11 +1,11 @@
 {
   "name": "matrix-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Matrix CLI — thin UX layer over matrix-python-sdk (deep links, local builder, runtime)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrix_cli-0.1.2.tar.gz",
-  "download_time": "2025-08-29T17:52:07.774872",
+  "download_filename": "matrix_cli-0.1.3.tar.gz",
+  "download_time": "2025-08-29T18:27:48.186649",
   "package_url": "https://pypi.org/project/matrix-cli/"
 }

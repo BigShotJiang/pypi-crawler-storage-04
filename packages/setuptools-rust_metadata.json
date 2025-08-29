@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-rust",
+  "version": "1.12.0",
+  "summary": "Setuptools Rust extension plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "setuptools_rust-1.12.0.tar.gz",
+  "download_time": "2025-08-29T18:27:38.864100",
+  "package_url": "https://pypi.org/project/setuptools-rust/"
+}

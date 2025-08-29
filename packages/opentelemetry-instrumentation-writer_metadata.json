@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-writer",
+  "version": "0.46.2",
+  "summary": "OpenTelemetry Writer instrumentation",
+  "author": "Yan Tolstoy",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-writer",
+  "download_filename": "opentelemetry_instrumentation_writer-0.46.2.tar.gz",
+  "download_time": "2025-08-29T18:28:05.406015",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-writer/"
+}

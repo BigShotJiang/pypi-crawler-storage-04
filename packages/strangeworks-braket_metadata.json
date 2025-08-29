@@ -1,0 +1,11 @@
+{
+  "name": "strangeworks-braket",
+  "version": "1.0.22",
+  "summary": "Strangeworks Braket SDK extension",
+  "author": "Strange Devs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strangeworks_braket-1.0.22.tar.gz",
+  "download_time": "2025-08-29T18:27:39.376862",
+  "package_url": "https://pypi.org/project/strangeworks-braket/"
+}

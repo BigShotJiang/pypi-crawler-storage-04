@@ -1,0 +1,11 @@
+{
+  "name": "py-allspice",
+  "version": "3.11.0",
+  "summary": "A python wrapper for the AllSpice Hub API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_allspice-3.11.0.tar.gz",
+  "download_time": "2025-08-29T18:28:07.999931",
+  "package_url": "https://pypi.org/project/py-allspice/"
+}

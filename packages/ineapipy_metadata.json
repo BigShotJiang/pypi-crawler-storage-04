@@ -1,0 +1,11 @@
+{
+  "name": "ineapipy",
+  "version": "0.1.0",
+  "summary": "INE API Wrapper, provides classes to make requests to the INE API, both sync and async.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ineapipy-0.1.0.tar.gz",
+  "download_time": "2025-08-29T18:27:49.747877",
+  "package_url": "https://pypi.org/project/ineapipy/"
+}

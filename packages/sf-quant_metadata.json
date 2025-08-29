@@ -1,11 +1,11 @@
 {
   "name": "sf-quant",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Python package for Silver Fund quant team research and trading tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sf_quant-0.1.5.tar.gz",
-  "download_time": "2025-08-29T17:52:07.262704",
+  "download_filename": "sf_quant-0.1.8.tar.gz",
+  "download_time": "2025-08-29T18:28:08.538946",
   "package_url": "https://pypi.org/project/sf-quant/"
 }

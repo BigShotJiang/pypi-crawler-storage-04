@@ -1,0 +1,11 @@
+{
+  "name": "socket-proxy",
+  "version": "6.0.0",
+  "summary": "Proxy TCP ports of local systems",
+  "author": "Florian Kantelberg",
+  "license": "MIT",
+  "home_page": "https://github.com/fkantelberg/socket-proxy",
+  "download_filename": "socket_proxy-6.0.0-py3-none-any.whl",
+  "download_time": "2025-08-29T18:27:55.487894",
+  "package_url": "https://pypi.org/project/socket-proxy/"
+}

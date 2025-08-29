@@ -1,0 +1,11 @@
+{
+  "name": "agentic-doc",
+  "version": "0.3.3",
+  "summary": "A Python library that wraps around VisionAgent document extraction REST API to make documents extraction easy.",
+  "author": "Landing AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_doc-0.3.3.tar.gz",
+  "download_time": "2025-08-29T18:28:14.319681",
+  "package_url": "https://pypi.org/project/agentic-doc/"
+}

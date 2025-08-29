@@ -1,0 +1,11 @@
+{
+  "name": "pysource-codegen",
+  "version": "0.7.0",
+  "summary": "generate random python code to test linter/formatter/and other tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysource_codegen-0.7.0.tar.gz",
+  "download_time": "2025-08-29T18:27:50.260094",
+  "package_url": "https://pypi.org/project/pysource-codegen/"
+}
