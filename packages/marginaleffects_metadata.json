@@ -1,0 +1,11 @@
+{
+  "name": "marginaleffects",
+  "version": "0.1.4",
+  "summary": "Predictions, counterfactual comparisons, slopes, and hypothesis tests for statistical models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marginaleffects-0.1.4.tar.gz",
+  "download_time": "2025-08-30T02:44:53.597617",
+  "package_url": "https://pypi.org/project/marginaleffects/"
+}

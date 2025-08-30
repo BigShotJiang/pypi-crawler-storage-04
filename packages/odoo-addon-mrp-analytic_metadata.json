@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-analytic",
+  "version": "15.0.1.0.0.17",
+  "summary": "Adds the analytic account to the production order",
+  "author": "ForgeFlow, Antiun Ingeniería, Serv. Tecnol. Avanzados - Pedro M. Baeza, José L. Sandoval A., Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_mrp_analytic-15.0.1.0.0.17-py3-none-any.whl",
+  "download_time": "2025-08-30T02:44:41.968899",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-analytic/"
+}
