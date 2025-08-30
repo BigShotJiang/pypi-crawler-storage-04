@@ -1,14 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T08:25:24.179482
-- **Total Packages**: 86
-- **Total Size**: 29.25 MB
+- **Download Time**: 2025-08-30T08:44:29.297447
+- **Total Packages**: 83
+- **Total Size**: 10.01 MB
 
 ## Packages List
+- byteiq
+- authentik-client
+- idf-ci
+- image2sound-newrealm
+- dict-patterns
+- arshai
+- graphlit-client
+- kuzu
+- pytrendy
+- azure-functions-doctor
+- gymix
+- trainerbase
+- django-admin-export-tools
+- ytget-gui
+- reflectorch
+- ms-swift
+- mcp-gs-robot
+- DIRAC
+- DIRACCommon
+- bitget-api-client
+- htmlstr
+- logging_settings
+- simc-support
 - preservationeval
 - superai-langchain
-- pytrendy
 - db-analytics-tools
 - qimomo-py-linux
 - nvfuser-cu126
@@ -30,19 +52,16 @@
 - spiritlong
 - cattle_grid
 - asksage-proxy
-- authentik-client
 - ttrsscli
 - pyglove
 - prefect
 - prefect-client
-- mcp-gs-robot
 - jacobi-yaskawa-driver
 - jacobi-universal-driver
 - jacobi-simulated-driver
 - jacobi-fanuc-driver
 - jacobi-abb-driver
 - weaviate-orm
-- trainerbase
 - dbt-colibri
 - bitformat
 - muso
@@ -70,25 +89,3 @@
 - peek-plugin-branch
 - vre-video
 - synerty-peek
-- peek-worker-service
-- peek-storage-service
-- peek-platform
-- peek-plugin-base
-- peek-office-service
-- peek-office-app
-- akshare
-- peek-office-doc
-- peek-logic-service
-- peek-field-service
-- peek-field-app
-- peek-field-doc
-- peek-core-api
-- peek-core-user
-- peek-core-search
-- peek-core-email
-- peek-core-docdb
-- peek-core-device
-- peek-agent-service
-- peek-admin-app
-- peek-admin-doc
-- peek-abstract-chunked-index
