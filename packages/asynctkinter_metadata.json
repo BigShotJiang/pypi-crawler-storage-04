@@ -1,0 +1,11 @@
+{
+  "name": "asynctkinter",
+  "version": "0.4.3",
+  "summary": "async library for tkinter",
+  "author": "Nattōsai Mitō",
+  "license": "MIT",
+  "home_page": "https://github.com/gottadiveintopython/asynctkinter",
+  "download_filename": "asynctkinter-0.4.3.tar.gz",
+  "download_time": "2025-08-30T23:38:54.617793",
+  "package_url": "https://pypi.org/project/asynctkinter/"
+}
