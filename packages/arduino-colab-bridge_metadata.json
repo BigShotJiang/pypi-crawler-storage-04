@@ -1,0 +1,11 @@
+{
+  "name": "arduino-colab-bridge",
+  "version": "0.1.0",
+  "summary": "HW bridge for Arduino Colab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arduino_colab_bridge-0.1.0.tar.gz",
+  "download_time": "2025-08-30T15:52:27.451212",
+  "package_url": "https://pypi.org/project/arduino-colab-bridge/"
+}
