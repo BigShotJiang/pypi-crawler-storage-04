@@ -1,0 +1,11 @@
+{
+  "name": "bhfutils",
+  "version": "0.1.21",
+  "summary": "Utilities that are used by any spider of Behoof project",
+  "author": "Teplygin Vladimir",
+  "license": "MIT",
+  "home_page": "https://behoof.app/",
+  "download_filename": "bhfutils-0.1.21.tar.gz",
+  "download_time": "2025-08-30T10:52:27.417281",
+  "package_url": "https://pypi.org/project/bhfutils/"
+}

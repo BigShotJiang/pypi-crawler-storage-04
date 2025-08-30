@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T10:41:16.676520
-- **Total Packages**: 72
-- **Total Size**: 6.11 MB
+- **Download Time**: 2025-08-30T10:52:57.148013
+- **Total Packages**: 77
+- **Total Size**: 7.64 MB
 
 ## Packages List
+- agentle
+- nwn
+- authentik-client
+- amrita
+- verry
+- redisify
+- langchain-aisearchapi
+- django-admin-data-export
+- jsonschema-codegen-py
+- aioeasysqlite
+- neontology
+- clipper-dev
+- data-go-mcp.apartment-trade
+- mcp-data-analzyer-jifengsheng
+- google-search-mcp
+- dearning
+- fediverse-pasture
+- video-representations-extractor
+- pretix-paystack
+- konduktor-nightly
+- odfdo
+- bhfutils
+- phylodata
+- trainy-policy-nightly
+- bhut
 - letta-nightly
 - retab
 - planar
@@ -15,10 +40,8 @@
 - maleo-soma-models
 - fx-bin
 - vre-video
-- authentik-client
 - image2sound-newrealm
 - rcabench-platform
-- django-admin-data-export
 - lingtaiAgent
 - Fuckyoubitchbro
 - runbooks
@@ -32,7 +55,6 @@
 - minesweepervariants
 - pyco2stats
 - speedupper
-- dearning
 - clipstack
 - consul-adk
 - vllm-mock
@@ -56,25 +78,8 @@
 - pyais
 - pm-rank
 - processpi
-- data-go-mcp.apartment-trade
 - zotero-qa-notes
 - asksage-proxy
 - flowfoundry
 - nonebot-plugin-huaer-bot
 - mtcli-trade
-- winup
-- chat-memobase
-- embed-anything-gpu
-- trading-core
-- trading-contracts
-- hunter-how-cli
-- odoo-addon-sign-oca
-- dict-patterns
-- astroinsight
-- fal
-- architext
-- nonebot-plugin-time-card
-- grpc-nacos
-- pyslurmutils
-- nvidia-nat-opentelemetry
-- nvidia-nat-phoenix

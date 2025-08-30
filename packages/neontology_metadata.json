@@ -1,0 +1,11 @@
+{
+  "name": "neontology",
+  "version": "2.2.2",
+  "summary": "A Python package for modelling data in a Neo4j graph database with Pydantic and Pandas.",
+  "author": "Ontolocy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neontology-2.2.2.tar.gz",
+  "download_time": "2025-08-30T10:52:21.681491",
+  "package_url": "https://pypi.org/project/neontology/"
+}
