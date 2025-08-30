@@ -1,11 +1,11 @@
 {
   "name": "ytget-gui",
-  "version": "2.4.7.2",
+  "version": "2.4.7.3",
   "summary": "A GUI YouTube downloader powered by yt-dlp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ytget_gui-2.4.7.2.tar.gz",
-  "download_time": "2025-08-30T09:19:21.848060",
+  "download_filename": "ytget_gui-2.4.7.3.tar.gz",
+  "download_time": "2025-08-30T11:27:21.143639",
   "package_url": "https://pypi.org/project/ytget-gui/"
 }

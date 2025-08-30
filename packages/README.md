@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T11:16:23.577350
-- **Total Packages**: 74
-- **Total Size**: 10.31 MB
+- **Download Time**: 2025-08-30T11:28:05.099030
+- **Total Packages**: 75
+- **Total Size**: 1.1 MB
 
 ## Packages List
+- zotero-qa-notes
+- frost-forge
+- ytget-gui
+- valar
+- plutoprint
+- outlier-toolkit
+- toollib
+- nsefin
+- pywheels
+- typer-cli
+- typer
+- typer-slim
+- trading-core
+- authentik-client
+- clipper-dev
+- consul-adk
 - pyotrs
 - pretix-paystack
 - wads
@@ -16,14 +32,11 @@
 - rh
 - fluent-telegrinder
 - hud-python
-- frost-forge
 - vre-video
 - cinetica
 - velog-sync
 - pymc-extras
-- outlier-toolkit
 - latex-merge-changes
-- authentik-client
 - autopeptideml
 - langrinder
 - google-search-mcp
@@ -34,10 +47,8 @@
 - fx-bin
 - rdkit-data-pipeline-tools
 - praisonaiagents
-- clipper-dev
 - rag-firewall
 - NseEod
-- outlier-library
 - pyreqver
 - agentle
 - nwn
@@ -70,13 +81,3 @@
 - runbooks
 - python-pooldose
 - maleo-soma-utils
-- DragonLog
-- gdcmd
-- xulbux
-- edsl
-- minesweepervariants
-- pyco2stats
-- speedupper
-- clipstack
-- consul-adk
-- vllm-mock

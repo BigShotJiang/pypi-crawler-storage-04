@@ -1,11 +1,11 @@
 {
   "name": "zotero-qa-notes",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Convert Zotero JSON export into Markdown with optional Q&A prompts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zotero_qa_notes-0.1.0.tar.gz",
-  "download_time": "2025-08-30T10:19:34.848732",
+  "download_filename": "zotero_qa_notes-0.1.2.tar.gz",
+  "download_time": "2025-08-30T11:27:19.858778",
   "package_url": "https://pypi.org/project/zotero-qa-notes/"
 }
