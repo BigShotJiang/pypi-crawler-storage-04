@@ -1,11 +1,11 @@
 {
   "name": "kipjak",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Concurrency via multithreading, multiprocessing and multihosting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kipjak-1.0.3.tar.gz",
-  "download_time": "2025-08-30T20:40:14.582324",
+  "download_filename": "kipjak-1.0.5.tar.gz",
+  "download_time": "2025-08-30T20:52:47.993355",
   "package_url": "https://pypi.org/project/kipjak/"
 }

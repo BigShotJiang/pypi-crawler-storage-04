@@ -1,0 +1,11 @@
+{
+  "name": "git-logger",
+  "version": "0.5",
+  "summary": "Log preserved history contents of csv or json file in duckdb",
+  "author": "Lyubomir Georgiev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "git_logger-0.5.tar.gz",
+  "download_time": "2025-08-30T20:52:43.910766",
+  "package_url": "https://pypi.org/project/git-logger/"
+}
