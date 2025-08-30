@@ -1,0 +1,11 @@
+{
+  "name": "square-logger",
+  "version": "2.0.1",
+  "summary": "python logger for my personal use.",
+  "author": "Parth Mukesh Mangtani, Amish Palkar",
+  "license": null,
+  "home_page": "https://github.com/thepmsquare/square_logger",
+  "download_filename": "square_logger-2.0.1.tar.gz",
+  "download_time": "2025-08-30T04:24:33.539405",
+  "package_url": "https://pypi.org/project/square-logger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "semantic-copycat-oslili",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Semantic Copycat Open Source License Identification Library",
   "author": "Oscar Valenzuela B.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/oscarvalenzuelab/semantic-copycat-oslili",
-  "download_filename": "semantic_copycat_oslili-1.2.8.tar.gz",
-  "download_time": "2025-08-30T03:47:08.000173",
+  "download_filename": "semantic_copycat_oslili-1.2.9.tar.gz",
+  "download_time": "2025-08-30T04:24:46.581701",
   "package_url": "https://pypi.org/project/semantic-copycat-oslili/"
 }

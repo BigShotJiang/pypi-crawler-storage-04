@@ -1,0 +1,11 @@
+{
+  "name": "cubeparser-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Server for CubeParser document extraction API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cubeparser_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-30T04:24:38.311007",
+  "package_url": "https://pypi.org/project/cubeparser-mcp/"
+}
