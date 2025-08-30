@@ -1,53 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T17:39:01.627004
-- **Total Packages**: 79
-- **Total Size**: 22.68 MB
+- **Download Time**: 2025-08-30T17:53:03.452291
+- **Total Packages**: 75
+- **Total Size**: 8.38 MB
 
 ## Packages List
-- nbtest-plugin
-- minecraft-datapack-language
-- soundevent
-- ioc-extractor
-- pytica
-- evalcards
-- authentik-client
-- claude-mpm
-- chaos-mesh-mcp-server
-- llwp
-- overloadable
-- sqlalchemy-pydantic-mapper
-- mosaicdb
-- imPYP
-- ATmulti-file-handler
-- reyworm
-- reywechat
-- gpboost
-- data-retrieval-monitor
-- lionagi
-- geotessera
-- shahmat
-- langchain-callback-parquet-logger
-- satquest
-- lumaai
-- pyrtex
-- hpfracc
-- academia-mcp
-- py-html-logger
-- vibe-llama
-- testt-test
-- askcarl
-- HomeAssistantKNXAutomaticImport
 - annex4risk-detector
 - aioeasysqlite
 - omni-pathlib
 - reyweb
+- reyworm
+- reywechat
 - reykit
 - reydb
+- py-html-logger
 - logillm
 - LLM-Bridge
 - django-myuser
+- testt-test
 - inspect-swe
 - salute-speech
 - tksheet
@@ -55,7 +26,9 @@
 - bog-builder
 - atomicshop
 - x-make-markdown-x
+- authentik-client
 - pydantic-graph
+- minecraft-datapack-language
 - pydantic-evals
 - pydantic-ai-slim
 - pydantic-ai-examples
@@ -85,3 +58,26 @@
 - jaygoga-orchestra
 - zerobuffer-ipc
 - mmrl
+- splat64
+- mle-kit-mcp
+- overloadable
+- EulerKit
+- mailhook
+- django-moo
+- qA-Ap
+- b62
+- matrice
+- orionis
+- html2text-rs
+- ipi
+- mandelbrot-viewer
+- minitorch
+- justai
+- upsonic
+- pydfs-lineup-optimizer-enhanced
+- commonmeta-py
+- crystmatch
+- pydapter
+- workflowforge
+- rovibrational-excitation
+- speedy-utils
