@@ -1,11 +1,11 @@
 {
   "name": "wojas-bt",
-  "version": "0.1",
-  "summary": "Create a beautiful text easily in python with wojas beautiful text",
+  "version": "0.2",
+  "summary": "Easily create beautiful gradient and rainbow text in Python",
   "author": "W0jas",
-  "license": null,
-  "home_page": null,
-  "download_filename": "wojas_bt-0.1.tar.gz",
-  "download_time": "2025-08-29T19:39:07.711746",
+  "license": "MIT",
+  "home_page": "https://github.com/wojase/wojas_bt",
+  "download_filename": "wojas_bt-0.2.tar.gz",
+  "download_time": "2025-08-30T08:55:04.001441",
   "package_url": "https://pypi.org/project/wojas-bt/"
 }

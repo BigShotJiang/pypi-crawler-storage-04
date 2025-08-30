@@ -1,11 +1,11 @@
 {
   "name": "tfp-nightly",
-  "version": "0.26.0.dev20250829",
+  "version": "0.26.0.dev20250830",
   "summary": "Probabilistic modeling and statistical inference in TensorFlow",
   "author": "Google LLC",
   "license": "Apache 2.0",
   "home_page": "http://github.com/tensorflow/probability",
-  "download_filename": "tfp_nightly-0.26.0.dev20250829-py2.py3-none-any.whl",
-  "download_time": "2025-08-29T08:48:21.412520",
+  "download_filename": "tfp_nightly-0.26.0.dev20250830-py2.py3-none-any.whl",
+  "download_time": "2025-08-30T08:55:07.122510",
   "package_url": "https://pypi.org/project/tfp-nightly/"
 }

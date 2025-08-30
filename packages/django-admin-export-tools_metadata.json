@@ -1,11 +1,11 @@
 {
   "name": "django-admin-export-tools",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A comprehensive Django app that enhances the admin interface with advanced export functionality for CSV, Excel, and JSON formats.",
   "author": "Nyuydine Bill",
   "license": "MIT",
   "home_page": "https://github.com/NyuydineBill/django-admin-export-tools",
-  "download_filename": "django-admin-export-tools-1.0.0.tar.gz",
-  "download_time": "2025-08-30T08:43:52.200421",
+  "download_filename": "django_admin_export_tools-1.0.2.tar.gz",
+  "download_time": "2025-08-30T08:55:00.410245",
   "package_url": "https://pypi.org/project/django-admin-export-tools/"
 }
