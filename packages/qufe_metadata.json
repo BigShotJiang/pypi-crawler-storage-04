@@ -1,0 +1,11 @@
+{
+  "name": "qufe",
+  "version": "0.1.2",
+  "summary": "A comprehensive Python utility library for data processing, file handling, database management, and automation tasks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qufe-0.1.2.tar.gz",
+  "download_time": "2025-08-30T16:54:56.365515",
+  "package_url": "https://pypi.org/project/qufe/"
+}
