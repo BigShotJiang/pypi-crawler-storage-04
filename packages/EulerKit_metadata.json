@@ -1,0 +1,11 @@
+{
+  "name": "EulerKit",
+  "version": "0.4.0",
+  "summary": "A package with some utilities inspired by Project Euler Problems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eulerkit-0.4.0.tar.gz",
+  "download_time": "2025-08-30T17:16:57.490583",
+  "package_url": "https://pypi.org/project/EulerKit/"
+}

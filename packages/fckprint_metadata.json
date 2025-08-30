@@ -1,0 +1,11 @@
+{
+  "name": "fckprint",
+  "version": "1.1.2",
+  "summary": "imagine a world using print for debugging, and we are happy to be not be in it now.",
+  "author": "SRSWTI Research Labs",
+  "license": null,
+  "home_page": "https://github.com/SRSWTI/fckprint",
+  "download_filename": "fckprint-1.1.2.tar.gz",
+  "download_time": "2025-08-30T17:16:51.726325",
+  "package_url": "https://pypi.org/project/fckprint/"
+}

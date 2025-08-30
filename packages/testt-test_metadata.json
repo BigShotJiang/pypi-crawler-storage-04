@@ -1,0 +1,11 @@
+{
+  "name": "testt-test",
+  "version": "99.0.1",
+  "summary": "package for testing dependency confusion",
+  "author": "test",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testt_test-99.0.1.tar.gz",
+  "download_time": "2025-08-30T17:16:34.758778",
+  "package_url": "https://pypi.org/project/testt-test/"
+}

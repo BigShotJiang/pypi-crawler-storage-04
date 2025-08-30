@@ -1,0 +1,11 @@
+{
+  "name": "netspresso",
+  "version": "1.16.1",
+  "summary": "PyNetsPresso",
+  "author": "NetsPresso",
+  "license": null,
+  "home_page": "https://github.com/Nota-NetsPresso/PyNetsPresso",
+  "download_filename": "netspresso-1.16.1.tar.gz",
+  "download_time": "2025-08-30T17:16:48.557811",
+  "package_url": "https://pypi.org/project/netspresso/"
+}

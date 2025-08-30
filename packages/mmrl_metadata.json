@@ -1,0 +1,11 @@
+{
+  "name": "mmrl",
+  "version": "0.1.6",
+  "summary": "Market Making RL - simulation, experiments, and CLI",
+  "author": "Aviral Poddar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmrl-0.1.6.tar.gz",
+  "download_time": "2025-08-30T17:16:55.416197",
+  "package_url": "https://pypi.org/project/mmrl/"
+}

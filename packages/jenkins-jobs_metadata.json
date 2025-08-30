@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-jobs",
+  "version": "0.1.8",
+  "summary": "Listing all jobs on a Jenkins server with more information than jenkins-cli.jar",
+  "author": "Alceu Rodrigues de Freitas Junior",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/glasswalk3r/jenkins-jobs",
+  "download_filename": "jenkins_jobs-0.1.8.tar.gz",
+  "download_time": "2025-08-30T17:16:43.253247",
+  "package_url": "https://pypi.org/project/jenkins-jobs/"
+}
