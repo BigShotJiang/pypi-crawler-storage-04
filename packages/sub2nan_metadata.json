@@ -1,0 +1,11 @@
+{
+  "name": "sub2nan",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library for handling subtitle files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sub2nan-0.1.0.tar.gz",
+  "download_time": "2025-08-30T07:18:04.627653",
+  "package_url": "https://pypi.org/project/sub2nan/"
+}

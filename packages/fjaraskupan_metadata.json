@@ -1,0 +1,11 @@
+{
+  "name": "fjaraskupan",
+  "version": "2.3.3",
+  "summary": "A python library for speaking to fjäråskupan",
+  "author": "Joakim Plate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fjaraskupan-2.3.3.tar.gz",
+  "download_time": "2025-08-30T07:18:02.076854",
+  "package_url": "https://pypi.org/project/fjaraskupan/"
+}
