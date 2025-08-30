@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T05:19:53.444495
+- **Download Time**: 2025-08-30T05:40:57.558676
 - **Total Packages**: 76
-- **Total Size**: 13.68 MB
+- **Total Size**: 5.78 MB
 
 ## Packages List
+- halo-video
+- authentik-client
+- pystolint
+- modusa
+- pyttb
+- cubeparser-mcp
+- cfgtools
+- aiopulse2
+- ecotransformers
+- fid
+- pex
+- ytget-gui
+- cloudpathlib
+- anc-data
+- surfari
+- sdss-yao
 - mwutsdz
 - promptbuilder
 - manifoldbot
@@ -14,7 +30,6 @@
 - pxpx
 - ngp
 - YMLEditor
-- authentik-client
 - qrpa
 - pulumi-cloudflare
 - todo-agent
@@ -67,18 +82,3 @@
 - model-metrics
 - pyragix
 - hypha-rpc
-- keras-nlp-nightly
-- keras-hub-nightly
-- dpgcontainers
-- gaze-ocr
-- snowflake-connector-python-nightly
-- brocode
-- npcpy
-- CordForge
-- hyperbrowser
-- feast
-- sc-orchestrator
-- throttled-py
-- textual-pdf
-- cdktf-cdktf-provider-cloudflare
-- speedy-utils

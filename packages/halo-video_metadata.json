@@ -1,0 +1,11 @@
+{
+  "name": "halo-video",
+  "version": "1.0.0",
+  "summary": "Interactive CLI for YouTube video analysis with audio transcription and visual frame analysis using Gemini AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "halo_video-1.0.0.tar.gz",
+  "download_time": "2025-08-30T05:40:16.704295",
+  "package_url": "https://pypi.org/project/halo-video/"
+}
