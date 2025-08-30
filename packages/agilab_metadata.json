@@ -1,11 +1,11 @@
 {
   "name": "agilab",
-  "version": "0.6.9",
+  "version": "0.7.3",
   "summary": "AGILAB a datascience IDE for engineering to explore AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agilab-0.6.9-py3-none-any.whl",
-  "download_time": "2025-08-28T08:49:14.187944",
+  "download_filename": "agilab-0.7.3-py3-none-any.whl",
+  "download_time": "2025-08-30T14:52:31.530503",
   "package_url": "https://pypi.org/project/agilab/"
 }

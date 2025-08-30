@@ -1,0 +1,11 @@
+{
+  "name": "scilayout",
+  "version": "0.1.0b1",
+  "summary": "Create axes from top left of figure in centimetres to simplify scientific figure generation.",
+  "author": "George Stuyt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scilayout-0.1.0b1.tar.gz",
+  "download_time": "2025-08-30T14:52:42.597634",
+  "package_url": "https://pypi.org/project/scilayout/"
+}

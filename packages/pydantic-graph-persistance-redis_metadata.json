@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-graph-persistance-redis",
+  "version": "0.8.1",
+  "summary": "State persistance using Redis as backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_graph_persistance_redis-0.8.1.tar.gz",
+  "download_time": "2025-08-30T14:52:42.079123",
+  "package_url": "https://pypi.org/project/pydantic-graph-persistance-redis/"
+}

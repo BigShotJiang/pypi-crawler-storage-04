@@ -1,0 +1,11 @@
+{
+  "name": "fabricflow",
+  "version": "0.1.5",
+  "summary": "A code-first approach for MS Fabric data pipelines and ETL.",
+  "author": "Parth Lad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabricflow-0.1.5.tar.gz",
+  "download_time": "2025-08-30T14:52:38.927254",
+  "package_url": "https://pypi.org/project/fabricflow/"
+}

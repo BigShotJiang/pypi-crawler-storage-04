@@ -1,11 +1,11 @@
 {
   "name": "uurest",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "uuRest library and its two main functions \"call\" and \"fetch\" are designed to allow users to rapidly scrape/automate web applications designed and developed by Unicorn Systems (Unicorn.com).",
   "author": "Jaromir Sivic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uurest-1.0.19.tar.gz",
-  "download_time": "2025-08-30T13:32:02.898881",
+  "download_filename": "uurest-1.0.20.tar.gz",
+  "download_time": "2025-08-30T14:52:43.637538",
   "package_url": "https://pypi.org/project/uurest/"
 }
