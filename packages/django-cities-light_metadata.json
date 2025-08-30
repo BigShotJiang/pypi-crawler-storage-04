@@ -1,0 +1,11 @@
+{
+  "name": "django-cities-light",
+  "version": "3.10.2",
+  "summary": "Simple alternative to django-cities",
+  "author": "James Pic,Dominick Rivard,Alexey Evseev",
+  "license": "MIT",
+  "home_page": "https://github.com/yourlabs/django-cities-light",
+  "download_filename": "django_cities_light-3.10.2.tar.gz",
+  "download_time": "2025-08-30T13:32:15.487689",
+  "package_url": "https://pypi.org/project/django-cities-light/"
+}

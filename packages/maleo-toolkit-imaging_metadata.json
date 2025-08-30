@@ -1,11 +1,11 @@
 {
   "name": "maleo-toolkit-imaging",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Imaging toolkit package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_toolkit_imaging-0.0.4.tar.gz",
-  "download_time": "2025-08-30T11:40:07.998084",
+  "download_filename": "maleo_toolkit_imaging-0.0.5.tar.gz",
+  "download_time": "2025-08-30T13:32:00.329214",
   "package_url": "https://pypi.org/project/maleo-toolkit-imaging/"
 }

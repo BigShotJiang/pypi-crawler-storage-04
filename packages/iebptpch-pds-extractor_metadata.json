@@ -1,0 +1,11 @@
+{
+  "name": "iebptpch-pds-extractor",
+  "version": "1.0.2",
+  "summary": "Extract PDS members from IEBPTPCH output files with support for both ASCII and EBCDIC formats",
+  "author": "Arunkumar Selvam",
+  "license": "MIT",
+  "home_page": "https://github.com/arunkumars-mf/iebptpch-pds-extractor",
+  "download_filename": "iebptpch_pds_extractor-1.0.2.tar.gz",
+  "download_time": "2025-08-30T13:31:52.067036",
+  "package_url": "https://pypi.org/project/iebptpch-pds-extractor/"
+}

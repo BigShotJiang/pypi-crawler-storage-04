@@ -1,0 +1,11 @@
+{
+  "name": "evalcards",
+  "version": "0.1.0",
+  "summary": "Reportes de evaluación (clasificación/regresión) a Markdown con gráficos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evalcards-0.1.0.tar.gz",
+  "download_time": "2025-08-30T13:31:56.205868",
+  "package_url": "https://pypi.org/project/evalcards/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibeflip",
+  "version": "0.1.0",
+  "summary": "Coin flip library that uses GPT for true randomness",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibeflip-0.1.0.tar.gz",
+  "download_time": "2025-08-30T13:31:50.009005",
+  "package_url": "https://pypi.org/project/vibeflip/"
+}

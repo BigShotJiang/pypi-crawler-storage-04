@@ -1,11 +1,11 @@
 {
   "name": "deus-llm-token-stats-guru",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Advanced LLM token analysis and statistics toolkit for various data formats",
   "author": "Deus LLM Token Stats Guru",
   "license": null,
   "home_page": "https://github.com/yourusername/deus-llm-token-stats-guru",
-  "download_filename": "deus-llm-token-stats-guru-0.2.1.tar.gz",
-  "download_time": "2025-08-30T13:05:24.174768",
+  "download_filename": "deus_llm_token_stats_guru-0.3.1.tar.gz",
+  "download_time": "2025-08-30T13:32:05.982909",
   "package_url": "https://pypi.org/project/deus-llm-token-stats-guru/"
 }
