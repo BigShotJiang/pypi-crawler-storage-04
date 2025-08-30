@@ -1,0 +1,11 @@
+{
+  "name": "astroinsight",
+  "version": "0.1.0",
+  "summary": "AI-powered research paper assistant with multi-agent collaboration",
+  "author": "AstroInsight Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/astroinsight",
+  "download_filename": "astroinsight-0.1.0.tar.gz",
+  "download_time": "2025-08-30T09:38:56.982227",
+  "package_url": "https://pypi.org/project/astroinsight/"
+}

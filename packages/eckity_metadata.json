@@ -1,0 +1,11 @@
+{
+  "name": "eckity",
+  "version": "0.4.1",
+  "summary": "EC-KitY: Evolutionary Computation Tool Kit in Python.",
+  "author": "Moshe Sipper, Achiya Elyasaf, Itai Tzruia, Tomer Halperin",
+  "license": "GNU GPLv3",
+  "home_page": "https://www.eckity.org",
+  "download_filename": "eckity-0.4.1.tar.gz",
+  "download_time": "2025-08-30T09:38:50.525134",
+  "package_url": "https://pypi.org/project/eckity/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "maleo-soma-enums",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Soma enums package for MaleoSuite",
   "author": null,
-  "license": "MIT",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_soma_enums-0.0.6.tar.gz",
-  "download_time": "2025-08-28T07:21:57.222557",
+  "download_filename": "maleo_soma_enums-0.0.7.tar.gz",
+  "download_time": "2025-08-30T09:38:49.939602",
   "package_url": "https://pypi.org/project/maleo-soma-enums/"
 }

@@ -1,15 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T09:19:54.898204
-- **Total Packages**: 74
-- **Total Size**: 6.26 MB
+- **Download Time**: 2025-08-30T09:39:29.707564
+- **Total Packages**: 75
+- **Total Size**: 4.25 MB
 
 ## Packages List
+- rbpop
+- bktree-python
+- jk_checkpproc
+- architext
+- data-go-mcp.apartment-trade
+- zx-rpa
+- openstarlab-rlearn
+- maleo-soma-enums
+- eckity
+- django-admin-data-export
+- relcheck
+- authentik-client
+- configset
+- isabelle-client
+- foundry-platform-sdk
+- VTKio
+- nonebot-plugin-time-card
+- xorq-feature-utils
+- opentelemetry-distro-odoo
+- astroinsight
+- xorq-weather-lib
 - oaas-sdk2-py
 - pymechlab
-- configset
-- data-go-mcp.apartment-trade
 - superai-langchain
 - mysql-to-sqlite3
 - technical
@@ -21,7 +40,6 @@
 - tbp-nightly
 - mscore3
 - f9columnar
-- authentik-client
 - pylibsrd
 - asksage-proxy
 - msguard
@@ -33,12 +51,10 @@
 - autogluon.core
 - autogluon.common
 - eegdash
-- zx-rpa
 - gdcmd
 - memory-agent
 - maleo-soma-utils
 - outlier-library
-- nonebot-plugin-time-card
 - lineagentic-kg
 - pytrendy
 - pairinteraction
@@ -46,7 +62,6 @@
 - bitget-api-client
 - packagediscovery
 - reyworm
-- bktree-python
 - arshai
 - mcp-gs-robot
 - aiohomematic
@@ -66,17 +81,3 @@
 - image2sound-newrealm
 - dict-patterns
 - graphlit-client
-- kuzu
-- azure-functions-doctor
-- gymix
-- trainerbase
-- reflectorch
-- ms-swift
-- DIRAC
-- DIRACCommon
-- htmlstr
-- logging_settings
-- simc-support
-- preservationeval
-- db-analytics-tools
-- qimomo-py-linux

@@ -1,0 +1,11 @@
+{
+  "name": "isabelle-client",
+  "version": "0.5.9",
+  "summary": "A client to Isabelle proof assistant server",
+  "author": "Boris Shminke",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/inpefess/isabelle-client",
+  "download_filename": "isabelle_client-0.5.9.tar.gz",
+  "download_time": "2025-08-30T09:38:53.452297",
+  "package_url": "https://pypi.org/project/isabelle-client/"
+}

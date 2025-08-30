@@ -1,0 +1,11 @@
+{
+  "name": "rbpop",
+  "version": "0.2.0",
+  "summary": "A lightweight, modern PyQt6 popup notification library with smooth animations, queue management, and multiple preset styles.",
+  "author": "Eagle'sBaby",
+  "license": "MIT",
+  "home_page": "https://github.com/EagleBaby/rbpop",
+  "download_filename": "rbpop-0.2.0.tar.gz",
+  "download_time": "2025-08-30T09:38:45.882262",
+  "package_url": "https://pypi.org/project/rbpop/"
+}
