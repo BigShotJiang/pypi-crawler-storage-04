@@ -1,0 +1,11 @@
+{
+  "name": "nbtest-gen",
+  "version": "0.1.7",
+  "summary": "Comprehensive Framework for generating high-quality assertions (tests) for Jupyter Notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbtest_gen-0.1.7-py2.py3-none-any.whl",
+  "download_time": "2025-08-30T18:27:47.948106",
+  "package_url": "https://pypi.org/project/nbtest-gen/"
+}

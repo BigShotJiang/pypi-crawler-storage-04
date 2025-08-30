@@ -1,11 +1,11 @@
 {
   "name": "mosaicdb",
-  "version": "0.1.0a0",
+  "version": "0.1.1",
   "summary": "Universal, framework-independent ORM for Python.",
   "author": "Akash Nath",
   "license": "MIT",
   "home_page": "https://github.com/Akash-nath29/mosaic",
-  "download_filename": "mosaicdb-0.1.0a0.tar.gz",
-  "download_time": "2025-08-30T17:38:27.406378",
+  "download_filename": "mosaicdb-0.1.1.tar.gz",
+  "download_time": "2025-08-30T18:27:43.780503",
   "package_url": "https://pypi.org/project/mosaicdb/"
 }

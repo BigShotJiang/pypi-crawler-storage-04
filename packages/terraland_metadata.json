@@ -1,0 +1,11 @@
+{
+  "name": "terraland",
+  "version": "0.1.3",
+  "summary": "Terminal IDE for Terraform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terraland-0.1.3.tar.gz",
+  "download_time": "2025-08-30T18:27:33.354808",
+  "package_url": "https://pypi.org/project/terraland/"
+}

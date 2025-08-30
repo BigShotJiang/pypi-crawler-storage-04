@@ -1,0 +1,11 @@
+{
+  "name": "semantic-copycat-binarysniffer",
+  "version": "1.10.1",
+  "summary": "A high-performance CLI and library for detecting open source components in binaries through semantic signature matching",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "semantic_copycat_binarysniffer-1.10.1.tar.gz",
+  "download_time": "2025-08-30T18:27:49.505217",
+  "package_url": "https://pypi.org/project/semantic-copycat-binarysniffer/"
+}

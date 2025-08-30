@@ -1,0 +1,11 @@
+{
+  "name": "infisical-api",
+  "version": "1.0.3",
+  "summary": "Infisical Client using REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infisical_api-1.0.3.tar.gz",
+  "download_time": "2025-08-30T18:27:17.564947",
+  "package_url": "https://pypi.org/project/infisical-api/"
+}

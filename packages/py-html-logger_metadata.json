@@ -1,11 +1,11 @@
 {
   "name": "py-html-logger",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Library for generating HTML logs with support for colors, rotation and filters via JavaScript.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_html_logger-0.1.12.tar.gz",
-  "download_time": "2025-08-30T17:38:35.655410",
+  "download_filename": "py_html_logger-0.1.14.tar.gz",
+  "download_time": "2025-08-30T18:27:23.417449",
   "package_url": "https://pypi.org/project/py-html-logger/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyapi-service-kit",
+  "version": "0.0.16",
+  "summary": "some utiltiies used by backend python services",
+  "author": "jr200",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "pyapi_service_kit-0.0.16.tar.gz",
+  "download_time": "2025-08-30T18:27:18.088137",
+  "package_url": "https://pypi.org/project/pyapi-service-kit/"
+}

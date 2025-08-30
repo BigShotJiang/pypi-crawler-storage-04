@@ -1,0 +1,11 @@
+{
+  "name": "PyMultitor",
+  "version": "4.1.0",
+  "summary": "PyMultitor - Never Stop Even If Your IP Dropped.",
+  "author": "Tomer Zait (realgam3)",
+  "license": "GPLv3",
+  "home_page": "https://github.com/realgam3/pymultitor",
+  "download_filename": "PyMultitor-4.1.0.tar.gz",
+  "download_time": "2025-08-30T18:27:41.177855",
+  "package_url": "https://pypi.org/project/PyMultitor/"
+}

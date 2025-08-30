@@ -1,0 +1,11 @@
+{
+  "name": "cgi-processor",
+  "version": "0.1.4",
+  "summary": "Модуль для предобработки текстов журнала «Цифровые гуманитарные исследования»",
+  "author": "Boris Orekhov",
+  "license": null,
+  "home_page": "https://github.com/nevmenandr/cgi_processor",
+  "download_filename": "cgi_processor-0.1.4.tar.gz",
+  "download_time": "2025-08-30T18:27:50.553712",
+  "package_url": "https://pypi.org/project/cgi-processor/"
+}
