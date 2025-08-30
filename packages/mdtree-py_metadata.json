@@ -1,0 +1,11 @@
+{
+  "name": "mdtree-py",
+  "version": "0.1.8",
+  "summary": "Output directory structure as Markdown code block",
+  "author": "a-duty-rookie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdtree_py-0.1.8.tar.gz",
+  "download_time": "2025-08-30T22:19:01.277871",
+  "package_url": "https://pypi.org/project/mdtree-py/"
+}
