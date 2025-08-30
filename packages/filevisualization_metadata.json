@@ -1,0 +1,11 @@
+{
+  "name": "filevisualization",
+  "version": "0.1.0",
+  "summary": "Visualize structure of XML/JSON/YAML/TOML as trees or mind maps",
+  "author": "hayashikunita",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filevisualization-0.1.0.tar.gz",
+  "download_time": "2025-08-30T16:23:57.234713",
+  "package_url": "https://pypi.org/project/filevisualization/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nxarray",
+  "version": "0.4.7",
+  "summary": "xarray extension for NeXus input/output.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nxarray-0.4.7.tar.gz",
+  "download_time": "2025-08-30T16:24:04.769434",
+  "package_url": "https://pypi.org/project/nxarray/"
+}

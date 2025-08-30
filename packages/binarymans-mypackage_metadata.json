@@ -1,0 +1,11 @@
+{
+  "name": "binarymans-mypackage",
+  "version": "1.0.0",
+  "summary": "A simple package to add two numbers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binarymans_mypackage-1.0.0.tar.gz",
+  "download_time": "2025-08-30T16:23:32.178460",
+  "package_url": "https://pypi.org/project/binarymans-mypackage/"
+}

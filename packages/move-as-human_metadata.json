@@ -1,11 +1,11 @@
 {
   "name": "move-as-human",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "a move as human library , support both win and mac ",
   "author": "dkflex",
   "license": null,
   "home_page": null,
-  "download_filename": "move_as_human-0.6.2.tar.gz",
-  "download_time": "2025-08-30T15:52:34.135391",
+  "download_filename": "move_as_human-0.6.5.tar.gz",
+  "download_time": "2025-08-30T16:23:53.025788",
   "package_url": "https://pypi.org/project/move-as-human/"
 }

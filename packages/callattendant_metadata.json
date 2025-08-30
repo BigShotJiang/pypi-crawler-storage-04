@@ -1,0 +1,11 @@
+{
+  "name": "callattendant",
+  "version": "2.3.0",
+  "summary": "An automated call attendant and call blocker using a USR5637 or CX930xx modem",
+  "author": "Ted Hess",
+  "license": null,
+  "home_page": "https://thess.github.io/callattendant/",
+  "download_filename": "callattendant-2.3.0.tar.gz",
+  "download_time": "2025-08-30T16:23:42.144712",
+  "package_url": "https://pypi.org/project/callattendant/"
+}

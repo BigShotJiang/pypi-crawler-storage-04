@@ -1,11 +1,11 @@
 {
   "name": "fraiseql",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Production-ready GraphQL API framework for PostgreSQL with CQRS, JSONB optimization, and type-safe mutations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fraiseql-0.5.1.tar.gz",
-  "download_time": "2025-08-30T11:52:57.430701",
+  "download_filename": "fraiseql-0.5.2.tar.gz",
+  "download_time": "2025-08-30T16:23:54.771703",
   "package_url": "https://pypi.org/project/fraiseql/"
 }
