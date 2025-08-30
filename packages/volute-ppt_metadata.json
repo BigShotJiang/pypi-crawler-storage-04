@@ -1,11 +1,11 @@
 {
   "name": "volute-ppt",
-  "version": "1.3.3",
-  "summary": "MCP server for PowerPoint analysis and multimodal AI integration - comprehensive metadata extraction and slide image capture for agents",
+  "version": "1.4.1",
+  "summary": "Advanced MCP server for PowerPoint automation - comprehensive editing, analysis, and multimodal AI integration with intelligent text processing and native bullet conversion",
   "author": "Coritan",
   "license": "MIT",
   "home_page": "https://gitlab.com/coritan/volute-ppt",
-  "download_filename": "volute_ppt-1.3.3.tar.gz",
-  "download_time": "2025-08-30T20:21:26.916877",
+  "download_filename": "volute_ppt-1.4.1.tar.gz",
+  "download_time": "2025-08-30T22:52:59.531303",
   "package_url": "https://pypi.org/project/volute-ppt/"
 }

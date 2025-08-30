@@ -1,11 +1,11 @@
 {
   "name": "maleo-models",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Models package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_models-0.0.2.tar.gz",
-  "download_time": "2025-08-30T22:40:44.262497",
+  "download_filename": "maleo_models-0.0.3.tar.gz",
+  "download_time": "2025-08-30T22:52:47.544750",
   "package_url": "https://pypi.org/project/maleo-models/"
 }
