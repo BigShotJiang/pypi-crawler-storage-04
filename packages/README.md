@@ -1,28 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T09:39:29.707564
-- **Total Packages**: 75
-- **Total Size**: 4.25 MB
+- **Download Time**: 2025-08-30T09:52:59.753076
+- **Total Packages**: 82
+- **Total Size**: 4.36 MB
 
 ## Packages List
+- nonebot-plugin-time-card
+- grpc-nacos
+- pyslurmutils
+- authentik-client
+- sllmipy
+- django-admin-data-export
+- nvidia-nat-opentelemetry
+- nvidia-nat-phoenix
+- mcp-data-analyzer-jifengsheng
+- VTKio
+- nvidia-nat-mem0ai
+- nvidia-nat-mysql
+- nvidia-nat-crewai
+- nvidia-nat-agno
+- nvidia-nat-llama-index
+- nvidia-nat-all
+- nvidia-nat-redis
+- nvidia-nat-profiling
+- seqpandas
+- nvidia-nat-ingestion
+- nvidia-nat-langchain
+- nvidia-nat-zep-cloud
+- pybiwenger
+- nvidia-nat-s3
+- nvidia-nat
+- nvidia-nat-ragaai
+- dycw-pre-commit-hooks
+- nvidia-nat-weave
+- nvidia-nat-semantic-kernel
+- scapi
+- nvidia-nat-data-flywheel
+- nvidia-nat-test
+- aiqtoolkit-langchain
+- odoo-addon-purchase-sale-inter-company
+- aiqtoolkit-zep-cloud
+- aiqtoolkit
+- aiqtoolkit-agno
+- aiqtoolkit-mem0ai
+- outlier-library
+- aiqtoolkit-semantic-kernel
+- aiqtoolkit-llama-index
+- aiqtoolkit-test
+- architext
+- aiqtoolkit-weave
+- aiqtoolkit-crewai
+- muso
+- trading-core
+- deepmcpagent
+- minesweepervariants
+- pretix-paystack
+- pyobas
 - rbpop
 - bktree-python
 - jk_checkpproc
-- architext
 - data-go-mcp.apartment-trade
 - zx-rpa
 - openstarlab-rlearn
 - maleo-soma-enums
 - eckity
-- django-admin-data-export
 - relcheck
-- authentik-client
 - configset
 - isabelle-client
 - foundry-platform-sdk
-- VTKio
-- nonebot-plugin-time-card
 - xorq-feature-utils
 - opentelemetry-distro-odoo
 - astroinsight
@@ -34,7 +80,6 @@
 - technical
 - sidepose
 - filefix
-- sllmipy
 - pyFRESCO
 - ytget-gui
 - tbp-nightly
@@ -43,41 +88,3 @@
 - pylibsrd
 - asksage-proxy
 - msguard
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- eegdash
-- gdcmd
-- memory-agent
-- maleo-soma-utils
-- outlier-library
-- lineagentic-kg
-- pytrendy
-- pairinteraction
-- django-admin-export-tools
-- bitget-api-client
-- packagediscovery
-- reyworm
-- arshai
-- mcp-gs-robot
-- aiohomematic
-- reykit
-- reydb
-- dsf
-- robotframework-browserpom
-- wojas-bt
-- aps-common-toolkit
-- pydevccu
-- stresslog
-- tfp-nightly
-- boviz
-- pybose
-- byteiq
-- idf-ci
-- image2sound-newrealm
-- dict-patterns
-- graphlit-client

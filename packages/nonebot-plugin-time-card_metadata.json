@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-time-card",
-  "version": "1.0.10",
-  "summary": "Nonebot 2 plugin for auto-updating bot's group nickname with real-time time",
-  "author": "meng",
+  "version": "1.0.11",
+  "summary": "Nonebot 2.4.3 插件：自动更新机器人群聊昵称并显示实时时间，支持超级管理员开关与热重载",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_time_card-1.0.10.tar.gz",
-  "download_time": "2025-08-30T09:19:33.383920",
+  "download_filename": "nonebot_plugin_time_card-1.0.11.tar.gz",
+  "download_time": "2025-08-30T09:52:16.424572",
   "package_url": "https://pypi.org/project/nonebot-plugin-time-card/"
 }
