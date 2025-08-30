@@ -1,0 +1,11 @@
+{
+  "name": "py-unidbg-server",
+  "version": "0.1.0",
+  "summary": "A JVM microservice based on Python, no need to dive into Java Springboot, infinite scalability",
+  "author": "aFunnyStrange",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "py_unidbg_server-0.1.0.tar.gz",
+  "download_time": "2025-08-30T08:24:47.896868",
+  "package_url": "https://pypi.org/project/py-unidbg-server/"
+}

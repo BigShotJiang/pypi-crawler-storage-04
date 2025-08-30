@@ -1,11 +1,11 @@
 {
   "name": "bktree-python",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Python implementation of Burkhard-Keller Trees (BK-Tree)",
   "author": "Armasse",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bktree_python-0.5.0.tar.gz",
-  "download_time": "2025-08-29T21:52:19.401070",
+  "download_filename": "bktree_python-0.6.0.tar.gz",
+  "download_time": "2025-08-30T08:24:39.172298",
   "package_url": "https://pypi.org/project/bktree-python/"
 }

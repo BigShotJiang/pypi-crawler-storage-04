@@ -1,0 +1,11 @@
+{
+  "name": "vlm-memory",
+  "version": "0.2.1",
+  "summary": "Video-Language Memory library with Qdrant and flexible chunking, supports any Hugging Face VLM",
+  "author": "Wissem Karous",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vlm_memory-0.2.1.tar.gz",
+  "download_time": "2025-08-30T08:24:42.109308",
+  "package_url": "https://pypi.org/project/vlm-memory/"
+}

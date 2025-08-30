@@ -1,11 +1,11 @@
 {
   "name": "trainerbase-injector",
-  "version": "1.0.0a0",
+  "version": "1.0.0",
   "summary": "A tool/library allowing dynamic library injection into running processes (fork)",
   "author": "v01d",
   "license": null,
   "home_page": "https://gitlab.com/python-trainers/trainerbase-injector",
-  "download_filename": "trainerbase_injector-1.0.0a0.tar.gz",
-  "download_time": "2025-08-30T07:52:25.576660",
+  "download_filename": "trainerbase_injector-1.0.0.tar.gz",
+  "download_time": "2025-08-30T08:25:04.998689",
   "package_url": "https://pypi.org/project/trainerbase-injector/"
 }

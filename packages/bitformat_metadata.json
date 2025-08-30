@@ -1,0 +1,11 @@
+{
+  "name": "bitformat",
+  "version": "0.7.1",
+  "summary": "A Python library for creating and parsing binary formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitformat-0.7.1.tar.gz",
+  "download_time": "2025-08-30T08:24:58.665742",
+  "package_url": "https://pypi.org/project/bitformat/"
+}

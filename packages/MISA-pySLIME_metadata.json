@@ -1,11 +1,11 @@
 {
   "name": "MISA-pySLIME",
-  "version": "2.0.11.2",
+  "version": "2.0.11.3",
   "summary": "Millstone Hill Incoherent Scatter Radar Spatial-Linear Ionospheric Modeling Engine",
   "author": "Mateo Cardona Serrano (them)",
   "license": null,
   "home_page": "https://github.com/mcardonaserrano/MISA_pySLIME",
-  "download_filename": "misa_pyslime-2.0.11.2.tar.gz",
-  "download_time": "2025-08-29T19:38:59.982571",
+  "download_filename": "misa_pyslime-2.0.11.3.tar.gz",
+  "download_time": "2025-08-30T08:24:42.916668",
   "package_url": "https://pypi.org/project/MISA-pySLIME/"
 }

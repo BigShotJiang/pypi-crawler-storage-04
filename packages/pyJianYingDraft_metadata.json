@@ -1,0 +1,11 @@
+{
+  "name": "pyJianYingDraft",
+  "version": "0.2.5",
+  "summary": "轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线",
+  "author": "gary318",
+  "license": null,
+  "home_page": "https://github.com/GuanYixuan/pyJianYingDraft",
+  "download_filename": "pyjianyingdraft-0.2.5.tar.gz",
+  "download_time": "2025-08-30T08:24:46.807268",
+  "package_url": "https://pypi.org/project/pyJianYingDraft/"
+}
