@@ -1,0 +1,11 @@
+{
+  "name": "pydfs-lineup-optimizer-enhanced",
+  "version": "4.0.1",
+  "summary": "Tool for creating optimal lineups for daily fantasy sports",
+  "author": "Edamijueda",
+  "license": "MIT",
+  "home_page": "https://github.com/Edamijueda/pydfs-lineup-optimizer-enhanced",
+  "download_filename": "pydfs_lineup_optimizer_enhanced-4.0.1.tar.gz",
+  "download_time": "2025-08-30T14:39:59.321299",
+  "package_url": "https://pypi.org/project/pydfs-lineup-optimizer-enhanced/"
+}

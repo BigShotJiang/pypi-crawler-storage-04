@@ -1,11 +1,11 @@
 {
   "name": "subtitle-for-everyone",
-  "version": "1.0.3",
-  "summary": "Download YouTube videos and burn Netflix-style subtitles automatically",
+  "version": "1.1.2",
+  "summary": "Professional subtitle generation - made for anime enthusiast",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subtitle_for_everyone-1.0.3.tar.gz",
-  "download_time": "2025-08-28T17:40:43.891220",
+  "download_filename": "subtitle_for_everyone-1.1.2.tar.gz",
+  "download_time": "2025-08-30T14:39:50.352307",
   "package_url": "https://pypi.org/project/subtitle-for-everyone/"
 }

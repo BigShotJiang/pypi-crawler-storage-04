@@ -1,0 +1,11 @@
+{
+  "name": "cdk-github-oidc",
+  "version": "1.1.0",
+  "summary": "AWS CDK construct to create OIDC roles for CircleCI jobs",
+  "author": "Ben Limmer<hello@benlimmer.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/blimmer/cdk-github-oidc.git",
+  "download_filename": "cdk_github_oidc-1.1.0.tar.gz",
+  "download_time": "2025-08-30T14:40:07.556928",
+  "package_url": "https://pypi.org/project/cdk-github-oidc/"
+}

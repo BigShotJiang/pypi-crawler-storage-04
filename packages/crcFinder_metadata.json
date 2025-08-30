@@ -1,0 +1,11 @@
+{
+  "name": "crcFinder",
+  "version": "0.0.4",
+  "summary": "A tool to find well known crc params that matches the input data and crc result (right or wrong)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crcfinder-0.0.4.tar.gz",
+  "download_time": "2025-08-30T14:39:56.243906",
+  "package_url": "https://pypi.org/project/crcFinder/"
+}

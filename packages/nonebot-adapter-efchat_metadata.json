@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-efchat",
+  "version": "0.1.9.post1",
+  "summary": "A NoneBot adapter for EFChat",
+  "author": "molanp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_adapter_efchat-0.1.9.post1.tar.gz",
+  "download_time": "2025-08-30T14:40:08.578961",
+  "package_url": "https://pypi.org/project/nonebot-adapter-efchat/"
+}
