@@ -1,0 +1,11 @@
+{
+  "name": "agniapi",
+  "version": "0.1.1",
+  "summary": "A unified REST API framework combining Flask and FastAPI features with built-in MCP support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agniapi-0.1.1.tar.gz",
+  "download_time": "2025-08-30T07:38:46.414498",
+  "package_url": "https://pypi.org/project/agniapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "email-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP Server for email template management",
+  "author": "Email MCP Server Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "email_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-08-30T07:38:41.465494",
+  "package_url": "https://pypi.org/project/email-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "safetybox",
+  "version": "0.1.1",
+  "summary": "Secutils — defensive security & forensic utilities (passive analysis)",
+  "author": "Sakura Golden (via ChatGPT)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safetybox-0.1.1.tar.gz",
+  "download_time": "2025-08-30T07:38:45.836167",
+  "package_url": "https://pypi.org/project/safetybox/"
+}
