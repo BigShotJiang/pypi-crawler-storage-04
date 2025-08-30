@@ -1,0 +1,11 @@
+{
+  "name": "bojango",
+  "version": "1.1.20",
+  "summary": "A lightweight framework for creating Telegram bots with advanced routing and localization.",
+  "author": "Mironov Daniil",
+  "license": null,
+  "home_page": "https://github.com/hugant/bojango",
+  "download_filename": "bojango-1.1.20.tar.gz",
+  "download_time": "2025-08-30T21:38:27.491619",
+  "package_url": "https://pypi.org/project/bojango/"
+}

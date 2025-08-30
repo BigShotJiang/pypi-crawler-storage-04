@@ -1,0 +1,11 @@
+{
+  "name": "treedir-py",
+  "version": "0.1.1",
+  "summary": "A Python library for parsing directory structures from text files and implementing them in target folders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treedir_py-0.1.1.tar.gz",
+  "download_time": "2025-08-30T21:38:31.152001",
+  "package_url": "https://pypi.org/project/treedir-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-snowglobe",
+  "version": "0.9.0",
+  "summary": "Snow Globe multi-agent system for open-ended wargames with large language models",
+  "author": "Daniel Hogan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_snowglobe-0.9.0.tar.gz",
+  "download_time": "2025-08-30T21:38:40.115932",
+  "package_url": "https://pypi.org/project/llm-snowglobe/"
+}

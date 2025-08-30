@@ -1,30 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T21:18:55.171688
-- **Total Packages**: 59
-- **Total Size**: 40.72 MB
+- **Download Time**: 2025-08-30T21:39:00.168491
+- **Total Packages**: 65
+- **Total Size**: 19.36 MB
 
 ## Packages List
-- tyro
+- jaganathanj
+- claude-mpm
+- logillm
+- data-retrieval-monitor
+- qA-Ap
+- bojango
+- architext
+- authentik-client
+- mcp-devtools
 - kaqing
+- niti
+- treedir-py
+- apc-switched-rack-pdu-control-panel
+- kermac
+- docrag-llm
+- todo-agent
+- easydiffraction
+- faster-whisper-hotkey
+- InsideForest
+- market-engine
+- django-cloudflareimages-toolkit
+- sphinx-notionbuilder
+- mediallm-mcp
+- xl2md
+- schedulo-api
+- meerschaum
+- pycardano
+- pyaltar-icons
+- llm-snowglobe
+- sheshe
+- videolab
+- hecto
+- maleo-types-base
+- radiant-wrapper
+- arize-phoenix-client
+- aient
+- weconnect-cupra-daern
+- tyro
 - gyptis
 - fluxfootprints
-- aient
-- docrag-llm
 - test-package-0
 - ambient-wds
-- xl2md
 - pyrekit
-- architext
 - cfbd
-- data-retrieval-monitor
 - strwythura
 - allgitstatus
 - pypicosdk
 - mandelbrot-viewer
 - minecraft-datapack-language
-- authentik-client
 - pypiquant
 - dolze-image-templates
 - litellm
@@ -41,27 +71,3 @@
 - zerobuffer-ipc
 - entity-query-language
 - rmcp
-- git-clipboard
-- aiwaf
-- hyperchoron
-- dspy-profiles
-- git-logger
-- schedulo-api
-- nucleobench
-- nucleopt
-- apc-switched-rack-pdu-control-panel
-- pytemporal
-- kipjak
-- listpick
-- apache-tvm-ffi
-- morphcloud
-- nsa-fusion
-- bktree-python
-- memory-agent
-- cell2cell
-- python-sdk-remote
-- mem8
-- scopinator
-- ghostpeek
-- py-stepchain
-- logillm
