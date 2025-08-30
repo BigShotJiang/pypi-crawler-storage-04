@@ -1,0 +1,11 @@
+{
+  "name": "provworkflow",
+  "version": "0.3.0",
+  "summary": "Records the provenance of Python workflows in RDF according to the Prov Workflow Ontology and the Prov Data Model",
+  "author": "Nick Car",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "provworkflow-0.3.0.tar.gz",
+  "download_time": "2025-08-30T07:52:40.754828",
+  "package_url": "https://pypi.org/project/provworkflow/"
+}
