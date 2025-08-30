@@ -1,0 +1,11 @@
+{
+  "name": "ibproxy",
+  "version": "0.0.11",
+  "summary": "A proxy service for the Interactive Brokers API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibproxy-0.0.11.tar.gz",
+  "download_time": "2025-08-30T06:46:49.925597",
+  "package_url": "https://pypi.org/project/ibproxy/"
+}

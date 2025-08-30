@@ -1,0 +1,11 @@
+{
+  "name": "ffpipe",
+  "version": "0.1.1",
+  "summary": "FFPipe: Image processing in realtime using FFmpeg's pipe mechanism with a robust video/audio sync.",
+  "author": "Aryan Shekarlaban",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ffpipe-0.1.1.tar.gz",
+  "download_time": "2025-08-30T06:46:53.054482",
+  "package_url": "https://pypi.org/project/ffpipe/"
+}
