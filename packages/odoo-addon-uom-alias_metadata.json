@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-uom-alias",
+  "version": "18.0.1.0.0.2",
+  "summary": "Adds alias for UOM",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_uom_alias-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-30T04:42:20.930228",
+  "package_url": "https://pypi.org/project/odoo-addon-uom-alias/"
+}

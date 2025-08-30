@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T04:24:59.868559
-- **Total Packages**: 79
-- **Total Size**: 28.91 MB
+- **Download Time**: 2025-08-30T04:42:55.215261
+- **Total Packages**: 80
+- **Total Size**: 10.9 MB
 
 ## Packages List
+- square-file-store
+- av
+- authentik-client
+- fyers_helper
+- textaur
+- langchain-cli-v2
+- hpfracc
+- langchain-tool-server
+- square-commons
+- ruminant
+- tensorrt-llm
+- screen-ocr
+- fixy
+- crfm-helm
+- usecortex-ai
+- odoo-addon-uom-alias
+- manifoldbot
+- cicore
 - pieces-cli
 - wxdb
 - model-metrics
@@ -18,10 +36,8 @@
 - snowflake-connector-python-nightly
 - brocode
 - npcpy
-- cicore
 - CordForge
 - hyperbrowser
-- authentik-client
 - feast
 - sc-orchestrator
 - throttled-py
@@ -53,7 +69,6 @@
 - ligttools
 - frametree
 - contextlite
-- manifoldbot
 - mscore3
 - odoo-addon-sale-order-note-template
 - square-file-store-helper
@@ -71,17 +86,3 @@
 - convert-ui
 - shancx
 - odoo-addon-product-form-pricelist
-- PyPlumIO
-- python-concurrenttools
-- kotonebot
-- keras-rs-nightly
-- trl-jobs
-- msfc-ccd
-- orionis
-- GANDLF
-- odoo-addon-mrp-multi-level
-- odoo-addon-mrp-sale-info
-- specsmith-cli
-- nominal-api-protos
-- HoloEcho
-- nominal-api

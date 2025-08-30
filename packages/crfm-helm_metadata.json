@@ -1,0 +1,11 @@
+{
+  "name": "crfm-helm",
+  "version": "0.5.8",
+  "summary": "Benchmark for language models",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "crfm_helm-0.5.8.tar.gz",
+  "download_time": "2025-08-30T04:42:19.768697",
+  "package_url": "https://pypi.org/project/crfm-helm/"
+}
