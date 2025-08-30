@@ -1,16 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T11:40:45.169182
-- **Total Packages**: 76
-- **Total Size**: 1.45 MB
+- **Download Time**: 2025-08-30T11:53:31.360583
+- **Total Packages**: 75
+- **Total Size**: 7.4 MB
 
 ## Packages List
+- pydorm
+- bool-hybrid-array
+- typer-slim
+- typer
+- typer-cli
+- rediacc
+- authentik-client
+- friendly-module-not-found-error
+- purnamatools
+- textual-pdf
+- fluent-checks
+- leadguru-jobs
+- arpakitlib
+- dycw-pre-commit-hooks
+- exospherehost
+- fraiseql
+- maleo-toolkit-text
+- omniopt2
+- findpeaks
+- annex4risk-detector
+- mcp-data-analzyer-jifengsheng
+- agentle
+- system-compat-checker
+- towncrier
+- aryadocr
+- libgossip
+- sack-chat
 - outlier-toolkit
 - kanapy
 - WikibaseIntegrator
 - caerus
-- authentik-client
 - certbot-dns-desec
 - maleo-toolkit-imaging
 - velog-sync
@@ -32,9 +58,6 @@
 - toollib
 - nsefin
 - pywheels
-- typer-cli
-- typer
-- typer-slim
 - clipper-dev
 - consul-adk
 - pyotrs
@@ -57,28 +80,4 @@
 - aisearchapi-client
 - pycarlo
 - datamaster-mcp
-- mcp-data-analzyer-jifengsheng
 - rdkit-data-pipeline-tools
-- praisonaiagents
-- rag-firewall
-- NseEod
-- pyreqver
-- agentle
-- nwn
-- amrita
-- verry
-- redisify
-- langchain-aisearchapi
-- django-admin-data-export
-- jsonschema-codegen-py
-- aioeasysqlite
-- neontology
-- data-go-mcp.apartment-trade
-- dearning
-- fediverse-pasture
-- video-representations-extractor
-- konduktor-nightly
-- odfdo
-- bhfutils
-- phylodata
-- trainy-policy-nightly

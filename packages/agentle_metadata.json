@@ -1,11 +1,11 @@
 {
   "name": "agentle",
-  "version": "0.8.9",
+  "version": "0.8.10",
   "summary": "...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentle-0.8.9-py3-none-any.whl",
-  "download_time": "2025-08-30T10:52:16.243356",
+  "download_filename": "agentle-0.8.10-py3-none-any.whl",
+  "download_time": "2025-08-30T11:53:00.773853",
   "package_url": "https://pypi.org/project/agentle/"
 }
