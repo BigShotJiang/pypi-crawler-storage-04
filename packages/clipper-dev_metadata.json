@@ -1,11 +1,11 @@
 {
   "name": "clipper-dev",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A powerful, cross-platform clipboard manager for developers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clipper_dev-0.1.0.tar.gz",
-  "download_time": "2025-08-30T10:52:22.200595",
+  "download_filename": "clipper_dev-0.1.1.tar.gz",
+  "download_time": "2025-08-30T11:15:59.190042",
   "package_url": "https://pypi.org/project/clipper-dev/"
 }

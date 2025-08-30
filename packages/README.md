@@ -1,14 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T10:52:57.148013
-- **Total Packages**: 77
-- **Total Size**: 7.64 MB
+- **Download Time**: 2025-08-30T11:16:23.577350
+- **Total Packages**: 74
+- **Total Size**: 10.31 MB
 
 ## Packages List
+- pyotrs
+- pretix-paystack
+- wads
+- contsub
+- byteiq
+- feedforge
+- tb-nightly
+- rh
+- fluent-telegrinder
+- hud-python
+- frost-forge
+- vre-video
+- cinetica
+- velog-sync
+- pymc-extras
+- outlier-toolkit
+- latex-merge-changes
+- authentik-client
+- autopeptideml
+- langrinder
+- google-search-mcp
+- aisearchapi-client
+- pycarlo
+- datamaster-mcp
+- mcp-data-analzyer-jifengsheng
+- fx-bin
+- rdkit-data-pipeline-tools
+- praisonaiagents
+- clipper-dev
+- rag-firewall
+- NseEod
+- outlier-library
+- pyreqver
 - agentle
 - nwn
-- authentik-client
 - amrita
 - verry
 - redisify
@@ -17,14 +49,10 @@
 - jsonschema-codegen-py
 - aioeasysqlite
 - neontology
-- clipper-dev
 - data-go-mcp.apartment-trade
-- mcp-data-analzyer-jifengsheng
-- google-search-mcp
 - dearning
 - fediverse-pasture
 - video-representations-extractor
-- pretix-paystack
 - konduktor-nightly
 - odfdo
 - bhfutils
@@ -34,12 +62,7 @@
 - letta-nightly
 - retab
 - planar
-- cinetica
-- outlier-library
-- velog-sync
 - maleo-soma-models
-- fx-bin
-- vre-video
 - image2sound-newrealm
 - rcabench-platform
 - lingtaiAgent
@@ -47,7 +70,6 @@
 - runbooks
 - python-pooldose
 - maleo-soma-utils
-- datamaster-mcp
 - DragonLog
 - gdcmd
 - xulbux
@@ -58,28 +80,3 @@
 - clipstack
 - consul-adk
 - vllm-mock
-- lintkit
-- polars-uuid
-- trancit
-- starlings
-- sllmipy
-- mcp-devtools
-- mcp-data-analyzer-jifengsheng
-- tf-keras-nightly
-- edwh-restic-plugin
-- ai-edge-torch-nightly
-- maleo-soma-constants
-- FetchFinancialsExcel
-- xcomponent
-- maleo-soma-types-controllers
-- multi-agent-rlenv
-- maleo-soma-types-base
-- maleo-soma-types-enums
-- pyais
-- pm-rank
-- processpi
-- zotero-qa-notes
-- asksage-proxy
-- flowfoundry
-- nonebot-plugin-huaer-bot
-- mtcli-trade

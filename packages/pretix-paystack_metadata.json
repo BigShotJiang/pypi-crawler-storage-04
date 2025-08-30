@@ -1,11 +1,11 @@
 {
   "name": "pretix-paystack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Accept payments through Paystack with M-Pesa support - a modern payment provider for Africa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pretix_paystack-1.0.1.tar.gz",
-  "download_time": "2025-08-30T10:52:25.847023",
+  "download_filename": "pretix_paystack-1.0.2.tar.gz",
+  "download_time": "2025-08-30T11:15:44.061940",
   "package_url": "https://pypi.org/project/pretix-paystack/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "google-search-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Google Search MCP Server - A Python implementation using FastMCP for Google Custom Search API integration",
   "author": "Google Search MCP",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "google_search_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-30T10:52:23.755630",
+  "download_filename": "google_search_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-30T11:15:54.872888",
   "package_url": "https://pypi.org/project/google-search-mcp/"
 }

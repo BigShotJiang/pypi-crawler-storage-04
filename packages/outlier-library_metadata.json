@@ -1,11 +1,11 @@
 {
   "name": "outlier-library",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Python library for identifying and handling outliers",
   "author": "Irene Betsy D",
-  "license": null,
+  "license": "Apache License 2.0",
   "home_page": "https://github.com/irenebetsy/outlier_library",
-  "download_filename": "outlier_library-0.1.3.tar.gz",
-  "download_time": "2025-08-30T10:40:39.503081",
+  "download_filename": "outlier_library-0.1.4.tar.gz",
+  "download_time": "2025-08-30T11:16:00.810342",
   "package_url": "https://pypi.org/project/outlier-library/"
 }
