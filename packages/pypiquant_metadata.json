@@ -1,0 +1,11 @@
+{
+  "name": "pypiquant",
+  "version": "4.1.0",
+  "summary": "Multithreaded SIMD int8 and int4 quantization kernels.",
+  "author": "Mario Sieg",
+  "license": null,
+  "home_page": "https://github.com/PrimeIntellect-ai/pi-quant",
+  "download_filename": "pypiquant-4.1.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-30T21:18:31.206243",
+  "package_url": "https://pypi.org/project/pypiquant/"
+}

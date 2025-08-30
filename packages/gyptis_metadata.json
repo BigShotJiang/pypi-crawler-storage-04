@@ -1,0 +1,11 @@
+{
+  "name": "gyptis",
+  "version": "1.0.3",
+  "summary": "Computational Photonics in Python",
+  "author": "Benjamin Vial",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gyptis/gyptis",
+  "download_filename": "gyptis-1.0.3.tar.gz",
+  "download_time": "2025-08-30T21:18:20.156304",
+  "package_url": "https://pypi.org/project/gyptis/"
+}
