@@ -1,11 +1,11 @@
 {
   "name": "trading-core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Trading data platform core library (Kafka + Postgres + Binance)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trading_core-0.1.6.tar.gz",
-  "download_time": "2025-08-30T11:27:27.430293",
+  "download_filename": "trading_core-0.1.7.tar.gz",
+  "download_time": "2025-08-30T11:40:11.090252",
   "package_url": "https://pypi.org/project/trading-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "WikibaseIntegrator",
+  "version": "0.12.13",
+  "summary": "Python package for reading from and writing to a Wikibase instance",
+  "author": "Myst",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wikibaseintegrator-0.12.13.tar.gz",
+  "download_time": "2025-08-30T11:40:05.916156",
+  "package_url": "https://pypi.org/project/WikibaseIntegrator/"
+}
