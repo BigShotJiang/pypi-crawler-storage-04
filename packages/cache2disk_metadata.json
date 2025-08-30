@@ -1,0 +1,11 @@
+{
+  "name": "cache2disk",
+  "version": "4.2.1",
+  "summary": "A powerful and robust Python decorator for caching function results to disk.",
+  "author": "Atakey",
+  "license": "MIT License",
+  "home_page": "https://github.com/Atakey/cache_to_disk",
+  "download_filename": "cache2disk-4.2.1-py3-none-any.whl",
+  "download_time": "2025-08-30T15:39:07.116693",
+  "package_url": "https://pypi.org/project/cache2disk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tumblr-2-album",
+  "version": "0.0.30",
+  "summary": "Return photo list and caption (markdown format) from tumblr.",
+  "author": "Yunzhi Gao",
+  "license": null,
+  "home_page": "https://github.com/gaoyunzhi/tumblr_2_album",
+  "download_filename": "tumblr_2_album-0.0.30.tar.gz",
+  "download_time": "2025-08-30T15:38:49.516826",
+  "package_url": "https://pypi.org/project/tumblr-2-album/"
+}

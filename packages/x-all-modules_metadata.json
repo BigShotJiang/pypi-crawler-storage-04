@@ -1,11 +1,11 @@
 {
   "name": "x-all-modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "It is a module which, if you import then you won't need to import any other module for any purpose...",
   "author": null,
   "license": "Creative Commons Attribution-NonCommercial 4.0 International Public License\n        (CC BY-NC 4.0) with Additional Restrictions\n        \n        Copyright (c) 2025 Ashutosh Dwivedi <iasashutosh17@gmail.com>\n        \n        This package (\"x\") is licensed under the Creative Commons Attribution–\n        NonCommercial 4.0 International License, with the following additional terms:\n        \n        Permissions:\n        - You are free to use, copy, modify, and share this software for personal, educational, or research purposes.\n        - You must give appropriate credit to the original author (Ashutosh Dwivedi).\n        - You may distribute modified versions, provided they include attribution and this same license.\n        \n        Restrictions:\n        - You may not sell, sublicense, or commercially publish this software or any modified versions.\n        - You may not remove the name of the original author from attribution notices.\n        - Commercial usage of any kind requires prior written permission from the author.\n        \n        Disclaimer:\n        This software is provided \"as is\", without warranty of any kind. The author shall not be liable for any damages or legal claims arising from the use of this software.\n        \n        Full text of the base license (CC BY-NC 4.0) is available at:\n        https://creativecommons.org/licenses/by-nc/4.0/legalcode",
   "home_page": null,
-  "download_filename": "x_all_modules-0.1.0.tar.gz",
-  "download_time": "2025-08-30T14:40:14.723047",
+  "download_filename": "x_all_modules-0.1.1.tar.gz",
+  "download_time": "2025-08-30T15:39:08.139142",
   "package_url": "https://pypi.org/project/x-all-modules/"
 }

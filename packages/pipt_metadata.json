@@ -1,11 +1,11 @@
 {
   "name": "pipt",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A time machine for your Python environment. Install packages as they existed on a given date.",
   "author": "pipt contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipt-0.1.5.tar.gz",
-  "download_time": "2025-08-30T14:40:03.444589",
+  "download_filename": "pipt-0.1.6.tar.gz",
+  "download_time": "2025-08-30T15:38:47.429991",
   "package_url": "https://pypi.org/project/pipt/"
 }

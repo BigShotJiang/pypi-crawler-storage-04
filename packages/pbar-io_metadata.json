@@ -1,0 +1,11 @@
+{
+  "name": "pbar-io",
+  "version": "0.1.0",
+  "summary": "Share progress bars via pbar.io - works with tqdm, rich, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbar_io-0.1.0.tar.gz",
+  "download_time": "2025-08-30T15:39:01.921425",
+  "package_url": "https://pypi.org/project/pbar-io/"
+}

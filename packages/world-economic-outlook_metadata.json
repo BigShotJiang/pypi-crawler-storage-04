@@ -1,0 +1,11 @@
+{
+  "name": "world-economic-outlook",
+  "version": "0.0.8",
+  "summary": "An IMF World Economic Outlook (WEO) API Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "world_economic_outlook-0.0.8.tar.gz",
+  "download_time": "2025-08-30T15:38:58.840870",
+  "package_url": "https://pypi.org/project/world-economic-outlook/"
+}

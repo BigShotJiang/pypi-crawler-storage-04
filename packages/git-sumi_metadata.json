@@ -1,0 +1,11 @@
+{
+  "name": "git-sumi",
+  "version": "0.2.0",
+  "summary": "The non-opinionated Rust-powered commit message linter",
+  "author": null,
+  "license": null,
+  "home_page": "https://sumi.rs",
+  "download_filename": "git_sumi-0.2.0-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-30T15:39:15.827270",
+  "package_url": "https://pypi.org/project/git-sumi/"
+}
