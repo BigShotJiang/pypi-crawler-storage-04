@@ -1,0 +1,11 @@
+{
+  "name": "tsfresh",
+  "version": "0.21.1",
+  "summary": "tsfresh extracts relevant characteristics from time series",
+  "author": "Maximilian Christ, Nils Braun, Julius Neuffer, Andreas W. Kempa-Liehr",
+  "license": "MIT",
+  "home_page": "https://github.com/blue-yonder/tsfresh",
+  "download_filename": "tsfresh-0.21.1.tar.gz",
+  "download_time": "2025-08-30T18:57:17.135167",
+  "package_url": "https://pypi.org/project/tsfresh/"
+}
