@@ -1,0 +1,11 @@
+{
+  "name": "mwutsdz",
+  "version": "0.1.0",
+  "summary": "MWUT-SDZ: Détection automatique de knee point dans les données de cycle de batteries",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": "https://github.com/toncompte/mwutsdz",
+  "download_filename": "mwutsdz-0.1.0.tar.gz",
+  "download_time": "2025-08-30T05:19:11.384888",
+  "package_url": "https://pypi.org/project/mwutsdz/"
+}

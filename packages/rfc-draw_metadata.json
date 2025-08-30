@@ -1,0 +1,11 @@
+{
+  "name": "rfc-draw",
+  "version": "3.6",
+  "summary": "Python-package-to-make-SVG-drawings-for-RFCs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rfc_draw-3.6-py3-none-any.whl",
+  "download_time": "2025-08-30T05:19:28.779568",
+  "package_url": "https://pypi.org/project/rfc-draw/"
+}

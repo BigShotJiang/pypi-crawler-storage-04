@@ -1,0 +1,11 @@
+{
+  "name": "ragtoolbox",
+  "version": "0.1.0",
+  "summary": "Modular toolkit for building Retrieval-Augmented Generation (RAG) pipelines.",
+  "author": "Nick-Nunley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ragtoolbox-0.1.0.tar.gz",
+  "download_time": "2025-08-30T05:19:13.169671",
+  "package_url": "https://pypi.org/project/ragtoolbox/"
+}

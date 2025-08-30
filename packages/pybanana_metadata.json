@@ -1,0 +1,11 @@
+{
+  "name": "pybanana",
+  "version": "0.5.0",
+  "summary": "A Python wrapper for the GameBanana API",
+  "author": "robin",
+  "license": null,
+  "home_page": "https://github.com/robinxoxo/pybanana",
+  "download_filename": "pybanana-0.5.0.tar.gz",
+  "download_time": "2025-08-30T05:19:29.854399",
+  "package_url": "https://pypi.org/project/pybanana/"
+}
