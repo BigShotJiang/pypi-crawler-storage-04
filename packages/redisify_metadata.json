@@ -1,11 +1,11 @@
 {
   "name": "redisify",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Redisify is a lightweight Python library that provides Redis-backed data structures like dicts, queues, locks, and semaphores, designed for distributed systems.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "redisify-0.1.5.tar.gz",
-  "download_time": "2025-08-30T10:52:19.083644",
+  "download_filename": "redisify-0.2.0.tar.gz",
+  "download_time": "2025-08-30T13:05:23.662366",
   "package_url": "https://pypi.org/project/redisify/"
 }

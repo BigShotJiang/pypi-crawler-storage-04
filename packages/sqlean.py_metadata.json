@@ -1,11 +1,11 @@
 {
   "name": "sqlean.py",
-  "version": "3.50.4.2",
+  "version": "3.50.4.3",
   "summary": "sqlite3 with extensions",
   "author": "Anton Zhiyanov",
   "license": "zlib/libpng",
   "home_page": "https://github.com/nalgeon/sqlean.py",
-  "download_filename": "sqlean_py-3.50.4.2.tar.gz",
-  "download_time": "2025-08-29T05:42:04.725197",
+  "download_filename": "sqlean_py-3.50.4.3.tar.gz",
+  "download_time": "2025-08-30T13:05:31.901674",
   "package_url": "https://pypi.org/project/sqlean.py/"
 }

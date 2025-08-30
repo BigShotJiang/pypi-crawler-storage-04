@@ -1,0 +1,11 @@
+{
+  "name": "numai",
+  "version": "0.0.0",
+  "summary": "Pure NumPy machine-learning toolkit (name reservation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "numai-0.0.0.tar.gz",
+  "download_time": "2025-08-30T13:05:25.716967",
+  "package_url": "https://pypi.org/project/numai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lefschetz-family",
+  "version": "0.1.18",
+  "summary": "This package implements algorithms relying on Lefschetz fibration theory to compute periods of algebraic varieties.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lefschetz_family-0.1.18.tar.gz",
+  "download_time": "2025-08-30T13:05:27.772108",
+  "package_url": "https://pypi.org/project/lefschetz-family/"
+}
