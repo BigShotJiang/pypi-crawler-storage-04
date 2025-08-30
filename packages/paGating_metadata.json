@@ -1,0 +1,11 @@
+{
+  "name": "paGating",
+  "version": "0.1.0",
+  "summary": "Parameterized Activation Gating Framework for Flexible and Efficient Neural Networks",
+  "author": "Aaryan Guglani",
+  "license": null,
+  "home_page": "https://github.com/guglxni/paGating",
+  "download_filename": "pagating-0.1.0.tar.gz",
+  "download_time": "2025-08-30T18:46:24.180916",
+  "package_url": "https://pypi.org/project/paGating/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flask-dictabase",
+  "version": "2.0.0",
+  "summary": "A dict() like interface to your database.",
+  "author": "Grant miller",
+  "license": "PSF",
+  "home_page": "https://github.com/GrantGMiller/flask_dictabase",
+  "download_filename": "flask_dictabase-2.0.0.tar.gz",
+  "download_time": "2025-08-30T18:46:10.545292",
+  "package_url": "https://pypi.org/project/flask-dictabase/"
+}

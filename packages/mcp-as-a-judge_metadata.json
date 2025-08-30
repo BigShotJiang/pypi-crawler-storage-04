@@ -1,11 +1,11 @@
 {
   "name": "mcp-as-a-judge",
-  "version": "1.0.0",
+  "version": "0.1.9",
   "summary": "MCP as a Judge: Prevent bad coding practices with AI-powered evaluation and user-driven decision making",
   "author": "Zvi Fried",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_as_a_judge-1.0.0.tar.gz",
-  "download_time": "2025-08-30T18:27:34.914590",
+  "download_filename": "mcp_as_a_judge-0.1.9.tar.gz",
+  "download_time": "2025-08-30T18:46:12.122346",
   "package_url": "https://pypi.org/project/mcp-as-a-judge/"
 }
