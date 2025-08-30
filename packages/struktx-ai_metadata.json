@@ -1,11 +1,11 @@
 {
   "name": "struktx-ai",
-  "version": "0.0.2b2",
+  "version": "0.0.3b0",
   "summary": "A configurable, typed AI framework with swappable LLM, classifier, handlers, and optional memory",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "struktx_ai-0.0.2b2.tar.gz",
-  "download_time": "2025-08-29T18:28:13.291248",
+  "download_filename": "struktx_ai-0.0.3b0.tar.gz",
+  "download_time": "2025-08-30T19:17:34.629906",
   "package_url": "https://pypi.org/project/struktx-ai/"
 }
