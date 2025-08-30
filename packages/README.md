@@ -1,17 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T10:20:05.432860
-- **Total Packages**: 78
-- **Total Size**: 10.64 MB
+- **Download Time**: 2025-08-30T10:41:16.676520
+- **Total Packages**: 72
+- **Total Size**: 6.11 MB
 
 ## Packages List
+- letta-nightly
+- retab
+- planar
+- cinetica
+- outlier-library
+- velog-sync
+- maleo-soma-models
+- fx-bin
+- vre-video
+- authentik-client
+- image2sound-newrealm
+- rcabench-platform
+- django-admin-data-export
+- lingtaiAgent
+- Fuckyoubitchbro
+- runbooks
+- python-pooldose
+- maleo-soma-utils
+- datamaster-mcp
+- DragonLog
+- gdcmd
+- xulbux
+- edsl
+- minesweepervariants
+- pyco2stats
+- speedupper
+- dearning
+- clipstack
+- consul-adk
+- vllm-mock
+- lintkit
 - polars-uuid
 - trancit
+- starlings
 - sllmipy
 - mcp-devtools
 - mcp-data-analyzer-jifengsheng
-- maleo-soma-utils
 - tf-keras-nightly
 - edwh-restic-plugin
 - ai-edge-torch-nightly
@@ -26,13 +57,11 @@
 - pm-rank
 - processpi
 - data-go-mcp.apartment-trade
-- authentik-client
 - zotero-qa-notes
 - asksage-proxy
 - flowfoundry
 - nonebot-plugin-huaer-bot
 - mtcli-trade
-- django-admin-data-export
 - winup
 - chat-memobase
 - embed-anything-gpu
@@ -49,38 +78,3 @@
 - pyslurmutils
 - nvidia-nat-opentelemetry
 - nvidia-nat-phoenix
-- VTKio
-- nvidia-nat-mem0ai
-- nvidia-nat-mysql
-- nvidia-nat-crewai
-- nvidia-nat-agno
-- nvidia-nat-llama-index
-- nvidia-nat-all
-- nvidia-nat-redis
-- nvidia-nat-profiling
-- seqpandas
-- nvidia-nat-ingestion
-- nvidia-nat-langchain
-- nvidia-nat-zep-cloud
-- pybiwenger
-- nvidia-nat-s3
-- nvidia-nat
-- nvidia-nat-ragaai
-- dycw-pre-commit-hooks
-- nvidia-nat-weave
-- nvidia-nat-semantic-kernel
-- scapi
-- nvidia-nat-data-flywheel
-- nvidia-nat-test
-- aiqtoolkit-langchain
-- odoo-addon-purchase-sale-inter-company
-- aiqtoolkit-zep-cloud
-- aiqtoolkit
-- aiqtoolkit-agno
-- aiqtoolkit-mem0ai
-- outlier-library
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-llama-index
-- aiqtoolkit-test
-- aiqtoolkit-weave
-- aiqtoolkit-crewai

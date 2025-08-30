@@ -1,11 +1,11 @@
 {
   "name": "dearning",
-  "version": "1.1.7.post5",
+  "version": "1.1.8",
   "summary": "Libraries untuk membuat AI yang ringan",
   "author": "Oriza",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dearning-1.1.7.post5.tar.gz",
-  "download_time": "2025-08-29T08:48:16.238852",
+  "download_filename": "dearning-1.1.8.tar.gz",
+  "download_time": "2025-08-30T10:40:51.881127",
   "package_url": "https://pypi.org/project/dearning/"
 }
