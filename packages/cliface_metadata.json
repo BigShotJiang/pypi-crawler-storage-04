@@ -1,0 +1,11 @@
+{
+  "name": "cliface",
+  "version": "1.0.2",
+  "summary": "A CLI toolkit library.",
+  "author": "iamtwobe",
+  "license": "MIT",
+  "home_page": "https://github.com/iamtwobe/cliface",
+  "download_filename": "cliface-1.0.2.tar.gz",
+  "download_time": "2025-08-30T01:27:30.641527",
+  "package_url": "https://pypi.org/project/cliface/"
+}

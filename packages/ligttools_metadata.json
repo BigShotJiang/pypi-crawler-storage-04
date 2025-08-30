@@ -1,0 +1,11 @@
+{
+  "name": "ligttools",
+  "version": "0.2.3",
+  "summary": "Tools for converting data between different formats and RDF specification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ligttools-0.2.3.tar.gz",
+  "download_time": "2025-08-30T01:27:35.574695",
+  "package_url": "https://pypi.org/project/ligttools/"
+}

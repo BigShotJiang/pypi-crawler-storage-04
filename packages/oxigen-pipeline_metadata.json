@@ -1,0 +1,11 @@
+{
+  "name": "oxigen-pipeline",
+  "version": "1.2.0",
+  "summary": "Data pipeline: extract → classify → clean → split -> Model",
+  "author": "Daniel Valdez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oxigen_pipeline-1.2.0.tar.gz",
+  "download_time": "2025-08-30T01:27:28.910295",
+  "package_url": "https://pypi.org/project/oxigen-pipeline/"
+}

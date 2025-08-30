@@ -1,0 +1,11 @@
+{
+  "name": "piedomains",
+  "version": "0.1.0",
+  "summary": "Predict categories based on domain names and their content",
+  "author": "Rajashekar Chintalapati and Gaurav Sood",
+  "license": "MIT License",
+  "home_page": "https://github.com/themains/piedomains",
+  "download_filename": "piedomains-0.1.0.tar.gz",
+  "download_time": "2025-08-30T01:28:07.064015",
+  "package_url": "https://pypi.org/project/piedomains/"
+}

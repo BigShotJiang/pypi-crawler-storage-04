@@ -1,0 +1,11 @@
+{
+  "name": "superset-claudette",
+  "version": "0.1.0",
+  "summary": "Superset multi-environment workflow manager using git worktrees",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "superset_claudette-0.1.0.tar.gz",
+  "download_time": "2025-08-30T01:27:59.162220",
+  "package_url": "https://pypi.org/project/superset-claudette/"
+}

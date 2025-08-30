@@ -1,0 +1,11 @@
+{
+  "name": "shepherd-score",
+  "version": "1.1.1",
+  "summary": "3D scoring functions used for evaluation of ShEPhERD",
+  "author": "Kento Abeywardane",
+  "license": "MIT",
+  "home_page": "https://github.com/kentoabeywardane/shepherd-score",
+  "download_filename": "shepherd_score-1.1.1.tar.gz",
+  "download_time": "2025-08-30T01:27:30.067037",
+  "package_url": "https://pypi.org/project/shepherd-score/"
+}
