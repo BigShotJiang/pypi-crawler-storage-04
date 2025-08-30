@@ -1,0 +1,11 @@
+{
+  "name": "tariochbctools",
+  "version": "1.2.4",
+  "summary": "Importers, plugins and price fetchers for Beancount",
+  "author": "Patrick Ruckstuhl",
+  "license": "MIT",
+  "home_page": "https://github.com/tarioch/beancounttools/",
+  "download_filename": "tariochbctools-1.2.4.tar.gz",
+  "download_time": "2025-08-30T23:19:08.531030",
+  "package_url": "https://pypi.org/project/tariochbctools/"
+}
