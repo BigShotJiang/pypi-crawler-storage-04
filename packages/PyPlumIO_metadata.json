@@ -1,0 +1,11 @@
+{
+  "name": "PyPlumIO",
+  "version": "0.5.54",
+  "summary": "PyPlumIO is a native ecoNET library for Plum ecoMAX controllers.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pyplumio-0.5.54.tar.gz",
+  "download_time": "2025-08-30T03:47:20.562298",
+  "package_url": "https://pypi.org/project/PyPlumIO/"
+}

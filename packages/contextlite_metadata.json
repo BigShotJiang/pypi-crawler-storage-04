@@ -1,11 +1,11 @@
 {
   "name": "contextlite",
-  "version": "1.1.23",
-  "summary": "Ultra-fast context engine for retrieval and AI applications",
+  "version": "1.1.24",
+  "summary": "RAG Systems Were a Mistake - Replace vector databases with 0.3ms mathematically optimal context selection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextlite-1.1.23.tar.gz",
-  "download_time": "2025-08-29T06:31:14.530672",
+  "download_filename": "contextlite-1.1.24.tar.gz",
+  "download_time": "2025-08-30T03:47:03.706942",
   "package_url": "https://pypi.org/project/contextlite/"
 }
