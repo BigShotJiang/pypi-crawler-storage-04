@@ -1,0 +1,11 @@
+{
+  "name": "elizabeth-dev-barman",
+  "version": "3.14.0.post1",
+  "summary": "Backup and Recovery Manager for PostgreSQL",
+  "author": "EnterpriseDB",
+  "license": "GPL-3.0",
+  "home_page": "https://www.pgbarman.org/",
+  "download_filename": "elizabeth_dev_barman-3.14.0.post1.tar.gz",
+  "download_time": "2025-08-30T21:52:30.872930",
+  "package_url": "https://pypi.org/project/elizabeth-dev-barman/"
+}

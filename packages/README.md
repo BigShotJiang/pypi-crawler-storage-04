@@ -1,26 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T21:39:00.168491
-- **Total Packages**: 65
-- **Total Size**: 19.36 MB
+- **Download Time**: 2025-08-30T21:53:03.877283
+- **Total Packages**: 68
+- **Total Size**: 21.39 MB
 
 ## Packages List
+- ai-pipeline-core
+- docrag-llm
+- authentik-client
+- oasm-sdk
+- kgrag-store
+- minecraft-datapack-language
+- aient
+- elizabeth-dev-barman
+- strwythura
+- sgio
+- treedir-py
+- maleo-types-enums
+- dolze-image-templates
+- x-make-pypi-x
+- datasurface
+- x-make-markdown-x
+- pytolino
+- apache-tvm-ffi
+- architext
+- maleo-enums
+- yourmt3
+- tagmanager-cli
+- liitos
+- meerschaum
+- project-x-py
 - jaganathanj
 - claude-mpm
 - logillm
 - data-retrieval-monitor
 - qA-Ap
 - bojango
-- architext
-- authentik-client
 - mcp-devtools
 - kaqing
 - niti
-- treedir-py
 - apc-switched-rack-pdu-control-panel
 - kermac
-- docrag-llm
 - todo-agent
 - easydiffraction
 - faster-whisper-hotkey
@@ -31,7 +52,6 @@
 - mediallm-mcp
 - xl2md
 - schedulo-api
-- meerschaum
 - pycardano
 - pyaltar-icons
 - llm-snowglobe
@@ -41,7 +61,6 @@
 - maleo-types-base
 - radiant-wrapper
 - arize-phoenix-client
-- aient
 - weconnect-cupra-daern
 - tyro
 - gyptis
@@ -50,24 +69,8 @@
 - ambient-wds
 - pyrekit
 - cfbd
-- strwythura
 - allgitstatus
 - pypicosdk
 - mandelbrot-viewer
-- minecraft-datapack-language
 - pypiquant
-- dolze-image-templates
 - litellm
-- glin-profanity
-- mediallm
-- eth-streams-py
-- eth-protocols-py
-- eth-typeshed-py
-- eth-rpc-py
-- tagmanager-cli
-- unicorn-eval
-- splitter-mr
-- autocleanss
-- zerobuffer-ipc
-- entity-query-language
-- rmcp

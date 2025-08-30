@@ -1,11 +1,11 @@
 {
   "name": "apache-tvm-ffi",
-  "version": "0.1.0a4",
+  "version": "0.1.0a5",
   "summary": "tvm ffi",
   "author": "TVM FFI team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "apache_tvm_ffi-0.1.0a4.tar.gz",
-  "download_time": "2025-08-30T20:52:49.896406",
+  "download_filename": "apache_tvm_ffi-0.1.0a5.tar.gz",
+  "download_time": "2025-08-30T21:52:36.146538",
   "package_url": "https://pypi.org/project/apache-tvm-ffi/"
 }

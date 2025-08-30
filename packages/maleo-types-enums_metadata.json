@@ -1,11 +1,11 @@
 {
   "name": "maleo-types-enums",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Enums types package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_types_enums-0.0.1.tar.gz",
-  "download_time": "2025-08-30T13:31:52.578034",
+  "download_filename": "maleo_types_enums-0.0.2.tar.gz",
+  "download_time": "2025-08-30T21:52:32.957970",
   "package_url": "https://pypi.org/project/maleo-types-enums/"
 }
