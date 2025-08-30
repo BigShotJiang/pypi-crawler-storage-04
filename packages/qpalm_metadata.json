@@ -1,0 +1,11 @@
+{
+  "name": "qpalm",
+  "version": "1.2.6",
+  "summary": "Proximal Augmented Lagrangian method for Quadratic Programs",
+  "author": "Ben Hermans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qpalm-1.2.6.tar.gz",
+  "download_time": "2025-08-30T20:21:17.855052",
+  "package_url": "https://pypi.org/project/qpalm/"
+}

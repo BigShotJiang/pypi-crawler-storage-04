@@ -1,0 +1,11 @@
+{
+  "name": "remote-pb2",
+  "version": "0.2.0",
+  "summary": "Generated protobuf bindings for Remote write service",
+  "author": "Leegin Bernads",
+  "license": "MIT",
+  "home_page": "https://github.com/leegin/remote_pb2",
+  "download_filename": "remote_pb2-0.2.0.tar.gz",
+  "download_time": "2025-08-30T20:21:19.764820",
+  "package_url": "https://pypi.org/project/remote-pb2/"
+}
