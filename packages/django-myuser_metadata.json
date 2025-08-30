@@ -1,11 +1,11 @@
 {
   "name": "django-myuser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A comprehensive Django package for advanced user authentication, user data management",
   "author": "Sanjaya Subedi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_myuser-0.0.4.tar.gz",
-  "download_time": "2025-08-30T17:16:34.239406",
+  "download_filename": "django_myuser-0.0.5.tar.gz",
+  "download_time": "2025-08-30T19:39:09.501382",
   "package_url": "https://pypi.org/project/django-myuser/"
 }

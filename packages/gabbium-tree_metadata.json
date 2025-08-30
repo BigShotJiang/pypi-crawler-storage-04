@@ -1,0 +1,11 @@
+{
+  "name": "gabbium-tree",
+  "version": "1.0.0",
+  "summary": "CLI to print a project directory tree",
+  "author": "Gabriel Abreu (@gabbium)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gabbium_tree-1.0.0.tar.gz",
+  "download_time": "2025-08-30T19:39:11.653075",
+  "package_url": "https://pypi.org/project/gabbium-tree/"
+}

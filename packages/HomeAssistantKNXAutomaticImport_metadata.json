@@ -1,11 +1,11 @@
 {
   "name": "HomeAssistantKNXAutomaticImport",
-  "version": "1.2",
+  "version": "1.2.1",
   "summary": "HomeAssistantKNXAutomaticImport is a script tool to create configuration file for the Home Assistant KNX integration",
   "author": "marsoupilami",
   "license": null,
   "home_page": null,
-  "download_filename": "homeassistantknxautomaticimport-1.2.tar.gz",
-  "download_time": "2025-08-30T17:38:37.709026",
+  "download_filename": "homeassistantknxautomaticimport-1.2.1.tar.gz",
+  "download_time": "2025-08-30T19:38:59.188444",
   "package_url": "https://pypi.org/project/HomeAssistantKNXAutomaticImport/"
 }

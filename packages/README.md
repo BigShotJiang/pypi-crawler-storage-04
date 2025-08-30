@@ -1,29 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T19:18:07.490210
-- **Total Packages**: 73
-- **Total Size**: 7.72 MB
+- **Download Time**: 2025-08-30T19:39:34.293605
+- **Total Packages**: 68
+- **Total Size**: 8.22 MB
 
 ## Packages List
+- minecraft-datapack-language
+- dryql
+- HomeAssistantKNXAutomaticImport
+- authentik-client
+- graph-games-proto
+- jaygoga-orchestra
+- mem8
+- rcl-lang
+- badwulf
+- django-pghistory
+- ytmusicapi
+- aient
+- sphinxcontrib-osint
+- todo-agent
+- PyMyGekko
+- contest-builder
+- cognite-sdk
+- architext
+- fyodorov-utils
+- tesseract-decoder
+- fyodorov-llm-agents
+- django-myuser
+- logger-local
+- annex4risk-detector
+- django-cloudflareimages-toolkit
+- gabbium-tree
+- pyproject-scripts
+- pttechnologies
+- fwdi
+- klotho-cac
+- postalservice
+- digitalmeve
+- zerobuffer-ipc
+- vsflip
 - langchain-aisearchapi
 - dddocr-py
-- annex4risk-detector
 - paar-dev
-- fyodorov-utils
-- fyodorov-llm-agents
-- django-cloudflareimages-toolkit
 - streamlit-ai-voice-chat
-- mem8
 - data-retrieval-monitor
-- aient
 - x-make-pypi-x
 - django-odata
 - tacotiff
-- architext
 - x-make-markdown-x
 - struktx-ai
-- authentik-client
 - vibesorter
 - vellum-workflow-server
 - usdb-syncer
@@ -35,47 +61,16 @@
 - muso
 - crust-shell
 - mcp-devtools
-- contest-builder
 - yeref
 - LanoValoPy
 - sage-agent
-- fwdi
 - tsfresh
 - spotfire-community
 - cotyledon
 - qbit-manage
-- minecraft-datapack-language
 - fastapi-querybuilder
 - scrapery
 - sage-agent-internal
 - blockingpy-gpu
 - blockingpy
 - blockingpy-core
-- nillanet
-- qA-Ap
-- cfbd
-- klv-system-monitor
-- policyengine-us
-- auto-detail
-- SQLAlchemy-Utils
-- flask-dictabase
-- mandelbrot-viewer
-- eks-infra-mcp
-- mcp-as-a-judge
-- crystmatch
-- python-concurrenttools
-- neurograd
-- p115client
-- adamlint
-- hy2dl
-- xqute
-- makefast
-- pyhead
-- fediverse-pasture-inputs
-- upgini
-- liquibook
-- py-html-logger
-- bafser
-- auto-pydantic-cache
-- moxn-types
-- paGating

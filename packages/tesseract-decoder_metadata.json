@@ -1,11 +1,11 @@
 {
   "name": "tesseract-decoder",
-  "version": "0.1.1.dev20250829212128",
+  "version": "0.1.1.dev20250830192610",
   "summary": "A search-based decoder for quantum error correction (QEC).",
   "author": "The Tesseract Decoder Authors.",
   "license": null,
   "home_page": "https://github.com/quantumlib/tesseract-decoder",
-  "download_filename": "tesseract_decoder-0.1.1.dev20250829212128-py310-none-macosx_10_13_x86_64.whl",
-  "download_time": "2025-08-29T21:38:22.880720",
+  "download_filename": "tesseract_decoder-0.1.1.dev20250830192610-py310-none-macosx_10_13_x86_64.whl",
+  "download_time": "2025-08-30T19:39:08.431285",
   "package_url": "https://pypi.org/project/tesseract-decoder/"
 }

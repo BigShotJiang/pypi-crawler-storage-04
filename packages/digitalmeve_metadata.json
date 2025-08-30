@@ -1,11 +1,11 @@
 {
   "name": "digitalmeve",
-  "version": "1.6.0",
-  "summary": "DigitalMeve — The Certified Digital Memory (.MEVE) standard. Timestamp, hash, certify & verify documents.",
-  "author": "DigitalMeve Team",
-  "license": "MIT",
+  "version": "1.6.1",
+  "summary": "DigitalMeve — le premier format universel (.meve) pour certifier l’existence, l’intégrité et l’authenticité des documents.",
+  "author": null,
+  "license": "DigitalMeve is released under the GNU Affero General Public License v3.0 (AGPL-3.0).\n        \n        Full license text: https://www.gnu.org/licenses/agpl-3.0.txt\n        ",
   "home_page": null,
-  "download_filename": "digitalmeve-1.6.0.tar.gz",
-  "download_time": "2025-08-29T13:17:46.120818",
+  "download_filename": "digitalmeve-1.6.1.tar.gz",
+  "download_time": "2025-08-30T19:39:14.867415",
   "package_url": "https://pypi.org/project/digitalmeve/"
 }

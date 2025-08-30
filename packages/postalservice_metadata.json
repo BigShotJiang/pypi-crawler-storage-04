@@ -1,0 +1,11 @@
+{
+  "name": "postalservice",
+  "version": "0.2.0",
+  "summary": "A package for second hand shopping",
+  "author": "Aapo Montin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "postalservice-0.2.0.tar.gz",
+  "download_time": "2025-08-30T19:39:14.335856",
+  "package_url": "https://pypi.org/project/postalservice/"
+}
