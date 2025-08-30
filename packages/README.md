@@ -1,30 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T14:53:09.181535
-- **Total Packages**: 72
-- **Total Size**: 59.55 MB
+- **Download Time**: 2025-08-30T15:20:04.207879
+- **Total Packages**: 69
+- **Total Size**: 25.18 MB
 
 ## Packages List
-- abstract-utilities
-- ATmulti-file-handler
-- architext
-- gamspy-dicopt
+- dicom-sequence-classifier
+- authentik-client
+- dbfpy3
+- py-html-logger
+- bubblebarrier
+- fx-bin
+- minecraft-datapack-language
 - odf-cli
+- pmarlo
+- random-functions-lib
+- overloadable
+- architext
+- textaur
+- rh
+- feedforge
+- textual-pdf
+- velog-sync
+- eflips-ingest
+- spoon-ec5fd18c
+- dbalchemycore
+- digital-casting-system
+- authmint
+- pyworxcloud
+- datamaster-mcp
+- gadapt
+- abstract-utilities
+- django-clickify
+- jotsu-mcp
+- python-sdk-remote
+- pydsboilerplates
+- envstack
+- django-myuser
+- aveytense
+- ATmulti-file-handler
+- gamspy-dicopt
 - agilab
 - gamspy-reshop
 - gamspy-miles
-- authmint
 - agi-core
-- authentik-client
 - gamspy-cbc
 - agi-cluster
 - agi-node
 - agi-env
 - mflow
 - inspect-swe
-- spoon-ec5fd18c
-- velog-sync
 - fabricflow
 - gamspy-highs
 - gamspy-examiner
@@ -33,7 +59,6 @@
 - aduib_rpc
 - pydantic-graph-persistance-redis
 - scilayout
-- pyworxcloud
 - uurest
 - jetblack-serialization
 - gamspy-mosek
@@ -50,31 +75,3 @@
 - gamspy-pathnlp
 - gamspy-knitro
 - gamspy-examiner2
-- tobiko-cloud-api-client
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- metabot
-- sassy-rs
-- boto3-refresh-session
-- volute-ppt
-- orionis
-- better-xai-nma
-- deepof
-- nac-pusher
-- dkist-processing-common
-- graph-games-proto
-- minecraft-datapack-language
-- gamsapi
-- subtitle-for-everyone
-- evalcards
-- lrdbenchmark
-- drf-spectacular-auth
-- cobol-copybook-to-json
-- xbooster
-- molgraph
-- py-html-logger
-- py-autotask
-- ripple-down-rules
-- crcFinder
-- x-make-markdown-x
-- pingdat

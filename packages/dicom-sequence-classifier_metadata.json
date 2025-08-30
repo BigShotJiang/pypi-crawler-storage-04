@@ -1,0 +1,11 @@
+{
+  "name": "dicom-sequence-classifier",
+  "version": "1.0.3",
+  "summary": "Python package based on Pydicom that scans, analyzes and try to classifies DICOM sequences by type",
+  "author": "LICE - Commissione Neuroimmagini",
+  "license": "MIT",
+  "home_page": "https://github.com/LICE-dev/dicom_sequence_classifier",
+  "download_filename": "dicom_sequence_classifier-1.0.3.tar.gz",
+  "download_time": "2025-08-30T15:19:22.219149",
+  "package_url": "https://pypi.org/project/dicom-sequence-classifier/"
+}

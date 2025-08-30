@@ -1,0 +1,11 @@
+{
+  "name": "dbfpy3",
+  "version": "4.2.3",
+  "summary": "Port to Python 3. Dbfpy is a python-only module for reading and writing DBF-files.",
+  "author": "Frank Xu",
+  "license": "MIT license",
+  "home_page": "https://github.com/frankyxhl/dbfpy3",
+  "download_filename": "dbfpy3-4.2.3.tar.gz",
+  "download_time": "2025-08-30T15:19:23.389797",
+  "package_url": "https://pypi.org/project/dbfpy3/"
+}

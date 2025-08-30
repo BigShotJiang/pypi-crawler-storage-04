@@ -1,11 +1,11 @@
 {
   "name": "textual-pdf",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Display PDF files in textual widgets!",
   "author": "NSPC911",
   "license": null,
   "home_page": null,
-  "download_filename": "textual_pdf-0.1.5.tar.gz",
-  "download_time": "2025-08-30T13:52:31.677599",
+  "download_filename": "textual_pdf-0.1.6.tar.gz",
+  "download_time": "2025-08-30T15:19:31.527245",
   "package_url": "https://pypi.org/project/textual-pdf/"
 }

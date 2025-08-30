@@ -1,11 +1,11 @@
 {
   "name": "feedforge",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A powerful AI-driven tool to customize your YouTube feed based on your content preferences using browser automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "feedforge-0.2.1.tar.gz",
-  "download_time": "2025-08-30T12:38:11.780646",
+  "download_filename": "feedforge-0.2.2.tar.gz",
+  "download_time": "2025-08-30T15:19:30.653793",
   "package_url": "https://pypi.org/project/feedforge/"
 }

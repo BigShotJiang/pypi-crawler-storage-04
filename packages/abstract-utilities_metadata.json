@@ -1,11 +1,11 @@
 {
   "name": "abstract-utilities",
-  "version": "0.2.2.343",
+  "version": "0.2.2.348",
   "summary": "abstract_utilities is a collection of utility modules providing a variety of functions to aid in tasks such as data comparison, list manipulation, JSON handling, string manipulation, mathematical computations, and time operations.",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_utilities",
-  "download_filename": "abstract_utilities-0.2.2.343.tar.gz",
-  "download_time": "2025-08-30T14:52:28.784439",
+  "download_filename": "abstract_utilities-0.2.2.348.tar.gz",
+  "download_time": "2025-08-30T15:19:37.978306",
   "package_url": "https://pypi.org/project/abstract-utilities/"
 }
