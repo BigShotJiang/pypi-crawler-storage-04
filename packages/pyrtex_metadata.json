@@ -1,11 +1,11 @@
 {
   "name": "pyrtex",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "summary": "A Python library for batch text extraction and processing using Google Cloud Vertex AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyrtex-0.1.10.tar.gz",
-  "download_time": "2025-08-29T23:19:09.072846",
+  "download_filename": "pyrtex-0.2.0.tar.gz",
+  "download_time": "2025-08-30T17:38:34.108505",
   "package_url": "https://pypi.org/project/pyrtex/"
 }

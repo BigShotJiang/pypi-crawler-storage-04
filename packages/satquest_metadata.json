@@ -1,0 +1,11 @@
+{
+  "name": "satquest",
+  "version": "0.1.1",
+  "summary": "SATQuest",
+  "author": "Yanxiao Zhao",
+  "license": null,
+  "home_page": "https://github.com/sdpkjc/SATQuest",
+  "download_filename": "satquest-0.1.1.tar.gz",
+  "download_time": "2025-08-30T17:38:33.083316",
+  "package_url": "https://pypi.org/project/satquest/"
+}
