@@ -1,0 +1,11 @@
+{
+  "name": "mercurial-testhelpers",
+  "version": "0.7.1",
+  "summary": "Helpers to write Python tests involving Python internals of Mercurial",
+  "author": "Georges Racinet",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "mercurial-testhelpers-0.7.1.tar.gz",
+  "download_time": "2025-08-30T13:52:17.305267",
+  "package_url": "https://pypi.org/project/mercurial-testhelpers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rlquantdata",
+  "version": "1.0.6",
+  "summary": "A package for rl quant data sdk",
+  "author": "Ziheng Zhang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlquantdata-1.0.6-py3-none-any.whl",
+  "download_time": "2025-08-30T13:52:18.674325",
+  "package_url": "https://pypi.org/project/rlquantdata/"
+}

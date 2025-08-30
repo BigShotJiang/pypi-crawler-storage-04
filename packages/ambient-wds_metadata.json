@@ -1,0 +1,11 @@
+{
+  "name": "ambient-wds",
+  "version": "0.1.0",
+  "summary": "Ship weather data from Ambient Weather API to APRS-IS/aprs.fi",
+  "author": null,
+  "license": "MIT License\n        \n        Copyright (c) 2025 Jake Barbieur\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy",
+  "home_page": null,
+  "download_filename": "ambient_wds-0.1.0.tar.gz",
+  "download_time": "2025-08-30T13:52:38.652223",
+  "package_url": "https://pypi.org/project/ambient-wds/"
+}

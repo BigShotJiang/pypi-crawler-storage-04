@@ -1,0 +1,11 @@
+{
+  "name": "chawk",
+  "version": "0.1.4",
+  "summary": "An API wrapper library for the Blackboard LMS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chawk-0.1.4.tar.gz",
+  "download_time": "2025-08-30T13:52:23.025379",
+  "package_url": "https://pypi.org/project/chawk/"
+}

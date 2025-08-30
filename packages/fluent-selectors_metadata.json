@@ -1,11 +1,11 @@
 {
   "name": "fluent-selectors",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A Python library for creating a readable, fluent API for Selenium browser automation",
   "author": "vantorrewannes",
   "license": null,
   "home_page": null,
-  "download_filename": "fluent_selectors-0.1.5.tar.gz",
-  "download_time": "2025-08-29T07:52:22.853134",
+  "download_filename": "fluent_selectors-0.1.7.tar.gz",
+  "download_time": "2025-08-30T13:52:34.353304",
   "package_url": "https://pypi.org/project/fluent-selectors/"
 }

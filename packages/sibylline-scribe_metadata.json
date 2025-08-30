@@ -1,0 +1,11 @@
+{
+  "name": "sibylline-scribe",
+  "version": "1.0.0",
+  "summary": "Advanced repository intelligence system for LLM code analysis with 20-35% improvement in Q&A accuracy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sibylline_scribe-1.0.0.tar.gz",
+  "download_time": "2025-08-30T13:52:21.405773",
+  "package_url": "https://pypi.org/project/sibylline-scribe/"
+}
