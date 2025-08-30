@@ -1,0 +1,11 @@
+{
+  "name": "bruhanimate",
+  "version": "0.2.93",
+  "summary": "ASCII Termnial Animation Package",
+  "author": "ethanlchristensen",
+  "license": "Apache License",
+  "home_page": "https://github.com/ethanlchristensen/bruhanimate",
+  "download_filename": "bruhanimate-0.2.93.tar.gz",
+  "download_time": "2025-08-30T22:40:47.213900",
+  "package_url": "https://pypi.org/project/bruhanimate/"
+}

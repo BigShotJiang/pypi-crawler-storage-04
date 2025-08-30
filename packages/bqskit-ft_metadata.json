@@ -1,0 +1,11 @@
+{
+  "name": "bqskit-ft",
+  "version": "0.2.0",
+  "summary": "BQSKit extension for compiling to Fault-Tolerant gate sets.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bqskit_ft-0.2.0.tar.gz",
+  "download_time": "2025-08-30T22:40:39.067730",
+  "package_url": "https://pypi.org/project/bqskit-ft/"
+}

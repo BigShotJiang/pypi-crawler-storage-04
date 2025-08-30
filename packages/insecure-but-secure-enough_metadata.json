@@ -1,0 +1,11 @@
+{
+  "name": "insecure-but-secure-enough",
+  "version": "0.3.0",
+  "summary": "Lightweight tools for signing and encrypting cookies, urls and stuff. This package isn't really secure, but it is secure enough for most needs.",
+  "author": "Jonathan Vanasco",
+  "license": "MIT",
+  "home_page": "https://github.com/jvanasco/insecure_but_secure_enough",
+  "download_filename": "insecure_but_secure_enough-0.3.0.tar.gz",
+  "download_time": "2025-08-30T22:40:52.475190",
+  "package_url": "https://pypi.org/project/insecure-but-secure-enough/"
+}
