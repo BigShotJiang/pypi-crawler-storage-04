@@ -1,11 +1,11 @@
 {
   "name": "mcp-data-analyzer-jifengsheng",
-  "version": "0.2",
+  "version": "0.4",
   "summary": "a mcp-data-analzyer mcp server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_data_analyzer_jifengsheng-0.2.tar.gz",
-  "download_time": "2025-08-30T09:52:20.545712",
+  "download_filename": "mcp_data_analyzer_jifengsheng-0.4.tar.gz",
+  "download_time": "2025-08-30T10:19:25.267461",
   "package_url": "https://pypi.org/project/mcp-data-analyzer-jifengsheng/"
 }

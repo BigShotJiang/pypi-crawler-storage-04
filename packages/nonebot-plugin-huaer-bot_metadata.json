@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-huaer-bot",
+  "version": "2.2.3",
+  "summary": "(v2.2.0,新增联网搜索,RAG功能)基于NoneBot的智能对话插件，支持多群组管理和人格定制",
+  "author": "HuaEr DevGroup",
+  "license": "MIT",
+  "home_page": "https://github.com/inkink365/nonebot-plugin-huaer-bot",
+  "download_filename": "nonebot_plugin_huaer_bot-2.2.3.tar.gz",
+  "download_time": "2025-08-30T10:19:36.430423",
+  "package_url": "https://pypi.org/project/nonebot-plugin-huaer-bot/"
+}

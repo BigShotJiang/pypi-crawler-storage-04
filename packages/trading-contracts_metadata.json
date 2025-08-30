@@ -1,0 +1,11 @@
+{
+  "name": "trading-contracts",
+  "version": "0.1.0",
+  "summary": "JSON Schemas for trading platform events",
+  "author": "Trading Platform Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trading_contracts-0.1.0.tar.gz",
+  "download_time": "2025-08-30T10:19:40.200081",
+  "package_url": "https://pypi.org/project/trading-contracts/"
+}

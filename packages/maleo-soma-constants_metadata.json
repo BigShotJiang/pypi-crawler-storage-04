@@ -1,11 +1,11 @@
 {
   "name": "maleo-soma-constants",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Soma constants package for MaleoSuite",
   "author": null,
-  "license": "MIT",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_soma_constants-0.0.1.tar.gz",
-  "download_time": "2025-08-29T05:52:52.073576",
+  "download_filename": "maleo_soma_constants-0.0.3.tar.gz",
+  "download_time": "2025-08-30T10:19:28.463175",
   "package_url": "https://pypi.org/project/maleo-soma-constants/"
 }

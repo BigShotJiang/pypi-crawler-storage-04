@@ -1,0 +1,11 @@
+{
+  "name": "hunter-how-cli",
+  "version": "1.0.0",
+  "summary": "CLI tool for interacting with the hunter.how search engine",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "hunter_how_cli-1.0.0.tar.gz",
+  "download_time": "2025-08-30T10:19:40.725705",
+  "package_url": "https://pypi.org/project/hunter-how-cli/"
+}
