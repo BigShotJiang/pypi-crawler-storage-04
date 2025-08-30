@@ -1,19 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-30T11:53:31.360583
-- **Total Packages**: 75
-- **Total Size**: 7.4 MB
+- **Download Time**: 2025-08-30T12:38:43.575639
+- **Total Packages**: 69
+- **Total Size**: 23.99 MB
 
 ## Packages List
-- pydorm
-- bool-hybrid-array
-- typer-slim
+- mcp-vector-search
+- agentle
+- NseEod
 - typer
 - typer-cli
-- rediacc
+- typer-slim
+- deus-llm-token-stats-guru
+- flexynesis
+- system-compat-checker
+- yta-video-opengl
+- feedforge
+- solidbox
+- eflips-ingest
+- bubblebarrier
 - authentik-client
+- ttrsscli
+- exiv2
+- rock-solid-base
+- hcom
+- spreadlinks
+- openfund-core
+- rdworks
+- symbolic-compartmental-model
+- SignerPy
+- neosqlite
 - friendly-module-not-found-error
+- django-logikal
+- dify-sdk
+- say-hello-sample-library
+- evolib
+- casambi-bt-revamped
+- kontxt
+- robotframework-confluentkafkalibrary
+- adlfs
+- nsefin
+- mnt.bench
+- indie
+- omniopt2
+- rcabench-platform
+- AllCurrencyConverter
+- webspirit
+- holobench
+- trading-core
+- anime-gif-random
+- jarvis-mysql-plugin
+- sigmund
+- pydorm
+- bool-hybrid-array
+- rediacc
 - purnamatools
 - textual-pdf
 - fluent-checks
@@ -23,12 +64,9 @@
 - exospherehost
 - fraiseql
 - maleo-toolkit-text
-- omniopt2
 - findpeaks
 - annex4risk-detector
 - mcp-data-analzyer-jifengsheng
-- agentle
-- system-compat-checker
 - towncrier
 - aryadocr
 - libgossip
@@ -37,47 +75,3 @@
 - kanapy
 - WikibaseIntegrator
 - caerus
-- certbot-dns-desec
-- maleo-toolkit-imaging
-- velog-sync
-- aioplus
-- aider-code
-- eric-sse
-- trading-core
-- vovk-hello-world
-- pydsboilerplates
-- maleo-soma-mixins
-- fx-bin
-- torchx-nightly
-- cognite-neat
-- zotero-qa-notes
-- frost-forge
-- ytget-gui
-- valar
-- plutoprint
-- toollib
-- nsefin
-- pywheels
-- clipper-dev
-- consul-adk
-- pyotrs
-- pretix-paystack
-- wads
-- contsub
-- byteiq
-- feedforge
-- tb-nightly
-- rh
-- fluent-telegrinder
-- hud-python
-- vre-video
-- cinetica
-- pymc-extras
-- latex-merge-changes
-- autopeptideml
-- langrinder
-- google-search-mcp
-- aisearchapi-client
-- pycarlo
-- datamaster-mcp
-- rdkit-data-pipeline-tools

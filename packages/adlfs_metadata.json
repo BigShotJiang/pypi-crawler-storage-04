@@ -1,0 +1,11 @@
+{
+  "name": "adlfs",
+  "version": "2025.8.0",
+  "summary": "Access Azure Datalake Gen1 with fsspec and dask",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "adlfs-2025.8.0.tar.gz",
+  "download_time": "2025-08-30T12:38:24.649309",
+  "package_url": "https://pypi.org/project/adlfs/"
+}

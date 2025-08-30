@@ -1,0 +1,11 @@
+{
+  "name": "anime-gif-random",
+  "version": "0.1.0",
+  "summary": "Random anime GIF viewer",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/anime_gif_random",
+  "download_filename": "anime_gif_random-0.1.0.tar.gz",
+  "download_time": "2025-08-30T12:38:29.789693",
+  "package_url": "https://pypi.org/project/anime-gif-random/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "say-hello-sample-library",
+  "version": "0.1.2",
+  "summary": "A sample package",
+  "author": "CharlyGin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "say_hello_sample_library-0.1.2.tar.gz",
+  "download_time": "2025-08-30T12:38:21.576064",
+  "package_url": "https://pypi.org/project/say-hello-sample-library/"
+}

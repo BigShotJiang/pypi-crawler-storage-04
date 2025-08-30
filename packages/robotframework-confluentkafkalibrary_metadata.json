@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-confluentkafkalibrary",
+  "version": "2.8.0.post3",
+  "summary": "Confluent Kafka library for Robot Framework",
+  "author": "Robert Karasek",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/robooo/robotframework-ConfluentKafkaLibrary",
+  "download_filename": "robotframework_confluentkafkalibrary-2.8.0.post3.tar.gz",
+  "download_time": "2025-08-30T12:38:24.130732",
+  "package_url": "https://pypi.org/project/robotframework-confluentkafkalibrary/"
+}

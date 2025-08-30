@@ -1,0 +1,11 @@
+{
+  "name": "solidbox",
+  "version": "0.1.0",
+  "summary": "Composable building blocks for Python backends",
+  "author": "Ali Aliyev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solidbox-0.1.0.tar.gz",
+  "download_time": "2025-08-30T12:38:12.292291",
+  "package_url": "https://pypi.org/project/solidbox/"
+}
