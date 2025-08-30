@@ -1,0 +1,11 @@
+{
+  "name": "mcp-proxy-adapter",
+  "version": "6.1.0",
+  "summary": "Model Context Protocol Proxy Adapter with Security Framework",
+  "author": "Vasiliy Zdanovskiy",
+  "license": "MIT",
+  "home_page": "https://github.com/maverikod/mcp-proxy-adapter",
+  "download_filename": "mcp_proxy_adapter-6.1.0.tar.gz",
+  "download_time": "2025-08-30T03:21:20.179941",
+  "package_url": "https://pypi.org/project/mcp-proxy-adapter/"
+}

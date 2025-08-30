@@ -1,0 +1,11 @@
+{
+  "name": "jbag",
+  "version": "4.2.8",
+  "summary": "Tools for medical image processing and deap learning.",
+  "author": "Dai Jian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jbag-4.2.8.tar.gz",
+  "download_time": "2025-08-30T03:21:19.104133",
+  "package_url": "https://pypi.org/project/jbag/"
+}

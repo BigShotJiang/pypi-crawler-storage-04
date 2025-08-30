@@ -1,0 +1,11 @@
+{
+  "name": "pylogalert",
+  "version": "0.1.6.1",
+  "summary": "Lean JSON logging with async-safe context, PII redaction, sampling, and EMERGENCY alerts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylogalert-0.1.6.1.tar.gz",
+  "download_time": "2025-08-30T03:21:18.574988",
+  "package_url": "https://pypi.org/project/pylogalert/"
+}
