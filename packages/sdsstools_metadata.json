@@ -1,0 +1,11 @@
+{
+  "name": "sdsstools",
+  "version": "1.9.2",
+  "summary": "Small tools for SDSS products",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sdsstools-1.9.2.tar.gz",
+  "download_time": "2025-08-30T06:28:01.660521",
+  "package_url": "https://pypi.org/project/sdsstools/"
+}

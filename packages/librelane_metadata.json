@@ -1,0 +1,11 @@
+{
+  "name": "librelane",
+  "version": "2.4.1",
+  "summary": "An infrastructure for implementing chip design flows",
+  "author": "Mohamed Gaber",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/librelane/librelane",
+  "download_filename": "librelane-2.4.1.tar.gz",
+  "download_time": "2025-08-30T06:27:59.334444",
+  "package_url": "https://pypi.org/project/librelane/"
+}

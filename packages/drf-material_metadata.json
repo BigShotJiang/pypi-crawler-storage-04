@@ -1,0 +1,11 @@
+{
+  "name": "drf-material",
+  "version": "0.3.4",
+  "summary": "Material design for Django REST Framework API",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": "https://github.com/youzarsiph/drf-material/",
+  "download_filename": "drf_material-0.3.4.tar.gz",
+  "download_time": "2025-08-30T06:28:20.399720",
+  "package_url": "https://pypi.org/project/drf-material/"
+}

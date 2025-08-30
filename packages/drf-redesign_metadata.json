@@ -1,0 +1,11 @@
+{
+  "name": "drf-redesign",
+  "version": "0.6.0",
+  "summary": "Redesign of the browse-able api of Django REST Framework with Bootstrap 5",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": "https://github.com/youzarsiph/drf-redesign/",
+  "download_filename": "drf_redesign-0.6.0.tar.gz",
+  "download_time": "2025-08-30T06:28:23.533064",
+  "package_url": "https://pypi.org/project/drf-redesign/"
+}
