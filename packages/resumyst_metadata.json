@@ -1,11 +1,11 @@
 {
   "name": "resumyst",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Modern CV generation system combining Typst templating with Python CLI - create multiple professional document variants from unified YAML data",
   "author": "Filippo Guerranti",
   "license": null,
   "home_page": null,
-  "download_filename": "resumyst-0.1.0.tar.gz",
-  "download_time": "2025-08-31T09:19:32.397759",
+  "download_filename": "resumyst-0.1.1.tar.gz",
+  "download_time": "2025-08-31T18:28:27.373668",
   "package_url": "https://pypi.org/project/resumyst/"
 }

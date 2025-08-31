@@ -1,11 +1,11 @@
 {
   "name": "janitor-cubix",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Janitor Library",
   "author": "Cubix523",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "janitor_cubix-0.0.2.tar.gz",
-  "download_time": "2025-08-31T14:40:26.365577",
+  "download_filename": "janitor_cubix-0.0.3.tar.gz",
+  "download_time": "2025-08-31T18:28:36.295726",
   "package_url": "https://pypi.org/project/janitor-cubix/"
 }

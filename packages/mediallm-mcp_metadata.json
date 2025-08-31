@@ -1,11 +1,11 @@
 {
   "name": "mediallm-mcp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "MCP Server for MediaLLM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mediallm_mcp-0.0.1.tar.gz",
-  "download_time": "2025-08-30T21:38:36.942994",
+  "download_filename": "mediallm_mcp-0.0.2.tar.gz",
+  "download_time": "2025-08-31T18:28:33.701567",
   "package_url": "https://pypi.org/project/mediallm-mcp/"
 }

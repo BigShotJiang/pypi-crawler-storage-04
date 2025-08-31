@@ -1,11 +1,11 @@
 {
   "name": "zyra",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "A tool to ingest data from various sources and formats, create imagery or video based on that data, and send the results to various locations for dissemination.",
   "author": "Eric Hackathorn",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zyra-0.1.25.tar.gz",
-  "download_time": "2025-08-28T22:19:45.057992",
+  "download_filename": "zyra-0.1.26.tar.gz",
+  "download_time": "2025-08-31T18:28:42.644893",
   "package_url": "https://pypi.org/project/zyra/"
 }

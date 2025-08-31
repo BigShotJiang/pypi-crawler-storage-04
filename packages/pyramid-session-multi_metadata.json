@@ -1,0 +1,11 @@
+{
+  "name": "pyramid-session-multi",
+  "version": "0.4.0",
+  "summary": "Provides a framwork for creating multiple adhoc session binds in Pyramid.",
+  "author": "Jonathan Vanasco",
+  "license": "MIT",
+  "home_page": "https://github.com/jvanasco/pyramid_session_multi",
+  "download_filename": "pyramid_session_multi-0.4.0.tar.gz",
+  "download_time": "2025-08-31T18:28:37.843683",
+  "package_url": "https://pypi.org/project/pyramid-session-multi/"
+}

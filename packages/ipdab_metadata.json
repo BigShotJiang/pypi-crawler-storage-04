@@ -1,0 +1,11 @@
+{
+  "name": "ipdab",
+  "version": "25.8.2",
+  "summary": "The Debug Adapter Protocol (DAP) implementation for the ipdb debugger.",
+  "author": "Martin van der Schans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipdab-25.8.2.tar.gz",
+  "download_time": "2025-08-31T18:28:24.736600",
+  "package_url": "https://pypi.org/project/ipdab/"
+}

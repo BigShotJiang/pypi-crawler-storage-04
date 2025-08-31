@@ -1,0 +1,11 @@
+{
+  "name": "pyhealthify",
+  "version": "0.1.1",
+  "summary": "A simple health & fitness utility library (BMI, calories, macros, hydration).",
+  "author": "Arpit Chhabra",
+  "license": "MIT",
+  "home_page": "https://github.com/ArpitChb2704/PyHealthify",
+  "download_filename": "pyhealthify-0.1.1.tar.gz",
+  "download_time": "2025-08-31T18:28:16.901037",
+  "package_url": "https://pypi.org/project/pyhealthify/"
+}

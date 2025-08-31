@@ -1,0 +1,11 @@
+{
+  "name": "alphaforge",
+  "version": "1.0.0",
+  "summary": "High-performance algorithmic trading platform created by Krishna Bajpai and Vedanshi Gupta",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphaforge-1.0.0-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-08-31T18:28:32.139023",
+  "package_url": "https://pypi.org/project/alphaforge/"
+}

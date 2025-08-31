@@ -1,0 +1,11 @@
+{
+  "name": "snap-python",
+  "version": "0.1.7",
+  "summary": "Interact with snapd and snapstore(s) from Python",
+  "author": "Alexander Lukens",
+  "license": "MIT",
+  "home_page": "https://github.com/alexdlukens/snap-python",
+  "download_filename": "snap_python-0.1.7.tar.gz",
+  "download_time": "2025-08-31T18:28:32.658938",
+  "package_url": "https://pypi.org/project/snap-python/"
+}

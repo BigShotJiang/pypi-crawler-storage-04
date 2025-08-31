@@ -1,0 +1,11 @@
+{
+  "name": "tmplcl",
+  "version": "0.1.1",
+  "summary": "A utility for quickly copying a given string (template) to your clipboard",
+  "author": "delfanbaum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmplcl-0.1.1.tar.gz",
+  "download_time": "2025-08-31T18:28:15.336341",
+  "package_url": "https://pypi.org/project/tmplcl/"
+}

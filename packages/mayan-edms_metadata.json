@@ -1,0 +1,11 @@
+{
+  "name": "mayan-edms",
+  "version": "4.9.3",
+  "summary": "Free Open Source Electronic Document Management System",
+  "author": "Roberto Rosario",
+  "license": "GPL 2.0",
+  "home_page": "https://www.mayan-edms.com",
+  "download_filename": "mayan-edms-4.9.3.tar.gz",
+  "download_time": "2025-08-31T18:28:40.044399",
+  "package_url": "https://pypi.org/project/mayan-edms/"
+}
