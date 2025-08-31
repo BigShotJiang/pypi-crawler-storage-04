@@ -1,11 +1,11 @@
 {
   "name": "mcp-devtools",
-  "version": "1.7.5",
+  "version": "1.7.7",
   "summary": "A short description of your project.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_devtools-1.7.5.tar.gz",
-  "download_time": "2025-08-31T05:53:11.705489",
+  "download_filename": "mcp_devtools-1.7.7.tar.gz",
+  "download_time": "2025-08-31T06:29:38.026819",
   "package_url": "https://pypi.org/project/mcp-devtools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "netintel-ocr",
-  "version": "0.1.16.2",
+  "version": "0.1.16.3",
   "summary": "Enterprise OCR Platform with Flow Diagram Support and Customizable Prompts - Network & Process Intelligence",
   "author": "VisionML",
   "license": null,
   "home_page": "https://github.com/VisionMLNet/NetIntelOCR",
-  "download_filename": "netintel_ocr-0.1.16.2-cp312-cp312-manylinux2014_x86_64.whl",
-  "download_time": "2025-08-31T04:54:59.603758",
+  "download_filename": "netintel_ocr-0.1.16.3-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-08-31T06:29:33.230954",
   "package_url": "https://pypi.org/project/netintel-ocr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "RanaGPT",
+  "version": "1.25.4",
+  "summary": "Library for interacting with multiple AI APIs",
+  "author": "Tofey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ranagpt-1.25.4.tar.gz",
+  "download_time": "2025-08-31T06:29:26.208980",
+  "package_url": "https://pypi.org/project/RanaGPT/"
+}
