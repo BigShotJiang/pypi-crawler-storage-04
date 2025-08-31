@@ -1,12 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T11:17:08.412177
-- **Total Packages**: 72
-- **Total Size**: 18.3 MB
+- **Download Time**: 2025-08-31T11:39:57.790513
+- **Total Packages**: 81
+- **Total Size**: 16.69 MB
 
 ## Packages List
+- fallpy
+- libadalina-core
+- wujihandpy
+- fastapi-socketio-handler
+- authentik-client
+- nonebot-plugin-repeat-checker
+- gitcg
+- img2text-cli
+- mcp-python-refactoring
+- carconnectivity-connector-seatcupra
+- pytest-plugins
+- anu-verma
+- ragged-stubs
+- epub-pinyin
+- bool-hybrid-array
+- strataregula-doe-runner
+- wd-mcp
 - zapgpt
+- clang-tidy
 - spml2-mltools
 - tb-nightly
 - libadalina-analytics
@@ -19,7 +37,6 @@
 - paperank
 - lark-util
 - sw-mc-lib
-- authentik-client
 - filterKaapi
 - termexec
 - gis-mcp
@@ -44,7 +61,6 @@
 - xsuite
 - mtkresearch
 - flight-ticket-mcp-server
-- img2text-cli
 - shoebill-ai
 - smdata
 - sqlalchemy-crud-plus
@@ -71,10 +87,3 @@
 - copyleaks
 - odoo-addon-gestion-editorial
 - trading-common
-- kgrag-store
-- cv3
-- failtrace
-- nakametpy
-- chaos-mesh-mcp-server
-- urtext
-- preparse

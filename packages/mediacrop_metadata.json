@@ -1,11 +1,11 @@
 {
   "name": "mediacrop",
-  "version": "1.5.0",
+  "version": "2.0",
   "summary": "A web-based visual tool to get FFmpeg crop coordinates for media files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mediacrop-1.5.0.tar.gz",
-  "download_time": "2025-08-31T11:16:32.154530",
+  "download_filename": "mediacrop-2.0.tar.gz",
+  "download_time": "2025-08-31T11:39:25.381597",
   "package_url": "https://pypi.org/project/mediacrop/"
 }

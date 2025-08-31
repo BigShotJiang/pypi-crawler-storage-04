@@ -1,0 +1,11 @@
+{
+  "name": "epub-pinyin",
+  "version": "0.2.1",
+  "summary": "Add Pinyin annotations to Chinese text in EPUB files with smart polyphonic character handling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epub_pinyin-0.2.1.tar.gz",
+  "download_time": "2025-08-31T11:39:18.690492",
+  "package_url": "https://pypi.org/project/epub-pinyin/"
+}

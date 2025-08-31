@@ -1,0 +1,11 @@
+{
+  "name": "strataregula-doe-runner",
+  "version": "0.3.0",
+  "summary": "Batch experiment orchestrator for Strataregula ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strataregula_doe_runner-0.3.0.tar.gz",
+  "download_time": "2025-08-31T11:39:19.961304",
+  "package_url": "https://pypi.org/project/strataregula-doe-runner/"
+}

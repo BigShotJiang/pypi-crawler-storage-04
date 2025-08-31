@@ -1,0 +1,11 @@
+{
+  "name": "fallpy",
+  "version": "1.0.0",
+  "summary": "fallpy is a python fallacy detector, it matches the entered statement with a fallacy in the list using openai and google search api",
+  "author": "jamcha123",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fallpy-1.0.0.tar.gz",
+  "download_time": "2025-08-31T11:39:09.542952",
+  "package_url": "https://pypi.org/project/fallpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-python-refactoring",
+  "version": "0.1.0",
+  "summary": "MCP tool to guide Python code refactoring without automatic changes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_python_refactoring-0.1.0.tar.gz",
+  "download_time": "2025-08-31T11:39:15.157632",
+  "package_url": "https://pypi.org/project/mcp-python-refactoring/"
+}
