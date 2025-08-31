@@ -1,11 +1,11 @@
 {
   "name": "sushi-train",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Like a sushi train, but for data engineering. Grab a utility function when you want it, and leave it if you don't.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sushi_train-0.1.0.tar.gz",
-  "download_time": "2025-08-31T12:39:44.214531",
+  "download_filename": "sushi_train-0.1.2.tar.gz",
+  "download_time": "2025-08-31T13:07:24.842808",
   "package_url": "https://pypi.org/project/sushi-train/"
 }

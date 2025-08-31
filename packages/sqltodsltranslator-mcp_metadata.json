@@ -1,0 +1,11 @@
+{
+  "name": "sqltodsltranslator-mcp",
+  "version": "0.1.1",
+  "summary": "A service to convert MySQL SQL queries to Elasticsearch DSL using MCP framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqltodsltranslator_mcp-0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-31T13:07:11.839193",
+  "package_url": "https://pypi.org/project/sqltodsltranslator-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "objectscope",
-  "version": "1.16.8",
+  "version": "1.16.9",
   "summary": "Object detection",
   "author": "Agbleze",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "objectscope-1.16.8.tar.gz",
-  "download_time": "2025-08-30T23:52:00.479366",
+  "download_filename": "objectscope-1.16.9.tar.gz",
+  "download_time": "2025-08-31T13:07:31.870029",
   "package_url": "https://pypi.org/project/objectscope/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agentic-blocks",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Simple building blocks for agentic AI systems with MCP client and conversation management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_blocks-0.1.15.tar.gz",
-  "download_time": "2025-08-31T04:25:31.626913",
+  "download_filename": "agentic_blocks-0.1.16.tar.gz",
+  "download_time": "2025-08-31T13:07:19.125949",
   "package_url": "https://pypi.org/project/agentic-blocks/"
 }

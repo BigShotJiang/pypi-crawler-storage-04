@@ -1,0 +1,11 @@
+{
+  "name": "victordb",
+  "version": "1.0.1",
+  "summary": "VictorDB is a Python client and ORM for high-performance vector and key-value databases. It provides a simple, flexible API for vector search, key-value storage, and object modeling, making it easy to build modern AI and data applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "victordb-1.0.1.tar.gz",
+  "download_time": "2025-08-31T13:07:02.275731",
+  "package_url": "https://pypi.org/project/victordb/"
+}
