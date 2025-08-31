@@ -1,0 +1,11 @@
+{
+  "name": "kafka-topics",
+  "version": "0.1.4",
+  "summary": "Centralized Kafka topic constants for Pack Bridge services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kafka_topics-0.1.4.tar.gz",
+  "download_time": "2025-08-31T15:52:48.419867",
+  "package_url": "https://pypi.org/project/kafka-topics/"
+}

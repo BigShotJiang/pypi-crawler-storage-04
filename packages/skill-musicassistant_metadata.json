@@ -1,0 +1,11 @@
+{
+  "name": "skill-musicassistant",
+  "version": "0.1.1",
+  "summary": "An OVOS/Neon skill to control media through Music Assistant",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "skill_musicassistant-0.1.1.tar.gz",
+  "download_time": "2025-08-31T15:52:55.827952",
+  "package_url": "https://pypi.org/project/skill-musicassistant/"
+}

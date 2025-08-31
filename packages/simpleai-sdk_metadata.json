@@ -1,0 +1,11 @@
+{
+  "name": "simpleai-sdk",
+  "version": "0.1.1",
+  "summary": "A simple, high-level Python package for the Lille language model.",
+  "author": "Nikityyy",
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "simpleai_sdk-0.1.1.tar.gz",
+  "download_time": "2025-08-31T15:52:57.900941",
+  "package_url": "https://pypi.org/project/simpleai-sdk/"
+}
