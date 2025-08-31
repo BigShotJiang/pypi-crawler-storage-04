@@ -1,11 +1,11 @@
 {
   "name": "django-vite-ssr",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Django integration for Vite Server-Side Rendering (SSR)",
   "author": "Lucas de Oliveira Neitzke",
   "license": null,
   "home_page": "https://github.com/lucas-neitzke-ssys/django-vite-ssr",
-  "download_filename": "django_vite_ssr-0.2.6.tar.gz",
-  "download_time": "2025-08-31T19:52:55.524344",
+  "download_filename": "django_vite_ssr-0.2.7.tar.gz",
+  "download_time": "2025-08-31T23:39:52.805363",
   "package_url": "https://pypi.org/project/django-vite-ssr/"
 }

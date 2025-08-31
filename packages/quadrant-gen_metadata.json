@@ -1,0 +1,11 @@
+{
+  "name": "quadrant-gen",
+  "version": "0.2.0",
+  "summary": "A library for creating quadrant charts with base64 output",
+  "author": "Francesco",
+  "license": null,
+  "home_page": "https://github.com/ceccode/quadrant-gen",
+  "download_filename": "quadrant_gen-0.2.0.tar.gz",
+  "download_time": "2025-08-31T23:39:50.718005",
+  "package_url": "https://pypi.org/project/quadrant-gen/"
+}

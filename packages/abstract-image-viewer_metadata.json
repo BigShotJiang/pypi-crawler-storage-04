@@ -1,0 +1,11 @@
+{
+  "name": "abstract-image-viewer",
+  "version": "0.0.8",
+  "summary": "This module, part of the `abstract_essentials` package, provides utility functions for working with images and PDFs.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": "https://github.com/AbstractEndeavors/abstract_image_viewer",
+  "download_filename": "abstract_image_viewer-0.0.8.tar.gz",
+  "download_time": "2025-08-31T23:39:50.198751",
+  "package_url": "https://pypi.org/project/abstract-image-viewer/"
+}
