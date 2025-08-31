@@ -1,11 +1,11 @@
 {
   "name": "tool-sync",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "A bidirectional synchronization tool for Azure DevOps work items.",
   "author": "Fábio Ribeiro dos Santos Quispe",
   "license": "MIT",
   "home_page": "https://github.com/fabioribeiroquispe/tool_sync",
-  "download_filename": "tool_sync-0.6.4.tar.gz",
-  "download_time": "2025-08-31T04:43:39.306016",
+  "download_filename": "tool_sync-0.6.5.tar.gz",
+  "download_time": "2025-08-31T05:20:26.298509",
   "package_url": "https://pypi.org/project/tool-sync/"
 }

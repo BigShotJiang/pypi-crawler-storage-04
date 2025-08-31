@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T04:55:34.423816
-- **Total Packages**: 80
-- **Total Size**: 39.96 MB
+- **Download Time**: 2025-08-31T05:21:05.376085
+- **Total Packages**: 83
+- **Total Size**: 14.64 MB
 
 ## Packages List
+- phdkit
+- yta-video-opengl
+- openfund-core
+- lance-namespace-urllib3-client
+- lance-namespace
+- chainlit-aki
+- imgrit
+- authentik-client
+- maialib
+- mcp-devtools
+- trading-kiwcomp-models
+- esmc-function-classifier
+- oapi
+- pkbrokers
+- yyinput
+- tool-sync
+- adjuster
+- usf-agents
 - lockbox-sdk
 - plua
 - kaithem
@@ -19,7 +37,6 @@
 - soulmachine217
 - peek-plugin-docdb-generic-menu
 - netintel-ocr
-- authentik-client
 - peek-plugin-diagram-trace
 - peek-plugin-diagram
 - portndock
@@ -55,13 +72,9 @@
 - minecraft-datapack-language
 - ajperry-pipeline
 - aiwaf
-- mcp-devtools
-- phdkit
 - badwulf
 - neurograd
-- tool-sync
 - secbrowser
-- usf-agents
 - skyborn
 - zipremove
 - solana-agent
@@ -73,16 +86,6 @@
 - nominal-api
 - p115client
 - amrita
-- yta-video-opengl
 - rfmodal
 - VNSFintech
 - openstarlab-rlearn
-- jjrawlins-cdk-iam-policy-builder-helper
-- pysubebm
-- datalabs-demo-mcp
-- pytica
-- gdsfactory
-- dbalchemycore
-- schedulo-api
-- snakestack
-- agentstr-sdk
