@@ -1,0 +1,11 @@
+{
+  "name": "cv3",
+  "version": "1.3.0",
+  "summary": "Pythonic cv2",
+  "author": "gorodion",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/gorodion/cv3",
+  "download_filename": "cv3-1.3.0.tar.gz",
+  "download_time": "2025-08-31T10:53:00.219893",
+  "package_url": "https://pypi.org/project/cv3/"
+}

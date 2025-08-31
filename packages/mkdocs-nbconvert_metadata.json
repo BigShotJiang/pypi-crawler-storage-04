@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-nbconvert",
+  "version": "0.4",
+  "summary": "A MkDocs plug-in provides a source parser for *.ipynb Jupyter notebook files, base on nbconvert.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mkdocs_nbconvert-0.4.tar.gz",
+  "download_time": "2025-08-31T10:52:56.084075",
+  "package_url": "https://pypi.org/project/mkdocs-nbconvert/"
+}

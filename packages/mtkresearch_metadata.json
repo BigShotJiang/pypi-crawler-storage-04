@@ -1,0 +1,11 @@
+{
+  "name": "mtkresearch",
+  "version": "0.3.2",
+  "summary": "mtkresearch",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/mtkresearch/mtkresearch",
+  "download_filename": "mtkresearch-0.3.2.tar.gz",
+  "download_time": "2025-08-31T10:52:41.196769",
+  "package_url": "https://pypi.org/project/mtkresearch/"
+}

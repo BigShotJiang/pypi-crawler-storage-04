@@ -1,0 +1,11 @@
+{
+  "name": "flight-ticket-mcp-server",
+  "version": "1.0.1",
+  "summary": "一个基于模型上下文协议(MCP)的航空机票查询和管理服务器",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/flight-ticket-mcp-server",
+  "download_filename": "flight_ticket_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-08-31T10:52:41.707827",
+  "package_url": "https://pypi.org/project/flight-ticket-mcp-server/"
+}

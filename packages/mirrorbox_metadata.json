@@ -1,0 +1,11 @@
+{
+  "name": "mirrorbox",
+  "version": "2.0.0",
+  "summary": "A smart, caching proxy for Docker, designed to bypass registry restrictions and accelerate image pulls.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mirrorbox-2.0.0.tar.gz",
+  "download_time": "2025-08-31T10:52:52.489499",
+  "package_url": "https://pypi.org/project/mirrorbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "copyleaks",
+  "version": "5.0.0",
+  "summary": "Copyleaks API gives you access to a variety of plagiarism detection technologies to protect your online content. Get the most comprehensive plagiarism report for your content that is easy to use and integrate.",
+  "author": "Copyleaks ltd",
+  "license": null,
+  "home_page": "https://api.copyleaks.com",
+  "download_filename": "copyleaks-5.0.0.tar.gz",
+  "download_time": "2025-08-31T10:52:56.594935",
+  "package_url": "https://pypi.org/project/copyleaks/"
+}
