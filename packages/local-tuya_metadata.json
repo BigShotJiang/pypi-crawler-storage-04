@@ -1,11 +1,11 @@
 {
   "name": "local-tuya",
-  "version": "4.0.7",
+  "version": "4.0.8",
   "summary": "Control Tuya devices with MQTT over LAN.",
   "author": "Gabriel Pajot",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "local_tuya-4.0.7.tar.gz",
-  "download_time": "2025-08-31T05:53:05.322530",
+  "download_filename": "local_tuya-4.0.8.tar.gz",
+  "download_time": "2025-08-31T11:53:02.055229",
   "package_url": "https://pypi.org/project/local-tuya/"
 }

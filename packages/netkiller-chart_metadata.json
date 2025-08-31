@@ -1,11 +1,11 @@
 {
   "name": "netkiller-chart",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Netkiller Chart(Mindmap,Gantt,Fishbone(Ishikawa Diagram),SVG)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netkiller_chart-0.4.0.tar.gz",
-  "download_time": "2025-08-31T06:48:57.630147",
+  "download_filename": "netkiller_chart-0.4.1.tar.gz",
+  "download_time": "2025-08-31T11:52:55.820011",
   "package_url": "https://pypi.org/project/netkiller-chart/"
 }

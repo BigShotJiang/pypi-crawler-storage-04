@@ -1,0 +1,11 @@
+{
+  "name": "daedal-persistentidgenerator",
+  "version": "1.1.5",
+  "summary": "This packages allows creating squential ids for financial entities. It's a fairly simple program that allocates 1 billion ids for each entity.",
+  "author": "Deb Mishra",
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "daedal_persistentidgenerator-1.1.5.tar.gz",
+  "download_time": "2025-08-31T11:53:01.536701",
+  "package_url": "https://pypi.org/project/daedal-persistentidgenerator/"
+}

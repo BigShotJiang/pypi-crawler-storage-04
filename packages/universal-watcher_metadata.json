@@ -1,0 +1,11 @@
+{
+  "name": "universal-watcher",
+  "version": "0.1.19",
+  "summary": "A universal watcher extendable for any kind of data.",
+  "author": "Šimon Nehéz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "universal_watcher-0.1.19.tar.gz",
+  "download_time": "2025-08-31T11:52:54.267292",
+  "package_url": "https://pypi.org/project/universal-watcher/"
+}
