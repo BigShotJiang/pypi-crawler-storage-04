@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T08:25:51.747039
-- **Total Packages**: 79
-- **Total Size**: 11.78 MB
+- **Download Time**: 2025-08-31T08:43:52.227722
+- **Total Packages**: 86
+- **Total Size**: 10.61 MB
 
 ## Packages List
+- pulloverx
+- maxapi-python
+- mpesakit
+- asciinema-scene
+- inductive-logic-programming
+- universal-learning
+- qualitative-reasoning
+- tensor-product-binding
+- self-organizing-maps
+- sparse-coding
+- holographic-memory
+- reservoir-computing-benedictchen
+- qA-Ap
+- information-bottleneck
+- kgrag-store
+- jmcomic
+- kuzu
+- authentik-client
+- akari-bot-webrender
+- seismolib
 - luhuo-qwen3-mt-mcp-server
 - webull-python-sdk-trade
 - webull-python-sdk-trade-events-core
@@ -31,17 +51,14 @@
 - text-to-sql-llm-py
 - reme-ai
 - pipen-poplog
-- authentik-client
 - k6-mcp-server
 - prefect
 - pyglove
 - prefect-client
 - pipen-filters
-- kgrag-store
 - rapida-python
 - ComicGUISpider
 - sack-chat
-- seismolib
 - fastdaisy-admin
 - docsloader
 - chaos-mesh-mcp-server
@@ -75,13 +92,3 @@
 - eaasy
 - tuzi-mcp
 - pywikibot-scripts
-- abstract-react
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- pywikibot
-- makefast
-- ajperry-pipeline
-- agentkit-gf
-- todo-agent
-- dapume
-- code-conductor-bench
