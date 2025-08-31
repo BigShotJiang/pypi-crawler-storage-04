@@ -1,0 +1,11 @@
+{
+  "name": "memory-fs",
+  "version": "0.19.0",
+  "summary": "Memory-FS",
+  "author": "Dinis Cruz",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "memory_fs-0.19.0.tar.gz",
+  "download_time": "2025-08-31T10:19:52.762762",
+  "package_url": "https://pypi.org/project/memory-fs/"
+}

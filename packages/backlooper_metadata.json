@@ -1,0 +1,11 @@
+{
+  "name": "backlooper",
+  "version": "0.2.1",
+  "summary": "Backlooper.app is a looper that allows you to decide to loop a few bars after you played them",
+  "author": "Steven van Gemert",
+  "license": null,
+  "home_page": "https://github.com/spmvg/backlooper_backend",
+  "download_filename": "backlooper-0.2.1.tar.gz",
+  "download_time": "2025-08-31T10:20:00.999058",
+  "package_url": "https://pypi.org/project/backlooper/"
+}

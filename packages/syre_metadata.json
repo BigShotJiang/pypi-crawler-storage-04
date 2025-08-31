@@ -1,0 +1,11 @@
+{
+  "name": "syre",
+  "version": "0.11.0",
+  "summary": "Python library for Syre data analysis and management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syre-0.11.0.tar.gz",
+  "download_time": "2025-08-31T10:19:57.402819",
+  "package_url": "https://pypi.org/project/syre/"
+}

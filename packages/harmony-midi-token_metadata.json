@@ -1,0 +1,11 @@
+{
+  "name": "harmony-midi-token",
+  "version": "1.0.3",
+  "summary": "The Brand New Midi Tokenizer based on Music21",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "harmony_midi_token-1.0.3.tar.gz",
+  "download_time": "2025-08-31T10:19:57.916621",
+  "package_url": "https://pypi.org/project/harmony-midi-token/"
+}

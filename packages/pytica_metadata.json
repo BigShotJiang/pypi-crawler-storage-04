@@ -1,11 +1,11 @@
 {
   "name": "pytica",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python Learning Analytics Toolkit for Teachers and Schools",
   "author": "Jaspel Bosales",
   "license": "MIT",
   "home_page": "https://github.com/bjaspel63/pytica",
-  "download_filename": "pytica-0.2.1.tar.gz",
-  "download_time": "2025-08-31T06:29:28.852302",
+  "download_filename": "pytica-0.2.2.tar.gz",
+  "download_time": "2025-08-31T10:19:55.345017",
   "package_url": "https://pypi.org/project/pytica/"
 }
