@@ -1,11 +1,11 @@
 {
   "name": "emails-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A FastMCP-based email management server for IMAP/SMTP operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emails_mcp-0.1.8.tar.gz",
-  "download_time": "2025-08-31T09:38:48.832716",
+  "download_filename": "emails_mcp-0.1.9.tar.gz",
+  "download_time": "2025-08-31T09:52:26.178450",
   "package_url": "https://pypi.org/project/emails-mcp/"
 }

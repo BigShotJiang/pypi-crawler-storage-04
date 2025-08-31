@@ -1,0 +1,11 @@
+{
+  "name": "scotchpy64",
+  "version": "1.0.1",
+  "summary": "The official Python interface to the Scotch and PT-Scotch graph partitioning libraries",
+  "author": "Pierre PAVIA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scotchpy64-1.0.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-31T09:52:26.727456",
+  "package_url": "https://pypi.org/project/scotchpy64/"
+}

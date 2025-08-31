@@ -1,0 +1,11 @@
+{
+  "name": "lightkube-models",
+  "version": "1.34.0.8",
+  "summary": "Models and Resources for lightkube module",
+  "author": "Giuseppe Tribulato",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/gtsystem/lightkube-models",
+  "download_filename": "lightkube-models-1.34.0.8.tar.gz",
+  "download_time": "2025-08-31T09:52:24.628323",
+  "package_url": "https://pypi.org/project/lightkube-models/"
+}
