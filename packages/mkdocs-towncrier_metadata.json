@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-towncrier",
+  "version": "0.1.5",
+  "summary": "An insanely small plugin to add towncrier changelog draft into mkdocs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_towncrier-0.1.5.tar.gz",
+  "download_time": "2025-08-31T16:44:29.379701",
+  "package_url": "https://pypi.org/project/mkdocs-towncrier/"
+}

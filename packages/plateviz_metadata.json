@@ -1,0 +1,11 @@
+{
+  "name": "plateviz",
+  "version": "0.1.0",
+  "summary": "An interactive visualization tool for microplate reader growth data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plateviz-0.1.0.tar.gz",
+  "download_time": "2025-08-31T16:44:23.604561",
+  "package_url": "https://pypi.org/project/plateviz/"
+}
