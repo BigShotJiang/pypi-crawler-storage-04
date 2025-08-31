@@ -1,11 +1,8 @@
 {
-  "download_time": "2025-08-31T21:53:21.178156",
-  "total_packages_downloaded": 69,
-  "total_size_mb": 11.11,
+  "download_time": "2025-08-31T22:20:14.163542",
+  "total_packages_downloaded": 70,
+  "total_size_mb": 9.58,
   "packages": [
-    "bluedragon",
-    "mt5-remote",
-    "authentik-client",
     "clyrdia-cli",
     "handit-ai",
     "matrix-cli",
@@ -29,6 +26,7 @@
     "eegdash",
     "mrx-runway",
     "hypothesis",
+    "authentik-client",
     "greeum",
     "BabelViscoFDTD",
     "manipulation",
@@ -71,6 +69,9 @@
     "replan2eplus",
     "markitdown-pro",
     "sphinx-filter-tabs",
-    "nickyspatial"
+    "nickyspatial",
+    "easy-subprocess",
+    "giz",
+    "algobowl"
   ]
 }
