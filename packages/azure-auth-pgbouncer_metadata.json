@@ -1,0 +1,11 @@
+{
+  "name": "azure-auth-pgbouncer",
+  "version": "0.2.1",
+  "summary": null,
+  "author": "Maciej Małecki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azure_auth_pgbouncer-0.2.1.tar.gz",
+  "download_time": "2025-08-31T16:23:50.421720",
+  "package_url": "https://pypi.org/project/azure-auth-pgbouncer/"
+}

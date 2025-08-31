@@ -1,0 +1,11 @@
+{
+  "name": "vimgolf-gym",
+  "version": "0.1.1",
+  "summary": "A gym environment for VimGolf challenges",
+  "author": "James Brown",
+  "license": null,
+  "home_page": "https://github.com/james4ever0/vimgolf-gym",
+  "download_filename": "vimgolf-gym-0.1.1.tar.gz",
+  "download_time": "2025-08-31T16:24:02.794824",
+  "package_url": "https://pypi.org/project/vimgolf-gym/"
+}

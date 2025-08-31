@@ -1,11 +1,11 @@
 {
   "name": "rainduck",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple BrainFuck extension with macros",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rainduck-0.1.0.tar.gz",
-  "download_time": "2025-08-31T13:07:28.089197",
+  "download_filename": "rainduck-0.1.1.tar.gz",
+  "download_time": "2025-08-31T16:24:16.803732",
   "package_url": "https://pypi.org/project/rainduck/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "filterKaapi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "FilterKaapi: A Tamil-inspired programming language",
   "author": "Chiddesh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "filterkaapi-0.1.2.tar.gz",
-  "download_time": "2025-08-31T12:40:08.807478",
+  "download_filename": "filterkaapi-0.1.3.tar.gz",
+  "download_time": "2025-08-31T16:23:54.042433",
   "package_url": "https://pypi.org/project/filterKaapi/"
 }

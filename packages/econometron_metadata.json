@@ -1,11 +1,11 @@
 {
   "name": "econometron",
-  "version": "0.0.3",
-  "summary": "Econometron is a Python library for advanced econometric analysis and time series forecasting,combining statistical rigor with modern computational methods. It offers a precise,extensible framework for exploring complex economic and financial dynamics.",
+  "version": "0.0.4",
+  "summary": "A Python library for econometric modeling and multivariate time series forecasting,providing a precise and extensible framework for statistical analysis and computational simulations.",
   "author": "Mohamed Amine Ouerfelli",
   "license": "MIT",
   "home_page": "https://econometron.netlify.app",
-  "download_filename": "econometron-0.0.3.tar.gz",
-  "download_time": "2025-08-30T01:27:26.039293",
+  "download_filename": "econometron-0.0.4.tar.gz",
+  "download_time": "2025-08-31T16:23:55.577109",
   "package_url": "https://pypi.org/project/econometron/"
 }
