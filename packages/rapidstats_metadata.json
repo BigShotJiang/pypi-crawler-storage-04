@@ -1,0 +1,11 @@
+{
+  "name": "rapidstats",
+  "version": "0.3.0",
+  "summary": "A library that implements fast statistical routines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rapidstats-0.3.0.tar.gz",
+  "download_time": "2025-08-31T22:53:05.164850",
+  "package_url": "https://pypi.org/project/rapidstats/"
+}

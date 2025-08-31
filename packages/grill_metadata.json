@@ -1,0 +1,11 @@
+{
+  "name": "grill",
+  "version": "0.19.0",
+  "summary": "Pipeline tools for (but not limited to) audiovisual projects.",
+  "author": "Christian López Barrón",
+  "license": null,
+  "home_page": "https://github.com/thegrill/grill",
+  "download_filename": "grill-0.19.0.tar.gz",
+  "download_time": "2025-08-31T22:52:57.392669",
+  "package_url": "https://pypi.org/project/grill/"
+}

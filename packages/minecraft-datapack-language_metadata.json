@@ -1,11 +1,11 @@
 {
   "name": "minecraft-datapack-language",
-  "version": "14.0.20",
+  "version": "14.0.21",
   "summary": "Compile JavaScript-style MDL language or Python API into a Minecraft datapack (1.21+ ready). Features variables, control flow, error handling, and VS Code extension.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minecraft_datapack_language-14.0.20.tar.gz",
-  "download_time": "2025-08-31T22:19:35.140374",
+  "download_filename": "minecraft_datapack_language-14.0.21.tar.gz",
+  "download_time": "2025-08-31T22:52:54.799112",
   "package_url": "https://pypi.org/project/minecraft-datapack-language/"
 }
