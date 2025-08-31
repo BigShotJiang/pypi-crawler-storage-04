@@ -1,11 +1,11 @@
 {
   "name": "pulloverx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "This is a lib for developing prank viruses",
   "author": null,
   "license": "Hi!\r\n        \r\n        I beg u: Use this lib only for educational, legal or good purposes.\r\n        Illegal viruses created using this library are your responsibility.\r\n        ",
   "home_page": null,
-  "download_filename": "pulloverx-0.2.0.tar.gz",
-  "download_time": "2025-08-31T09:19:34.013893",
+  "download_filename": "pulloverx-0.2.1.tar.gz",
+  "download_time": "2025-08-31T09:38:40.420137",
   "package_url": "https://pypi.org/project/pulloverx/"
 }

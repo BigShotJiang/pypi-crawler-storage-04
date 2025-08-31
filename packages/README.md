@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T09:20:12.790201
-- **Total Packages**: 80
-- **Total Size**: 9.68 MB
+- **Download Time**: 2025-08-31T09:39:25.458736
+- **Total Packages**: 87
+- **Total Size**: 12.46 MB
 
 ## Packages List
+- kxy-framework
+- gismap
+- pymammotion
+- authentik-client
+- pulloverx
+- orka-reasoning
+- qA-Ap
+- openaleph-search
+- spoon-ec5fd18c
+- domselect
+- newrcc
+- bluer-ugv
+- sudoku-engine
+- BrainX
+- omniopt2
+- chaos-mesh-mcp-server
+- bluer-objects
+- biosynth-tool
+- topologicpy
+- acdh-baserow-pyutils
+- emails-mcp
+- braincell
+- ramifice
+- posuto
+- makefast
+- pyodide-mkdocs-theme
+- dirtreemap
+- osmium
 - univocalx-dj
 - wiliot-tools
 - aioplus
@@ -15,11 +43,9 @@
 - sift-stack-py
 - resumyst
 - tbp-nightly
-- pulloverx
 - opower
 - fast-dev-cli
 - fastdevcli-slim
-- authentik-client
 - ipilot
 - creso
 - yourmt3
@@ -36,7 +62,6 @@
 - autogluon.common
 - scapi
 - ajperry-pipeline
-- emails-mcp
 - pyterrier-alpha
 - fraiseql
 - tuck
@@ -58,7 +83,6 @@
 - pytemplify
 - PlexTraktSync
 - fmtr.tools
-- qA-Ap
 - pddl-plus-parser
 - odps-python
 - lark-util
@@ -69,20 +93,3 @@
 - aria2tui
 - jjrawlins-cdk-iam-policy-builder-helper
 - sleipnirgroup-jormungandr
-- pytest-plugins
-- leap-model-parser
-- twaddle
-- aspose-tasks-cloud
-- code-loader
-- maxapi-python
-- mpesakit
-- asciinema-scene
-- kgrag-store
-- jmcomic
-- kuzu
-- akari-bot-webrender
-- seismolib
-- luhuo-qwen3-mt-mcp-server
-- webull-python-sdk-trade
-- webull-python-sdk-trade-events-core
-- ImagePRO-Python

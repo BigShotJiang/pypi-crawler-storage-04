@@ -1,11 +1,11 @@
 {
   "name": "spoon-ec5fd18c",
-  "version": "0.1.10",
-  "summary": null,
-  "author": null,
+  "version": "0.1.11",
+  "summary": "An experimental package",
+  "author": "guantao.gao",
   "license": null,
   "home_page": null,
-  "download_filename": "spoon_ec5fd18c-0.1.10.tar.gz",
-  "download_time": "2025-08-30T15:52:28.477524",
+  "download_filename": "spoon_ec5fd18c-0.1.11.tar.gz",
+  "download_time": "2025-08-31T09:38:42.553597",
   "package_url": "https://pypi.org/project/spoon-ec5fd18c/"
 }

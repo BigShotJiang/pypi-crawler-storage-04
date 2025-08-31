@@ -1,11 +1,11 @@
 {
   "name": "makefast",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "FastAPI CLI Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "makefast-2.1.1.tar.gz",
-  "download_time": "2025-08-31T07:38:38.082948",
+  "download_filename": "makefast-2.1.2.tar.gz",
+  "download_time": "2025-08-31T09:38:51.478739",
   "package_url": "https://pypi.org/project/makefast/"
 }

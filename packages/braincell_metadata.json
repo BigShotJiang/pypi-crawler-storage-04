@@ -1,0 +1,11 @@
+{
+  "name": "braincell",
+  "version": "0.0.4",
+  "summary": "Biologically Detailed Brain Cell Modeling in JAX",
+  "author": "BrainCell Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/braincell",
+  "download_filename": "braincell-0.0.4-py2.py3-none-any.whl",
+  "download_time": "2025-08-31T09:38:49.862649",
+  "package_url": "https://pypi.org/project/braincell/"
+}
