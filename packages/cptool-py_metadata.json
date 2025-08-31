@@ -1,0 +1,11 @@
+{
+  "name": "cptool-py",
+  "version": "2.0.0",
+  "summary": "CLI for creating competitive programming problem files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cptool_py-2.0.0.tar.gz",
+  "download_time": "2025-08-31T15:39:39.862103",
+  "package_url": "https://pypi.org/project/cptool-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "getout-of-text3",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Python toolkit for working with legal corpora and English datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "getout_of_text3-0.1.4.tar.gz",
-  "download_time": "2025-08-31T15:19:49.467076",
+  "download_filename": "getout_of_text3-0.1.6.tar.gz",
+  "download_time": "2025-08-31T15:39:30.022415",
   "package_url": "https://pypi.org/project/getout-of-text3/"
 }
