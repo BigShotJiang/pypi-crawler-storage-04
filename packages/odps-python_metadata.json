@@ -1,0 +1,11 @@
+{
+  "name": "odps-python",
+  "version": "0.1.0",
+  "summary": "High-performance Python library for Open Data Product Specification (ODPS) v4.0 with caching, validation, and international standards compliance",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "odps_python-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-31T08:53:53.685523",
+  "package_url": "https://pypi.org/project/odps-python/"
+}
