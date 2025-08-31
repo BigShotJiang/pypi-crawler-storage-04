@@ -1,11 +1,11 @@
 {
   "name": "mktr",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Convert tree structure into actual folders/files via GUI or CLI",
   "author": "Kamil Małek",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mktr-0.1.4.tar.gz",
-  "download_time": "2025-08-31T16:55:31.820155",
+  "download_filename": "mktr-0.1.5.tar.gz",
+  "download_time": "2025-08-31T17:17:11.542592",
   "package_url": "https://pypi.org/project/mktr/"
 }

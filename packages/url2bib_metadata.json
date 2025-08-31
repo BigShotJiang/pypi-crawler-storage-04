@@ -1,11 +1,11 @@
 {
   "name": "url2bib",
-  "version": "0.4.4",
+  "version": "0.4.6",
   "summary": "Convert URLs to BibTeX entries, with support for DOI and ISBN extraction",
   "author": "Paul Martin",
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": "https://github.com/notpaulmartin/url2bib",
-  "download_filename": "url2bib-0.4.4.tar.gz",
-  "download_time": "2025-08-31T16:44:21.470768",
+  "download_filename": "url2bib-0.4.6.tar.gz",
+  "download_time": "2025-08-31T17:17:17.289325",
   "package_url": "https://pypi.org/project/url2bib/"
 }

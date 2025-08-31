@@ -1,0 +1,11 @@
+{
+  "name": "alta-tokenizer",
+  "version": "2.0",
+  "summary": "ALTA tokenizer for encoding and decoding Kinyarwanda language text",
+  "author": "Schadrack Niyibizi",
+  "license": null,
+  "home_page": "https://github.com/Nschadrack/Kin-Tokenizer",
+  "download_filename": "alta_tokenizer-2.0.tar.gz",
+  "download_time": "2025-08-31T17:17:18.836795",
+  "package_url": "https://pypi.org/project/alta-tokenizer/"
+}

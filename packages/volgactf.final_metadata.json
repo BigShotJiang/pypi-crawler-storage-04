@@ -1,0 +1,11 @@
+{
+  "name": "volgactf.final",
+  "version": "3.0.0",
+  "summary": "VolgaCTF Final CLI & public API library",
+  "author": "VolgaCTF",
+  "license": "MIT",
+  "home_page": "https://github.com/VolgaCTF/volgactf-final-py",
+  "download_filename": "volgactf_final-3.0.0.tar.gz",
+  "download_time": "2025-08-31T17:17:09.453351",
+  "package_url": "https://pypi.org/project/volgactf.final/"
+}
