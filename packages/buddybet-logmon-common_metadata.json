@@ -1,0 +1,11 @@
+{
+  "name": "buddybet-logmon-common",
+  "version": "0.0.1",
+  "summary": "Una librería para generar trazas en formato JSON",
+  "author": "Ricardo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "buddybet_logmon_common-0.0.1-py3-none-any.whl",
+  "download_time": "2025-08-31T20:53:12.105210",
+  "package_url": "https://pypi.org/project/buddybet-logmon-common/"
+}

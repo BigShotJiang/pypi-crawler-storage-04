@@ -1,11 +1,11 @@
 {
   "name": "behave-parallel-runners",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": null,
   "author": "Lokkina Olesia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "behave_parallel_runners-1.0.2.tar.gz",
-  "download_time": "2025-08-29T20:22:31.089498",
+  "download_filename": "behave_parallel_runners-1.0.3.tar.gz",
+  "download_time": "2025-08-31T20:53:05.398528",
   "package_url": "https://pypi.org/project/behave-parallel-runners/"
 }
