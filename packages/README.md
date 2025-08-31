@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T10:20:30.454036
-- **Total Packages**: 85
-- **Total Size**: 14.63 MB
+- **Download Time**: 2025-08-31T10:41:45.773262
+- **Total Packages**: 83
+- **Total Size**: 1.43 MB
 
 ## Packages List
+- gwbench
+- failtrace
+- nakametpy
 - chaos-mesh-mcp-server
 - urtext
 - preparse
@@ -34,7 +37,6 @@
 - redis-benchmarks-specification
 - syncraft
 - rotools
-- failtrace
 - backlooper
 - skypilot-nightly
 - k6-mcp-server
@@ -87,7 +89,3 @@
 - kxy-framework
 - gismap
 - pymammotion
-- pulloverx
-- orka-reasoning
-- qA-Ap
-- openaleph-search

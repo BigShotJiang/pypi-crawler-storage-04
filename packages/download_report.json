@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-08-31T10:20:30.454036",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 14.63,
+  "download_time": "2025-08-31T10:41:45.773262",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 1.43,
   "packages": [
+    "gwbench",
+    "failtrace",
+    "nakametpy",
     "chaos-mesh-mcp-server",
     "urtext",
     "preparse",
@@ -31,7 +34,6 @@
     "redis-benchmarks-specification",
     "syncraft",
     "rotools",
-    "failtrace",
     "backlooper",
     "skypilot-nightly",
     "k6-mcp-server",
@@ -83,10 +85,6 @@
     "robosystems-client",
     "kxy-framework",
     "gismap",
-    "pymammotion",
-    "pulloverx",
-    "orka-reasoning",
-    "qA-Ap",
-    "openaleph-search"
+    "pymammotion"
   ]
 }
