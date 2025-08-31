@@ -1,11 +1,11 @@
 {
   "name": "cligent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Chat Parser Library for parsing AI agent conversation logs",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "cligent-0.1.1.tar.gz",
-  "download_time": "2025-08-29T08:48:35.282686",
+  "download_filename": "cligent-0.1.2.tar.gz",
+  "download_time": "2025-08-31T04:25:46.355658",
   "package_url": "https://pypi.org/project/cligent/"
 }

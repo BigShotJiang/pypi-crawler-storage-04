@@ -1,11 +1,11 @@
 {
   "name": "dbalchemycore",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Asynchronous database library using SQLAlchemy Core with CRUD operations",
-  "author": "tktturik",
-  "license": null,
-  "home_page": "https://github.com/tktturik/db-alchemy-core",
-  "download_filename": "dbalchemycore-0.1.2.tar.gz",
-  "download_time": "2025-08-30T15:19:34.438622",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "dbalchemycore-0.1.3.tar.gz",
+  "download_time": "2025-08-31T04:25:42.134087",
   "package_url": "https://pypi.org/project/dbalchemycore/"
 }
