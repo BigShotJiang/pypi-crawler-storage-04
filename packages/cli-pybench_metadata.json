@@ -1,0 +1,11 @@
+{
+  "name": "cli-pybench",
+  "version": "0.1.2",
+  "summary": "A pytest-like framework for benchmarking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_pybench-0.1.2.tar.gz",
+  "download_time": "2025-08-31T05:53:15.458705",
+  "package_url": "https://pypi.org/project/cli-pybench/"
+}

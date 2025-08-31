@@ -1,0 +1,11 @@
+{
+  "name": "zdpytools",
+  "version": "0.1.40",
+  "summary": "Python工具集，包含飞书API、AutoDL API和日志工具",
+  "author": "zhidateam",
+  "license": null,
+  "home_page": "https://github.com/zhidateam/zdpytools",
+  "download_filename": "zdpytools-0.1.40.tar.gz",
+  "download_time": "2025-08-31T05:52:59.281652",
+  "package_url": "https://pypi.org/project/zdpytools/"
+}

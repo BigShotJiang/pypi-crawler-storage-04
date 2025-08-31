@@ -1,11 +1,11 @@
 {
   "name": "portndock",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Dev-focused port watcher/killer with Docker awareness and live TUI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "portndock-1.0.5.tar.gz",
-  "download_time": "2025-08-31T04:55:01.660360",
+  "download_filename": "portndock-1.0.7.tar.gz",
+  "download_time": "2025-08-31T05:53:02.607077",
   "package_url": "https://pypi.org/project/portndock/"
 }
