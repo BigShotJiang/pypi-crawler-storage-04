@@ -1,0 +1,11 @@
+{
+  "name": "msr605-tool",
+  "version": "2.4.1",
+  "summary": "Cross-platform tool for reading, writing, and analyzing magnetic stripe cards using the MSR605 reader/writer",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "msr605_tool-2.4.1.tar.gz",
+  "download_time": "2025-08-31T14:18:40.007997",
+  "package_url": "https://pypi.org/project/msr605-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "evosphere",
+  "version": "1.0.0",
+  "summary": "The Evolutionary Bio-Compiler: A living engine for programming biology through evolution itself",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evosphere-1.0.0.tar.gz",
+  "download_time": "2025-08-31T14:18:23.257025",
+  "package_url": "https://pypi.org/project/evosphere/"
+}

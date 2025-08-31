@@ -1,0 +1,11 @@
+{
+  "name": "look-edge-web",
+  "version": "0.3.5",
+  "summary": "a look edge web library , support both win and mac ",
+  "author": "dkflex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "look_edge_web-0.3.5.tar.gz",
+  "download_time": "2025-08-31T14:18:18.257171",
+  "package_url": "https://pypi.org/project/look-edge-web/"
+}

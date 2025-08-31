@@ -1,0 +1,11 @@
+{
+  "name": "AH-music-player",
+  "version": "0.0.1",
+  "summary": "A package to make a music player in python written using pygame and pillow and tkinter",
+  "author": null,
+  "license": "Copyright (c) 2025 Ahoora Rashidi Khani Abadi\r\n        \r\n        \r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy \r\n        of this softwere and associeted documentation files (the \"Softwere\"), to deal\r\n        in the softwere without restriction, including without limitation the rights\r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell \r\n        copies of the Softwere, and to permit people to whom the Softwere is \r\n        furnished to do so, subject to the following conditions:\r\n        \r\n        \r\n        \r\n        \r\n        \r\n        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Softwere.\r\n        \r\n        \r\n        \r\n        THE SOFTWERE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLEID, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWERE OR THE USE OR OTHER DEALINGS IN THE SOFTWERE.\r\n        ",
+  "home_page": null,
+  "download_filename": "ah_music_player-0.0.1.tar.gz",
+  "download_time": "2025-08-31T14:18:35.137053",
+  "package_url": "https://pypi.org/project/AH-music-player/"
+}
