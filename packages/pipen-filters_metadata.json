@@ -1,0 +1,11 @@
+{
+  "name": "pipen-filters",
+  "version": "0.15.3",
+  "summary": "Add a set of useful filters for pipen templates",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/pipen-filters",
+  "download_filename": "pipen_filters-0.15.3.tar.gz",
+  "download_time": "2025-08-31T08:25:21.430001",
+  "package_url": "https://pypi.org/project/pipen-filters/"
+}

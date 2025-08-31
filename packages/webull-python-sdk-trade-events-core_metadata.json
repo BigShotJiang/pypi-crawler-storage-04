@@ -1,0 +1,11 @@
+{
+  "name": "webull-python-sdk-trade-events-core",
+  "version": "0.1.18",
+  "summary": "The trade events core module of Webull Python SDK.",
+  "author": "Webull",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "webull_python_sdk_trade_events_core-0.1.18.tar.gz",
+  "download_time": "2025-08-31T08:25:05.042820",
+  "package_url": "https://pypi.org/project/webull-python-sdk-trade-events-core/"
+}

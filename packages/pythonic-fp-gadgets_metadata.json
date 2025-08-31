@@ -1,11 +1,11 @@
 {
   "name": "pythonic-fp-gadgets",
-  "version": "2.2.0",
-  "summary": "Simple Gadgets.",
+  "version": "3.0.0",
+  "summary": "Simple Gadgets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonic_fp_gadgets-2.2.0.tar.gz",
-  "download_time": "2025-08-31T03:41:00.871047",
+  "download_filename": "pythonic_fp_gadgets-3.0.0.tar.gz",
+  "download_time": "2025-08-31T08:25:12.225948",
   "package_url": "https://pypi.org/project/pythonic-fp-gadgets/"
 }

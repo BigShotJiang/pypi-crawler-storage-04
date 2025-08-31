@@ -1,0 +1,11 @@
+{
+  "name": "rhythmdbctl",
+  "version": "0.1.0",
+  "summary": "rhythmdbctl is a CLI tool to access and control Rhythm DB",
+  "author": "thaim",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/thaim/rhythmdbctl",
+  "download_filename": "rhythmdbctl-0.1.0.tar.gz",
+  "download_time": "2025-08-31T08:25:13.376524",
+  "package_url": "https://pypi.org/project/rhythmdbctl/"
+}
