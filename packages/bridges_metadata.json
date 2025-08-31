@@ -1,0 +1,11 @@
+{
+  "name": "bridges",
+  "version": "3.5.0",
+  "summary": "Bridging Real-world Infrastructure Designed to Goal-align, Engage, and Stimulate, an NSF TUES",
+  "author": "BRIDGES",
+  "license": null,
+  "home_page": "https://github.com/BridgesUNCC/bridges-python",
+  "download_filename": "bridges-3.5.0.tar.gz",
+  "download_time": "2025-08-31T01:45:20.317554",
+  "package_url": "https://pypi.org/project/bridges/"
+}

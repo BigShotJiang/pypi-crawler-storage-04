@@ -1,11 +1,11 @@
 {
   "name": "suparkanbun",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "summary": "Tokenizer POS-tagger and Dependency-parser for Classical Chinese",
   "author": "Koichi Yasuoka",
   "license": "MIT",
   "home_page": "https://github.com/KoichiYasuoka/SuPar-Kanbun",
-  "download_filename": "suparkanbun-1.5.7-py3-none-any.whl",
-  "download_time": "2025-08-30T22:40:38.492503",
+  "download_filename": "suparkanbun-1.5.8-py3-none-any.whl",
+  "download_time": "2025-08-31T01:44:44.807979",
   "package_url": "https://pypi.org/project/suparkanbun/"
 }

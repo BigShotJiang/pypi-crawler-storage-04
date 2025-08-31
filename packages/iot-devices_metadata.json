@@ -1,0 +1,11 @@
+{
+  "name": "iot-devices",
+  "version": "0.25.0",
+  "summary": "Framework for creating and using device drives, and a library of devices.",
+  "author": "Daniel Dunn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iot_devices-0.25.0.tar.gz",
+  "download_time": "2025-08-31T01:45:03.961981",
+  "package_url": "https://pypi.org/project/iot-devices/"
+}

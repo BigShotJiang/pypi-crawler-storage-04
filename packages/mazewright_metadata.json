@@ -1,0 +1,11 @@
+{
+  "name": "mazewright",
+  "version": "0.1.0",
+  "summary": "A Python package for generating and visualizing mazes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mazewright-0.1.0.tar.gz",
+  "download_time": "2025-08-31T01:44:35.448650",
+  "package_url": "https://pypi.org/project/mazewright/"
+}
