@@ -1,0 +1,11 @@
+{
+  "name": "intersperse",
+  "version": "0.1.0a0",
+  "summary": "A simple Python generator that yields elements from an iterable, inserting a separator value between each element.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intersperse-0.1.0a0.tar.gz",
+  "download_time": "2025-08-31T18:47:24.089318",
+  "package_url": "https://pypi.org/project/intersperse/"
+}

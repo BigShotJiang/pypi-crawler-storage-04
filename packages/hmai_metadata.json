@@ -1,0 +1,11 @@
+{
+  "name": "hmai",
+  "version": "1.0.0",
+  "summary": "AI framework for inventing new classes of matter through generative quantum field theory",
+  "author": "Krishna Bajpai, Vedanshi Gupta",
+  "license": null,
+  "home_page": "https://github.com/hmai/framework",
+  "download_filename": "hmai-1.0.0.tar.gz",
+  "download_time": "2025-08-31T18:47:30.909059",
+  "package_url": "https://pypi.org/project/hmai/"
+}

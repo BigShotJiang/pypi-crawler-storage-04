@@ -1,0 +1,11 @@
+{
+  "name": "l2f",
+  "version": "2.0.16",
+  "summary": "Python bindings for the L2F (Learning to Fly) Simulator",
+  "author": "Jonas Eschmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "l2f-2.0.16.tar.gz",
+  "download_time": "2025-08-31T18:47:27.256974",
+  "package_url": "https://pypi.org/project/l2f/"
+}

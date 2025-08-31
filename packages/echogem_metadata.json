@@ -1,11 +1,11 @@
 {
   "name": "echogem",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Intelligent Transcript Processing and Question Answering Library",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/echogem",
-  "download_filename": "echogem-0.1.1.tar.gz",
-  "download_time": "2025-08-31T18:28:09.512147",
+  "download_filename": "echogem-0.1.3.tar.gz",
+  "download_time": "2025-08-31T18:47:22.530749",
   "package_url": "https://pypi.org/project/echogem/"
 }

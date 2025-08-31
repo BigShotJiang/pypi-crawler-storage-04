@@ -1,0 +1,11 @@
+{
+  "name": "patentes-vehiculares-chile",
+  "version": "0.3.0",
+  "summary": "Una librería Python para validar y trabajar con patentes vehiculares chilenas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "patentes_vehiculares_chile-0.3.0.tar.gz",
+  "download_time": "2025-08-31T18:47:34.567826",
+  "package_url": "https://pypi.org/project/patentes-vehiculares-chile/"
+}

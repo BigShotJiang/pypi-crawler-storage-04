@@ -1,24 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T18:28:45.288888
-- **Total Packages**: 74
-- **Total Size**: 71.43 MB
+- **Download Time**: 2025-08-31T18:47:58.662626
+- **Total Packages**: 75
+- **Total Size**: 8.88 MB
 
 ## Packages List
-- VeraGridEngine
+- eoq3pyecoremdb
+- eoq3pyecoreutils
+- eoq3pyactions
+- eoq3
+- eoq3conceptsgen
+- docrag-llm
+- aider-code
+- bugbug
+- ipdab
+- echogem
+- django-vite-ssr
+- teleco-daisy
+- intersperse
+- defisocket
+- steelsnakes
+- moxn-types
 - authentik-client
+- verskyt
+- l2f
+- pybog
+- novara
+- ppp-svc-helper
+- llm-layer-collector
+- claude-mpm
+- lite-agent
+- hmai
+- bumpcalver
+- memory-agent
+- packagekit
+- lsst-sphgeom
+- llama-index-postprocessor-sbert-rerank
+- lukhed-sports
+- patentes-vehiculares-chile
+- liquidnn
+- CordForge
+- shoebill-ai
+- kaiserlift
+- myreze
+- VeraGridServer
+- VeraGrid
+- tacotiff
+- mem0-agent-memory
+- ajperry-pipeline
+- VeraGridEngine
 - mem8
 - pygoroutine
 - spotdl-gui
-- claude-mpm
 - todo-agent
 - duckdb-extension-parquet
 - fast-clean
 - WUADS
 - spml2-mltools
 - mineralML
-- echogem
 - mcpbind-meta-ads-mcp
 - mdsnake
 - omnipkg
@@ -38,45 +78,6 @@
 - starui
 - scikit-p4
 - recce-nightly
-- mem0-agent-memory
-- lsst-sphgeom
 - convert-md-to-rt
 - pypomes-sob
 - paperman
-- django-vite-ssr
-- ipdab
-- pyxcp
-- zlang
-- spiki
-- re-browser-use
-- resumyst
-- fhir-to-omop-spark
-- trackerfit
-- beswarm
-- pgsql-upserter
-- duckdb-extension-vss
-- duckdb-extension-iceberg
-- BenchMatcha
-- cptool-py
-- alphaforge
-- snap-python
-- ppp-svc-helper
-- mediallm-mcp
-- mediallm
-- netintel-ocr
-- cadence-example-plugins
-- janitor-cubix
-- pyrocumulus
-- pyramid-session-multi
-- mass-iq
-- py4cst
-- mayan-edms
-- wbclient
-- cforma
-- copilot-lsp-bridge
-- pypricklybird
-- zyra
-- breez-sdk-spark
-- mkdocs-material-joapuiib
-- pyramid-formencode-classic
-- pyThermoDB

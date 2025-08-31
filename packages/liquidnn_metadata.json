@@ -1,0 +1,11 @@
+{
+  "name": "liquidnn",
+  "version": "1.1.2",
+  "summary": "A PyTorch based module for Liquid Networks",
+  "author": "Nakshatra Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liquidnn-1.1.2.tar.gz",
+  "download_time": "2025-08-31T18:47:35.087196",
+  "package_url": "https://pypi.org/project/liquidnn/"
+}
