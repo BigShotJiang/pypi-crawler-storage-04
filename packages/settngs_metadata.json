@@ -1,0 +1,11 @@
+{
+  "name": "settngs",
+  "version": "0.11.1",
+  "summary": "A library for managing settings",
+  "author": "Timmy Welch",
+  "license": "MIT",
+  "home_page": "https://github.com/lordwelch/settngs",
+  "download_filename": "settngs-0.11.1.tar.gz",
+  "download_time": "2025-08-31T03:56:48.579318",
+  "package_url": "https://pypi.org/project/settngs/"
+}

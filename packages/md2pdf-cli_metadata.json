@@ -1,0 +1,11 @@
+{
+  "name": "md2pdf-cli",
+  "version": "0.1.0",
+  "summary": "A command-line tool to convert Markdown files to PDF",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/md2pdf",
+  "download_filename": "md2pdf_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-31T03:56:49.662536",
+  "package_url": "https://pypi.org/project/md2pdf-cli/"
+}
