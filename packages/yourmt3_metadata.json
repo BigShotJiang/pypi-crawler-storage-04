@@ -1,11 +1,11 @@
 {
   "name": "yourmt3",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Music Transcription",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yourmt3-0.1.3.tar.gz",
-  "download_time": "2025-08-30T21:52:37.709231",
+  "download_filename": "yourmt3-0.1.4.tar.gz",
+  "download_time": "2025-08-31T09:19:38.735345",
   "package_url": "https://pypi.org/project/yourmt3/"
 }

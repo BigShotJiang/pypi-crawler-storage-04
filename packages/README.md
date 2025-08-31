@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T08:54:30.432640
-- **Total Packages**: 82
-- **Total Size**: 20.45 MB
+- **Download Time**: 2025-08-31T09:20:12.790201
+- **Total Packages**: 80
+- **Total Size**: 9.68 MB
 
 ## Packages List
+- univocalx-dj
+- wiliot-tools
+- aioplus
+- deepchecks-llm-client
+- sokrates-mcp
+- wujihandpy
+- sift-stack-py
+- resumyst
+- tbp-nightly
+- pulloverx
+- opower
+- fast-dev-cli
+- fastdevcli-slim
+- authentik-client
+- ipilot
+- creso
+- yourmt3
+- wiliot-testers
+- pys3fuse
+- newspaperV3
+- nakametpy
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- autogluon.features
+- autogluon.core
+- autogluon.common
+- scapi
+- ajperry-pipeline
+- emails-mcp
+- pyterrier-alpha
+- fraiseql
+- tuck
+- text-to-sql-llm-py
+- himena
+- duden
+- reservoir-computing-benedictchen
+- inductive-logic-programming
+- universal-learning
+- qualitative-reasoning
+- httpdbg
 - tensor-product-binding
 - self-organizing-maps
 - sparse-coding
@@ -13,7 +55,6 @@
 - information-bottleneck
 - onco-cola-utils
 - xnote-web
-- authentik-client
 - pytemplify
 - PlexTraktSync
 - fmtr.tools
@@ -33,14 +74,9 @@
 - twaddle
 - aspose-tasks-cloud
 - code-loader
-- pulloverx
 - maxapi-python
 - mpesakit
 - asciinema-scene
-- inductive-logic-programming
-- universal-learning
-- qualitative-reasoning
-- reservoir-computing-benedictchen
 - kgrag-store
 - jmcomic
 - kuzu
@@ -50,41 +86,3 @@
 - webull-python-sdk-trade
 - webull-python-sdk-trade-events-core
 - ImagePRO-Python
-- webull-python-sdk-mdata
-- code-context-analyzer
-- webull-python-sdk-quotes-core
-- yta-video-pyav
-- webull-python-sdk-core
-- scitq
-- wyrestorm-networkhd
-- RubigramClient
-- flowllm
-- sr2t
-- pythonic-fp-gadgets
-- nvfuser-cu126
-- rhythmdbctl
-- yta-video-frame-time
-- nvfuser-cu128
-- nvfuser-cu129
-- fake-fal-client
-- vibesurf
-- text-to-sql-llm-py
-- reme-ai
-- pipen-poplog
-- k6-mcp-server
-- prefect
-- pyglove
-- prefect-client
-- pipen-filters
-- rapida-python
-- ComicGUISpider
-- sack-chat
-- fastdaisy-admin
-- docsloader
-- chaos-mesh-mcp-server
-- syncraft
-- ManojProj
-- wiliot-core
-- simplug
-- maleo-logging
-- fxp-jax

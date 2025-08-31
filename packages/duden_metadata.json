@@ -1,0 +1,11 @@
+{
+  "name": "duden",
+  "version": "0.19.2",
+  "summary": "CLI-based german dictionary",
+  "author": "Radomír Bosák",
+  "license": "MIT",
+  "home_page": "https://github.com/radomirbosak/duden",
+  "download_filename": "duden-0.19.2.tar.gz",
+  "download_time": "2025-08-31T09:19:49.412599",
+  "package_url": "https://pypi.org/project/duden/"
+}

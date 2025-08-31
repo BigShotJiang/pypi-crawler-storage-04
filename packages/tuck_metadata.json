@@ -1,0 +1,11 @@
+{
+  "name": "tuck",
+  "version": "0.2.5",
+  "summary": "Semi-automated Python formatting.",
+  "author": "Peter Law",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/PeterJCLaw/tuck",
+  "download_filename": "tuck-0.2.5.tar.gz",
+  "download_time": "2025-08-31T09:19:47.802057",
+  "package_url": "https://pypi.org/project/tuck/"
+}
