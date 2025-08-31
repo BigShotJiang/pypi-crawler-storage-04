@@ -1,0 +1,11 @@
+{
+  "name": "cosmic-crisp",
+  "version": "1.7.0.dev20250831133504",
+  "summary": "Assistant plugin for Cosmic Crisp SDK",
+  "author": "Cosmic Crisp Systems, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://www.cosmic-crisp.com",
+  "download_filename": "cosmic_crisp-1.7.0.dev20250831133504.tar.gz",
+  "download_time": "2025-08-31T13:53:13.068845",
+  "package_url": "https://pypi.org/project/cosmic-crisp/"
+}

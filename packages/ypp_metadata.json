@@ -1,11 +1,11 @@
 {
   "name": "ypp",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "多分支 worktree 管理工具",
   "author": "ypp",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ypp-0.3.5.tar.gz",
-  "download_time": "2025-08-30T16:43:39.619489",
+  "download_filename": "ypp-0.3.6.tar.gz",
+  "download_time": "2025-08-31T13:53:06.712496",
   "package_url": "https://pypi.org/project/ypp/"
 }

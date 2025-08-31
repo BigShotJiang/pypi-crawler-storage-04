@@ -1,11 +1,11 @@
 {
   "name": "solradm",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Solr Administration CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "solradm-0.8.0.tar.gz",
-  "download_time": "2025-08-31T11:52:57.374711",
+  "download_filename": "solradm-0.9.0.tar.gz",
+  "download_time": "2025-08-31T13:53:11.912244",
   "package_url": "https://pypi.org/project/solradm/"
 }

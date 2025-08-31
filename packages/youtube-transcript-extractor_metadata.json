@@ -1,11 +1,11 @@
 {
   "name": "youtube-transcript-extractor",
-  "version": "0.1.0",
-  "summary": "Package to Extract Youtube video transcripts",
+  "version": "0.1.1",
+  "summary": "A Python package to extract and clean YouTube video transcripts easily.",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "youtube_transcript_extractor-0.1.0.tar.gz",
-  "download_time": "2025-08-31T13:33:19.602465",
+  "download_filename": "youtube_transcript_extractor-0.1.1.tar.gz",
+  "download_time": "2025-08-31T13:52:53.213078",
   "package_url": "https://pypi.org/project/youtube-transcript-extractor/"
 }
