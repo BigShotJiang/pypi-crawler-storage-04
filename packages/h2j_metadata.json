@@ -1,0 +1,11 @@
+{
+  "name": "h2j",
+  "version": "0.1.2",
+  "summary": "Convert HTML to JSON with clean keys and CSS-like classes",
+  "author": "Maxim Sergeyevich Shubin and Chatty Shubin",
+  "license": "MIT",
+  "home_page": "https://github.com/SimBeSim/h2j",
+  "download_filename": "h2j-0.1.2.tar.gz",
+  "download_time": "2025-08-31T20:41:20.586163",
+  "package_url": "https://pypi.org/project/h2j/"
+}

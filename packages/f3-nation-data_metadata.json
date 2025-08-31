@@ -1,0 +1,11 @@
+{
+  "name": "f3-nation-data",
+  "version": "0.0.3",
+  "summary": "library to extract, parse, and analyze F3 Nation SQL database data",
+  "author": "f3-noho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "f3_nation_data-0.0.3.tar.gz",
+  "download_time": "2025-08-31T20:41:17.594660",
+  "package_url": "https://pypi.org/project/f3-nation-data/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coally-sql",
+  "version": "0.1.4",
+  "summary": "Google Colab SQL UI: drag & drop CSV/XLSX → pandas → run SQL via pandasql → download CSV.",
+  "author": "Marko Dabovic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coally_sql-0.1.4.tar.gz",
+  "download_time": "2025-08-31T20:41:15.324668",
+  "package_url": "https://pypi.org/project/coally-sql/"
+}
