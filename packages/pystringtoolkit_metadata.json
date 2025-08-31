@@ -1,0 +1,11 @@
+{
+  "name": "pystringtoolkit",
+  "version": "0.1.2",
+  "summary": "Handy string utilities for Python",
+  "author": "Raees Fatima",
+  "license": null,
+  "home_page": "https://github.com/RaeesFatima/pystringtoolkit",
+  "download_filename": "pystringtoolkit-0.1.2.tar.gz",
+  "download_time": "2025-08-31T19:40:19.843041",
+  "package_url": "https://pypi.org/project/pystringtoolkit/"
+}

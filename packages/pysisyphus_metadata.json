@@ -1,0 +1,11 @@
+{
+  "name": "pysisyphus",
+  "version": "1.0.0",
+  "summary": "Python suite for exploring potential energy surfaces.",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/eljost/pysisyphus",
+  "download_filename": "pysisyphus-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-31T19:40:10.907218",
+  "package_url": "https://pypi.org/project/pysisyphus/"
+}

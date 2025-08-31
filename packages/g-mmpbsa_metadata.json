@@ -1,0 +1,11 @@
+{
+  "name": "g-mmpbsa",
+  "version": "3.0.12",
+  "summary": "MM/PBSA calculations for GROMACS.",
+  "author": "Rashmi Kumari",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "g_mmpbsa-3.0.12-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-08-31T19:40:13.007023",
+  "package_url": "https://pypi.org/project/g-mmpbsa/"
+}
