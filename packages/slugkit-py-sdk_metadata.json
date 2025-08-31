@@ -1,11 +1,11 @@
 {
   "name": "slugkit-py-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "SlugKit Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slugkit_py_sdk-0.0.3.tar.gz",
-  "download_time": "2025-08-29T01:40:10.231466",
+  "download_filename": "slugkit_py_sdk-0.0.4.tar.gz",
+  "download_time": "2025-08-31T13:33:19.056512",
   "package_url": "https://pypi.org/project/slugkit-py-sdk/"
 }
