@@ -1,0 +1,11 @@
+{
+  "name": "svphaser",
+  "version": "2.0.1",
+  "summary": "Structural-variant phasing from HP-tagged long-read BAMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "svphaser-2.0.1.tar.gz",
+  "download_time": "2025-08-31T17:40:25.569888",
+  "package_url": "https://pypi.org/project/svphaser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "boinor",
+  "version": "0.19.0",
+  "summary": "Utilities and Python wrappers for Orbital Mechanics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boinor-0.19.0.tar.gz",
+  "download_time": "2025-08-31T17:39:52.843864",
+  "package_url": "https://pypi.org/project/boinor/"
+}

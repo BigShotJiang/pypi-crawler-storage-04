@@ -1,11 +1,11 @@
 {
   "name": "passagemath-rubiks",
-  "version": "10.6.12",
+  "version": "10.6.13",
   "summary": "passagemath: Algorithms for Rubik's cube",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_rubiks-10.6.12.tar.gz",
-  "download_time": "2025-08-29T22:53:00.381629",
+  "download_filename": "passagemath_rubiks-10.6.13.tar.gz",
+  "download_time": "2025-08-31T17:40:04.137202",
   "package_url": "https://pypi.org/project/passagemath-rubiks/"
 }

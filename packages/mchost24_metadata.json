@@ -1,0 +1,11 @@
+{
+  "name": "mchost24",
+  "version": "1.0.0",
+  "summary": "A Python Module that allows interacting with the MC-Host24 REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mchost24-1.0.0.tar.gz",
+  "download_time": "2025-08-31T17:40:18.570863",
+  "package_url": "https://pypi.org/project/mchost24/"
+}

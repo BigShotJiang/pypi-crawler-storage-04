@@ -1,11 +1,11 @@
 {
   "name": "reasoning-deployment-service",
-  "version": "0.4.6",
+  "version": "0.4.8",
   "summary": "Deployment helper for Vertex AI Reasoning Engines & Agent Spaces",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "reasoning_deployment_service-0.4.6.tar.gz",
-  "download_time": "2025-08-31T17:17:07.915618",
+  "download_filename": "reasoning_deployment_service-0.4.8.tar.gz",
+  "download_time": "2025-08-31T17:40:10.224288",
   "package_url": "https://pypi.org/project/reasoning-deployment-service/"
 }

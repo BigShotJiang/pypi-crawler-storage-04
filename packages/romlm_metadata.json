@@ -1,0 +1,11 @@
+{
+  "name": "romlm",
+  "version": "1.0.3",
+  "summary": "A ROM library management tool.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "romlm-1.0.3.tar.gz",
+  "download_time": "2025-08-31T17:40:14.612812",
+  "package_url": "https://pypi.org/project/romlm/"
+}

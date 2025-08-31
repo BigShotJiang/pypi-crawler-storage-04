@@ -1,11 +1,11 @@
 {
   "name": "passagemath-kissat",
-  "version": "10.6.12",
+  "version": "10.6.13",
   "summary": "passagemath: Interface to the SAT solver kissat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_kissat-10.6.12.tar.gz",
-  "download_time": "2025-08-29T22:40:55.776207",
+  "download_filename": "passagemath_kissat-10.6.13.tar.gz",
+  "download_time": "2025-08-31T17:40:20.180087",
   "package_url": "https://pypi.org/project/passagemath-kissat/"
 }
