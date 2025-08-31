@@ -1,11 +1,11 @@
 {
   "name": "cadence-example-plugins",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Cadence Plugins - Collection of example AI agent plugins for Cadence AI Framework",
   "author": "Jonas Kahn",
   "license": "MIT",
   "home_page": "https://github.com/jonaskahn/cadence-plugins",
-  "download_filename": "cadence_example_plugins-0.0.3.tar.gz",
-  "download_time": "2025-08-31T18:28:35.776126",
+  "download_filename": "cadence_example_plugins-0.0.5.tar.gz",
+  "download_time": "2025-08-31T19:16:37.617761",
   "package_url": "https://pypi.org/project/cadence-example-plugins/"
 }

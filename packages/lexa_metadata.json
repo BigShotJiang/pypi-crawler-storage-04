@@ -1,0 +1,11 @@
+{
+  "name": "lexa",
+  "version": "1.0.0",
+  "summary": "Python SDK for Lexa AI - OpenAI-compatible interface for Lexa's language models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lexa-1.0.0.tar.gz",
+  "download_time": "2025-08-31T19:16:19.576149",
+  "package_url": "https://pypi.org/project/lexa/"
+}

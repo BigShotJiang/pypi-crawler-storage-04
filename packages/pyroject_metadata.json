@@ -1,11 +1,11 @@
 {
   "name": "pyroject",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A lightweight Python project manager inspired by npm",
   "author": "Mason Fowler",
   "license": "MIT",
   "home_page": "https://github.com/FowluhhDev/pyroject",
-  "download_filename": "pyroject-0.1.2.tar.gz",
-  "download_time": "2025-08-31T03:41:03.487821",
+  "download_filename": "pyroject-0.1.3.tar.gz",
+  "download_time": "2025-08-31T19:16:27.006299",
   "package_url": "https://pypi.org/project/pyroject/"
 }

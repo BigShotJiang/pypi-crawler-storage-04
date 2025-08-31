@@ -1,0 +1,11 @@
+{
+  "name": "scarabee",
+  "version": "0.1.0",
+  "summary": "A lattice physics code for LWR analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scarabee-0.1.0.tar.gz",
+  "download_time": "2025-08-31T19:16:22.573247",
+  "package_url": "https://pypi.org/project/scarabee/"
+}

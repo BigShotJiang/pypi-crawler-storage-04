@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-extension-sqlite3",
+  "version": "1.3.2",
+  "summary": "Duckdb sqlite3 extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdb_extension_sqlite3-1.3.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-31T19:16:37.093873",
+  "package_url": "https://pypi.org/project/duckdb-extension-sqlite3/"
+}
