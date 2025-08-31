@@ -1,0 +1,11 @@
+{
+  "name": "versioninfo_helper",
+  "version": "1.0.0",
+  "summary": "VersionInfo helper script for PyInstaller",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "versioninfo_helper-1.0.0.tar.gz",
+  "download_time": "2025-08-31T14:53:05.563383",
+  "package_url": "https://pypi.org/project/versioninfo_helper/"
+}
