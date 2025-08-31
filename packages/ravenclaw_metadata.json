@@ -1,0 +1,11 @@
+{
+  "name": "ravenclaw",
+  "version": "0.1.0",
+  "summary": "Data wrangling and feature engineering toolkit for pandas DataFrames",
+  "author": "Idin",
+  "license": null,
+  "home_page": "https://github.com/idin/ravenclaw",
+  "download_filename": "ravenclaw-0.1.0.tar.gz",
+  "download_time": "2025-08-31T07:19:23.225618",
+  "package_url": "https://pypi.org/project/ravenclaw/"
+}

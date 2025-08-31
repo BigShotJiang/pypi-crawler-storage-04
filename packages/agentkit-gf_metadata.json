@@ -1,0 +1,11 @@
+{
+  "name": "agentkit-gf",
+  "version": "0.1.0",
+  "summary": "Lightweight agents on top of Pydantic AI with true soft tools and conversation history",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentkit_gf-0.1.0.tar.gz",
+  "download_time": "2025-08-31T07:19:16.440180",
+  "package_url": "https://pypi.org/project/agentkit-gf/"
+}
