@@ -1,11 +1,11 @@
 {
   "name": "RazbiUtils",
-  "version": "0.0.4",
+  "version": "0.1.1",
   "summary": "A bunch of miscellaneous utils for scripts/RPA",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "razbiutils-0.0.4.tar.gz",
-  "download_time": "2025-08-31T13:33:27.435930",
+  "download_filename": "razbiutils-0.1.1.tar.gz",
+  "download_time": "2025-08-31T14:40:25.824317",
   "package_url": "https://pypi.org/project/RazbiUtils/"
 }

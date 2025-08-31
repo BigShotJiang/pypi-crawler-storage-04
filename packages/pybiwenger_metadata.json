@@ -1,11 +1,11 @@
 {
   "name": "pybiwenger",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "summary": "A python package to interact with the Soccer Fantasy Game Biwenger",
   "author": "Pablo Minue",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybiwenger-0.4.0.tar.gz",
-  "download_time": "2025-08-31T13:33:24.140360",
+  "download_filename": "pybiwenger-1.0.0.tar.gz",
+  "download_time": "2025-08-31T14:40:38.496864",
   "package_url": "https://pypi.org/project/pybiwenger/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neuroflux",
-  "version": "2.3",
+  "version": "2.4",
   "summary": "MRI and CT Brain Tumor Diagnosis and Grad-CAM Visualization",
   "author": null,
   "license": null,
   "home_page": "https://github.com/Neuroflux-AI/neuroflux",
-  "download_filename": "neuroflux-2.3.tar.gz",
-  "download_time": "2025-08-30T22:40:42.461769",
+  "download_filename": "neuroflux-2.4.tar.gz",
+  "download_time": "2025-08-31T14:40:44.466558",
   "package_url": "https://pypi.org/project/neuroflux/"
 }

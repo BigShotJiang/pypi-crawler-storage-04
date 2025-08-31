@@ -1,0 +1,11 @@
+{
+  "name": "pdf-merger-advanced",
+  "version": "2.0.0",
+  "summary": "Modern PDF merger with dark mode, page ranges, and enhanced UI built with PyQt5",
+  "author": "Gunjan Vaishnav",
+  "license": "MIT",
+  "home_page": "https://github.com/Gunjan000/PDF-Merger-Advanced",
+  "download_filename": "pdf-merger-advanced-2.0.0.tar.gz",
+  "download_time": "2025-08-31T14:40:41.202473",
+  "package_url": "https://pypi.org/project/pdf-merger-advanced/"
+}
