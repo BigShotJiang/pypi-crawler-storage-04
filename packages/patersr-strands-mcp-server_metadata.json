@@ -1,11 +1,11 @@
 {
   "name": "patersr-strands-mcp-server",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "MCP server for Strands Agent SDK documentation search and project assistance",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "patersr_strands_mcp_server-0.1.0.tar.gz",
-  "download_time": "2025-08-31T03:02:55.542156",
+  "download_filename": "patersr_strands_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-08-31T07:38:37.572482",
   "package_url": "https://pypi.org/project/patersr-strands-mcp-server/"
 }

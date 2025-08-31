@@ -1,0 +1,11 @@
+{
+  "name": "dpapick3",
+  "version": "0.7.0",
+  "summary": "A native implementation of DPAPI",
+  "author": "Tijl Deneut",
+  "license": null,
+  "home_page": "https://github.com/tijldeneut/dpapick3",
+  "download_filename": "dpapick3-0.7.0.tar.gz",
+  "download_time": "2025-08-31T07:38:30.395812",
+  "package_url": "https://pypi.org/project/dpapick3/"
+}

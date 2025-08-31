@@ -1,0 +1,11 @@
+{
+  "name": "dapume",
+  "version": "0.3.1",
+  "summary": "打谱么 - 将线性乐谱转换为 MIDI 文件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dapume-0.3.1.tar.gz",
+  "download_time": "2025-08-31T07:38:40.125533",
+  "package_url": "https://pypi.org/project/dapume/"
+}
