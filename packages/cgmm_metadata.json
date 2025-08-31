@@ -1,11 +1,11 @@
 {
   "name": "cgmm",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "Conditional Gaussian Mixture Models compatible with scikit-learn",
   "author": "Thijs van den Berg",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "cgmm-0.2.8.tar.gz",
-  "download_time": "2025-08-31T21:18:53.011919",
+  "download_filename": "cgmm-0.3.0.tar.gz",
+  "download_time": "2025-08-31T21:38:46.651883",
   "package_url": "https://pypi.org/project/cgmm/"
 }

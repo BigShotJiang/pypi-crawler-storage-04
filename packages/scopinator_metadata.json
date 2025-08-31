@@ -1,11 +1,11 @@
 {
   "name": "scopinator",
-  "version": "0.2.0",
+  "version": "2025.8.4",
   "summary": "A library for controlling telescopes (initially Seestars)",
   "author": "Steven",
   "license": null,
   "home_page": null,
-  "download_filename": "scopinator-0.2.0.tar.gz",
-  "download_time": "2025-08-30T20:40:15.162929",
+  "download_filename": "scopinator-2025.8.4.tar.gz",
+  "download_time": "2025-08-31T21:38:50.259225",
   "package_url": "https://pypi.org/project/scopinator/"
 }

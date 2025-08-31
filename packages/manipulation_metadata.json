@@ -1,0 +1,11 @@
+{
+  "name": "manipulation",
+  "version": "2025.8.31.post1",
+  "summary": "MIT 6.421 - Robotic Manipulation",
+  "author": "Russ Tedrake",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "manipulation-2025.8.31.post1.tar.gz",
+  "download_time": "2025-08-31T21:38:43.012634",
+  "package_url": "https://pypi.org/project/manipulation/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastgam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A package implementing fast generalized additive models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastgam-1.0.1.tar.gz",
-  "download_time": "2025-08-31T21:18:51.963709",
+  "download_filename": "fastgam-1.0.2.tar.gz",
+  "download_time": "2025-08-31T21:38:46.137258",
   "package_url": "https://pypi.org/project/fastgam/"
 }
