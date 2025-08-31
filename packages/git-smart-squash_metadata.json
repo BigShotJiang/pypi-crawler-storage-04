@@ -1,0 +1,11 @@
+{
+  "name": "git-smart-squash",
+  "version": "4.0.0",
+  "summary": "Automatically reorganize messy git commit histories into clean, semantic commits",
+  "author": "Evan Verma",
+  "license": null,
+  "home_page": "https://github.com/edverma/git-smart-squash",
+  "download_filename": "git_smart_squash-4.0.0.tar.gz",
+  "download_time": "2025-08-31T23:52:55.179415",
+  "package_url": "https://pypi.org/project/git-smart-squash/"
+}
