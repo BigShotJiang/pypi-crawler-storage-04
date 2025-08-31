@@ -1,0 +1,11 @@
+{
+  "name": "lisq",
+  "version": "2025.9.1",
+  "summary": "A single file note-taking app that work with .txt files",
+  "author": "funnut",
+  "license": "Non-Commercial",
+  "home_page": "https://github.com/funnut/Lisq",
+  "download_filename": "lisq-2025.9.1.tar.gz",
+  "download_time": "2025-08-31T04:55:14.028450",
+  "package_url": "https://pypi.org/project/lisq/"
+}

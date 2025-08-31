@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-livedb",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "summary": "Peek Plugin LiveDB - storage of live values from schematics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-livedb-5.0.1.tar.gz",
-  "download_time": "2025-08-31T03:02:31.287945",
+  "download_filename": "peek-plugin-livedb-5.0.2.tar.gz",
+  "download_time": "2025-08-31T04:54:55.993996",
   "package_url": "https://pypi.org/project/peek-plugin-livedb/"
 }
