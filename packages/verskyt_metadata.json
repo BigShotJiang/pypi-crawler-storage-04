@@ -1,11 +1,11 @@
 {
   "name": "verskyt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A library for Tversky Neural Networks - psychologically plausible deep learning",
   "author": "Verskyt Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "verskyt-0.1.1.tar.gz",
-  "download_time": "2025-08-31T19:16:40.873340",
+  "download_filename": "verskyt-0.1.2.tar.gz",
+  "download_time": "2025-08-31T22:41:39.512364",
   "package_url": "https://pypi.org/project/verskyt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mt5-remote",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "MetaTrader5 with remote access using a client/server architecture",
   "author": "BigMitchGit",
   "license": null,
   "home_page": null,
-  "download_filename": "mt5_remote-1.0.2.tar.gz",
-  "download_time": "2025-08-31T21:52:44.129577",
+  "download_filename": "mt5_remote-1.0.5.tar.gz",
+  "download_time": "2025-08-31T22:41:44.203216",
   "package_url": "https://pypi.org/project/mt5-remote/"
 }

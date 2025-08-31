@@ -1,11 +1,11 @@
 {
   "name": "paperank",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A publication ranking and citation network analysis tools.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paperank-0.2.3.tar.gz",
-  "download_time": "2025-08-31T20:22:54.401186",
+  "download_filename": "paperank-0.3.0.tar.gz",
+  "download_time": "2025-08-31T22:41:37.422856",
   "package_url": "https://pypi.org/project/paperank/"
 }

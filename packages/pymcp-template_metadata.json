@@ -1,0 +1,11 @@
+{
+  "name": "pymcp-template",
+  "version": "0.1.6",
+  "summary": "A template (repository) for developing MCP servers in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymcp_template-0.1.6.tar.gz",
+  "download_time": "2025-08-31T22:41:56.536980",
+  "package_url": "https://pypi.org/project/pymcp-template/"
+}

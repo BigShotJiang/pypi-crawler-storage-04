@@ -1,0 +1,11 @@
+{
+  "name": "SimplyPrint",
+  "version": "4.2.3",
+  "summary": "3D print online anywhere from (probably) the most user friendly all-in-one platform there is, from your computer or phone.",
+  "author": "SimplyPrint",
+  "license": "AGPLv3",
+  "home_page": "https://simplyprint.io/",
+  "download_filename": "simplyprint-4.2.3.tar.gz",
+  "download_time": "2025-08-31T22:41:49.344197",
+  "package_url": "https://pypi.org/project/SimplyPrint/"
+}
