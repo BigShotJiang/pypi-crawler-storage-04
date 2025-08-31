@@ -1,0 +1,11 @@
+{
+  "name": "hyperllm",
+  "version": "1.0.0",
+  "summary": "A unified interface for multiple LLM providers with caching and interactive development mode to get massive cost savings.",
+  "author": "Swe",
+  "license": null,
+  "home_page": "https://github.com/hyper-swe/hyperllm",
+  "download_filename": "hyperllm-1.0.0.tar.gz",
+  "download_time": "2025-08-31T15:20:06.635161",
+  "package_url": "https://pypi.org/project/hyperllm/"
+}

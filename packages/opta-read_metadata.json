@@ -1,0 +1,11 @@
+{
+  "name": "opta-read",
+  "version": "0.0.2",
+  "summary": "Librería para leer ficheros de xml de Opta y extraer la información",
+  "author": "Felix Suarez",
+  "license": "MIT",
+  "home_page": "https://github.com/felsuacor/BD_deporte",
+  "download_filename": "opta_read-0.0.2.tar.gz",
+  "download_time": "2025-08-31T15:20:11.903162",
+  "package_url": "https://pypi.org/project/opta-read/"
+}

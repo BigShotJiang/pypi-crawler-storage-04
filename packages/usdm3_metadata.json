@@ -1,11 +1,11 @@
 {
   "name": "usdm3",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "A python package for using the CDISC TransCelerate USDM",
   "author": "D Iberson-Hurst",
   "license": null,
   "home_page": null,
-  "download_filename": "usdm3-0.12.0.tar.gz",
-  "download_time": "2025-08-31T10:52:55.062181",
+  "download_filename": "usdm3-0.12.1.tar.gz",
+  "download_time": "2025-08-31T15:19:58.367280",
   "package_url": "https://pypi.org/project/usdm3/"
 }

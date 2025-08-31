@@ -1,11 +1,11 @@
 {
   "name": "fastapi-template-cli",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "A powerful CLI tool for generating production-ready FastAPI applications with SQLAlchemy and MongoDB support",
   "author": "FastAPI Template Team",
   "license": "MIT",
   "home_page": "https://github.com/your-org/fastapi-template",
-  "download_filename": "fastapi_template_cli-1.2.5.tar.gz",
-  "download_time": "2025-08-31T14:53:08.157653",
+  "download_filename": "fastapi_template_cli-1.2.6.tar.gz",
+  "download_time": "2025-08-31T15:20:02.014237",
   "package_url": "https://pypi.org/project/fastapi-template-cli/"
 }
