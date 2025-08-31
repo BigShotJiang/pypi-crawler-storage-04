@@ -1,11 +1,11 @@
 {
   "name": "failtrace",
-  "version": "0.6.7",
+  "version": "0.6.10",
   "summary": "Leveraging Large Language Models for Automated Test Results Analysis",
   "author": "Mohadese Akhoondy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "failtrace-0.6.7.tar.gz",
-  "download_time": "2025-08-31T11:52:45.736041",
+  "download_filename": "failtrace-0.6.10.tar.gz",
+  "download_time": "2025-08-31T12:39:23.581466",
   "package_url": "https://pypi.org/project/failtrace/"
 }

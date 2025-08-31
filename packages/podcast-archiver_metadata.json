@@ -1,11 +1,11 @@
 {
   "name": "podcast-archiver",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "summary": "Archive all episodes from your favorite podcasts",
   "author": "Jan Willhaus",
   "license": "MIT",
   "home_page": "https://codeberg.org/janw/podcast-archiver",
-  "download_filename": "podcast_archiver-2.3.3.tar.gz",
-  "download_time": "2025-08-31T11:52:56.856706",
+  "download_filename": "podcast_archiver-2.3.4.tar.gz",
+  "download_time": "2025-08-31T12:39:48.005555",
   "package_url": "https://pypi.org/project/podcast-archiver/"
 }

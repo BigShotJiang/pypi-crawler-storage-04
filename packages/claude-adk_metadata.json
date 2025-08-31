@@ -1,11 +1,11 @@
 {
   "name": "claude-adk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python framework for building Claude Code agents with custom tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_adk-0.1.1.tar.gz",
-  "download_time": "2025-08-31T10:52:47.335422",
+  "download_filename": "claude_adk-0.1.2.tar.gz",
+  "download_time": "2025-08-31T12:39:47.374704",
   "package_url": "https://pypi.org/project/claude-adk/"
 }

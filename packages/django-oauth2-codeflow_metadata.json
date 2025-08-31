@@ -1,0 +1,11 @@
+{
+  "name": "django-oauth2-codeflow",
+  "version": "1.0.0",
+  "summary": "Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported.",
+  "author": "Melih Sünbül",
+  "license": "MIT",
+  "home_page": "https://github.com/ExcellenceCloudGmbH/django-oauth2-codeflow",
+  "download_filename": "django_oauth2_codeflow-1.0.0.tar.gz",
+  "download_time": "2025-08-31T12:39:40.315498",
+  "package_url": "https://pypi.org/project/django-oauth2-codeflow/"
+}

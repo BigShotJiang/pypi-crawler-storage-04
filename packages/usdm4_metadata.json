@@ -1,0 +1,11 @@
+{
+  "name": "usdm4",
+  "version": "0.9.0",
+  "summary": "A python package for using the CDISC TransCelerate USDM, version 4",
+  "author": "D Iberson-Hurst",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usdm4-0.9.0.tar.gz",
+  "download_time": "2025-08-31T12:40:10.774106",
+  "package_url": "https://pypi.org/project/usdm4/"
+}
