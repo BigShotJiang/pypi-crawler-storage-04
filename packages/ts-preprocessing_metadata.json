@@ -1,11 +1,11 @@
 {
   "name": "ts-preprocessing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A preprocessing library for foundation time series models",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ts_preprocessing-0.1.1.tar.gz",
-  "download_time": "2025-08-31T20:53:13.334125",
+  "download_filename": "ts_preprocessing-0.1.2.tar.gz",
+  "download_time": "2025-08-31T21:52:48.739767",
   "package_url": "https://pypi.org/project/ts-preprocessing/"
 }

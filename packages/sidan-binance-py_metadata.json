@@ -1,0 +1,11 @@
+{
+  "name": "sidan-binance-py",
+  "version": "0.0.1",
+  "summary": "Modern, lightweight Python SDK for Binance public API - Fork of binance-connector with enhanced tooling and packaging",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sidan_binance_py-0.0.1.tar.gz",
+  "download_time": "2025-08-31T21:52:53.008847",
+  "package_url": "https://pypi.org/project/sidan-binance-py/"
+}

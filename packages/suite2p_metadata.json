@@ -1,0 +1,11 @@
+{
+  "name": "suite2p",
+  "version": "0.14.6",
+  "summary": "Pipeline for calcium imaging",
+  "author": "Marius Pachitariu and Carsen Stringer",
+  "license": null,
+  "home_page": "https://github.com/MouseLand/suite2p",
+  "download_filename": "suite2p-0.14.6-py3-none-any.whl",
+  "download_time": "2025-08-31T21:52:49.866209",
+  "package_url": "https://pypi.org/project/suite2p/"
+}
