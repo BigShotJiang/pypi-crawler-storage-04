@@ -1,0 +1,11 @@
+{
+  "name": "thonny-edulint",
+  "version": "0.7.4",
+  "summary": "A plugin that adds EduLint warnings to the Thonny Python IDE.",
+  "author": "Anna Rechtackova",
+  "license": "GPLv3",
+  "home_page": "https://github.com/GiraffeReversed/thonny-edulint",
+  "download_filename": "thonny_edulint-0.7.4.tar.gz",
+  "download_time": "2025-08-31T16:55:32.974958",
+  "package_url": "https://pypi.org/project/thonny-edulint/"
+}
