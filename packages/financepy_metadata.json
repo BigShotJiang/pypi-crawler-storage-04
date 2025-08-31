@@ -1,0 +1,11 @@
+{
+  "name": "financepy",
+  "version": "1.0.1",
+  "summary": "A Finance Securities Valuation Library",
+  "author": "Dominic O'Kane",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/domokane/FinancePy",
+  "download_filename": "financepy-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-31T11:16:43.031218",
+  "package_url": "https://pypi.org/project/financepy/"
+}

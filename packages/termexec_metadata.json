@@ -1,11 +1,11 @@
 {
   "name": "termexec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Terminal executor for AI agents, with ANSI escape sequence support and image screenshots",
   "author": "James Brown",
   "license": null,
   "home_page": "https://github.com/james4ever0/termexec",
-  "download_filename": "termexec-0.0.1.tar.gz",
-  "download_time": "2025-08-31T10:52:58.132801",
+  "download_filename": "termexec-0.0.2.tar.gz",
+  "download_time": "2025-08-31T11:16:36.809604",
   "package_url": "https://pypi.org/project/termexec/"
 }

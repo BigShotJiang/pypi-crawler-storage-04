@@ -1,11 +1,11 @@
 {
   "name": "lockserver-client",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Python client SDK for lockserver (distributed lock server)",
   "author": "Ben Liao",
   "license": "MIT",
   "home_page": "https://github.com/benliao/lockserver",
-  "download_filename": "lockserver_client-0.1.1.tar.gz",
-  "download_time": "2025-08-31T03:41:10.179728",
+  "download_filename": "lockserver_client-0.1.3.tar.gz",
+  "download_time": "2025-08-31T11:16:42.513836",
   "package_url": "https://pypi.org/project/lockserver-client/"
 }
