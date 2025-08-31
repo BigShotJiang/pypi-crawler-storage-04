@@ -1,0 +1,11 @@
+{
+  "name": "chat-completions-conversation",
+  "version": "0.1.0a0",
+  "summary": "A Python 2+ library for conversations with LLMs providing an OpenAI Chat Completions-compatible API. That includes OpenAI's models, Google Gemini, DeepSeek, and anything you can run on ollama.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chat_completions_conversation-0.1.0a0.tar.gz",
+  "download_time": "2025-08-31T19:53:04.706369",
+  "package_url": "https://pypi.org/project/chat-completions-conversation/"
+}

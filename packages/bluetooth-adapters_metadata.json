@@ -1,0 +1,11 @@
+{
+  "name": "bluetooth-adapters",
+  "version": "2.1.0",
+  "summary": "Tools to enumerate and find Bluetooth Adapters",
+  "author": "J. Nick Koston",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bluetooth_adapters-2.1.0.tar.gz",
+  "download_time": "2025-08-31T19:52:52.316210",
+  "package_url": "https://pypi.org/project/bluetooth-adapters/"
+}

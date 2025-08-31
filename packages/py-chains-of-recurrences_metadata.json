@@ -1,11 +1,11 @@
 {
   "name": "py-chains-of-recurrences",
-  "version": "0.1b10",
+  "version": "0.1b11",
   "summary": "A chains of recurrences library for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_chains_of_recurrences-0.1b10.tar.gz",
-  "download_time": "2025-08-28T23:38:30.179006",
+  "download_filename": "py_chains_of_recurrences-0.1b11.tar.gz",
+  "download_time": "2025-08-31T19:53:07.477487",
   "package_url": "https://pypi.org/project/py-chains-of-recurrences/"
 }

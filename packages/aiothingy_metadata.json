@@ -1,0 +1,11 @@
+{
+  "name": "aiothingy",
+  "version": "0.0.3",
+  "summary": "Asynchronous Python library for interacting with the Nordic Thingy52 over Bluetooth",
+  "author": "davy wybiral",
+  "license": "MIT",
+  "home_page": "https://github.com/wybiral/aiothingy",
+  "download_filename": "aiothingy-0.0.3.tar.gz",
+  "download_time": "2025-08-31T19:53:06.947684",
+  "package_url": "https://pypi.org/project/aiothingy/"
+}

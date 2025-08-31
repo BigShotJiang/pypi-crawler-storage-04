@@ -1,23 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T19:40:50.496774
-- **Total Packages**: 74
-- **Total Size**: 37.27 MB
+- **Download Time**: 2025-08-31T19:53:33.550089
+- **Total Packages**: 73
+- **Total Size**: 52.17 MB
 
 ## Packages List
+- bluetooth-adapters
+- typically
+- pyfusefilter
+- langextract
+- taichi-big-float
+- authentik-client
+- django-vite-ssr
+- codegraphcontext
+- juicewrld-api-wrapper
+- crypticorn-utils
+- mem0-agent-memory
+- duckdb-extension-fts
+- duckdb-extension-sqlite-scanner
+- duckdb-extension-motherduck
+- kiosker-python-api
+- lexa
+- cjm-transcription-plugin-system
+- cadence-sdk
+- mmrl
+- cadence-example-plugins
+- flomp
+- duckdb-extension-ui
+- duckdb-extension-excel
+- chat-completions-conversation
+- duckdb-extension-httpfs
+- duckdb-extension-postgres
+- duckdb-extension-tpch
+- aiothingy
+- py-chains-of-recurrences
+- duckdb-extension-aws
+- pysubebm
 - x-make-markdown-x
 - pysisyphus
-- django-vite-ssr
-- authentik-client
 - g-mmpbsa
 - duckdb-extension-json
 - flexprofiler
 - multimodalsim-viewer
-- typically
 - jjrawlins-cdk-iam-policy-builder-helper
 - beancount-oneliner
-- lexa
 - versioninfo-helper
 - discord.py
 - nichi
@@ -31,7 +58,6 @@
 - ts-preprocessing
 - duckdb-extension-azure
 - cbz
-- cadence-example-plugins
 - svc-infra
 - telelog-py
 - qA-Ap
@@ -53,30 +79,3 @@
 - pyroject
 - ipdab
 - SOUL-RAJVEER-STT
-- sushi-train
-- django-resurrected
-- breez-sdk-spark
-- hexdoc-hierophantics
-- sphinxnotes-lilypond
-- soundevent
-- copilot-lsp-bridge
-- crust-shell
-- ctitools
-- duckdb-extension-inet
-- access-specifiers
-- mem0-agent-memory
-- cadence-sdk
-- x-transformers
-- duckdb-extension-sqlite3
-- blocks-sdk
-- aider-ce
-- duckdb-extension-sqlite
-- claude-mpm
-- flink-mcp
-- verskyt
-- hwpwings
-- pyGetComics
-- mangaplus
-- abstract-clipit
-- wagtail-notes
-- foundation-policy
