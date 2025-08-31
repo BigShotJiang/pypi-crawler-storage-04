@@ -1,0 +1,11 @@
+{
+  "name": "num2bangla",
+  "version": "0.1.0",
+  "summary": "A package to convert numbers to Bengali/Bangla text and numerals with currency formatting support",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/Mamuntheprogrammer/num2bangla",
+  "download_filename": "num2bangla-0.1.0.tar.gz",
+  "download_time": "2025-08-31T07:52:48.871527",
+  "package_url": "https://pypi.org/project/num2bangla/"
+}
