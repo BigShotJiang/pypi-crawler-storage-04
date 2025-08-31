@@ -1,11 +1,11 @@
 {
   "name": "peek-core-email",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Peek Core Plugin Email - The active task plugin manages tasks that Peek may issue to users",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-core-email-5.0.0.tar.gz",
-  "download_time": "2025-08-30T07:52:35.006823",
+  "download_filename": "peek-core-email-5.0.1.tar.gz",
+  "download_time": "2025-08-31T03:02:50.158570",
   "package_url": "https://pypi.org/project/peek-core-email/"
 }

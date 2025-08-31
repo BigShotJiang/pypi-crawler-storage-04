@@ -1,0 +1,11 @@
+{
+  "name": "talkgooder",
+  "version": "1.1.2",
+  "summary": "Smooth out grammar, punctuation, and number-related corner cases when formatting text for human consumption",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talkgooder-1.1.2.tar.gz",
+  "download_time": "2025-08-31T03:02:30.112594",
+  "package_url": "https://pypi.org/project/talkgooder/"
+}

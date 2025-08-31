@@ -1,0 +1,11 @@
+{
+  "name": "micro-clean-gen",
+  "version": "1.0.1",
+  "summary": "基于整洁架构的事件驱动微服务代码生成器",
+  "author": "Ray",
+  "license": "MIT",
+  "home_page": "https://github.com/DotNetAge/micro-gen",
+  "download_filename": "micro_clean_gen-1.0.1.tar.gz",
+  "download_time": "2025-08-31T03:02:48.412171",
+  "package_url": "https://pypi.org/project/micro-clean-gen/"
+}
