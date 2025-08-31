@@ -1,11 +1,11 @@
 {
   "name": "itryid-sdk",
-  "version": "0.1.0",
-  "summary": "ItryID SDK for Python apps (registration, login, progress save)",
+  "version": "2.0.0",
+  "summary": "Modern ItryID SDK for Python apps with improved architecture, type safety, and error handling",
   "author": "Itry",
   "license": null,
   "home_page": "https://github.com/IGBerko/itryid-sdk",
-  "download_filename": "itryid_sdk-0.1.0.tar.gz",
-  "download_time": "2025-08-31T19:16:44.652608",
+  "download_filename": "itryid_sdk-2.0.0.tar.gz",
+  "download_time": "2025-08-31T20:22:56.460206",
   "package_url": "https://pypi.org/project/itryid-sdk/"
 }

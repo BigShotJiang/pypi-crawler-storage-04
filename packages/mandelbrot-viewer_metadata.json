@@ -1,11 +1,11 @@
 {
   "name": "mandelbrot-viewer",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "An arbitrary precision GPU accelerated mandelbrot set viewer buit with kivy and taichi.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mandelbrot_viewer-0.1.5.tar.gz",
-  "download_time": "2025-08-31T12:40:00.339945",
+  "download_filename": "mandelbrot_viewer-0.1.6.tar.gz",
+  "download_time": "2025-08-31T20:23:07.822273",
   "package_url": "https://pypi.org/project/mandelbrot-viewer/"
 }

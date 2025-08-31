@@ -1,11 +1,11 @@
 {
   "name": "nichi",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "A TUI tool for organizing video files, converting VTT subtitles to SRT format, and translating SRT files using Google Gemini AI.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/hdytrfli/nichi",
-  "download_filename": "nichi-2.0.3.tar.gz",
-  "download_time": "2025-08-31T19:40:18.253734",
+  "download_filename": "nichi-2.0.4.tar.gz",
+  "download_time": "2025-08-31T20:23:05.766117",
   "package_url": "https://pypi.org/project/nichi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "betterproto2",
+  "version": "0.8.0",
+  "summary": "A better Protobuf / gRPC generator & library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterproto2-0.8.0.tar.gz",
+  "download_time": "2025-08-31T20:23:03.197106",
+  "package_url": "https://pypi.org/project/betterproto2/"
+}
