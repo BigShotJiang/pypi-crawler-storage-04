@@ -1,27 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T19:17:00.277767
-- **Total Packages**: 76
-- **Total Size**: 68.99 MB
+- **Download Time**: 2025-08-31T19:28:35.945991
+- **Total Packages**: 75
+- **Total Size**: 10.75 MB
 
 ## Packages List
+- cmsgov
+- pydantic-rng
+- pgsql-upserter
+- ts-preprocessing
+- duckdb-extension-azure
+- cbz
+- authentik-client
+- django-vite-ssr
+- cadence-example-plugins
+- svc-infra
+- telelog-py
+- qA-Ap
+- approvaltests-minimal
+- approvaltests
+- approval-utilities
+- duckdb-extension-tpcds
+- greeum
 - duckdb-extension-postgres-scanner
-- lexa
 - volute-ppt
 - duckdb-extension-autocomplete
 - pyyql
 - virtualpartnerrpa
 - scarabee
 - minecraft-datapack-language
-- approval-utilities
 - memory-agent
 - pynaim
-- django-vite-ssr
 - rosdep2
 - kumo-rfm-mcp
 - pyroject
-- authentik-client
 - ipdab
 - SOUL-RAJVEER-STT
 - sushi-train
@@ -39,7 +52,6 @@
 - cadence-sdk
 - x-transformers
 - duckdb-extension-sqlite3
-- cadence-example-plugins
 - blocks-sdk
 - aider-ce
 - duckdb-extension-sqlite
@@ -69,16 +81,3 @@
 - aider-code
 - bugbug
 - echogem
-- teleco-daisy
-- intersperse
-- defisocket
-- steelsnakes
-- moxn-types
-- l2f
-- pybog
-- novara
-- ppp-svc-helper
-- llm-layer-collector
-- lite-agent
-- hmai
-- bumpcalver

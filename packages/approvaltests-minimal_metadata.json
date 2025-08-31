@@ -1,0 +1,11 @@
+{
+  "name": "approvaltests-minimal",
+  "version": "15.3.2",
+  "summary": "Assertion/verification library to aid testing with the minimal required dependencies + the ability to opt in for the others ",
+  "author": "ApprovalTests Contributors",
+  "license": null,
+  "home_page": "https://github.com/approvals/ApprovalTests.Python",
+  "download_filename": "approvaltests_minimal-15.3.2.tar.gz",
+  "download_time": "2025-08-31T19:27:57.497811",
+  "package_url": "https://pypi.org/project/approvaltests-minimal/"
+}
