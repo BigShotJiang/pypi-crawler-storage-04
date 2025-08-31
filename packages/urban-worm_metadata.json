@@ -1,0 +1,11 @@
+{
+  "name": "urban-worm",
+  "version": "0.0.23",
+  "summary": "Multimodal Large Language Model (MLLM) for urban environment evaluation.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "urban_worm-0.0.23.tar.gz",
+  "download_time": "2025-08-31T03:41:13.321636",
+  "package_url": "https://pypi.org/project/urban-worm/"
+}

@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T03:03:04.772227
-- **Total Packages**: 80
-- **Total Size**: 53.6 MB
+- **Download Time**: 2025-08-31T03:41:39.850663
+- **Total Packages**: 73
+- **Total Size**: 26.96 MB
 
 ## Packages List
-- python-code-splitter
-- minecraft-datapack-language
+- pythonic-fp-gadgets
+- listpick
+- openfund-core
+- for-django-projects
+- seedrcc
+- pyroject
+- rfmodal
+- badwulf
+- pywen
+- drf-auth-kit
+- zotero-tui
 - neurograd
+- d365fo-client
+- authentik-client
+- keras-rs-nightly
+- GANDLF
+- olmocr
+- talkgooder
+- lockserver-client
+- minecraft-datapack-language
+- beiwe-har
+- betterset
+- http-tools
+- gpframe
+- urban-worm
+- figuratenum
+- fylax
+- mcp-devtools
+- seismolib
+- reasoning-deployment-service
+- alpfore
+- mcp-factory
+- py-autotask
+- icloudpd
+- odoo-addon-account-tax-rounding-method
+- QuantDataCollector
+- pympebm
+- slimformers
+- python-code-splitter
 - punchhole
 - types-httplib2
 - types-regex
@@ -20,7 +56,6 @@
 - agentstr-sdk
 - toastapi
 - agilicus
-- gpframe
 - scilayout
 - tripletlib
 - no996
@@ -28,7 +63,6 @@
 - rotools
 - pwnkit
 - naif-eop-high-prec
-- talkgooder
 - qrpa
 - peek-plugin-livedb
 - peek-plugin-inbox
@@ -39,50 +73,9 @@
 - peek-plugin-gis-diagram
 - peek-plugin-eventdb
 - peek-plugin-docdb-generic-menu
-- authentik-client
 - peek-plugin-diagram-trace
 - peek-plugin-diagram
 - pytest-yaml-sanmu
 - peek-plugin-chat
 - peek-plugin-branch
 - synerty-peek
-- peek-worker-service
-- peek-storage-service
-- peek-platform
-- peek-plugin-base
-- peek-office-service
-- peek-office-app
-- peek-office-doc
-- peek-logic-service
-- velog-sync
-- peek-field-service
-- peek-field-app
-- peek-field-doc
-- peek-core-api
-- micro-clean-gen
-- peek-core-user
-- peek-core-search
-- peek-core-email
-- peek-core-docdb
-- peek-core-device
-- peek-agent-service
-- odoo-addon-account-invoice-production-lot
-- peek-admin-app
-- peek-admin-doc
-- peek-abstract-chunked-index
-- peek-abstract-chunked-data-loader
-- patersr-strands-mcp-server
-- paperank
-- monai-weekly
-- dycw-pre-commit-hooks
-- marcel
-- video-editor-mcp
-- svg-path-data
-- karaoke-gen
-- chaos-mesh-mcp-server
-- visa-instrument-drivers
-- easykey
-- pyAgrum-nightly
-- quack-kernels
-- cqc-quam-state
-- TSMasterAPI

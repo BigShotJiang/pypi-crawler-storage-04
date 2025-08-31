@@ -1,11 +1,11 @@
 {
   "name": "rfmodal",
-  "version": "1.1.4.dev23",
+  "version": "1.2.2",
   "summary": "Roboflow fork of Modal Python client library",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rfmodal-1.1.4.dev23.tar.gz",
-  "download_time": "2025-08-29T23:19:31.466398",
+  "download_filename": "rfmodal-1.2.2.tar.gz",
+  "download_time": "2025-08-31T03:41:04.011706",
   "package_url": "https://pypi.org/project/rfmodal/"
 }

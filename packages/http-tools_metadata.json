@@ -1,0 +1,11 @@
+{
+  "name": "http-tools",
+  "version": "6.0.0",
+  "summary": "httptools helps you to capture, repeat and live intercept HTTP requests. It is built on top of [mitmproxy](https://mitmproxy.org/)",
+  "author": "Ajin Abraham",
+  "license": null,
+  "home_page": "https://github.com/MobSF/httptools",
+  "download_filename": "http_tools-6.0.0.tar.gz",
+  "download_time": "2025-08-31T03:41:12.291344",
+  "package_url": "https://pypi.org/project/http-tools/"
+}

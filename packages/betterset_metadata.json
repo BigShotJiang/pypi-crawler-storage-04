@@ -1,0 +1,11 @@
+{
+  "name": "betterset",
+  "version": "0.1.0",
+  "summary": "Extended set operations: algebraic, functional, and utilities on top of Python set",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "betterset-0.1.0.tar.gz",
+  "download_time": "2025-08-31T03:41:11.778026",
+  "package_url": "https://pypi.org/project/betterset/"
+}

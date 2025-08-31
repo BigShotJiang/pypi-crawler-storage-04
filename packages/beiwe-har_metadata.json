@@ -1,0 +1,11 @@
+{
+  "name": "beiwe-har",
+  "version": "0.0.1",
+  "summary": "Beiwe study → preprocessing → segmentation → features → HAR → outputs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beiwe_har-0.0.1.tar.gz",
+  "download_time": "2025-08-31T03:41:11.266981",
+  "package_url": "https://pypi.org/project/beiwe-har/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alpfore",
+  "version": "0.1.6",
+  "summary": "Active Learning Pipeline For Optimal Ranking Estimation",
+  "author": "Nicholas Herringer",
+  "license": "MIT",
+  "home_page": "https://github.com/nherringer/ALPineFOREst",
+  "download_filename": "alpfore-0.1.6.tar.gz",
+  "download_time": "2025-08-31T03:41:16.950127",
+  "package_url": "https://pypi.org/project/alpfore/"
+}
