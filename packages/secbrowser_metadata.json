@@ -1,0 +1,11 @@
+{
+  "name": "secbrowser",
+  "version": "0.0.1",
+  "summary": "A simple interface to interact with SEC filings.",
+  "author": "John Friedman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "secbrowser-0.0.1.tar.gz",
+  "download_time": "2025-08-31T04:43:39.816656",
+  "package_url": "https://pypi.org/project/secbrowser/"
+}
