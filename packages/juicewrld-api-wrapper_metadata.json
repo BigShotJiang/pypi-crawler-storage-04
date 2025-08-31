@@ -1,11 +1,11 @@
 {
   "name": "juicewrld-api-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A comprehensive Python wrapper for the Juice WRLD API",
   "author": "Juice WRLD API Wrapper",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/HackinHood/juicewrld-api-wrapper",
-  "download_filename": "juicewrld_api_wrapper-1.0.1.tar.gz",
-  "download_time": "2025-08-31T19:52:56.611448",
+  "download_filename": "juicewrld_api_wrapper-1.0.3.tar.gz",
+  "download_time": "2025-08-31T23:19:36.722873",
   "package_url": "https://pypi.org/project/juicewrld-api-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gen-tso",
+  "version": "1.3.0",
+  "summary": "A general ETC for time-series observations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gen_tso-1.3.0.tar.gz",
+  "download_time": "2025-08-31T23:19:39.868774",
+  "package_url": "https://pypi.org/project/gen-tso/"
+}
