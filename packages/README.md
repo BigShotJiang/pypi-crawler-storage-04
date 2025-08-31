@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-31T20:53:51.359619
-- **Total Packages**: 81
-- **Total Size**: 14.15 MB
+- **Download Time**: 2025-08-31T21:19:31.043053
+- **Total Packages**: 79
+- **Total Size**: 23.49 MB
 
 ## Packages List
+- mem8
+- neosqlite
+- aiwaf
+- spml2-mltools
+- minecraft-datapack-language
+- mcp-devtools
+- fastgam
+- logelin
+- cgmm
+- homecom-alt
+- breezy
+- inex-launcher
+- hy-structured-logging
+- pylimer-tools
+- hypothesis
+- exact-clustering
+- hylang-migrations
+- audio-toolset
+- appwindows
+- bluer-ugv
+- qlever
+- mpt-extension-sdk
+- context-cleaner
+- authentik-client
+- cosmos-isolation-utils
+- swarms-tools
+- most-client
+- replan2eplus
+- markitdown-pro
+- sphinx-filter-tabs
+- nickyspatial
+- easy-subprocess
+- giz
+- algobowl
+- pydts
+- pipmaster
+- lollms-client
+- Easy-versioning
+- pubmed-downloader
+- asyncfast
+- amgi-types
+- amgi-common
+- amgi-aiokafka
+- kcli
+- sbt-zapp
+- tencentcloud-sdk-python-tsf
+- tencentcloud-sdk-python-ocr
+- tencentcloud-sdk-python-mna
+- tencentcloud-sdk-python-common
+- semantikon
+- jjrawlins-cdk-iam-policy-builder-helper
 - typically
 - cyberdesk
 - defisocket
@@ -14,7 +65,6 @@
 - behave-parallel-runners
 - text-to-identifier
 - koubou
-- minecraft-datapack-language
 - aiodabpumps
 - lark-util
 - pixboards
@@ -23,12 +73,9 @@
 - buddybet-logmon-common
 - cattrs
 - ts-preprocessing
-- logelin
 - habluetooth
-- context-cleaner
 - quiz-game
 - nichi
-- authentik-client
 - coally-sql
 - cadence-example-plugins
 - cadence-sdk
@@ -38,52 +85,3 @@
 - juditha
 - tccli-intl-en
 - h2j
-- project-x-py
-- cjm-transcription-plugin-system
-- spml2-mltools
-- pydantic-ai-optimizers
-- dbt-toolbox
-- evrpy
-- mediacrop
-- cadence-python
-- bkmr
-- khoj
-- unique_web_search
-- unique_toolkit
-- fyuneru
-- GoogleCloudPlatformAPI
-- kener-agent
-- rich-style
-- icspacket
-- deepagents
-- scipion-em-opusdsd
-- dj-raincheck
-- zapped
-- mqttactions
-- aryadocr
-- slatedb
-- dars-framework
-- paperank
-- lintro
-- odoo-addon-sign-oca
-- itryid-sdk
-- pystringtoolkit
-- dj-lite
-- rp
-- betterproto2-compiler
-- breez-sdk-spark
-- libfluora
-- x-transformers
-- betterproto2
-- multimodalsim-viewer
-- l2f
-- myreze
-- mem0-agent-memory
-- peppi-py
-- DockSuiteX
-- acetn
-- mandelbrot-viewer
-- bluetooth-adapters
-- pyfusefilter
-- langextract
-- taichi-big-float

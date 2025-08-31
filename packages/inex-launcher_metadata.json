@@ -1,0 +1,11 @@
+{
+  "name": "inex-launcher",
+  "version": "3.1.1",
+  "summary": "InEx is a lightweight highly configurable Python launcher based on microkernel architecture",
+  "author": "Yuri Khokhlov",
+  "license": "MIT",
+  "home_page": "https://github.com/speechpro/inex-launcher",
+  "download_filename": "inex-launcher-3.1.1.tar.gz",
+  "download_time": "2025-08-31T21:18:54.625156",
+  "package_url": "https://pypi.org/project/inex-launcher/"
+}

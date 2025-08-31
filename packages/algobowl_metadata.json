@@ -1,0 +1,11 @@
+{
+  "name": "algobowl",
+  "version": "2025.8.31.0",
+  "summary": "Competition-based group project for Algorithms courses",
+  "author": "Jack Rosenthal",
+  "license": null,
+  "home_page": "https://github.com/jackrosenthal/algobowl",
+  "download_filename": "algobowl-2025.8.31.0.tar.gz",
+  "download_time": "2025-08-31T21:19:06.623796",
+  "package_url": "https://pypi.org/project/algobowl/"
+}
