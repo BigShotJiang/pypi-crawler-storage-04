@@ -1,11 +1,11 @@
 {
   "name": "fluent-checks",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A library for creating fluent, readable, and composable checks for your tests or application logic.",
   "author": "vantorrewannes",
   "license": null,
   "home_page": null,
-  "download_filename": "fluent_checks-0.2.1.tar.gz",
-  "download_time": "2025-08-30T11:52:54.208352",
+  "download_filename": "fluent_checks-0.3.0.tar.gz",
+  "download_time": "2025-09-01T10:58:10.693365",
   "package_url": "https://pypi.org/project/fluent-checks/"
 }

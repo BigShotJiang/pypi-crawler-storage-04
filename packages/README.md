@@ -1,18 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T10:47:26.009176
-- **Total Packages**: 78
-- **Total Size**: 14.71 MB
+- **Download Time**: 2025-09-01T10:58:44.646187
+- **Total Packages**: 82
+- **Total Size**: 13.43 MB
 
 ## Packages List
+- runtime-reflection-lite
+- sniffcat
+- firefw
+- fireducks
+- odoo-addon-sale-project-copy-tasks
+- mongoz
+- Chillax
+- open-iris
+- wandelbots-api-client
+- codearkt
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- bec-ipython-client
+- qgis-plugin-manager
+- ai-edge-litert-nightly
+- contextcounter
+- fluent-checks
+- iam-builder
+- aabd
+- authentik-client
+- elevenlabs-mcp
+- mkdocs-recently-updated-docs
+- spark-nlp
+- konduktor-nightly
+- pyfedic
+- opengate-data
 - odoo-addon-agreement-rebate-partner-company-group
 - mkdocs-document-dates
 - braindecode
 - trainy-policy-nightly
 - em-map-utils
 - ms-salesforce-api
-- Chillax
 - netboxlabs-device-discovery
 - factorysimpy
 - gepeto
@@ -26,7 +52,6 @@
 - letta-nightly
 - naeural-core
 - odoo-addon-event-session-registration-multi-qty
-- authentik-client
 - ALP4lib
 - avachain
 - micropython-stdlib-stubs
@@ -63,24 +88,3 @@
 - pytrendy
 - insight-proto
 - umep
-- topk-sdk
-- superlinked
-- crewai-aisearchapi
-- pymathis
-- HasteContext
-- ConnectKit-FastAPI-Authentication
-- churchsong
-- mc-netease-sdk
-- bc-stark-sdk
-- powerloom-snapshotter-cli
-- etos-environment-provider
-- django-filer
-- smart-commits-ai
-- cloudquery-plugin-sdk
-- classic-sql-tools
-- unstract-sdk
-- xync-client
-- test.thing
-- camptown
-- protein-detective
-- most-client

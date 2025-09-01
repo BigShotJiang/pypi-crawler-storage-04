@@ -1,0 +1,11 @@
+{
+  "name": "contextcounter",
+  "version": "0.1.8",
+  "summary": "Universal context limits, token counting and tool callings for OpenAI, Anthropic, and Gemini.",
+  "author": "Nemlig ADK",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextcounter-0.1.8.tar.gz",
+  "download_time": "2025-09-01T10:58:10.174756",
+  "package_url": "https://pypi.org/project/contextcounter/"
+}
