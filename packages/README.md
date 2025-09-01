@@ -1,23 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T22:42:26.942270
-- **Total Packages**: 70
-- **Total Size**: 13.61 MB
+- **Download Time**: 2025-09-01T22:54:04.870296
+- **Total Packages**: 69
+- **Total Size**: 0.0 MB
 
 ## Packages List
-- odoo-addon-l10n-br-mdfe-spec
-- agent-cli
-- grafi
-- scrutinydebugger
-- degiro-connector
-- ut-eviq
-- pypricklybird
-- codetective
-- authentik-client
-- venusai
-- pax-detector
-- tarka
 - tum_esm_utils
 - py-autotune
 - cdk-factory
@@ -29,6 +17,7 @@
 - ai-infra
 - juliapkg
 - bradLib
+- authentik-client
 - kaqing
 - evo-schemas
 - vardescribe
@@ -38,6 +27,7 @@
 - freewili
 - xts
 - PD-loss-balancing
+- pypricklybird
 - minecraft-datapack-language
 - standard-playing-card
 - ingame
@@ -76,3 +66,12 @@
 - micropython-stubber
 - codearkt
 - bpsai-pair
+- rich-monokai
+- deltadefi
+- pymine-edu
+- toolmux
+- chat-console
+- biology-files
+- ecocash
+- x4c
+- monmoteur
