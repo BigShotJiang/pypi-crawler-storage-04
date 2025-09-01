@@ -1,0 +1,11 @@
+{
+  "name": "mmng-ui",
+  "version": "1.0.8",
+  "summary": "The textual user interface to multimon-ng.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmng_ui-1.0.8.tar.gz",
+  "download_time": "2025-09-01T04:05:46.576616",
+  "package_url": "https://pypi.org/project/mmng-ui/"
+}

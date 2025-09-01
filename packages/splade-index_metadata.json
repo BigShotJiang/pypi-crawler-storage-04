@@ -1,0 +1,11 @@
+{
+  "name": "splade-index",
+  "version": "0.1.1",
+  "summary": "An ultra-fast search index for SPLADE sparse neural retrieval models.",
+  "author": "Yosef Worku Alemneh",
+  "license": null,
+  "home_page": "https://github.com/rasyosef/splade-index",
+  "download_filename": "splade_index-0.1.1.tar.gz",
+  "download_time": "2025-09-01T04:05:45.554031",
+  "package_url": "https://pypi.org/project/splade-index/"
+}

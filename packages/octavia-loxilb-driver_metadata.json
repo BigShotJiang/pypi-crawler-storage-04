@@ -1,11 +1,11 @@
 {
   "name": "octavia-loxilb-driver",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "LoxiLB provider driver for OpenStack Octavia Load Balancer as a Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "octavia_loxilb_driver-1.0.0.tar.gz",
-  "download_time": "2025-09-01T01:54:39.777434",
+  "download_filename": "octavia_loxilb_driver-1.0.3.tar.gz",
+  "download_time": "2025-09-01T04:05:36.256289",
   "package_url": "https://pypi.org/project/octavia-loxilb-driver/"
 }

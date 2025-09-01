@@ -1,0 +1,11 @@
+{
+  "name": "actrisk",
+  "version": "0.1.0.6",
+  "summary": "Of the Actuary, By the Actuary, For the Actuary: A ZNSTARS Python package for actuarial risk modeling and simulation",
+  "author": "Juntao Zhang",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "actrisk-0.1.0.6.tar.gz",
+  "download_time": "2025-09-01T04:05:32.629119",
+  "package_url": "https://pypi.org/project/actrisk/"
+}

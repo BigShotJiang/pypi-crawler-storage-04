@@ -1,11 +1,11 @@
 {
   "name": "neuro-simulator",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Neuro Simulator Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuro_simulator-0.4.3.tar.gz",
-  "download_time": "2025-08-29T06:31:19.486975",
+  "download_filename": "neuro_simulator-0.4.4.tar.gz",
+  "download_time": "2025-09-01T04:05:36.803003",
   "package_url": "https://pypi.org/project/neuro-simulator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dycw-pre-commit-hooks",
-  "version": "0.12.8",
+  "version": "0.12.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_pre_commit_hooks-0.12.8.tar.gz",
-  "download_time": "2025-08-31T13:07:24.333001",
+  "download_filename": "dycw_pre_commit_hooks-0.12.9.tar.gz",
+  "download_time": "2025-09-01T04:05:53.239687",
   "package_url": "https://pypi.org/project/dycw-pre-commit-hooks/"
 }

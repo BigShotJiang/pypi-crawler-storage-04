@@ -1,11 +1,11 @@
 {
   "name": "BioSAK",
-  "version": "1.121.5",
+  "version": "1.122.1",
   "summary": "BioSAK",
   "author": "Weizhi Song",
   "license": "GPL3+",
   "home_page": "https://github.com/songweizhi/BioSAK",
-  "download_filename": "BioSAK-1.121.5.tar.gz",
-  "download_time": "2025-08-31T05:53:00.433746",
+  "download_filename": "BioSAK-1.122.1.tar.gz",
+  "download_time": "2025-09-01T04:05:27.444314",
   "package_url": "https://pypi.org/project/BioSAK/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ccxw",
-  "version": "0.2.30",
+  "version": "0.2.32",
   "summary": "Ccxw - CryptoCurrency eXchange Websocket Library",
   "author": "Ricardo Marcelo Alvarez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ccxw-0.2.30.tar.gz",
-  "download_time": "2025-08-28T08:27:44.215924",
+  "download_filename": "ccxw-0.2.32.tar.gz",
+  "download_time": "2025-09-01T04:05:34.204679",
   "package_url": "https://pypi.org/project/ccxw/"
 }
