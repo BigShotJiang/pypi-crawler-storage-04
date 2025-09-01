@@ -1,0 +1,11 @@
+{
+  "name": "imio.scan-helpers",
+  "version": "0.7.0",
+  "summary": "Various script files to handle local scan tool",
+  "author": "Stephan Geulette (IMIO)",
+  "license": "GPL version 3",
+  "home_page": null,
+  "download_filename": "imio_scan_helpers-0.7.0.tar.gz",
+  "download_time": "2025-09-01T09:56:53.983962",
+  "package_url": "https://pypi.org/project/imio.scan-helpers/"
+}

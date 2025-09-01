@@ -1,11 +1,11 @@
 {
   "name": "nanokontrol-config",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Configuration tool for Korg nanoKontrol Studio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanokontrol_config-0.3.0.tar.gz",
-  "download_time": "2025-09-01T07:28:01.908674",
+  "download_filename": "nanokontrol_config-0.4.0.tar.gz",
+  "download_time": "2025-09-01T09:56:32.504055",
   "package_url": "https://pypi.org/project/nanokontrol-config/"
 }

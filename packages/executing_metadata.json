@@ -1,0 +1,11 @@
+{
+  "name": "executing",
+  "version": "2.2.1",
+  "summary": "Get the currently executing AST node of a frame, and other information",
+  "author": "Alex Hall",
+  "license": "MIT",
+  "home_page": "https://github.com/alexmojaki/executing",
+  "download_filename": "executing-2.2.1.tar.gz",
+  "download_time": "2025-09-01T09:56:49.605524",
+  "package_url": "https://pypi.org/project/executing/"
+}

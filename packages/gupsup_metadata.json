@@ -1,0 +1,11 @@
+{
+  "name": "gupsup",
+  "version": "1.1.0",
+  "summary": "Secure terminal-based chat application with image sharing for real-time communication",
+  "author": "Rahul Deka",
+  "license": null,
+  "home_page": "https://github.com/iamRahul21/terminalchat",
+  "download_filename": "gupsup-1.1.0.tar.gz",
+  "download_time": "2025-09-01T09:56:44.478673",
+  "package_url": "https://pypi.org/project/gupsup/"
+}

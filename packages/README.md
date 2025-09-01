@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T09:46:31.499767
-- **Total Packages**: 94
-- **Total Size**: 34.49 MB
+- **Download Time**: 2025-09-01T09:57:23.584224
+- **Total Packages**: 93
+- **Total Size**: 18.69 MB
 
 ## Packages List
+- aa-rattingtax
+- populse-db
+- nanokontrol-config
+- pytree2
+- xync-client
+- omnicoreagent
+- material-design-icons-pack
+- django-admin-otp
+- invenio-rdm-records
+- omnipresense
+- adp-api-transformer
+- pitchoune
+- camptown
+- BoschRpaMagicBox
+- typing-utilities
+- tsugu-uds
+- eexp-engine
+- crewai-aisearchapi
+- fd-adk
+- oc-cdtapi
+- vortezwohl
+- diresa-torch
+- gupsup
+- authentik-client
+- enhance-this
+- mollie-api-python-beta
+- mipx
+- collective.faq
+- kb-mlx
+- nonebot-plugin-figurine
+- rasa-pro
+- executing
+- itto-yolo-tool
+- nvidia-nat-opentelemetry
+- wagtail-ninja
+- tree-sitter-snl
+- nvidia-nat-phoenix
+- mxcubeweb
+- nvidia-nat-mem0ai
+- imio.scan-helpers
+- nvidia-nat-mysql
+- HasteContext
+- streamd
+- nvidia-nat-crewai
+- csspin-ce
+- nvidia-nat-agno
+- dearning
+- nvidia-nat-llama-index
+- nvidia-nat-all
+- speedbeesynapse-sccde
+- nvidia-nat-redis
+- odoo-addon-loyalty-mass-mailing
+- nvidia-nat-profiling
+- viur-core
+- pyexasol
 - shancx
 - nvidia-nat-ingestion
 - nvidia-nat-langchain
@@ -13,7 +68,6 @@
 - fers-calculations
 - example-package-TEST-ABI-SDK
 - iocsearcher
-- crewai-aisearchapi
 - protein-quest
 - nvidia-nat-s3
 - nettoolkit
@@ -42,61 +96,6 @@
 - atla-insights
 - odoo-addon-stock-barcodes
 - aiqtoolkit-test
-- authentik-client
 - aiqtoolkit-weave
 - aiqtoolkit-crewai
 - kiui
-- hdfstream
-- metadata-curation-client
-- funnelius
-- most-client
-- lium-cli
-- ut-wdp
-- ut-xml
-- fraiseql
-- smartpi
-- pyqqq
-- iflow-mcp_python-execute-server
-- demtpy
-- dearning
-- ngawari
-- iflow-mcp_show2user
-- dcd-lago
-- file-keeper
-- uai_annotation_requests
-- iflow-mcp_memory-system
-- readerCoerente
-- pytree2
-- maximum-independent-set
-- iflow-mcp_excel-edit-server
-- flarchitect
-- omniopt2
-- blackduck-results-test
-- reasoning-core
-- odoo-addon-fs-attachment-s3
-- odoo-addon-fs-attachment
-- suparkanbun
-- mypy-dev
-- iflow-mcp_docx-edit-server
-- volue-insight-timeseries
-- arpakitlib
-- xgae
-- docling-core
-- discord-clyde
-- tcd-ice
-- VeraGridEngine
-- lollms-client
-- VeraGridServer
-- VeraGrid
-- pyddd
-- pyrauli
-- albert
-- dycw-utilities
-- rara-digitizer
-- odoo-addon-stock-analytic-rule
-- flumine
-- netra-sdk
-- ccs-digitalmarketplace-content-loader
-- zalando-cli-bundle
-- japyd
-- qwak-core
