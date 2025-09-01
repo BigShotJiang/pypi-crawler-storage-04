@@ -1,0 +1,11 @@
+{
+  "name": "lapx",
+  "version": "0.5.12",
+  "summary": "Linear Assignment Problem solver (LAPJV/LAPMOD).",
+  "author": "rathaROG",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/rathaROG/lapx",
+  "download_filename": "lapx-0.5.12.tar.gz",
+  "download_time": "2025-09-01T01:54:31.113733",
+  "package_url": "https://pypi.org/project/lapx/"
+}

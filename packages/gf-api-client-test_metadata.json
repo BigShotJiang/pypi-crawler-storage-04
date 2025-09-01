@@ -1,0 +1,11 @@
+{
+  "name": "gf-api-client-test",
+  "version": "0.1.4",
+  "summary": "广发证券开放平台 API 客户端(测试）",
+  "author": "gf_gaoxinzhe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gf_api_client_test-0.1.4.tar.gz",
+  "download_time": "2025-09-01T01:54:13.675310",
+  "package_url": "https://pypi.org/project/gf-api-client-test/"
+}

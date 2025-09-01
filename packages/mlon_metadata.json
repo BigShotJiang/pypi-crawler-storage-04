@@ -1,11 +1,11 @@
 {
   "name": "mlon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A comprehensive utility package for machine learning development",
   "author": "Chase Galloway",
   "license": null,
-  "home_page": "https://github.com/chasegalloway/mlutils",
-  "download_filename": "mlon-1.0.3.tar.gz",
-  "download_time": "2025-08-31T22:53:03.080219",
+  "home_page": "https://github.com/chasegalloway/mlon",
+  "download_filename": "mlon-1.0.4.tar.gz",
+  "download_time": "2025-09-01T01:54:50.515742",
   "package_url": "https://pypi.org/project/mlon/"
 }

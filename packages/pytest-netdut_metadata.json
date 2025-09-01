@@ -1,0 +1,11 @@
+{
+  "name": "pytest-netdut",
+  "version": "0.14.0",
+  "summary": "\"Automated software testing for switches using pytest\"",
+  "author": "\"David Snowdon\"",
+  "license": "\"BSD 3-Clause License\"",
+  "home_page": "https://github.com/aristanetworks/pytest-netdut",
+  "download_filename": "pytest_netdut-0.14.0.tar.gz",
+  "download_time": "2025-09-01T01:54:34.921438",
+  "package_url": "https://pypi.org/project/pytest-netdut/"
+}
