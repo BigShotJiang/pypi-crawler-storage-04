@@ -1,11 +1,11 @@
 {
   "name": "na-seq",
-  "version": "0.3.2",
-  "summary": "Python bindings for the na_seq library",
-  "author": "You",
+  "version": "0.3.5",
+  "summary": "DNA, RNA, and amino acid sequence types and functions",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "na_seq-0.3.2.tar.gz",
-  "download_time": "2025-08-31T22:52:59.452365",
+  "download_filename": "na_seq-0.3.5.tar.gz",
+  "download_time": "2025-09-01T22:20:25.644742",
   "package_url": "https://pypi.org/project/na-seq/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcubes",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "The Marching Cubes algorithm for creating isosurfaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcubes-0.1.5.tar.gz",
-  "download_time": "2025-09-01T20:22:30.870728",
+  "download_filename": "mcubes-0.1.6.tar.gz",
+  "download_time": "2025-09-01T22:20:25.129935",
   "package_url": "https://pypi.org/project/mcubes/"
 }

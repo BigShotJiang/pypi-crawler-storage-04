@@ -1,11 +1,11 @@
 {
   "name": "tce-lib",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "tensor cluster expansion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tce_lib-0.2.6.tar.gz",
-  "download_time": "2025-09-01T19:40:05.650508",
+  "download_filename": "tce_lib-0.2.7.tar.gz",
+  "download_time": "2025-09-01T22:20:27.179495",
   "package_url": "https://pypi.org/project/tce-lib/"
 }

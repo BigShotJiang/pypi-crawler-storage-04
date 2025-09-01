@@ -1,0 +1,11 @@
+{
+  "name": "pacifico",
+  "version": "0.0.9.42",
+  "summary": "This repository holds the pacifico user Python package for the API (client source code).",
+  "author": "Pacifico",
+  "license": null,
+  "home_page": "https://github.com/BurrusFinancialIntelligence/pacifico-client.git",
+  "download_filename": "pacifico-0.0.9.42.tar.gz",
+  "download_time": "2025-09-01T22:20:12.047297",
+  "package_url": "https://pypi.org/project/pacifico/"
+}

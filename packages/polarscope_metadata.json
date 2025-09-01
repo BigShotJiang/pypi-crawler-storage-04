@@ -1,0 +1,11 @@
+{
+  "name": "polarscope",
+  "version": "1.0.0",
+  "summary": "🔬 Professional data inspection and visualization toolkit for Polars - featuring advanced X-ray analysis, comprehensive plotting, and data quality assessment.",
+  "author": "Anders & Co.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polarscope-1.0.0.tar.gz",
+  "download_time": "2025-09-01T22:20:27.690619",
+  "package_url": "https://pypi.org/project/polarscope/"
+}

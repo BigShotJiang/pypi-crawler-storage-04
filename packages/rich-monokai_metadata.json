@@ -1,0 +1,11 @@
+{
+  "name": "rich-monokai",
+  "version": "1.3.0",
+  "summary": "A Monokai theme for the Textualize/rich Python package.",
+  "author": "Matt Doyle",
+  "license": "MIT",
+  "home_page": "https://github.com/chief8192/rich-monokai",
+  "download_filename": "rich_monokai-1.3.0.tar.gz",
+  "download_time": "2025-09-01T22:20:32.326946",
+  "package_url": "https://pypi.org/project/rich-monokai/"
+}
