@@ -1,11 +1,11 @@
 {
   "name": "tsugu-uds",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Tsugu User Data Server CLI Tool",
   "author": "kumoSleeping",
   "license": null,
   "home_page": null,
-  "download_filename": "tsugu_uds-1.0.3.tar.gz",
-  "download_time": "2025-09-01T09:56:40.005004",
+  "download_filename": "tsugu_uds-1.0.6.tar.gz",
+  "download_time": "2025-09-01T12:12:09.502830",
   "package_url": "https://pypi.org/project/tsugu-uds/"
 }

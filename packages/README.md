@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T11:40:56.479892
-- **Total Packages**: 85
-- **Total Size**: 14.2 MB
+- **Download Time**: 2025-09-01T12:12:32.135817
+- **Total Packages**: 81
+- **Total Size**: 11.45 MB
 
 ## Packages List
+- nr-vocabularies
+- ada-py
+- orq-ai-sdk
+- crewai-aisearchapi
+- looker_loader
+- wagtailmedia
+- crc165-api
+- openepd
+- clear-skies-akeyless-custom-openapi
+- wildflow-splat
+- flet-gnav-bar
+- netbox-static-routes-communities
+- failtrace
+- mxcubeweb
+- rbx
+- fakelab
+- aeroai-openai
+- aeroai-mistral
+- authentik-client
+- scipp
+- mcp-proxy-adapter
+- odoo-addon-sale-blanket-order
+- tarn
+- ppplca
+- happyscript
+- mteb
+- reasoning-core
+- tree-sitter-epics-db
+- netbox-sitemap
+- aeroai
+- rocketrag
+- PyQt6-NetworkAuth-Qt6
+- PyQt6-Graphs-Qt6
+- predipy
+- PyQt6-DataVisualization-Qt6
+- PyQt6-Charts-Qt6
+- PyQt6-3D-Qt6
+- streamlit-select-icons
+- pydantic-zarr
+- ASMRManager
+- google-ads-reports
+- bridgecrew
+- siriusx
+- agwr
+- fwdi
+- tsugu-uds
+- legit-api-client
+- eric-sse
+- sae-lens
+- synclub-mcp
 - open-edison
 - amsdal_data
 - pyFRESCO
@@ -13,18 +63,12 @@
 - PYield
 - PVNet
 - yomitoku
-- authentik-client
-- crewai-aisearchapi
 - sssekai
 - esdk-obs-python
-- synclub-mcp
 - tree-sitter-epics-cmd
 - RISify
-- sirius-opendaq
 - csv-detective
-- orq-ai-sdk
 - fers-calculations
-- mxcubeweb
 - koubou
 - result-parser-agent
 - rpaframework-sema4ai
@@ -43,51 +87,3 @@
 - clselove
 - ado-ray-tune
 - ado-sfttrainer
-- f1-helper
-- ado-core
-- smartmodels
-- swarmtube
-- syncmodels
-- agptools
-- django-admin-otp
-- modusa
-- threedi-cmd
-- fast-bi-replication-control
-- je-editor
-- justai
-- mcp-web-tools
-- metaboatrace.scrapers
-- processpi
-- firecrawl
-- firecrawl-py
-- drf-spectacular-sidecar
-- holado
-- mdsnake
-- opentaskpy
-- driada
-- aioscraper
-- im-data-manager-job-decoder
-- django-msteams-notify
-- casambi-bt-revamped
-- sqlaudit
-- odoo-addon-l10n-it-fatturapa-in
-- iqm-qaoa
-- vayu-client
-- jamlib
-- crackerjack
-- tree-sitter-snl
-- berryworld
-- tc-admin
-- python-cqrs
-- siigo-connector
-- bigdata-client
-- cryptography
-- vlcishared
-- failtrace
-- tb-nightly
-- parsehub
-- frogml
-- libvirt-python
-- yuque-mcp
-- vibe-llama
-- delegate-pattern

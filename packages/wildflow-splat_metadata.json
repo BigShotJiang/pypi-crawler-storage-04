@@ -1,0 +1,11 @@
+{
+  "name": "wildflow-splat",
+  "version": "0.1.5",
+  "summary": "PLY point cloud processing for 3D Gaussian splatting workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wildflow_splat-0.1.5.tar.gz",
+  "download_time": "2025-09-01T12:11:45.806639",
+  "package_url": "https://pypi.org/project/wildflow-splat/"
+}

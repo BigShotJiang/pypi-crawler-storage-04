@@ -1,11 +1,11 @@
 {
   "name": "sae-lens",
-  "version": "6.9.1",
+  "version": "6.10.0",
   "summary": "Training and Analyzing Sparse Autoencoders (SAEs)",
   "author": "Joseph Bloom",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sae_lens-6.9.1.tar.gz",
-  "download_time": "2025-08-30T23:18:54.613014",
+  "download_filename": "sae_lens-6.10.0.tar.gz",
+  "download_time": "2025-09-01T12:12:11.888826",
   "package_url": "https://pypi.org/project/sae-lens/"
 }
