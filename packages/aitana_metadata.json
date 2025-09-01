@@ -1,11 +1,11 @@
 {
   "name": "aitana",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Access volcano monitoring data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aitana-0.1.7.tar.gz",
-  "download_time": "2025-09-01T01:54:47.283579",
+  "download_filename": "aitana-0.1.8.tar.gz",
+  "download_time": "2025-09-01T23:40:57.413900",
   "package_url": "https://pypi.org/project/aitana/"
 }

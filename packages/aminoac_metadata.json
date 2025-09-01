@@ -1,0 +1,11 @@
+{
+  "name": "aminoac",
+  "version": "0.1.0",
+  "summary": "A module that modifies CTRL-C behavior to play audio",
+  "author": "kennylimz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aminoac-0.1.0.tar.gz",
+  "download_time": "2025-09-01T23:40:56.846753",
+  "package_url": "https://pypi.org/project/aminoac/"
+}

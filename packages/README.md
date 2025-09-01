@@ -1,28 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T23:20:48.495350
-- **Total Packages**: 76
-- **Total Size**: 32.4 MB
+- **Download Time**: 2025-09-01T23:41:11.728357
+- **Total Packages**: 61
+- **Total Size**: 25.32 MB
 
 ## Packages List
-- ee-client
+- rlax
+- cjm-transcription-plugin-gemini
+- neuralhash
+- datatalk-cli
+- card-shoe
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- mcp-file-contents-reader
+- doxer
+- generalanalysis
 - minecraft-datapack-language
+- gam7
+- x-make-pypi-x
+- x-make-markdown-x
+- authentik-client
+- pygpt-net
+- PD-loss-balancing
+- nv-ingest-client
+- betty
+- PySocker
+- ecocash
+- toolmux
+- gtm-rosamii1
+- satori-ci
+- ap-cfg
+- toggl-mcp
+- ttkode
+- pyTermTk
+- scopinator
+- coloredstrings
+- ap-mail
+- returnn
+- aminoac
+- aitana
+- webdavit
+- ee-client
 - localsets
 - nbstata
-- betty
-- mcp-file-contents-reader
 - unionllm
 - immanuel
 - wtr-watcher
-- ecocash
 - hvym-stellar
-- card-shoe
-- x-make-pypi-x
-- x-make-markdown-x
 - fatum
 - pylibjpeg
-- authentik-client
 - cjm-transcription-plugin-system
 - flwr-nightly
 - distrax
@@ -40,45 +67,3 @@
 - maisaedu-utilities-prefect
 - tokyo-devpe
 - atopile-easyeda2kicad
-- openfund-taker
-- amabase
-- openfund-maker
-- openfund-core
-- samcell
-- cfbd
-- Mathics3-Module-hello
-- gedcom-x
-- csu
-- kelvin-sdk
-- gherila
-- degiro-connector
-- PermutiveAPI
-- unify-tensors
-- framegrab
-- edms
-- parsl
-- ohtell
-- reddit-mcp-tool
-- pynetsuite
-- mcp-server-qdrant-pro
-- ewald
-- nullaterra
-- odoo-addon-l10n-br-mdfe-spec
-- agent-cli
-- grafi
-- scrutinydebugger
-- ut-eviq
-- pypricklybird
-- codetective
-- venusai
-- pax-detector
-- tarka
-- tum_esm_utils
-- py-autotune
-- safety
-- slixmpp
-- ai-infra
-- juliapkg
-- bradLib
-- kaqing
-- evo-schemas
