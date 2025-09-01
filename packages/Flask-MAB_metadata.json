@@ -1,0 +1,11 @@
+{
+  "name": "Flask-MAB",
+  "version": "3.0.4",
+  "summary": "Multi-armed bandits for flask",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_mab-3.0.4.tar.gz",
+  "download_time": "2025-09-01T18:50:15.716675",
+  "package_url": "https://pypi.org/project/Flask-MAB/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycarol",
+  "version": "2.55.9",
+  "summary": "Carol Python API and Tools",
+  "author": "TotvsLabs",
+  "license": "TOTVS",
+  "home_page": "https://github.com/totvslabs/pyCarol",
+  "download_filename": "pycarol-2.55.9.tar.gz",
+  "download_time": "2025-09-01T18:49:56.791601",
+  "package_url": "https://pypi.org/project/pycarol/"
+}

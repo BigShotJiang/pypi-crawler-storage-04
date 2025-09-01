@@ -1,11 +1,11 @@
 {
   "name": "cadence-py",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Cadence AI - Multi-agent AI orchestration system with plugin management",
   "author": "Jonas Kahn",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cadence_py-1.0.1.tar.gz",
-  "download_time": "2025-09-01T05:22:59.358563",
+  "download_filename": "cadence_py-1.0.3.tar.gz",
+  "download_time": "2025-09-01T18:50:00.672644",
   "package_url": "https://pypi.org/project/cadence-py/"
 }
