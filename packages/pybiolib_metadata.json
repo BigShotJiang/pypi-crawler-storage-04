@@ -1,11 +1,11 @@
 {
   "name": "pybiolib",
-  "version": "1.2.1175",
+  "version": "1.2.1180",
   "summary": "BioLib Python Client",
   "author": "biolib",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybiolib-1.2.1175.tar.gz",
-  "download_time": "2025-08-29T16:26:56.182257",
+  "download_filename": "pybiolib-1.2.1180.tar.gz",
+  "download_time": "2025-09-01T14:21:08.937416",
   "package_url": "https://pypi.org/project/pybiolib/"
 }

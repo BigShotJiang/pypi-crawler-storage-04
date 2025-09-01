@@ -1,0 +1,11 @@
+{
+  "name": "checkbrocade",
+  "version": "0.5b0",
+  "summary": "check_brocade monitoring plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkbrocade-0.5b0.tar.gz",
+  "download_time": "2025-09-01T14:21:42.781763",
+  "package_url": "https://pypi.org/project/checkbrocade/"
+}

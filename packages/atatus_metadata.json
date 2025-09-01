@@ -1,0 +1,11 @@
+{
+  "name": "atatus",
+  "version": "2.1.0",
+  "summary": "Atatus Python Agent",
+  "author": "Atatus",
+  "license": "BSD",
+  "home_page": "https://www.atatus.com",
+  "download_filename": "atatus-2.1.0.tar.gz",
+  "download_time": "2025-09-01T14:21:33.644173",
+  "package_url": "https://pypi.org/project/atatus/"
+}

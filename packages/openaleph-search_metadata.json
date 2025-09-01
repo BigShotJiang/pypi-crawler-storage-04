@@ -1,11 +1,11 @@
 {
   "name": "openaleph-search",
-  "version": "0.0.8",
+  "version": "5.0.0",
   "summary": "OpenAleph index & search module",
-  "author": "Simon Wörpel",
+  "author": "OCCRP Data Team",
   "license": "AGPLv3+",
   "home_page": "https://openaleph.org/docs/lib/openaleph-search",
-  "download_filename": "openaleph_search-0.0.8.tar.gz",
-  "download_time": "2025-08-31T16:23:58.662360",
+  "download_filename": "openaleph_search-5.0.0.tar.gz",
+  "download_time": "2025-09-01T14:21:16.393118",
   "package_url": "https://pypi.org/project/openaleph-search/"
 }

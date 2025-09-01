@@ -1,0 +1,11 @@
+{
+  "name": "checkontap",
+  "version": "0.3.7",
+  "summary": "check_ontap monitoring plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkontap-0.3.7.tar.gz",
+  "download_time": "2025-09-01T14:21:14.280795",
+  "package_url": "https://pypi.org/project/checkontap/"
+}
