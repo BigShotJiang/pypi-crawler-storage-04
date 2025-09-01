@@ -1,0 +1,11 @@
+{
+  "name": "changelist-init",
+  "version": "0.2.1",
+  "summary": "Initialize and update Changelists information.",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/changelist-init/",
+  "download_filename": "changelist_init-0.2.1.tar.gz",
+  "download_time": "2025-09-01T18:30:03.036090",
+  "package_url": "https://pypi.org/project/changelist-init/"
+}

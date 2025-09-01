@@ -1,0 +1,11 @@
+{
+  "name": "ianotech-webchecker",
+  "version": "1.0.3",
+  "summary": "A Django app to check website status with screenshots",
+  "author": "IanoTech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ianotech_webchecker-1.0.3.tar.gz",
+  "download_time": "2025-09-01T18:29:48.918360",
+  "package_url": "https://pypi.org/project/ianotech-webchecker/"
+}

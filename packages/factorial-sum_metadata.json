@@ -1,11 +1,11 @@
 {
   "name": "factorial-sum",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Efficient computation of factorial sums using a novel recursive identity",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "factorial_sum-0.1.1.tar.gz",
-  "download_time": "2025-09-01T17:40:30.141987",
+  "download_filename": "factorial_sum-0.1.2.tar.gz",
+  "download_time": "2025-09-01T18:29:37.475030",
   "package_url": "https://pypi.org/project/factorial-sum/"
 }

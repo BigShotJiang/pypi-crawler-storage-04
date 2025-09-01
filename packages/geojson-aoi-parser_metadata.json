@@ -1,0 +1,11 @@
+{
+  "name": "geojson-aoi-parser",
+  "version": "0.3.2",
+  "summary": "Parse and normalize a GeoJSON area of interest, using PostGIS.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "geojson_aoi_parser-0.3.2.tar.gz",
+  "download_time": "2025-09-01T18:29:41.774571",
+  "package_url": "https://pypi.org/project/geojson-aoi-parser/"
+}

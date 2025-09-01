@@ -1,11 +1,11 @@
 {
   "name": "gateau",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "GPU-Accelerated Time-dEpendent observAtion simUlator",
   "author": "Arend Moerman",
   "license": null,
   "home_page": null,
-  "download_filename": "gateau-0.1.0.tar.gz",
-  "download_time": "2025-09-01T17:52:49.900115",
+  "download_filename": "gateau-0.1.1.tar.gz",
+  "download_time": "2025-09-01T18:30:12.976010",
   "package_url": "https://pypi.org/project/gateau/"
 }
