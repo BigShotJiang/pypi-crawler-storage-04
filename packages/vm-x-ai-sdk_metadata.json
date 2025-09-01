@@ -1,0 +1,11 @@
+{
+  "name": "vm-x-ai-sdk",
+  "version": "1.7.0",
+  "summary": "VM-X AI Python SDK",
+  "author": "VM-X Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/vm-x-ai/vm-x-ai-sdk",
+  "download_filename": "vm_x_ai_sdk-1.7.0.tar.gz",
+  "download_time": "2025-09-01T20:53:11.825698",
+  "package_url": "https://pypi.org/project/vm-x-ai-sdk/"
+}

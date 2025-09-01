@@ -1,0 +1,11 @@
+{
+  "name": "langchain-vm-x-ai",
+  "version": "1.2.6",
+  "summary": "VM-X AI Langchain Python SDK",
+  "author": "VM-X Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/vm-x-ai/vm-x-ai-sdk",
+  "download_filename": "langchain_vm_x_ai-1.2.6.tar.gz",
+  "download_time": "2025-09-01T20:53:11.306589",
+  "package_url": "https://pypi.org/project/langchain-vm-x-ai/"
+}

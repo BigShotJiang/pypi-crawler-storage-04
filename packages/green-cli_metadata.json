@@ -1,0 +1,11 @@
+{
+  "name": "green-cli",
+  "version": "0.8.1",
+  "summary": "Blockstream Green Command Line Interface",
+  "author": "Blockstream",
+  "license": "MIT",
+  "home_page": "https://github.com/Blockstream/green_cli",
+  "download_filename": "green_cli-0.8.1.tar.gz",
+  "download_time": "2025-09-01T20:53:10.268482",
+  "package_url": "https://pypi.org/project/green-cli/"
+}
