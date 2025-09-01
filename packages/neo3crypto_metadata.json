@@ -1,0 +1,11 @@
+{
+  "name": "neo3crypto",
+  "version": "0.4.4",
+  "summary": "Native crypto functions for the NEO 3 Blockchain",
+  "author": "Erik van den Brink",
+  "license": "MIT",
+  "home_page": "https://github.com/CityOfZion/neo3crypto",
+  "download_filename": "neo3crypto-0.4.4-cp312-cp312-macosx_10_13_x86_64.whl",
+  "download_time": "2025-09-01T13:21:09.745879",
+  "package_url": "https://pypi.org/project/neo3crypto/"
+}

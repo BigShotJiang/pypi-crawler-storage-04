@@ -1,0 +1,11 @@
+{
+  "name": "ANYstructure",
+  "version": "5.2.0",
+  "summary": "A plate field optimization tool for offshore structures calculated according to DNV standards",
+  "author": "Audun Arnesen Nyhus",
+  "license": "MIT",
+  "home_page": "https://github.com/audunarn/ANYstructure",
+  "download_filename": "anystructure-5.2.0-py3-none-any.whl",
+  "download_time": "2025-09-01T13:21:01.714732",
+  "package_url": "https://pypi.org/project/ANYstructure/"
+}

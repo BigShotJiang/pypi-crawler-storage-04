@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-projector",
+  "version": "0.0.15",
+  "summary": "Project points from one projection to another using pyproj",
+  "author": "Helge Smebye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coordinate_projector-0.0.15.tar.gz",
+  "download_time": "2025-09-01T13:21:08.680869",
+  "package_url": "https://pypi.org/project/coordinate-projector/"
+}

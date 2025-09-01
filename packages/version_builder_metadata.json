@@ -1,0 +1,11 @@
+{
+  "name": "version_builder",
+  "version": "0.4.0",
+  "summary": "yet another version bumper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "version_builder-0.4.0.tar.gz",
+  "download_time": "2025-09-01T13:21:16.709240",
+  "package_url": "https://pypi.org/project/version_builder/"
+}

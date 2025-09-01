@@ -1,11 +1,11 @@
 {
   "name": "wbreport",
-  "version": "1.55.2",
+  "version": "1.55.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbreport-1.55.2.tar.gz",
-  "download_time": "2025-08-29T09:22:18.461976",
+  "download_filename": "wbreport-1.55.3.tar.gz",
+  "download_time": "2025-09-01T13:21:30.108942",
   "package_url": "https://pypi.org/project/wbreport/"
 }

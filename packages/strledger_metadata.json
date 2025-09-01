@@ -1,0 +1,11 @@
+{
+  "name": "strledger",
+  "version": "0.10.1",
+  "summary": "Ledger Hardware Wallet Stellar Python bindings.",
+  "author": "overcat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strledger-0.10.1.tar.gz",
+  "download_time": "2025-09-01T13:21:11.886937",
+  "package_url": "https://pypi.org/project/strledger/"
+}

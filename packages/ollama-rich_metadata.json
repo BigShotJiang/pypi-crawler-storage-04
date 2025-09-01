@@ -1,0 +1,11 @@
+{
+  "name": "ollama-rich",
+  "version": "1.0.2",
+  "summary": "A feature-rich Ollama client with enhanced terminal UI using the Rich library.",
+  "author": "Jak BIn",
+  "license": "MIT",
+  "home_page": "https://github.com/jakbin/ollama-rich",
+  "download_filename": "ollama_rich-1.0.2.tar.gz",
+  "download_time": "2025-09-01T13:20:45.316934",
+  "package_url": "https://pypi.org/project/ollama-rich/"
+}

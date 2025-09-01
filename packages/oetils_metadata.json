@@ -1,0 +1,11 @@
+{
+  "name": "oetils",
+  "version": "0.2.11",
+  "summary": "A collection of useful functions and classes",
+  "author": "Onno Eberhard",
+  "license": "MIT",
+  "home_page": "https://github.com/onnoeberhard/oetils",
+  "download_filename": "oetils-0.2.11.tar.gz",
+  "download_time": "2025-09-01T13:20:58.460278",
+  "package_url": "https://pypi.org/project/oetils/"
+}

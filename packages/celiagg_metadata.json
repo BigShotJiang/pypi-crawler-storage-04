@@ -1,0 +1,11 @@
+{
+  "name": "celiagg",
+  "version": "2.1.7",
+  "summary": "Anti-Grain Geometry for Python 3 with Cython",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/celiagg/celiagg",
+  "download_filename": "celiagg-2.1.7.tar.gz",
+  "download_time": "2025-09-01T13:20:43.723109",
+  "package_url": "https://pypi.org/project/celiagg/"
+}

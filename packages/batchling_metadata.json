@@ -1,0 +1,11 @@
+{
+  "name": "batchling",
+  "version": "0.0.7",
+  "summary": "A python library to abstract GenAI Batch API usage",
+  "author": "Raphael Vienne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "batchling-0.0.7.tar.gz",
+  "download_time": "2025-09-01T13:21:08.149817",
+  "package_url": "https://pypi.org/project/batchling/"
+}

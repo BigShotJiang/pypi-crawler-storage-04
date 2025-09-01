@@ -1,0 +1,11 @@
+{
+  "name": "aec-audio-processing",
+  "version": "1.0.1",
+  "summary": "AEC(Acoustic Echo Cancellation) Audio Processing Module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aec_audio_processing-1.0.1.tar.gz",
+  "download_time": "2025-09-01T13:21:03.874599",
+  "package_url": "https://pypi.org/project/aec-audio-processing/"
+}

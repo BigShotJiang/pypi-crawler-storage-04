@@ -1,0 +1,11 @@
+{
+  "name": "igm-model",
+  "version": "3.0.0",
+  "summary": "IGM - a glacier evolution model",
+  "author": "Guillaume Jouvet",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/jouvetg/igm",
+  "download_filename": "igm_model-3.0.0.tar.gz",
+  "download_time": "2025-09-01T13:21:19.368821",
+  "package_url": "https://pypi.org/project/igm-model/"
+}
