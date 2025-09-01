@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T04:57:15.373201
+- **Download Time**: 2025-09-01T05:23:25.341650
 - **Total Packages**: 72
-- **Total Size**: 17.02 MB
+- **Total Size**: 20.76 MB
 
 ## Packages List
-- napari-tardis-em
+- python3-cloudpods
+- frametree-bids
+- slurm-factory
 - minecraft-datapack-language
+- nanobanana-mcp-server
+- rcabench-platform
+- BlazeCache
+- suga-client
+- fis-mcp-server
+- suql
+- sc-orchestrator
+- codedecide
+- qis
+- familycli
+- vibesurf
+- authentik-client
+- meshage
+- git-smart-squash
+- mrgrain.cdk-esbuild
+- pygpt-net
+- suparkanbun
+- pympebm
+- cadence-py
+- plugorm
+- PyAsyncScheduler
+- odoo-addon-azokoop
+- neosqlite
+- cadence-sdk
+- cadence-example-plugins
+- demo-mcp-server-jinu
+- gllm-inference-binary
+- pyfory
+- napari-tardis-em
 - parallax-ai
 - tardis-em
 - JsonRpcExtended
@@ -15,18 +46,14 @@
 - tespy
 - pywf-internal-proprietary
 - cwatch
-- authentik-client
 - rite
 - iamdata
 - tdrpa.tdworker
 - krb5
-- sc-orchestrator
-- slurm-factory
 - UrlTasker
 - goodreads-export
 - fraiseql
 - spml2-mltools
-- plugorm
 - pydsboilerplates
 - MiniVault
 - skt
@@ -51,30 +78,3 @@
 - BioSAK
 - grain-nightly
 - nonebot-plugin-figurine
-- cce
-- gam7
-- langchain-cli-v2
-- LLM-Bridge
-- prava
-- megatron-core
-- rosy
-- verskyt
-- liveConsole
-- pilot.linkstec
-- vlm-recog
-- megfile
-- es2
-- aiauto-client
-- intentkit
-- chromedriver-binary
-- connectonion
-- keras-nightly
-- ai-kill-switch
-- suga-client
-- rotating-mitmproxy
-- multi-browser-crawler
-- matrice
-- memg-core
-- oxigen-pipeline
-- actrisk
-- vibesurf

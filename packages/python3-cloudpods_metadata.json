@@ -1,11 +1,11 @@
 {
   "name": "python3-cloudpods",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "used to send api to cloudpods platform",
   "author": "redrose2100",
   "license": "MIT",
   "home_page": "https://gitee.com/devops_dev/cloudpods",
-  "download_filename": "python3_cloudpods-0.1.5.tar.gz",
-  "download_time": "2025-09-01T03:24:02.146024",
+  "download_filename": "python3_cloudpods-0.1.6.tar.gz",
+  "download_time": "2025-09-01T05:22:46.302079",
   "package_url": "https://pypi.org/project/python3-cloudpods/"
 }

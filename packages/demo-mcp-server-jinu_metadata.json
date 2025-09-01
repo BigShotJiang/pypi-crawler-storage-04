@@ -1,0 +1,11 @@
+{
+  "name": "demo-mcp-server-jinu",
+  "version": "0.1.0",
+  "summary": "Demo MCP server with tools, resources, and prompts",
+  "author": "Priyabrata Nayak",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "demo_mcp_server_jinu-0.1.0.tar.gz",
+  "download_time": "2025-09-01T05:23:03.062552",
+  "package_url": "https://pypi.org/project/demo-mcp-server-jinu/"
+}
