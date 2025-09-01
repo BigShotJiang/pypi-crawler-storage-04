@@ -1,11 +1,11 @@
 {
   "name": "django-glide",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Glide JS integration for Django",
   "author": "Pierre Guillemot",
   "license": "MIT",
   "home_page": "https://github.com/KalvadTech/django-glide/",
-  "download_filename": "django_glide-0.1.1.tar.gz",
-  "download_time": "2025-08-29T12:42:26.505900",
+  "download_filename": "django_glide-0.2.0.tar.gz",
+  "download_time": "2025-09-01T06:59:54.144009",
   "package_url": "https://pypi.org/project/django-glide/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-region-balancer",
+  "version": "0.2.0",
+  "summary": "AWS Bedrock region load balancer with round-robin distribution",
+  "author": "SungHyon Kim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bedrock_region_balancer-0.2.0.tar.gz",
+  "download_time": "2025-09-01T06:59:51.540173",
+  "package_url": "https://pypi.org/project/bedrock-region-balancer/"
+}

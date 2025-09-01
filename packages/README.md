@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T06:36:00.125392
-- **Total Packages**: 89
-- **Total Size**: 38.67 MB
+- **Download Time**: 2025-09-01T07:00:12.583668
+- **Total Packages**: 85
+- **Total Size**: 31.82 MB
 
 ## Packages List
+- pytrendy
+- helix.fhir.client.sdk
+- omni-lpr
+- legit-api-client
+- OOTS-CS-Query-Validator
+- device-protocol-sdk
+- cenplot
+- scietex.logging
+- aiauto-client
+- mcp-server-qdrant-pro
+- AutoInspection
+- aria2tui
+- mdxjs-py
+- pybotchi
+- tree-sitter-epics-cmd
+- nous-llm
+- pyfirst
+- ner-agent
+- maleo-dtos
+- victron-mqtt
+- netra-sdk
+- django-helusers
+- arpakitlib
+- fediverse-pasture-inputs
+- atlasopenmagic
+- authentik-client
+- mcp-server-weather-cuhksz
+- bizyui
+- sherpa-onnx
+- apolo-kube-client
+- HiveClients
+- compspace
+- ltbams
+- mdsnake
+- BabelDOC
+- zt-features-lib
+- sycommon-python-lib
+- pyrime
+- zenx
+- trophy
+- mcp-gazette-archiver
+- quairkit
+- odoo-addon-crm-autoassign
+- ImagePRO-Python
+- jyhelper
+- bedrock-region-balancer
+- nioflux-mq
+- qA-Ap
+- cleanifier
+- lakehouse-plumber
+- django-glide
+- async-llms
 - spml2-mltools
 - nemo-eval
 - rite
@@ -13,12 +65,9 @@
 - fighub
 - bhp-pro
 - sherpa-onnx-core
-- HiveClients
 - CenStats
-- pytrendy
 - django-dramatiq-charts
 - big-scatter
-- authentik-client
 - gpustack-runner
 - megatron-bridge
 - internal
@@ -42,56 +91,3 @@
 - barangay
 - markdown-flow
 - pulumi-aws-native
-- fyuneru
-- opencompass
-- fake-bpy-module
-- fake-bpy-module-latest
-- semantic-link-sempy
-- semantic-link-functions-validators
-- semantic-link-functions-phonenumbers
-- semantic-link-functions-meteostat
-- semantic-link-functions-holidays
-- semantic-link-functions-geopandas
-- semantic-link
-- claude-mpm
-- yunzhanghu-sdk
-- pyatlan
-- mcp-gazette-archiver
-- enablebanking_sdk
-- sc-orchestrator
-- tlab
-- pyiskra
-- pygwalk
-- fediverse-pasture
-- emerge
-- oceanbase-mcp-server3
-- achatbot
-- nanobanana-mcp-server
-- ant-ray-cpp-nightly
-- qA-Ap
-- league-data-mcp
-- pyg-nightly
-- cloud-autopkg-runner
-- slothy
-- rqdatac
-- jupyter-kernel-pathresolver
-- cdpkits
-- koatl
-- frametree-xnat
-- segment-geospatial-uni
-- deltadefi
-- osintgraph
-- dana-python
-- cocopack
-- mcp-server-tb-project-stat-2
-- korea-geocoder-mcp
-- lockbox-sdk
-- ut-path
-- antelope-reports
-- google-cloud-storage
-- protodocs
-- maleo-database
-- pulumi-docker
-- SAM-2-uni
-- rapidgeo
-- mcp-server-tb-project-stat-1
