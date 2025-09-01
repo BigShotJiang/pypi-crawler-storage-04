@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-service",
+  "version": "0.0.2",
+  "summary": "Python Service for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bsaltel/galaxy-py-service",
+  "download_filename": "galaxy_py_service-0.0.2.tar.gz",
+  "download_time": "2025-09-01T16:26:33.111077",
+  "package_url": "https://pypi.org/project/galaxy-py-service/"
+}

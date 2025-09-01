@@ -1,0 +1,11 @@
+{
+  "name": "efficient-transformer",
+  "version": "0.1.16",
+  "summary": "Efficient transformer inference with pruning, freezing, and CO₂ tracking.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/viji123450/ecotransformers",
+  "download_filename": "efficient_transformer-0.1.16.tar.gz",
+  "download_time": "2025-09-01T16:26:33.629638",
+  "package_url": "https://pypi.org/project/efficient-transformer/"
+}

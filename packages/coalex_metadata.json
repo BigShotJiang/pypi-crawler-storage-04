@@ -1,11 +1,11 @@
 {
   "name": "coalex",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "OpenTelemetry SDK for Coalex.ai with OTLP integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coalex-0.2.0.tar.gz",
-  "download_time": "2025-09-01T14:21:42.237594",
+  "download_filename": "coalex-0.3.0.tar.gz",
+  "download_time": "2025-09-01T16:26:31.572944",
   "package_url": "https://pypi.org/project/coalex/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "textpy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Reads a python module and statically analyzes it.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "textpy-0.2.2.tar.gz",
-  "download_time": "2025-09-01T08:31:41.585802",
+  "download_filename": "textpy-0.2.3.tar.gz",
+  "download_time": "2025-09-01T16:26:57.676609",
   "package_url": "https://pypi.org/project/textpy/"
 }

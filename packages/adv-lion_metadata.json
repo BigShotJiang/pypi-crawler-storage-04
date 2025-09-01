@@ -1,0 +1,11 @@
+{
+  "name": "adv-lion",
+  "version": "0.1.1",
+  "summary": "Pytorch Lion optimizer with updated and advanced features.",
+  "author": "Koratahiu",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Koratahiu/Adv_Lion",
+  "download_filename": "adv_lion-0.1.1.tar.gz",
+  "download_time": "2025-09-01T16:26:21.803879",
+  "package_url": "https://pypi.org/project/adv-lion/"
+}
