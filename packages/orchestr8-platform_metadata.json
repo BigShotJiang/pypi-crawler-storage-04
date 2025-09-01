@@ -1,11 +1,11 @@
 {
   "name": "orchestr8-platform",
-  "version": "3.2.0",
+  "version": "3.3.1",
   "summary": "Orchestr8 - Enterprise GitOps platform for Kubernetes orchestration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orchestr8_platform-3.2.0.tar.gz",
-  "download_time": "2025-08-31T13:07:21.250271",
+  "download_filename": "orchestr8_platform-3.3.1.tar.gz",
+  "download_time": "2025-09-01T17:52:39.976961",
   "package_url": "https://pypi.org/project/orchestr8-platform/"
 }
