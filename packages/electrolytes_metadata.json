@@ -1,0 +1,11 @@
+{
+  "name": "electrolytes",
+  "version": "0.4.8",
+  "summary": "Electrolyte database manager",
+  "author": "Gabriel S. Gerlero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "electrolytes-0.4.8.tar.gz",
+  "download_time": "2025-09-01T21:53:18.636481",
+  "package_url": "https://pypi.org/project/electrolytes/"
+}

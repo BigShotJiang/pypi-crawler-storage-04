@@ -1,11 +1,11 @@
 {
   "name": "bash2gitlab",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "summary": "Compile bash to gitlab pipeline yaml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bash2gitlab-0.9.6.tar.gz",
-  "download_time": "2025-09-01T17:40:50.881457",
+  "download_filename": "bash2gitlab-0.9.7.tar.gz",
+  "download_time": "2025-09-01T21:53:35.464628",
   "package_url": "https://pypi.org/project/bash2gitlab/"
 }
