@@ -1,0 +1,11 @@
+{
+  "name": "dhg",
+  "version": "0.9.5",
+  "summary": "DHG is a Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dhg-0.9.5.tar.gz",
+  "download_time": "2025-09-01T08:31:33.617672",
+  "package_url": "https://pypi.org/project/dhg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mindmatrix",
-  "version": "0.1.0.post2",
+  "version": "0.1.0.post3",
   "summary": "MindMatrix 是一个基于 Agno 的轻量级智能体\"应用\"框架，专为快速构建具有RAG、记忆和可访问能力的生产级多智能体系统而设计。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mindmatrix-0.1.0.post2.tar.gz",
-  "download_time": "2025-09-01T07:53:42.981024",
+  "download_filename": "mindmatrix-0.1.0.post3.tar.gz",
+  "download_time": "2025-09-01T08:31:30.301631",
   "package_url": "https://pypi.org/project/mindmatrix/"
 }
