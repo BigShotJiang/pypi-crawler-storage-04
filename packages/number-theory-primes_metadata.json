@@ -1,0 +1,11 @@
+{
+  "name": "number-theory-primes",
+  "version": "0.1.2",
+  "summary": "Advanced primality testing algorithms including AKS",
+  "author": "Madhulatha Mandarapu, Sandeep Kunkunuru",
+  "license": null,
+  "home_page": "https://github.com/VaidhyaMegha/primes",
+  "download_filename": "number_theory_primes-0.1.2.tar.gz",
+  "download_time": "2025-09-01T17:40:40.496325",
+  "package_url": "https://pypi.org/project/number-theory-primes/"
+}

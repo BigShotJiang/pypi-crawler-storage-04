@@ -1,11 +1,11 @@
 {
   "name": "venai",
-  "version": "1.28.5",
+  "version": "1.28.6",
   "summary": "VenusAI is a secure and extensible Agent framework built for modern AI applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "venai-1.28.5.tar.gz",
-  "download_time": "2025-09-01T17:20:05.344084",
+  "download_filename": "venai-1.28.6.tar.gz",
+  "download_time": "2025-09-01T17:40:48.302551",
   "package_url": "https://pypi.org/project/venai/"
 }
