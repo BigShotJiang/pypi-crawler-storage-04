@@ -1,0 +1,11 @@
+{
+  "name": "napari-tardis-em",
+  "version": "0.3.19",
+  "summary": "Tomogram and micrograph segmentation with TARDIS-em",
+  "author": "Robert Kiewisz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "napari_tardis_em-0.3.19.tar.gz",
+  "download_time": "2025-09-01T04:56:37.942779",
+  "package_url": "https://pypi.org/project/napari-tardis-em/"
+}

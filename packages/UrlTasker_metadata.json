@@ -1,0 +1,11 @@
+{
+  "name": "UrlTasker",
+  "version": "0.0.1",
+  "summary": "A Python library for defining, templating, and executing configurable asynchronous actions triggered via URLs.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/UrlTasker",
+  "download_filename": "urltasker-0.0.1.tar.gz",
+  "download_time": "2025-09-01T04:56:46.627606",
+  "package_url": "https://pypi.org/project/UrlTasker/"
+}

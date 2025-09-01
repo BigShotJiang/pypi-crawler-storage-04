@@ -1,0 +1,11 @@
+{
+  "name": "JsonRpcExtended",
+  "version": "0.0.1",
+  "summary": "A remote procedure call (RPC) framework based on JSON-RPC, extended to support alternative data formats and structures such as CSV, XML, binary and python calls.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/JsonRpcExtended",
+  "download_filename": "jsonrpcextended-0.0.1.tar.gz",
+  "download_time": "2025-09-01T04:56:40.286863",
+  "package_url": "https://pypi.org/project/JsonRpcExtended/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pywf-internal-proprietary",
+  "version": "0.1.12",
+  "summary": "Python Workflow for internal proprietary project.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywf_internal_proprietary-0.1.12.tar.gz",
+  "download_time": "2025-09-01T04:56:41.885052",
+  "package_url": "https://pypi.org/project/pywf-internal-proprietary/"
+}

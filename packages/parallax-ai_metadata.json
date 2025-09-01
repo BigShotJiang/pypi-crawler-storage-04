@@ -1,11 +1,11 @@
 {
   "name": "parallax-ai",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Lightweight parallel AI API calls in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parallax_ai-0.2.1.tar.gz",
-  "download_time": "2025-08-31T17:17:05.789279",
+  "download_filename": "parallax_ai-0.2.2.tar.gz",
+  "download_time": "2025-09-01T04:56:39.206910",
   "package_url": "https://pypi.org/project/parallax-ai/"
 }

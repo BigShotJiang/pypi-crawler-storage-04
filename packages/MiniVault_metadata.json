@@ -1,0 +1,11 @@
+{
+  "name": "MiniVault",
+  "version": "0.0.1",
+  "summary": "A simple, lightweight vault implemented in pure Python for securely storing and retrieving secrets in light-duty applications.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/MiniVault",
+  "download_filename": "minivault-0.0.1.tar.gz",
+  "download_time": "2025-09-01T04:56:49.749056",
+  "package_url": "https://pypi.org/project/MiniVault/"
+}
