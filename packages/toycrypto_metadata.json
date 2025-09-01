@@ -1,0 +1,11 @@
+{
+  "name": "toycrypto",
+  "version": "0.5.1",
+  "summary": "Modules that can be used to illustrate and explore cryptographic concepts. This should never be used for security purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toycrypto-0.5.1-py3-none-any.whl",
+  "download_time": "2025-09-01T20:41:42.983492",
+  "package_url": "https://pypi.org/project/toycrypto/"
+}

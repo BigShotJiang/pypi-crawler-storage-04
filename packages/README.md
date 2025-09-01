@@ -1,34 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T20:22:58.743590
-- **Total Packages**: 80
-- **Total Size**: 31.56 MB
+- **Download Time**: 2025-09-01T20:41:59.090384
+- **Total Packages**: 67
+- **Total Size**: 38.21 MB
 
 ## Packages List
-- mtbp3cd
 - minecraft-datapack-language
+- eth-streams-py
+- eth-protocols-py
+- eth-typeshed-py
+- eth-rpc-py
+- xync-client
+- localport
+- protoss
+- simple-trade
+- cogstack-model-gateway-client
+- toggl-mcp
+- pip2conda
+- pyodide-mkdocs-theme
+- cendat
+- PD-loss-balancing
+- league-data-mcp
+- account-codes-jp
+- authentik-client
+- ecoledirecte
+- knitout-to-dat-python
+- distrax
+- tccli-intl-en
+- maleo-enums
+- pyg4ometry
+- WUADS
+- ledger2bql
+- enerhabitat
+- crypticorn
+- wajp
+- pymocker
+- osbot-utils
+- abstra
+- nocodb-simple-client
+- schedulo-api
+- beetle-logging
+- crackerjack
+- dataspace-client
+- llamactl
+- llama-deploy-core
+- toycrypto
+- llama-deploy-appserver
+- mtbp3cd
 - streamOneIonSDK
 - spml2-mltools
 - quixand
 - gam7
 - bdns-fetch
 - dump-things-service
-- toggl-mcp
 - deepagents
 - pyramid-sqlassist
 - pyramid-mcp
-- crypticorn
-- PD-loss-balancing
 - assertive-mock-api-client
 - redis-memory
 - hapla
 - mcpbytes-lambda-stdio
-- xync-client
 - paged-list
 - pyrauli
-- cogstack-model-gateway-client
-- authentik-client
 - tinycoder
 - alter-py
 - gqlitedb
@@ -38,51 +72,4 @@
 - mcpbytes-lambda-core
 - httpx-oauth2
 - je-load-density-dev
-- dataspace-client
 - itertree
-- natlog
-- tstr
-- moose-lib
-- kaqing
-- kedro-datasentinel
-- axn
-- towerpy-rd
-- pytest-bec-e2e
-- bec-server
-- bec-lib
-- bec-ipython-client
-- agent-lab-sdk
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- ledger2bql
-- csoundengine
-- electbrian
-- konfuzio-sdk
-- diskii
-- Mastodon.py
-- spimdisasm
-- jotsu-mcp
-- holidays
-- NieMarkov
-- klotho-cac
-- sokrates-mcp
-- omserv
-- ommlds
-- omlish
-- ominfra
-- trn
-- omdev
-- omdev-cli
-- omdev-cext
-- liveproxy-fork
-- dbus2mqtt
-- pytrendy
-- mnspy
-- odoo14-addon-ssi-consulting
-- schemathesis
-- devsecops-engine-tools
-- maxs
-- fidi-common-libraries
-- access-specifiers
-- trimesh
