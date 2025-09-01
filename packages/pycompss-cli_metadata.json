@@ -1,11 +1,11 @@
 {
   "name": "pycompss-cli",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "summary": "PyCOMPSs cli",
   "author": "Workflows and Distributed Computing Group (WDC) - Barcelona Supercomputing Center (BSC)",
   "license": "Apache 2.0",
   "home_page": "https://compss.bsc.es",
-  "download_filename": "pycompss_cli-3.3.7-py3-none-any.whl",
-  "download_time": "2025-09-01T08:53:46.311613",
+  "download_filename": "pycompss_cli-3.3.8-py3-none-any.whl",
+  "download_time": "2025-09-01T10:47:03.380456",
   "package_url": "https://pypi.org/project/pycompss-cli/"
 }

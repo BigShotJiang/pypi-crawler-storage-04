@@ -1,0 +1,11 @@
+{
+  "name": "avachain",
+  "version": "2.0.9",
+  "summary": "A lightweight library for creating and running AI agents with tools, supporting OpenAI-compatible APIs",
+  "author": "Salo Soja Edwin",
+  "license": "MIT",
+  "home_page": "https://github.com/OnlinePage/Avachain",
+  "download_filename": "avachain-2.0.9.tar.gz",
+  "download_time": "2025-09-01T10:46:55.154617",
+  "package_url": "https://pypi.org/project/avachain/"
+}

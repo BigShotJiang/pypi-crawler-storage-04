@@ -1,0 +1,11 @@
+{
+  "name": "tm-deep-utilities",
+  "version": "0.2.0",
+  "summary": "A collection of utility functions for Databricks data operations",
+  "author": "Saadat Mukadam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tm_deep_utilities-0.2.0.tar.gz",
+  "download_time": "2025-09-01T10:46:48.941398",
+  "package_url": "https://pypi.org/project/tm-deep-utilities/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ALP4lib",
+  "version": "1.0.3",
+  "summary": "A module to control Vialux DMDs based on ALP4.X API.It uses the .ddl files provided by Vialux.",
+  "author": "Sebastien Popoff",
+  "license": "MIT",
+  "home_page": "https://github.com/wavefronthsaping/ALP4lib",
+  "download_filename": "alp4lib-1.0.3.tar.gz",
+  "download_time": "2025-09-01T10:46:54.644074",
+  "package_url": "https://pypi.org/project/ALP4lib/"
+}

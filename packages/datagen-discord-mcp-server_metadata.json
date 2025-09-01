@@ -1,0 +1,11 @@
+{
+  "name": "datagen-discord-mcp-server",
+  "version": "1.0.1",
+  "summary": "A Model Context Protocol server for Discord integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datagen_discord_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-09-01T10:47:02.870237",
+  "package_url": "https://pypi.org/project/datagen-discord-mcp-server/"
+}
