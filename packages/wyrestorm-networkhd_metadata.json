@@ -1,11 +1,11 @@
 {
   "name": "wyrestorm-networkhd",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Python client library for WyreStorm NetworkHD API operations - matrix switching, device control, video walls, and multiview.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wyrestorm_networkhd-2.2.0-py3-none-any.whl",
-  "download_time": "2025-08-31T08:25:09.854018",
+  "download_filename": "wyrestorm_networkhd-2.2.1-py3-none-any.whl",
+  "download_time": "2025-09-01T12:44:58.568151",
   "package_url": "https://pypi.org/project/wyrestorm-networkhd/"
 }

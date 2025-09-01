@@ -1,0 +1,11 @@
+{
+  "name": "diffuse-neutrino-flux",
+  "version": "0.3.0",
+  "summary": "Lightweight package to plot diffuse neutrino flux measurements",
+  "author": "Jannis Necker",
+  "license": "MIT",
+  "home_page": "https://github.com/JannisNe/diffuse_neutrino_flux",
+  "download_filename": "diffuse_neutrino_flux-0.3.0.tar.gz",
+  "download_time": "2025-09-01T12:45:01.315712",
+  "package_url": "https://pypi.org/project/diffuse-neutrino-flux/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dhcptool",
+  "version": "2025.9.1.8",
+  "summary": "refactor(dhcptool): 支持v4(option82子选项), v6(option38)",
+  "author": "mf.liang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dhcptool-2025.9.1.8.tar.gz",
+  "download_time": "2025-09-01T12:45:20.268620",
+  "package_url": "https://pypi.org/project/dhcptool/"
+}

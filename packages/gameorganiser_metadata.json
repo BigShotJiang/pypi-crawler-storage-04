@@ -1,0 +1,11 @@
+{
+  "name": "gameorganiser",
+  "version": "1.0.0",
+  "summary": "A Python application to help organize board and card games by tracking game details and shelf locations.",
+  "author": "dragonruler1000",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gameorganiser-1.0.0.tar.gz",
+  "download_time": "2025-09-01T12:44:45.949373",
+  "package_url": "https://pypi.org/project/gameorganiser/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-gazette-archiver",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "FastMCP Server for Sri Lankan Gazette Archiver with auto-installed gztarchiver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_gazette_archiver-0.1.2.tar.gz",
-  "download_time": "2025-09-01T06:59:48.945039",
+  "download_filename": "mcp_gazette_archiver-0.1.4.tar.gz",
+  "download_time": "2025-09-01T12:45:03.486635",
   "package_url": "https://pypi.org/project/mcp-gazette-archiver/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbcrust",
+  "version": "0.21.1",
+  "summary": "High-performance database CLI engineered for Django developers — Advanced ORM analysis, performance optimization, SSH tunneling, and seamless multi-database support (PostgreSQL, MySQL, SQLite)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbcrust-0.21.1-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-01T12:45:14.257814",
+  "package_url": "https://pypi.org/project/dbcrust/"
+}
