@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-phpdomain",
+  "version": "0.13.2",
+  "summary": "Sphinx extension to enable documenting PHP code",
+  "author": "Mark Story",
+  "license": "BSD",
+  "home_page": "https://github.com/markstory/sphinxcontrib-phpdomain",
+  "download_filename": "sphinxcontrib_phpdomain-0.13.2.tar.gz",
+  "download_time": "2025-09-01T03:24:00.601478",
+  "package_url": "https://pypi.org/project/sphinxcontrib-phpdomain/"
+}

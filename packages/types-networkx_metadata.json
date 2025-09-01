@@ -1,11 +1,11 @@
 {
   "name": "types-networkx",
-  "version": "3.5.0.20250830",
+  "version": "3.5.0.20250901",
   "summary": "Typing stubs for networkx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_networkx-3.5.0.20250830.tar.gz",
-  "download_time": "2025-08-30T03:21:27.989205",
+  "download_filename": "types_networkx-3.5.0.20250901.tar.gz",
+  "download_time": "2025-09-01T03:23:59.057064",
   "package_url": "https://pypi.org/project/types-networkx/"
 }

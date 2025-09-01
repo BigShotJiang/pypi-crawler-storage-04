@@ -1,11 +1,11 @@
 {
   "name": "swarms-tools",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "Paper - Pytorch",
   "author": "Kye Gomez",
   "license": "MIT",
   "home_page": "https://github.com/The-Swarm-Corporation/swarms-tools",
-  "download_filename": "swarms_tools-0.2.8.tar.gz",
-  "download_time": "2025-08-31T21:19:01.944359",
+  "download_filename": "swarms_tools-0.3.0.tar.gz",
+  "download_time": "2025-09-01T03:24:24.480029",
   "package_url": "https://pypi.org/project/swarms-tools/"
 }

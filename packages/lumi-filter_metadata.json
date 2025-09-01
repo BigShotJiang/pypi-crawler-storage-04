@@ -1,0 +1,11 @@
+{
+  "name": "lumi-filter",
+  "version": "0.2.0",
+  "summary": "A powerful and flexible data filtering library with unified interface for multiple data sources",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumi_filter-0.2.0.tar.gz",
+  "download_time": "2025-09-01T03:24:19.334236",
+  "package_url": "https://pypi.org/project/lumi-filter/"
+}

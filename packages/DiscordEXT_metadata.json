@@ -1,0 +1,11 @@
+{
+  "name": "DiscordEXT",
+  "version": "0.1.1",
+  "summary": "Discord-themed Python installer module",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discordext-0.1.1.tar.gz",
+  "download_time": "2025-09-01T03:24:01.113412",
+  "package_url": "https://pypi.org/project/DiscordEXT/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zdpytools",
-  "version": "0.1.42",
+  "version": "0.1.45",
   "summary": "Python工具集，包含飞书API、AutoDL API和日志工具",
   "author": "zhidateam",
   "license": null,
   "home_page": "https://github.com/zhidateam/zdpytools",
-  "download_filename": "zdpytools-0.1.42.tar.gz",
-  "download_time": "2025-08-31T06:29:31.012221",
+  "download_filename": "zdpytools-0.1.45.tar.gz",
+  "download_time": "2025-09-01T03:24:12.105155",
   "package_url": "https://pypi.org/project/zdpytools/"
 }

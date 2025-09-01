@@ -1,11 +1,11 @@
 {
   "name": "mcp-devtools",
-  "version": "1.9.1",
+  "version": "2.0.0",
   "summary": "multi-functional MCP-devtools server over SSE",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "mcp_devtools-1.9.1.tar.gz",
-  "download_time": "2025-08-31T23:39:48.619507",
+  "download_filename": "mcp_devtools-2.0.0.tar.gz",
+  "download_time": "2025-09-01T03:24:17.284773",
   "package_url": "https://pypi.org/project/mcp-devtools/"
 }
