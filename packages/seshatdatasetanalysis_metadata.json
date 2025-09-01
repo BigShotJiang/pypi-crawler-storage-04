@@ -1,0 +1,11 @@
+{
+  "name": "seshatdatasetanalysis",
+  "version": "0.2.6",
+  "summary": "A package for analyzing time series datasets from the Seshat databank.",
+  "author": "Matilda Peruzzo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seshatdatasetanalysis-0.2.6.tar.gz",
+  "download_time": "2025-09-01T15:21:52.741283",
+  "package_url": "https://pypi.org/project/seshatdatasetanalysis/"
+}

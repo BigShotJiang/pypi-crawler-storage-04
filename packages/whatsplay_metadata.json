@@ -1,0 +1,11 @@
+{
+  "name": "whatsplay",
+  "version": "1.7.7",
+  "summary": "A modern Python library for automating WhatsApp Web using Playwright",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatsplay-1.7.7.tar.gz",
+  "download_time": "2025-09-01T15:21:43.844622",
+  "package_url": "https://pypi.org/project/whatsplay/"
+}

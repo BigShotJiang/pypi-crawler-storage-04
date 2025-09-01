@@ -1,0 +1,11 @@
+{
+  "name": "pyconquest",
+  "version": "0.1.6",
+  "summary": "Python code which partly mimics the conquest pacs",
+  "author": "René Monshouwer",
+  "license": null,
+  "home_page": "https://github.com/ReneMonshouwer/pyconquest",
+  "download_filename": "pyconquest-0.1.6.tar.gz",
+  "download_time": "2025-09-01T15:21:44.892722",
+  "package_url": "https://pypi.org/project/pyconquest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jwatchsync",
+  "version": "0.0.13",
+  "summary": "Libreria para escribir y consultar información en JWatch",
+  "author": "qquiroa",
+  "license": null,
+  "home_page": "https://bitbucket.org/desarrolloilu/rep-ti-jwatch/src/develop/JWatchSync-PY/",
+  "download_filename": "jwatchsync-0.0.13.tar.gz",
+  "download_time": "2025-09-01T15:22:05.430728",
+  "package_url": "https://pypi.org/project/jwatchsync/"
+}

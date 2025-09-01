@@ -1,11 +1,11 @@
 {
   "name": "unique_toolkit",
-  "version": "0.8.34",
+  "version": "0.8.37",
   "summary": null,
   "author": "Martin Fadler",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_toolkit-0.8.34.tar.gz",
-  "download_time": "2025-09-01T08:31:40.475400",
+  "download_filename": "unique_toolkit-0.8.37.tar.gz",
+  "download_time": "2025-09-01T15:22:02.205677",
   "package_url": "https://pypi.org/project/unique_toolkit/"
 }

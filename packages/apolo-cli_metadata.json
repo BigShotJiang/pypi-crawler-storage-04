@@ -1,0 +1,11 @@
+{
+  "name": "apolo-cli",
+  "version": "25.9.0",
+  "summary": "Apolo Platform client",
+  "author": "Apolo Team",
+  "license": "Apache 2",
+  "home_page": "https://github.com/neuro-inc/platform-client-python",
+  "download_filename": "apolo_cli-25.9.0.tar.gz",
+  "download_time": "2025-09-01T15:22:06.470419",
+  "package_url": "https://pypi.org/project/apolo-cli/"
+}

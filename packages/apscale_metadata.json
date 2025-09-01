@@ -1,11 +1,11 @@
 {
   "name": "apscale",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "summary": "Advanced Pipeline for Simple yet Comprehensive AnaLysEs of DNA metabarcoding data",
   "author": "Dominik Buchner",
   "license": "MIT",
   "home_page": "https://github.com/DominikBuchner/apscale",
-  "download_filename": "apscale-4.2.1.tar.gz",
-  "download_time": "2025-09-01T11:21:08.438585",
+  "download_filename": "apscale-4.2.2.tar.gz",
+  "download_time": "2025-09-01T15:21:59.587363",
   "package_url": "https://pypi.org/project/apscale/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eq-api-connector",
+  "version": "0.1.0",
+  "summary": "Equinor API connector (API SDK) to connect to public client app registrations.",
+  "author": "Åsmund Våge Fannemel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eq_api_connector-0.1.0.tar.gz",
+  "download_time": "2025-09-01T15:22:26.006988",
+  "package_url": "https://pypi.org/project/eq-api-connector/"
+}
