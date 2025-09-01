@@ -1,20 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T22:20:46.560479
+- **Download Time**: 2025-09-01T22:42:26.942270
 - **Total Packages**: 70
-- **Total Size**: 34.24 MB
+- **Total Size**: 13.61 MB
 
 ## Packages List
-- standard-playing-card
-- minecraft-datapack-language
-- ingame
+- odoo-addon-l10n-br-mdfe-spec
+- agent-cli
+- grafi
+- scrutinydebugger
+- degiro-connector
+- ut-eviq
+- pypricklybird
+- codetective
+- authentik-client
+- venusai
+- pax-detector
+- tarka
+- tum_esm_utils
+- py-autotune
+- cdk-factory
+- safety
+- fatum
+- openfund-taker
+- openfund-maker
+- slixmpp
+- ai-infra
+- juliapkg
 - bradLib
+- kaqing
+- evo-schemas
+- vardescribe
+- datagouv-client
+- archetypeai
+- pyloan
+- freewili
+- xts
+- PD-loss-balancing
+- minecraft-datapack-language
+- standard-playing-card
+- ingame
 - sqlmesh
 - gtm-rosamii1
 - pacifico
 - aimz
-- kaqing
 - markdown-plan
 - contextlite
 - hoymiles-modbus
@@ -25,7 +55,6 @@
 - pysigil
 - regula-documentreader-webclient
 - superb-ai-onprem
-- authentik-client
 - regex
 - revoxx
 - oplnk-python-utils
@@ -37,8 +66,6 @@
 - piedomains
 - mcubes
 - na-seq
-- freewili
-- PD-loss-balancing
 - tce-lib
 - polarscope
 - splurge-sql-runner
@@ -49,30 +76,3 @@
 - micropython-stubber
 - codearkt
 - bpsai-pair
-- rich-monokai
-- deltadefi
-- pymine-edu
-- toolmux
-- chat-console
-- biology-files
-- ecocash
-- x4c
-- monmoteur
-- zipfile-helper
-- flexibuddiesrl
-- chex
-- electrolytes
-- ragboost
-- pycarlo
-- micropython-stm32-pybv11-stubs
-- micropython-stm32-stubs
-- micropython-samd-seeed_wio_terminal-stubs
-- t-nextgen
-- micropython-samd-stubs
-- micropython-rp2-rpi_pico_w-stubs
-- scopinator
-- micropython-rp2-rpi_pico2_w-stubs
-- micropython-rp2-rpi_pico2-stubs
-- regularized-var
-- micropython-rp2-rpi_pico-stubs
-- micropython-rp2-pimoroni_picolipo-stubs

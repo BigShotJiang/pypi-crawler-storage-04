@@ -1,11 +1,11 @@
 {
   "name": "bradLib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Bradley Day's personal library",
   "author": "Bradley Day",
   "license": "MIT",
   "home_page": "https://github.com/BradADDay/bradLib",
-  "download_filename": "bradlib-1.2.0.tar.gz",
-  "download_time": "2025-09-01T22:20:10.409533",
+  "download_filename": "bradlib-1.2.1.tar.gz",
+  "download_time": "2025-09-01T22:42:00.200999",
   "package_url": "https://pypi.org/project/bradLib/"
 }

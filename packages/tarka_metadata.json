@@ -1,0 +1,11 @@
+{
+  "name": "tarka",
+  "version": "0.20.0",
+  "summary": "Various things for common use, like a Swiss Army Knife.",
+  "author": "Nándor Mátravölgyi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Traktormaster/tarka",
+  "download_filename": "tarka-0.20.0.tar.gz",
+  "download_time": "2025-09-01T22:41:54.496172",
+  "package_url": "https://pypi.org/project/tarka/"
+}
