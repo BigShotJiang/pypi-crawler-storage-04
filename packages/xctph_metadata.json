@@ -1,0 +1,11 @@
+{
+  "name": "xctph",
+  "version": "1.2.0",
+  "summary": "Package for computing exciton phonon matrix elements.",
+  "author": "Krishnaa Vadivel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xctph-1.2.0.tar.gz",
+  "download_time": "2025-09-01T05:43:44.163568",
+  "package_url": "https://pypi.org/project/xctph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tuya-developer-agent-mcp-sdk",
+  "version": "0.1.0",
+  "summary": "涂鸦智能体平台MCP接入sdk",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tuya_developer_agent_mcp_sdk-0.1.0.tar.gz",
+  "download_time": "2025-09-01T05:43:45.737731",
+  "package_url": "https://pypi.org/project/tuya-developer-agent-mcp-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "VNSFintech",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Thư viện cung cấp các công cụ mạnh mẽ và dữ liệu chi tiết hỗ trợ phân tích tài chính, thị trường chứng khoán",
   "author": "Duc Minh",
   "license": null,
   "home_page": null,
-  "download_filename": "vnsfintech-0.0.16.tar.gz",
-  "download_time": "2025-08-31T04:25:35.831325",
+  "download_filename": "vnsfintech-0.0.17.tar.gz",
+  "download_time": "2025-09-01T05:43:50.386297",
   "package_url": "https://pypi.org/project/VNSFintech/"
 }

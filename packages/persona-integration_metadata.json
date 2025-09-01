@@ -1,0 +1,11 @@
+{
+  "name": "persona-integration",
+  "version": "3.2.2",
+  "summary": "This repo contains the backend plugin that implements the Persona integration to be used for id",
+  "author": "2U, Inc.",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/persona-integration",
+  "download_filename": "persona_integration-3.2.2.tar.gz",
+  "download_time": "2025-09-01T05:43:52.445560",
+  "package_url": "https://pypi.org/project/persona-integration/"
+}
