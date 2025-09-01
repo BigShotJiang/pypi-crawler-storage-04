@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-epics-cmd",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "tree-sitter grammar for EPICS' .cmd files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_epics_cmd-0.1.0.tar.gz",
-  "download_time": "2025-09-01T06:59:34.221539",
+  "download_filename": "tree_sitter_epics_cmd-0.1.2.tar.gz",
+  "download_time": "2025-09-01T11:40:14.815776",
   "package_url": "https://pypi.org/project/tree-sitter-epics-cmd/"
 }

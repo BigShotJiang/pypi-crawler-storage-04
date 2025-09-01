@@ -1,11 +1,11 @@
 {
   "name": "synclub-mcp",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "SynClub MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synclub_mcp-0.7.0.tar.gz",
-  "download_time": "2025-09-01T11:21:04.208748",
+  "download_filename": "synclub_mcp-0.7.2.tar.gz",
+  "download_time": "2025-09-01T11:40:14.295941",
   "package_url": "https://pypi.org/project/synclub-mcp/"
 }

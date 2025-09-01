@@ -1,11 +1,11 @@
 {
   "name": "power-grid-model",
-  "version": "1.12.20",
+  "version": "1.12.21",
   "summary": "Python/C++ library for distribution power system analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "power_grid_model-1.12.20.tar.gz",
-  "download_time": "2025-08-29T10:21:46.004606",
+  "download_filename": "power_grid_model-1.12.21.tar.gz",
+  "download_time": "2025-09-01T11:40:21.679535",
   "package_url": "https://pypi.org/project/power-grid-model/"
 }

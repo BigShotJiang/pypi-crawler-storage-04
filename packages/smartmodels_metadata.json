@@ -1,11 +1,11 @@
 {
   "name": "smartmodels",
-  "version": "0.1.334",
+  "version": "0.1.335",
   "summary": "SmartModels",
   "author": "Asterio Gonzalez",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/asterio.gonzalez/smartmodels",
-  "download_filename": "smartmodels-0.1.334-py2.py3-none-any.whl",
-  "download_time": "2025-09-01T09:26:48.239179",
+  "download_filename": "smartmodels-0.1.335-py2.py3-none-any.whl",
+  "download_time": "2025-09-01T11:40:30.082662",
   "package_url": "https://pypi.org/project/smartmodels/"
 }

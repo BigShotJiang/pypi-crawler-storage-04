@@ -1,0 +1,11 @@
+{
+  "name": "clselove",
+  "version": "1.9",
+  "summary": "A simple library for Android UI automation using UIAutomator and ADB",
+  "author": "CodeMaster",
+  "license": null,
+  "home_page": "https://pypi.org/project/myuiautomator/",
+  "download_filename": "clselove-1.9.tar.gz",
+  "download_time": "2025-09-01T11:40:27.486500",
+  "package_url": "https://pypi.org/project/clselove/"
+}
