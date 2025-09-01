@@ -1,11 +1,11 @@
 {
   "name": "strwythura",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Construct a knowledge graph from unstructured data sources, organized by results from entity resolution, implementing an enhanced GraphRAG approach, and also implementing an ontology pipeline plus context engineering for optimizing AI application outcomes within a specific domain.",
   "author": "Paco Nathan",
   "license": "MIT",
   "home_page": "https://github.com/DerwenAI/strwythura",
-  "download_filename": "strwythura-1.4.1.tar.gz",
-  "download_time": "2025-08-30T21:52:31.393258",
+  "download_filename": "strwythura-1.4.2.tar.gz",
+  "download_time": "2025-09-01T17:20:16.895411",
   "package_url": "https://pypi.org/project/strwythura/"
 }

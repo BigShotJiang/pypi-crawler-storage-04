@@ -1,11 +1,11 @@
 {
   "name": "camp-codegen",
-  "version": "0.1.1",
+  "version": "2.0.0",
   "summary": "Camp Codegen: Python SDK and colorful CLI for AI-assisted smart contract generation, compilation, and deployment",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "camp_codegen-0.1.1.tar.gz",
-  "download_time": "2025-09-01T16:58:00.023165",
+  "download_filename": "camp_codegen-2.0.0.tar.gz",
+  "download_time": "2025-09-01T17:20:06.382477",
   "package_url": "https://pypi.org/project/camp-codegen/"
 }

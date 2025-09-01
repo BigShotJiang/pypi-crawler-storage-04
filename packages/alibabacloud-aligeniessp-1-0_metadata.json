@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-aligeniessp-1-0",
+  "version": "2.2.1",
+  "summary": "Alibaba Cloud AliGenie (ssp_1_0) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_aligeniessp_1_0-2.2.1.tar.gz",
+  "download_time": "2025-09-01T17:20:09.505610",
+  "package_url": "https://pypi.org/project/alibabacloud-aligeniessp-1-0/"
+}

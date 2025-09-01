@@ -1,0 +1,11 @@
+{
+  "name": "djaodjin-survey",
+  "version": "0.17.2",
+  "summary": "Django app for qualitative and quantitative surveys",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "djaodjin_survey-0.17.2.tar.gz",
+  "download_time": "2025-09-01T17:20:16.375394",
+  "package_url": "https://pypi.org/project/djaodjin-survey/"
+}

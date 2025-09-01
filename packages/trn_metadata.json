@@ -1,0 +1,11 @@
+{
+  "name": "trn",
+  "version": "0.1.5",
+  "summary": "CLI tool to translate text with LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trn-0.1.5.tar.gz",
+  "download_time": "2025-09-01T17:20:15.332935",
+  "package_url": "https://pypi.org/project/trn/"
+}

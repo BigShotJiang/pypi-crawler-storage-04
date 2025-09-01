@@ -1,17 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T16:58:24.488947
-- **Total Packages**: 88
-- **Total Size**: 52.6 MB
+- **Download Time**: 2025-09-01T17:20:41.787219
+- **Total Packages**: 80
+- **Total Size**: 30.58 MB
 
 ## Packages List
-- django-toosimple-q
-- mcp-security-framework
-- BiliStalkerMCP
+- cloud-autopkg-runner
+- consumableai-aeo
+- pluralize
 - minecraft-datapack-language
-- japyd
+- alloy-ai
+- inferno-torch
+- torbi
+- logaroo
+- reasoning-deployment-service
+- WeComMessage
+- splints
+- quart-i18n
+- venai
+- funnelius
+- camp-codegen
+- cmsgov
+- ag-draftking-utils
+- quixand
+- unbabel-comet
+- gpusnatcher
+- alibabacloud-aligeniessp-1-0
+- radboy
+- drr
+- elasticsearch-interface
+- gdsfactory
+- account-codes-jp
+- converter-csv
+- alibabacloud-sysom20231230
+- NotificationList
+- spot-optimizer
 - authentik-client
+- trn
+- mcp-proxy-adapter
+- djaodjin-survey
+- strwythura
+- soundevent
+- marpledata
+- nessus-file-reader
+- coiled
+- pymakeplots
+- BiliStalkerMCP
+- autotestgen
+- lacuscore
+- django-toosimple-q
+- tsccm
+- fers-calculations
+- dbt-jobs-as-code
+- netintel-ocr
+- Devious-WinRM
+- docxlatex
+- z0lib
+- mcp-security-framework
+- japyd
 - galaxy-py-data
 - krcf
 - rusty-tags
@@ -39,58 +86,3 @@
 - markpub
 - geodesic-api
 - PyQrackIsing
-- bpsai-pair
-- compas-timber
-- dektools
-- docling
-- eis-product-sync
-- PYield
-- quarter-lib
-- jiratui
-- camp-codegen
-- libinephany
-- amberflow
-- mnt.bench
-- ecotransformers
-- gllm-agents-binary
-- worker-automate-hub
-- tierkreis
-- SEL-Rdb
-- olas-operate-middleware
-- wagtail-crx-block-frontend-assets
-- fusion-bench
-- faraday-agent-dispatcher
-- venai
-- scalexi-llm-proxy
-- glassflow-clickhouse-etl
-- netintel-ocr
-- virtual-knitting-machine
-- aima-toolkit
-- polars-u64-idx
-- cleancopywriter
-- polars-lts-cpu
-- utopya
-- polars
-- pyg4ometry
-- ml-management
-- galaxy-py-kernel
-- git-changelog
-- tpgUtils
-- yta-video-frame-time
-- crystpqdb
-- titanshield-cli
-- schmitech-orbit-client
-- fatum
-- cloud-volume
-- adrtlib
-- java-coder
-- quantinuum_sphinx
-- mistapi
-- arpakitlib
-- setdoc
-- beeai-framework
-- spoon-ec5fd18c
-- easy-subprocess
-- capacity-web
-- scc-firewall-manager-sdk
-- radboy

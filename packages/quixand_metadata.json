@@ -1,11 +1,11 @@
 {
   "name": "quixand",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Local-first, adapter-pluggable sandboxes for AI code execution (E2B-like API)",
   "author": "Quixand Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quixand-0.1.1.tar.gz",
-  "download_time": "2025-08-29T23:19:24.052479",
+  "download_filename": "quixand-0.1.2.tar.gz",
+  "download_time": "2025-09-01T17:20:07.945092",
   "package_url": "https://pypi.org/project/quixand/"
 }

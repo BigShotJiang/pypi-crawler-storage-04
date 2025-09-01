@@ -1,11 +1,11 @@
 {
   "name": "nessus-file-reader",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "nessus file reader (NFR) by LimberDuck is a CLI tool and python module created to quickly parse nessus files containing the results of scans performed by using Nessus by (C) Tenable, Inc.",
   "author": "Damian Krawczyk",
   "license": "GPLv3",
   "home_page": "https://github.com/LimberDuck/nessus-file-reader",
-  "download_filename": "nessus_file_reader-0.7.0.tar.gz",
-  "download_time": "2025-09-01T16:26:40.936868",
+  "download_filename": "nessus_file_reader-0.7.1.tar.gz",
+  "download_time": "2025-09-01T17:20:19.036479",
   "package_url": "https://pypi.org/project/nessus-file-reader/"
 }
