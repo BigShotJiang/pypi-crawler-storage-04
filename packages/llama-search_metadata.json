@@ -1,0 +1,11 @@
+{
+  "name": "llama-search",
+  "version": "0.2.1",
+  "summary": "Official Python SDK for Llama Search AI Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_search-0.2.1.tar.gz",
+  "download_time": "2025-09-01T08:54:15.529160",
+  "package_url": "https://pypi.org/project/llama-search/"
+}

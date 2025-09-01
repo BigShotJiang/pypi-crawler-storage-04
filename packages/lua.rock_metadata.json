@@ -1,0 +1,11 @@
+{
+  "name": "lua.rock",
+  "version": "1.0.0",
+  "summary": "Generate rock file",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/huakim/python-create-luarock",
+  "download_filename": "lua_rock-1.0.0.tar.gz",
+  "download_time": "2025-09-01T08:54:22.587454",
+  "package_url": "https://pypi.org/project/lua.rock/"
+}

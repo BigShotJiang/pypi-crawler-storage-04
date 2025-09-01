@@ -1,0 +1,11 @@
+{
+  "name": "djimporter",
+  "version": "0.10",
+  "summary": "Django importer, another CSV import library.",
+  "author": "ICO - Institut Catala Ornitologia",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ico-apps/django-importer",
+  "download_filename": "djimporter-0.10.tar.gz",
+  "download_time": "2025-09-01T08:53:38.569330",
+  "package_url": "https://pypi.org/project/djimporter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SIMPApy",
+  "version": "0.1.6",
+  "summary": "Normalized Single Sample Integrated Multiomics Pathway Analysis",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "simpapy-0.1.6.tar.gz",
+  "download_time": "2025-09-01T08:53:40.885414",
+  "package_url": "https://pypi.org/project/SIMPApy/"
+}

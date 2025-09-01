@@ -1,0 +1,11 @@
+{
+  "name": "turso-python",
+  "version": "1.8",
+  "summary": "A Python client for Turso/libsql HTTP API with sync and async support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "turso_python-1.8.tar.gz",
+  "download_time": "2025-09-01T08:53:55.786554",
+  "package_url": "https://pypi.org/project/turso-python/"
+}

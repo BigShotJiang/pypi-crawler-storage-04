@@ -1,11 +1,11 @@
 {
   "name": "quiz-game",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "create a test in order to practice for exams, test your knowledge, and boost your memory!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quiz_game-0.0.2.tar.gz",
-  "download_time": "2025-08-31T21:52:48.199044",
+  "download_filename": "quiz_game-0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-01T08:53:37.992149",
   "package_url": "https://pypi.org/project/quiz-game/"
 }

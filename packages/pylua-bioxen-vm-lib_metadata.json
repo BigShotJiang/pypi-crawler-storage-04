@@ -1,0 +1,11 @@
+{
+  "name": "pylua-bioxen-vm-lib",
+  "version": "0.1.22",
+  "summary": "Process-isolated networked Lua VMs with multi-VM support and XCP-ng integration",
+  "author": "pylua_bioxen_vm_lib contributors",
+  "license": null,
+  "home_page": "https://github.com/aptitudetechnology/pylua_bioxen_vm_lib",
+  "download_filename": "pylua_bioxen_vm_lib-0.1.22.tar.gz",
+  "download_time": "2025-09-01T08:54:09.698911",
+  "package_url": "https://pypi.org/project/pylua-bioxen-vm-lib/"
+}

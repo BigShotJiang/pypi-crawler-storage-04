@@ -1,11 +1,11 @@
 {
   "name": "async-llms",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "A Python library for making asynchronous LLM calls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_llms-0.3.2.tar.gz",
-  "download_time": "2025-09-01T06:59:54.662744",
+  "download_filename": "async_llms-0.3.5.tar.gz",
+  "download_time": "2025-09-01T08:53:43.930851",
   "package_url": "https://pypi.org/project/async-llms/"
 }

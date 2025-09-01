@@ -1,11 +1,11 @@
 {
   "name": "sciaiot-airflow-providers-tdengine",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "The Apache Airflow provider package for TDengine built by SCIA IoT.",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "sciaiot_airflow_providers_tdengine-0.1.5.tar.gz",
-  "download_time": "2025-09-01T06:35:26.828148",
+  "download_filename": "sciaiot_airflow_providers_tdengine-0.1.6.tar.gz",
+  "download_time": "2025-09-01T08:54:13.749551",
   "package_url": "https://pypi.org/project/sciaiot-airflow-providers-tdengine/"
 }

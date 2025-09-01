@@ -1,0 +1,11 @@
+{
+  "name": "tps-rck-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for the Relational Calculate Kernel (RCK)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tps_rck_sdk-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-01T08:54:03.884378",
+  "package_url": "https://pypi.org/project/tps-rck-sdk/"
+}
