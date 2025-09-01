@@ -1,11 +1,11 @@
 {
   "name": "example-package-TEST-ABI-SDK",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "example_package_test_abi_sdk-0.0.5.tar.gz",
-  "download_time": "2025-08-28T17:18:39.129255",
+  "download_filename": "example_package_test_abi_sdk-0.0.7.tar.gz",
+  "download_time": "2025-09-01T09:26:22.595474",
   "package_url": "https://pypi.org/project/example-package-TEST-ABI-SDK/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-minideepsearch",
+  "version": "0.1.0",
+  "summary": "A deep research agent based on LangGraph and MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_minideepsearch-0.1.0.tar.gz",
+  "download_time": "2025-09-01T09:26:41.437560",
+  "package_url": "https://pypi.org/project/mcp-minideepsearch/"
+}

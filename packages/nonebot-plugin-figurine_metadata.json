@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-figurine",
-  "version": "0.1.3",
+  "version": "0.1.4.post1",
   "summary": "NoneBot2 一个图片手办化插件",
   "author": "padoru233",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_figurine-0.1.3.tar.gz",
-  "download_time": "2025-09-01T04:42:55.340415",
+  "download_filename": "nonebot_plugin_figurine-0.1.4.post1.tar.gz",
+  "download_time": "2025-09-01T09:26:33.622817",
   "package_url": "https://pypi.org/project/nonebot-plugin-figurine/"
 }

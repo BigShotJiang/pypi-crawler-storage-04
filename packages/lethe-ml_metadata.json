@@ -1,0 +1,11 @@
+{
+  "name": "lethe-ml",
+  "version": "0.1.1",
+  "summary": "Lethe is a comprehensive Python library for machine unlearning - the process of selectively removing the influence of specific training data from machine learning models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lethe_ml-0.1.1.tar.gz",
+  "download_time": "2025-09-01T09:26:22.078617",
+  "package_url": "https://pypi.org/project/lethe-ml/"
+}

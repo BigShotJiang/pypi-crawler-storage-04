@@ -1,0 +1,11 @@
+{
+  "name": "apimatic-requests-client-adapter",
+  "version": "0.1.8",
+  "summary": "An adapter for requests client library consumed by the SDKs generated with APIMatic",
+  "author": "APIMatic",
+  "license": "MIT",
+  "home_page": "https://github.com/apimatic/requests-client-adapter",
+  "download_filename": "apimatic_requests_client_adapter-0.1.8.tar.gz",
+  "download_time": "2025-09-01T09:26:27.875669",
+  "package_url": "https://pypi.org/project/apimatic-requests-client-adapter/"
+}

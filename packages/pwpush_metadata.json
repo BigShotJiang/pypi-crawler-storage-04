@@ -1,0 +1,11 @@
+{
+  "name": "pwpush",
+  "version": "0.11.0",
+  "summary": "Command Line Interface to Password Pusher.",
+  "author": "pwpush",
+  "license": "MIT",
+  "home_page": "https://github.com/pglombardo/pwpush",
+  "download_filename": "pwpush-0.11.0.tar.gz",
+  "download_time": "2025-09-01T09:26:55.511681",
+  "package_url": "https://pypi.org/project/pwpush/"
+}
