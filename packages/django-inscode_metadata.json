@@ -1,11 +1,11 @@
 {
   "name": "django-inscode",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "summary": "Django framework da Inscode.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_inscode-1.7.2.tar.gz",
-  "download_time": "2025-09-01T18:29:35.702593",
+  "download_filename": "django_inscode-1.7.3.tar.gz",
+  "download_time": "2025-09-01T19:18:32.554063",
   "package_url": "https://pypi.org/project/django-inscode/"
 }

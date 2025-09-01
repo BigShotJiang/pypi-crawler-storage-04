@@ -1,11 +1,11 @@
 {
   "name": "cubic-bezier-spline",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "summary": "Approximate or interpolate a sequence of points into a sequence of c2-continuous, non-rational cubic Bézier curves.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cubic_bezier_spline-0.19.0.tar.gz",
-  "download_time": "2025-08-31T04:25:51.614469",
+  "download_filename": "cubic_bezier_spline-0.19.1.tar.gz",
+  "download_time": "2025-09-01T19:18:21.035118",
   "package_url": "https://pypi.org/project/cubic-bezier-spline/"
 }
