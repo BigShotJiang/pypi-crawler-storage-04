@@ -1,0 +1,11 @@
+{
+  "name": "posthoganalytics",
+  "version": "6.7.1",
+  "summary": "Integrate PostHog into any python application.",
+  "author": "Posthog",
+  "license": "MIT",
+  "home_page": "https://github.com/posthog/posthog-python",
+  "download_filename": "posthoganalytics-6.7.1.tar.gz",
+  "download_time": "2025-09-01T07:27:47.699043",
+  "package_url": "https://pypi.org/project/posthoganalytics/"
+}

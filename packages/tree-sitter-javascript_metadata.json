@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-javascript",
+  "version": "0.25.0",
+  "summary": "JavaScript grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_javascript-0.25.0.tar.gz",
+  "download_time": "2025-09-01T07:27:47.172435",
+  "package_url": "https://pypi.org/project/tree-sitter-javascript/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rendu",
+  "version": "0.1.2",
+  "summary": "A library to programmatically create presentation slide decks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rendu-0.1.2.tar.gz",
+  "download_time": "2025-09-01T07:27:55.247951",
+  "package_url": "https://pypi.org/project/rendu/"
+}
