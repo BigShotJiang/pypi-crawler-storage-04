@@ -1,15 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T14:44:47.572363
-- **Total Packages**: 82
-- **Total Size**: 42.86 MB
+- **Download Time**: 2025-09-01T14:56:10.841768
+- **Total Packages**: 85
+- **Total Size**: 17.29 MB
 
 ## Packages List
+- cmem-plugin-kubernetes
+- reasoning-core
+- contsub
+- mcpbytes-lambda-stdio
+- rusty-tags
+- orionis
+- kws
+- unfazed
+- cua-client
+- pyonir
+- spoon-ec5fd18c
+- handit-ai
+- async-http-server
+- eu-cbm-hat
+- b3alien
+- WUADS
+- dg-mol-track
+- authentik-client
+- jupyterlite-xeus
+- ftm-analyze
+- gobrec
+- mtllm
+- rotating-mitmproxy
+- HomeBattery
+- inspect-ec2-sandbox
+- pybiginteger-stubs
+- sekoia-automation-sdk
+- pybiginteger
+- byllm
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- hestia-earth-models
+- feedforge
+- asqi-engineer
+- localstack-core
+- openfund-taker
+- openfund-maker
+- dataiku-api-client
+- assisted-service-client
+- el-loom-api-client
 - Chillax
 - metamorproxies
 - pvirie-utils
-- handit-ai
 - cfn-lint-ax
 - acrome-smd-beta
 - lukhed-basic-utils
@@ -20,16 +65,13 @@
 - AgriFoodPy
 - ebi-slurpy
 - agi-med-utils
-- openfund-taker
 - fraiseql
 - pytemporal
-- openfund-maker
 - logtail-python
 - airia
 - pywebtransport
 - django-ixp-tracker
 - almaflow
-- authentik-client
 - rara-norm-linker
 - almanet
 - streamlit-nightly
@@ -43,48 +85,9 @@
 - django-bulk-drf
 - luxonis-train
 - scorebook
-- reasoning-core
 - zen-garden
 - atla-insights
 - smolagents
 - atx-mainframe-dependency-manager
 - learning-credentials
 - mnt.bench
-- brightdata-sdk
-- python-fasttrack
-- zalando-cli-bundle
-- toyaikit
-- guardianhub-core
-- robodogcli
-- vortezwohl
-- dsllm
-- mixedbread
-- prosuite
-- allgitstatus
-- magnetron
-- wipo-gbd-pypers
-- VTKio
-- WUADS
-- nvidia-dali-nightly-cuda130
-- odoo-addon-mail-cleanup
-- atprun
-- dreamgen
-- aws-fsx-lifecycle-status-monitor
-- pragma-sdk
-- s1swotcolocs
-- imagedatasetanalyzer
-- torchsom
-- fxp-jax
-- trading-sdk
-- celery-control
-- structifyai
-- casambi-bt-revamped
-- genja
-- nucliadb-admin-assets
-- pybiolib
-- flamo
-- egosms-sdk
-- quda
-- pycarlo
-- kseniaWebsocketLibrary
-- orionis

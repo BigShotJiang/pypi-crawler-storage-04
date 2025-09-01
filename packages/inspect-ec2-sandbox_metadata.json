@@ -1,0 +1,11 @@
+{
+  "name": "inspect-ec2-sandbox",
+  "version": "0.0.1",
+  "summary": "Placeholder package only. Please install from source https://github.com/UKGovernmentBEIS/inspect_ec2_sandbox. An EC2 Sandbox Environment for Inspect.",
+  "author": "UK AI Safety Institute",
+  "license": null,
+  "home_page": "https://github.com/UKGovernmentBEIS/inspect_ec2_sandbox",
+  "download_filename": "inspect_ec2_sandbox-0.0.1.tar.gz",
+  "download_time": "2025-09-01T14:55:39.047403",
+  "package_url": "https://pypi.org/project/inspect-ec2-sandbox/"
+}
