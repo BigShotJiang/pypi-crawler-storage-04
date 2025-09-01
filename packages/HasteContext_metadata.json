@@ -1,11 +1,11 @@
 {
   "name": "HasteContext",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Parser-backed code-context compression using Tree-sitter",
   "author": "Saish",
   "license": null,
   "home_page": null,
-  "download_filename": "hastecontext-0.2.0.tar.gz",
-  "download_time": "2025-09-01T09:56:55.043978",
+  "download_filename": "hastecontext-0.2.1.tar.gz",
+  "download_time": "2025-09-01T10:24:38.327045",
   "package_url": "https://pypi.org/project/HasteContext/"
 }

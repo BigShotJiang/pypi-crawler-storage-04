@@ -1,0 +1,11 @@
+{
+  "name": "quri-parts",
+  "version": "0.23.0",
+  "summary": "Platform-independent quantum computing library",
+  "author": "QURI Parts Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QunaSys/quri-parts",
+  "download_filename": "quri_parts-0.23.0.tar.gz",
+  "download_time": "2025-09-01T10:25:04.100158",
+  "package_url": "https://pypi.org/project/quri-parts/"
+}

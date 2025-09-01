@@ -1,0 +1,11 @@
+{
+  "name": "thunder-bench",
+  "version": "0.1.1",
+  "summary": "THUNDER: Tile-level Histopathology image UNDERstanding benchmark",
+  "author": null,
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/MICS-Lab/thunder",
+  "download_filename": "thunder_bench-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-01T10:25:15.927793",
+  "package_url": "https://pypi.org/project/thunder-bench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "etos-environment-provider",
+  "version": "5.3.3",
+  "summary": "Environment Provider for ETOS.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "etos_environment_provider-5.3.3.tar.gz",
+  "download_time": "2025-09-01T10:24:41.982508",
+  "package_url": "https://pypi.org/project/etos-environment-provider/"
+}

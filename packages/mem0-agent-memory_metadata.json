@@ -1,11 +1,11 @@
 {
   "name": "mem0-agent-memory",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "MCP server for Mem0 agent memory management with multi-backend support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mem0_agent_memory-1.0.5.tar.gz",
-  "download_time": "2025-08-31T20:23:05.256290",
+  "download_filename": "mem0_agent_memory-1.0.6.tar.gz",
+  "download_time": "2025-09-01T10:25:07.172662",
   "package_url": "https://pypi.org/project/mem0-agent-memory/"
 }

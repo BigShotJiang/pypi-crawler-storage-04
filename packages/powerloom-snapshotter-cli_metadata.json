@@ -1,0 +1,11 @@
+{
+  "name": "powerloom-snapshotter-cli",
+  "version": "0.1.5",
+  "summary": "CLI tool for deploying and managing Powerloom Snapshotter nodes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "powerloom_snapshotter_cli-0.1.5.tar.gz",
+  "download_time": "2025-09-01T10:24:41.470678",
+  "package_url": "https://pypi.org/project/powerloom-snapshotter-cli/"
+}

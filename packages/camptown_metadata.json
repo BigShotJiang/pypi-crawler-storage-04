@@ -1,11 +1,11 @@
 {
   "name": "camptown",
-  "version": "0.3.16",
+  "version": "0.3.18",
   "summary": "Semantic-HTML player engine",
   "author": "fluffy",
   "license": "MIT",
   "home_page": "https://github.com/fluffy-critter/camptown",
-  "download_filename": "camptown-0.3.16.tar.gz",
-  "download_time": "2025-09-01T09:56:38.319342",
+  "download_filename": "camptown-0.3.18.tar.gz",
+  "download_time": "2025-09-01T10:24:48.140031",
   "package_url": "https://pypi.org/project/camptown/"
 }
