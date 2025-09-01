@@ -1,11 +1,11 @@
 {
   "name": "x-make-pypi-x",
-  "version": "3.0.4",
+  "version": "3.0.10",
   "summary": "Makes PyPI packages.",
   "author": "Roy GM",
   "license": null,
   "home_page": "https://pypi.org/project/x_make_pypi_x/",
-  "download_filename": "x_make_pypi_x-3.0.4.tar.gz",
-  "download_time": "2025-08-30T23:52:02.023053",
+  "download_filename": "x_make_pypi_x-3.0.10.tar.gz",
+  "download_time": "2025-09-01T23:20:09.014387",
   "package_url": "https://pypi.org/project/x-make-pypi-x/"
 }

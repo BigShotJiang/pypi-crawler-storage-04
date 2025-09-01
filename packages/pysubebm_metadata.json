@@ -1,11 +1,11 @@
 {
   "name": "pysubebm",
-  "version": "0.2.5",
+  "version": "0.2.9",
   "summary": "Subtype Event-Based Modeling for Disease Progression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysubebm-0.2.5.tar.gz",
-  "download_time": "2025-09-01T03:23:55.973602",
+  "download_filename": "pysubebm-0.2.9.tar.gz",
+  "download_time": "2025-09-01T23:20:15.047950",
   "package_url": "https://pypi.org/project/pysubebm/"
 }

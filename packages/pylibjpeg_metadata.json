@@ -1,0 +1,11 @@
+{
+  "name": "pylibjpeg",
+  "version": "2.1.0",
+  "summary": "A Python framework for decoding JPEG and decoding/encoding DICOM RLE data, with a focus on supporting pydicom",
+  "author": "pylibjpeg contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylibjpeg-2.1.0.tar.gz",
+  "download_time": "2025-09-01T23:20:10.747297",
+  "package_url": "https://pypi.org/project/pylibjpeg/"
+}

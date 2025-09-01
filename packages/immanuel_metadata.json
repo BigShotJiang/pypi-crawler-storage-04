@@ -1,0 +1,11 @@
+{
+  "name": "immanuel",
+  "version": "1.5.2",
+  "summary": "Quickly produce both human-readable and JSON-formatted astrology chart data based on the Swiss Ephemeris and astro.com.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "immanuel-1.5.2.tar.gz",
+  "download_time": "2025-09-01T23:20:06.272625",
+  "package_url": "https://pypi.org/project/immanuel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openfund-core",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "summary": "Openfund-core.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfund_core-1.0.31.tar.gz",
-  "download_time": "2025-09-01T14:21:25.075757",
+  "download_filename": "openfund_core-1.0.32.tar.gz",
+  "download_time": "2025-09-01T23:20:24.326280",
   "package_url": "https://pypi.org/project/openfund-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "distrax",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Distrax: Probability distributions in JAX.",
-  "author": "DeepMind",
-  "license": "Apache 2.0",
-  "home_page": "https://github.com/deepmind/distrax",
-  "download_filename": "distrax-0.1.6.tar.gz",
-  "download_time": "2025-09-01T20:41:27.394309",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "distrax-0.1.7.tar.gz",
+  "download_time": "2025-09-01T23:20:12.874354",
   "package_url": "https://pypi.org/project/distrax/"
 }
