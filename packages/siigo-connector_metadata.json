@@ -1,11 +1,11 @@
 {
   "name": "siigo-connector",
-  "version": "0.1.10",
+  "version": "0.2.7",
   "summary": "Python client for the Siigo API",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "siigo_connector-0.1.10.tar.gz",
-  "download_time": "2025-09-01T01:54:15.912432",
+  "download_filename": "siigo_connector-0.2.7.tar.gz",
+  "download_time": "2025-09-01T11:20:56.859034",
   "package_url": "https://pypi.org/project/siigo-connector/"
 }

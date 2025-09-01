@@ -1,0 +1,11 @@
+{
+  "name": "surrogates_interface",
+  "version": "4.3.3",
+  "summary": "Interface for surrogate models.",
+  "author": "DTU Wind and Energy Systems",
+  "license": "MIT",
+  "home_page": "https://gitlab.windenergy.dtu.dk/surrogate-models/surrogate-models-interface",
+  "download_filename": "surrogates_interface-4.3.3.tar.gz",
+  "download_time": "2025-09-01T11:21:12.581375",
+  "package_url": "https://pypi.org/project/surrogates_interface/"
+}

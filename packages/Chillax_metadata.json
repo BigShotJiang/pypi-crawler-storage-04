@@ -1,11 +1,11 @@
 {
   "name": "Chillax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A python package suitable for vibecoders where every function call is mapped to a Gemini API call.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chillax-0.0.2.tar.gz",
-  "download_time": "2025-09-01T10:58:04.424523",
+  "download_filename": "chillax-0.0.3.tar.gz",
+  "download_time": "2025-09-01T11:21:10.504585",
   "package_url": "https://pypi.org/project/Chillax/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vayu-py",
+  "version": "0.1.6",
+  "summary": "The Vayu API client library in Python",
+  "author": "Vayu Team",
+  "license": null,
+  "home_page": "https://github.com/weft-finance/vayu-py",
+  "download_filename": "vayu_py-0.1.6.tar.gz",
+  "download_time": "2025-09-01T11:21:07.919272",
+  "package_url": "https://pypi.org/project/vayu-py/"
+}

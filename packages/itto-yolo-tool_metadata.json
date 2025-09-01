@@ -1,11 +1,11 @@
 {
   "name": "itto-yolo-tool",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A integrated GUI tool for YOLO model training and annotation",
   "author": "rinst",
   "license": null,
   "home_page": "https://github.com/RinST-Dreaming/Yolo-integrated-training-tool",
-  "download_filename": "itto_yolo_tool-2.0.0.tar.gz",
-  "download_time": "2025-09-01T09:56:50.169745",
+  "download_filename": "itto_yolo_tool-2.0.1.tar.gz",
+  "download_time": "2025-09-01T11:21:09.468431",
   "package_url": "https://pypi.org/project/itto-yolo-tool/"
 }

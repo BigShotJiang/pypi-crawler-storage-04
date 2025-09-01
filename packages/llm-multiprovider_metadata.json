@@ -1,11 +1,11 @@
 {
   "name": "llm-multiprovider",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "LLM API for multiple model providers",
   "author": "José Ángel Morell",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/jamorell/llm_multiprovider",
-  "download_filename": "llm_multiprovider-0.1.31.tar.gz",
-  "download_time": "2025-09-01T10:46:59.260800",
+  "download_filename": "llm_multiprovider-0.1.32.tar.gz",
+  "download_time": "2025-09-01T11:21:15.735580",
   "package_url": "https://pypi.org/project/llm-multiprovider/"
 }
