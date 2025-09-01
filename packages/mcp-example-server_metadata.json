@@ -1,0 +1,11 @@
+{
+  "name": "mcp-example-server",
+  "version": "0.1.0",
+  "summary": "Servidor MCP de exemplo (echo e time_now)",
+  "author": "TCC Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_example_server-0.1.0.tar.gz",
+  "download_time": "2025-09-01T23:53:23.276035",
+  "package_url": "https://pypi.org/project/mcp-example-server/"
+}

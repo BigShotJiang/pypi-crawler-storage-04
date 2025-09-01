@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T23:41:11.728357
-- **Total Packages**: 61
-- **Total Size**: 25.32 MB
+- **Download Time**: 2025-09-01T23:53:43.726315
+- **Total Packages**: 53
+- **Total Size**: 12.32 MB
 
 ## Packages List
+- polarscope
+- neutronapi
+- finquotes
+- javascript
+- ecocash
+- minecraft-datapack-language
+- authentik-client
+- ibbi
+- umlshapes
+- konfai
+- mcp-file-contents-reader
+- aminoac
+- bioamla
+- chatgpt_hj3415
+- mcp-example-server
+- PD-loss-balancing
+- gitlabcis
+- toolmux
 - rlax
 - cjm-transcription-plugin-gemini
 - neuralhash
@@ -13,21 +31,15 @@
 - card-shoe
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
-- mcp-file-contents-reader
 - doxer
 - generalanalysis
-- minecraft-datapack-language
 - gam7
 - x-make-pypi-x
 - x-make-markdown-x
-- authentik-client
 - pygpt-net
-- PD-loss-balancing
 - nv-ingest-client
 - betty
 - PySocker
-- ecocash
-- toolmux
 - gtm-rosamii1
 - satori-ci
 - ap-cfg
@@ -38,7 +50,6 @@
 - coloredstrings
 - ap-mail
 - returnn
-- aminoac
 - aitana
 - webdavit
 - ee-client
@@ -48,22 +59,3 @@
 - immanuel
 - wtr-watcher
 - hvym-stellar
-- fatum
-- pylibjpeg
-- cjm-transcription-plugin-system
-- flwr-nightly
-- distrax
-- standard-playing-card
-- cdk-factory
-- bioamla
-- pysubebm
-- causal-pipe
-- samcell-napari
-- maxs
-- policyengine-us
-- odoo-addon-l10n-br-cte-spec
-- resolvematrix
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- tokyo-devpe
-- atopile-easyeda2kicad

@@ -1,11 +1,11 @@
 {
   "name": "mcp-file-contents-reader",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "MCP (Model Context Protocol) server for reading and analyzing various file formats including PDF, Excel, Word, and PowerPoint",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_file_contents_reader-1.0.4.tar.gz",
-  "download_time": "2025-09-01T23:40:41.726060",
+  "download_filename": "mcp_file_contents_reader-1.0.6.tar.gz",
+  "download_time": "2025-09-01T23:53:21.219169",
   "package_url": "https://pypi.org/project/mcp-file-contents-reader/"
 }
