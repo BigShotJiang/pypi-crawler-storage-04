@@ -1,0 +1,11 @@
+{
+  "name": "python-ironic-inspector-client",
+  "version": "5.4.0",
+  "summary": "Python client for Ironic Inspector",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/python-ironic-inspector-client/latest/",
+  "download_filename": "python_ironic_inspector_client-5.4.0.tar.gz",
+  "download_time": "2025-09-01T13:47:14.367837",
+  "package_url": "https://pypi.org/project/python-ironic-inspector-client/"
+}

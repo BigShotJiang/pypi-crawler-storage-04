@@ -1,0 +1,11 @@
+{
+  "name": "python-brick-cinderclient-ext",
+  "version": "2.6.0",
+  "summary": "python-cinderclient extension for local storage management",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://docs.openstack.org/cinder/latest/",
+  "download_filename": "python_brick_cinderclient_ext-2.6.0.tar.gz",
+  "download_time": "2025-09-01T13:47:23.727572",
+  "package_url": "https://pypi.org/project/python-brick-cinderclient-ext/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-manilaclient",
+  "version": "5.6.0",
+  "summary": "Client library for OpenStack Manila API.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-manilaclient/latest/",
+  "download_filename": "python_manilaclient-5.6.0.tar.gz",
+  "download_time": "2025-09-01T13:47:11.259384",
+  "package_url": "https://pypi.org/project/python-manilaclient/"
+}

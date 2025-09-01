@@ -1,0 +1,11 @@
+{
+  "name": "python-adjutantclient",
+  "version": "1.4.0",
+  "summary": "Adjutant API Client Library",
+  "author": "Adrian Turjak",
+  "license": null,
+  "home_page": "https://github.com/openstack/python-adjutantclient",
+  "download_filename": "python_adjutantclient-1.4.0.tar.gz",
+  "download_time": "2025-09-01T13:47:19.542767",
+  "package_url": "https://pypi.org/project/python-adjutantclient/"
+}

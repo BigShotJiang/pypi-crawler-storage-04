@@ -1,0 +1,11 @@
+{
+  "name": "getlicense",
+  "version": "0.3.1",
+  "summary": "A tool to quickly generate software license files with customizable project details",
+  "author": "Ashkan Feyzollahi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "getlicense-0.3.1.tar.gz",
+  "download_time": "2025-09-01T13:47:42.325174",
+  "package_url": "https://pypi.org/project/getlicense/"
+}

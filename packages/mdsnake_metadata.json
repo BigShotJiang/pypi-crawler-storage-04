@@ -1,11 +1,11 @@
 {
   "name": "mdsnake",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Views markdown text inside of the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdsnake-0.3.1.tar.gz",
-  "download_time": "2025-09-01T13:20:48.476596",
+  "download_filename": "mdsnake-0.4.0.tar.gz",
+  "download_time": "2025-09-01T13:47:44.373644",
   "package_url": "https://pypi.org/project/mdsnake/"
 }

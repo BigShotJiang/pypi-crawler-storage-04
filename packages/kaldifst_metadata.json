@@ -1,0 +1,11 @@
+{
+  "name": "kaldifst",
+  "version": "1.7.17",
+  "summary": null,
+  "author": "Next-gen Kaldi development team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/k2-fsa/kaldifst",
+  "download_filename": "kaldifst-1.7.17.tar.gz",
+  "download_time": "2025-09-01T13:47:34.073575",
+  "package_url": "https://pypi.org/project/kaldifst/"
+}

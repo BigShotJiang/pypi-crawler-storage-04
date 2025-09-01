@@ -1,0 +1,11 @@
+{
+  "name": "python-troveclient",
+  "version": "8.9.0",
+  "summary": "Client library for OpenStack DBaaS API",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-troveclient/latest",
+  "download_filename": "python_troveclient-8.9.0.tar.gz",
+  "download_time": "2025-09-01T13:47:21.603899",
+  "package_url": "https://pypi.org/project/python-troveclient/"
+}

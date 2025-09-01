@@ -1,0 +1,11 @@
+{
+  "name": "python-masakariclient",
+  "version": "8.7.0",
+  "summary": "masakariclient module and a CLI tool for masakari",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-masakariclient/latest/",
+  "download_filename": "python_masakariclient-8.7.0.tar.gz",
+  "download_time": "2025-09-01T13:47:17.479147",
+  "package_url": "https://pypi.org/project/python-masakariclient/"
+}

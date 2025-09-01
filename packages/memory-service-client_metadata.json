@@ -1,0 +1,11 @@
+{
+  "name": "memory-service-client",
+  "version": "0.3.0",
+  "summary": "Python client library for Memory Service gRPC API",
+  "author": "Memory Service Team",
+  "license": null,
+  "home_page": "https://github.com/example/memory-service",
+  "download_filename": "memory_service_client-0.3.0.tar.gz",
+  "download_time": "2025-09-01T13:47:46.432446",
+  "package_url": "https://pypi.org/project/memory-service-client/"
+}

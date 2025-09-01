@@ -1,11 +1,11 @@
 {
   "name": "any-agent",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "any_agent-1.6.0.tar.gz",
-  "download_time": "2025-08-28T17:41:10.262862",
+  "download_filename": "any_agent-1.7.0.tar.gz",
+  "download_time": "2025-09-01T13:47:36.140012",
   "package_url": "https://pypi.org/project/any-agent/"
 }

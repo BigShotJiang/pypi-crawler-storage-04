@@ -1,11 +1,11 @@
 {
   "name": "mixam-python-public-api",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "summary": "Auto-generated Pydantic models for Mixam Public API",
   "author": "Ashley Swatton",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mixam_python_public_api-0.1.0.tar.gz",
-  "download_time": "2025-09-01T13:21:20.969608",
+  "download_filename": "mixam_python_public_api-0.0.2.tar.gz",
+  "download_time": "2025-09-01T13:47:10.226193",
   "package_url": "https://pypi.org/project/mixam-python-public-api/"
 }

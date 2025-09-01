@@ -1,0 +1,11 @@
+{
+  "name": "python-vitrageclient",
+  "version": "5.3.0",
+  "summary": "Vitrage Client API Library",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-vitrageclient/latest/",
+  "download_filename": "python_vitrageclient-5.3.0.tar.gz",
+  "download_time": "2025-09-01T13:47:25.783147",
+  "package_url": "https://pypi.org/project/python-vitrageclient/"
+}
