@@ -1,11 +1,11 @@
 {
   "name": "cogstack-model-gateway-client",
-  "version": "0.1.6",
+  "version": "0.1.6.1",
   "summary": "A Python client for the CogStack Model Gateway",
   "author": "Phoevos Kalemkeris",
   "license": "Apache-2.0",
   "home_page": "https://github.com/CogStack/cogstack-model-gateway",
-  "download_filename": "cogstack_model_gateway_client-0.1.6.tar.gz",
-  "download_time": "2025-09-01T19:18:26.743898",
+  "download_filename": "cogstack_model_gateway_client-0.1.6.1.tar.gz",
+  "download_time": "2025-09-01T19:40:03.047724",
   "package_url": "https://pypi.org/project/cogstack-model-gateway-client/"
 }

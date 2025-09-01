@@ -1,0 +1,11 @@
+{
+  "name": "ditainer",
+  "version": "1.2.3",
+  "summary": "Dependency Injection Container for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ditainer-1.2.3.tar.gz",
+  "download_time": "2025-09-01T19:40:03.568668",
+  "package_url": "https://pypi.org/project/ditainer/"
+}

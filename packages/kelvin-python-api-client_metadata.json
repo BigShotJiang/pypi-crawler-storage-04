@@ -1,11 +1,11 @@
 {
   "name": "kelvin-python-api-client",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Kelvin Python API Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kelvin_python_api_client-0.3.2-py3-none-any.whl",
-  "download_time": "2025-09-01T19:18:11.798546",
+  "download_filename": "kelvin_python_api_client-0.4.0-py3-none-any.whl",
+  "download_time": "2025-09-01T19:40:08.214070",
   "package_url": "https://pypi.org/project/kelvin-python-api-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jaclang",
+  "version": "0.8.6",
+  "summary": "Jac is a unique and powerful programming language that runs on top of Python, offering an unprecedented level of intelligence and intuitive understanding.",
+  "author": "Jason Mars",
+  "license": "MIT",
+  "home_page": "https://jaseci.org",
+  "download_filename": "jaclang-0.8.6.tar.gz",
+  "download_time": "2025-09-01T19:40:02.008613",
+  "package_url": "https://pypi.org/project/jaclang/"
+}
