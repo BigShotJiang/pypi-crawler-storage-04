@@ -1,0 +1,11 @@
+{
+  "name": "pycorelib",
+  "version": "0.1.0",
+  "summary": "A lightweight Python utility library with CSV, JSON, config, async, string, dict, and numeric helpers.",
+  "author": "Sumit Kumar Sharma",
+  "license": null,
+  "home_page": "https://github.com/sumit333/pycorelib",
+  "download_filename": "pycorelib-0.1.0.tar.gz",
+  "download_time": "2025-09-01T07:43:11.544962",
+  "package_url": "https://pypi.org/project/pycorelib/"
+}

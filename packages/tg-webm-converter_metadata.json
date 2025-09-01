@@ -1,0 +1,11 @@
+{
+  "name": "tg-webm-converter",
+  "version": "0.1.1",
+  "summary": "Convert images to Telegram WebM stickers.",
+  "author": "Yeongjin Kim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tg_webm_converter-0.1.1.tar.gz",
+  "download_time": "2025-09-01T07:43:04.908141",
+  "package_url": "https://pypi.org/project/tg-webm-converter/"
+}

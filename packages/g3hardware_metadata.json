@@ -1,0 +1,11 @@
+{
+  "name": "g3hardware",
+  "version": "0.2.12",
+  "summary": "G3 PLC Hardware XML configuration generator",
+  "author": "Elektroline a.s.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "g3hardware-0.2.12.tar.gz",
+  "download_time": "2025-09-01T07:42:56.033477",
+  "package_url": "https://pypi.org/project/g3hardware/"
+}

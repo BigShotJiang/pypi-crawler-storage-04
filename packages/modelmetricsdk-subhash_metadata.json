@@ -1,0 +1,11 @@
+{
+  "name": "modelmetricsdk-subhash",
+  "version": "0.3",
+  "summary": "model store SDK for Training Host",
+  "author": "O-RAN Software Community",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "modelmetricsdk_subhash-0.3.tar.gz",
+  "download_time": "2025-09-01T07:43:19.415681",
+  "package_url": "https://pypi.org/project/modelmetricsdk-subhash/"
+}
