@@ -1,0 +1,11 @@
+{
+  "name": "django-toosimple-q",
+  "version": "1.0.0",
+  "summary": "A simplistic task queue and cron-like scheduler for Django",
+  "author": "Olivier Dalang",
+  "license": "MIT",
+  "home_page": "https://github.com/olivierdalang/django-toosimple-q",
+  "download_filename": "django-toosimple-q-1.0.0.tar.gz",
+  "download_time": "2025-09-01T16:57:38.212997",
+  "package_url": "https://pypi.org/project/django-toosimple-q/"
+}

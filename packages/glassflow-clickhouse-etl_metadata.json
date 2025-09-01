@@ -1,0 +1,11 @@
+{
+  "name": "glassflow-clickhouse-etl",
+  "version": "1.0.0",
+  "summary": "GlassFlow Clickhouse ETL Python SDK: Create GlassFlow pipelines between Kafka and ClickHouse",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassflow_clickhouse_etl-1.0.0.tar.gz",
+  "download_time": "2025-09-01T16:58:07.899699",
+  "package_url": "https://pypi.org/project/glassflow-clickhouse-etl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WechatSendMsg",
+  "version": "1.0.0",
+  "summary": "发送企业微信消息的程序",
+  "author": "DongYang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wechatsendmsg-1.0.0.tar.gz",
+  "download_time": "2025-09-01T16:57:48.111180",
+  "package_url": "https://pypi.org/project/WechatSendMsg/"
+}

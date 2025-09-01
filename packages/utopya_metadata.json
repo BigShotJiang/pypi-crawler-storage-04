@@ -1,0 +1,11 @@
+{
+  "name": "utopya",
+  "version": "1.3.7",
+  "summary": "A simulation management and evaluation framework",
+  "author": "utopya developers",
+  "license": null,
+  "home_page": "https://gitlab.com/utopia-project/utopya",
+  "download_filename": "utopya-1.3.7.tar.gz",
+  "download_time": "2025-09-01T16:58:11.568729",
+  "package_url": "https://pypi.org/project/utopya/"
+}

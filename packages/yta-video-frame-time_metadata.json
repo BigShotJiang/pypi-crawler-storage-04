@@ -1,11 +1,11 @@
 {
   "name": "yta-video-frame-time",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Youtube Autonomous Video Frame Time Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_video_frame_time-0.0.6.tar.gz",
-  "download_time": "2025-08-31T14:40:47.728173",
+  "download_filename": "yta_video_frame_time-0.0.7.tar.gz",
+  "download_time": "2025-09-01T16:58:15.266685",
   "package_url": "https://pypi.org/project/yta-video-frame-time/"
 }

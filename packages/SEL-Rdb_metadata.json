@@ -1,0 +1,11 @@
+{
+  "name": "SEL-Rdb",
+  "version": "1.0.0",
+  "summary": "A comprehensive toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files",
+  "author": "AOUF Nihed",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/SEL_Rdb",
+  "download_filename": "sel_rdb-1.0.0.tar.gz",
+  "download_time": "2025-09-01T16:58:04.284211",
+  "package_url": "https://pypi.org/project/SEL-Rdb/"
+}

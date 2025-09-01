@@ -1,11 +1,11 @@
 {
   "name": "tnscm",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "TNSCM (Tenable Nessus CLI Manager) by LimberDuck",
   "author": "Damian Krawczyk",
   "license": "MIT",
   "home_page": "https://github.com/LimberDuck/tnscm",
-  "download_filename": "tnscm-0.0.6.tar.gz",
-  "download_time": "2025-09-01T15:53:13.366351",
+  "download_filename": "tnscm-0.0.7.tar.gz",
+  "download_time": "2025-09-01T16:57:45.520798",
   "package_url": "https://pypi.org/project/tnscm/"
 }
