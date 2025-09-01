@@ -1,0 +1,11 @@
+{
+  "name": "tcd-ice",
+  "version": "1.2.0",
+  "summary": "A distribution of ZeroC/ICE slice files for TCD project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcd_ice-1.2.0.tar.gz",
+  "download_time": "2025-09-01T09:46:22.290483",
+  "package_url": "https://pypi.org/project/tcd-ice/"
+}

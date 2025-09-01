@@ -1,0 +1,11 @@
+{
+  "name": "uai_annotation_requests",
+  "version": "0.6.0",
+  "summary": "Understand.ai Python Client SDK for requesting annotations.",
+  "author": "UAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uai_annotation_requests-0.6.0.tar.gz",
+  "download_time": "2025-09-01T09:46:09.607484",
+  "package_url": "https://pypi.org/project/uai_annotation_requests/"
+}

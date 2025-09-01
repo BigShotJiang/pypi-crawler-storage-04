@@ -1,11 +1,11 @@
 {
   "name": "dcd-lago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python implementation of the LAGO method for dynamic community detection in temporal networks. Derived functions such as the Longitudinal Modularity are also provided.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcd_lago-1.0.0-py3-none-any.whl",
-  "download_time": "2025-08-29T13:44:12.333073",
+  "download_filename": "dcd_lago-1.0.1.tar.gz",
+  "download_time": "2025-09-01T09:46:08.460668",
   "package_url": "https://pypi.org/project/dcd-lago/"
 }

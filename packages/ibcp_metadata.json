@@ -1,0 +1,11 @@
+{
+  "name": "ibcp",
+  "version": "0.0.3",
+  "summary": "Python Wrapper for Interactive Brokers API",
+  "author": "Matt",
+  "license": null,
+  "home_page": "https://github.com/matthewmoorcroft/ibcp",
+  "download_filename": "ibcp-0.0.3.tar.gz",
+  "download_time": "2025-09-01T09:45:54.588867",
+  "package_url": "https://pypi.org/project/ibcp/"
+}
