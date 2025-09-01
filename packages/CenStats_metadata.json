@@ -1,0 +1,11 @@
+{
+  "name": "CenStats",
+  "version": "0.0.13",
+  "summary": "Centromere statistics toolkit.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "censtats-0.0.13.tar.gz",
+  "download_time": "2025-09-01T06:35:16.563752",
+  "package_url": "https://pypi.org/project/CenStats/"
+}

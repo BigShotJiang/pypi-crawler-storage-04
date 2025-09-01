@@ -1,11 +1,11 @@
 {
   "name": "hero-base",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": "Baidu",
   "license": null,
   "home_page": "https://github.com/baidu/hero-tools",
-  "download_filename": "hero_base-0.1.4.tar.gz",
-  "download_time": "2025-08-29T11:52:27.055326",
+  "download_filename": "hero_base-0.1.5.tar.gz",
+  "download_time": "2025-09-01T06:35:29.488233",
   "package_url": "https://pypi.org/project/hero-base/"
 }

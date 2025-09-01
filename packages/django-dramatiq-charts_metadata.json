@@ -1,0 +1,11 @@
+{
+  "name": "django-dramatiq-charts",
+  "version": "0.4.0",
+  "summary": "Charts for django_dramatic",
+  "author": "Vladimir Kaukin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ikvk/django_dramatiq_charts",
+  "download_filename": "django_dramatiq_charts-0.4.0.tar.gz",
+  "download_time": "2025-09-01T06:35:17.692309",
+  "package_url": "https://pypi.org/project/django-dramatiq-charts/"
+}

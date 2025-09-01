@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-kernel-pathresolver",
+  "version": "0.0.1",
+  "summary": "Jupyter kernel manager extension that resolves kernel working directory paths, especially for symlinked and special directories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jupyter_kernel_pathresolver-0.0.1.tar.gz",
+  "download_time": "2025-09-01T06:35:48.922274",
+  "package_url": "https://pypi.org/project/jupyter-kernel-pathresolver/"
+}

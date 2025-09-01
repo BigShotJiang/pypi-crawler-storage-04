@@ -1,0 +1,11 @@
+{
+  "name": "protodocs",
+  "version": "0.1.0",
+  "summary": "ASGI application for serving protobuf API docs",
+  "author": "CurioSwitch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "protodocs-0.1.0.tar.gz",
+  "download_time": "2025-09-01T06:35:56.964780",
+  "package_url": "https://pypi.org/project/protodocs/"
+}

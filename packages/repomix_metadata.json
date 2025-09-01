@@ -1,0 +1,11 @@
+{
+  "name": "repomix",
+  "version": "0.3.4",
+  "summary": "A tool for analyzing and summarizing code repositories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repomix-0.3.4.tar.gz",
+  "download_time": "2025-09-01T06:35:28.414247",
+  "package_url": "https://pypi.org/project/repomix/"
+}

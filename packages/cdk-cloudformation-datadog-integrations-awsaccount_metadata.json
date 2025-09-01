@@ -1,0 +1,11 @@
+{
+  "name": "cdk-cloudformation-datadog-integrations-awsaccount",
+  "version": "1.0.0a7",
+  "summary": "Datadog AWS Account Integration 1.0.0",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-cloudformation.git",
+  "download_filename": "cdk_cloudformation_datadog_integrations_awsaccount-1.0.0a7.tar.gz",
+  "download_time": "2025-09-01T06:35:21.422395",
+  "package_url": "https://pypi.org/project/cdk-cloudformation-datadog-integrations-awsaccount/"
+}
