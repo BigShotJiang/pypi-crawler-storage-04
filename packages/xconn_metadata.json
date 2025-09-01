@@ -1,11 +1,11 @@
 {
   "name": "xconn",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "https://github.com/xconnio/xconn-python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xconn-0.4.0.tar.gz",
-  "download_time": "2025-09-01T20:52:58.518246",
+  "download_filename": "xconn-0.4.3.tar.gz",
+  "download_time": "2025-09-01T21:19:24.910062",
   "package_url": "https://pypi.org/project/xconn/"
 }

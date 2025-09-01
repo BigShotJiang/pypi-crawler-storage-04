@@ -1,15 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T20:53:36.969118
-- **Total Packages**: 74
-- **Total Size**: 16.45 MB
+- **Download Time**: 2025-09-01T21:19:58.642359
+- **Total Packages**: 87
+- **Total Size**: 18.83 MB
 
 ## Packages List
-- kaqing
-- proteokit
-- xconn
+- cosmos-isolation-utils
+- styro
+- dwrappr
+- kagebunshin
+- cogstack-model-gateway-client
+- langflow-nightly
+- darkest
+- rollouts
+- autopurple
+- letta-client
+- qbraid
+- amauo
+- doroutes
+- cuenca-validations
+- snakegram
+- dismoji
+- delme930
+- cjm-ffmpeg-utils
+- teraflopai-data
+- datasentinel
+- vizta
+- micropython-stdlib-stubs
+- nocodb-simple-client
+- contextgem
 - authentik-client
+- HoloLink
+- multicollections
+- monmoteur
+- xconn
+- apifoncier2
+- handit-ai
+- libro-book
+- kaqing
+- session-mgmt-mcp
+- cgmm
+- toggl-mcp
+- just-semantic-search-server-cuda
+- just-semantic-search-server
+- just-semantic-search-scholar-cuda
+- just-semantic-search-scholar
+- just-semantic-search-meili-cuda
+- just-semantic-search-meili
+- just-semantic-search
+- pyMetaModel
+- pyown
+- napari-convpaint
+- pyinfra-testgen
+- segmented-creator
+- limber-timber
+- pyjelly
+- ultimate-notion
+- zarvan
+- proteokit
 - sack-chat
 - tencentcloud-sdk-python-monitor
 - PD-loss-balancing
@@ -28,7 +77,6 @@
 - pyfwfinder
 - update-playlist
 - tencentcloud-sdk-python-intl-en
-- pyinfra-testgen
 - green-cli
 - colorist
 - langchain-vm-x-ai
@@ -45,38 +93,3 @@
 - eth-rpc-py
 - xync-client
 - localport
-- protoss
-- simple-trade
-- cogstack-model-gateway-client
-- toggl-mcp
-- pip2conda
-- pyodide-mkdocs-theme
-- cendat
-- league-data-mcp
-- account-codes-jp
-- ecoledirecte
-- knitout-to-dat-python
-- distrax
-- tccli-intl-en
-- maleo-enums
-- pyg4ometry
-- enerhabitat
-- crypticorn
-- wajp
-- osbot-utils
-- abstra
-- schedulo-api
-- beetle-logging
-- crackerjack
-- dataspace-client
-- llamactl
-- llama-deploy-core
-- toycrypto
-- llama-deploy-appserver
-- mtbp3cd
-- streamOneIonSDK
-- spml2-mltools
-- quixand
-- gam7
-- bdns-fetch
-- dump-things-service

@@ -1,0 +1,11 @@
+{
+  "name": "vizta",
+  "version": "1.1.2",
+  "summary": "Fast and flexible semi-supervised learning for peptide detection",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "vizta-1.1.2.tar.gz",
+  "download_time": "2025-09-01T21:19:20.764672",
+  "package_url": "https://pypi.org/project/vizta/"
+}

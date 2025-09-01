@@ -1,11 +1,11 @@
 {
   "name": "multicollections",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Fully generic MultiDict class",
   "author": "Gabriel S. Gerlero",
   "license": null,
   "home_page": null,
-  "download_filename": "multicollections-0.4.0.tar.gz",
-  "download_time": "2025-08-31T21:38:48.188111",
+  "download_filename": "multicollections-0.4.1.tar.gz",
+  "download_time": "2025-09-01T21:19:23.880293",
   "package_url": "https://pypi.org/project/multicollections/"
 }
