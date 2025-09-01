@@ -1,0 +1,11 @@
+{
+  "name": "cfn-lint-ax",
+  "version": "1.3.0",
+  "summary": "Rules for cfn lint.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfn_lint_ax-1.3.0.tar.gz",
+  "download_time": "2025-09-01T14:44:06.326524",
+  "package_url": "https://pypi.org/project/cfn-lint-ax/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "multi-browser-crawler",
-  "version": "0.2.4",
-  "summary": "Enterprise-grade browser automation with advanced features",
+  "version": "0.3.0",
+  "summary": "Focused browser automation package for web scraping and content extraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multi_browser_crawler-0.2.4.tar.gz",
-  "download_time": "2025-09-01T04:05:30.539101",
+  "download_filename": "multi_browser_crawler-0.3.0.tar.gz",
+  "download_time": "2025-09-01T14:44:07.862686",
   "package_url": "https://pypi.org/project/multi-browser-crawler/"
 }

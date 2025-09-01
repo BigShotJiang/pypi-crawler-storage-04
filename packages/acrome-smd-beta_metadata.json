@@ -1,0 +1,11 @@
+{
+  "name": "acrome-smd-beta",
+  "version": "0.0.1",
+  "summary": "Python library for interfacing with Acrome Smart Motion Devices (SMD) products (beta version).",
+  "author": "BeratComputer",
+  "license": null,
+  "home_page": "https://github.com/Acrome-Smart-Motion-Devices/python-library-new",
+  "download_filename": "acrome_smd_beta-0.0.1.tar.gz",
+  "download_time": "2025-09-01T14:44:06.837448",
+  "package_url": "https://pypi.org/project/acrome-smd-beta/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vortezwohl",
-  "version": "0.0.12",
+  "version": "0.0.15",
   "summary": "SDK of vortezwohl.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vortezwohl-0.0.12.tar.gz",
-  "download_time": "2025-09-01T12:45:18.039101",
+  "download_filename": "vortezwohl-0.0.15.tar.gz",
+  "download_time": "2025-09-01T14:44:30.652201",
   "package_url": "https://pypi.org/project/vortezwohl/"
 }

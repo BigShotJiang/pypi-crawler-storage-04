@@ -1,0 +1,11 @@
+{
+  "name": "dreamgen",
+  "version": "1.0.1",
+  "summary": "Generate unlimited AI images locally with no subscriptions - your machine dreams with you",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dreamgen-1.0.1.tar.gz",
+  "download_time": "2025-09-01T14:44:37.376274",
+  "package_url": "https://pypi.org/project/dreamgen/"
+}

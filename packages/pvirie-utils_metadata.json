@@ -1,0 +1,11 @@
+{
+  "name": "pvirie-utils",
+  "version": "1.6.1",
+  "summary": "PVirie's python utility functions",
+  "author": "Chatavut Viriyasuthee",
+  "license": null,
+  "home_page": "https://github.com/PVirie/python-utils",
+  "download_filename": "pvirie_utils-1.6.1.tar.gz",
+  "download_time": "2025-09-01T14:44:05.276189",
+  "package_url": "https://pypi.org/project/pvirie-utils/"
+}

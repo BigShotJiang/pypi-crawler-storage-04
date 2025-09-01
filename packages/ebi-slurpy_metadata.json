@@ -1,0 +1,11 @@
+{
+  "name": "ebi-slurpy",
+  "version": "0.1.1",
+  "summary": "Python client for the Slurm REST API",
+  "author": "Sandy Rogers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/EBI-Metagenomics/slurpy",
+  "download_filename": "ebi_slurpy-0.1.1.tar.gz",
+  "download_time": "2025-09-01T14:44:10.426015",
+  "package_url": "https://pypi.org/project/ebi-slurpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logtail-python",
+  "version": "0.3.4",
+  "summary": "Logtail.com client library",
+  "author": "Logtail",
+  "license": "ISC",
+  "home_page": "https://github.com/logtail/logtail-python",
+  "download_filename": "logtail_python-0.3.4.tar.gz",
+  "download_time": "2025-09-01T14:44:14.019500",
+  "package_url": "https://pypi.org/project/logtail-python/"
+}
