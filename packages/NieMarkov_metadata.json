@@ -1,11 +1,11 @@
 {
   "name": "NieMarkov",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "NieMarkov: Niema's Python Bloom Filter implementation",
   "author": "Niema Moshiri",
   "license": null,
   "home_page": "https://github.com/niemasd/NieMarkov",
-  "download_filename": "NieMarkov-1.0.1.tar.gz",
-  "download_time": "2025-08-28T22:19:33.889840",
+  "download_filename": "NieMarkov-1.0.2.tar.gz",
+  "download_time": "2025-09-01T20:22:46.877423",
   "package_url": "https://pypi.org/project/NieMarkov/"
 }

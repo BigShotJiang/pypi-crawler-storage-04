@@ -1,0 +1,11 @@
+{
+  "name": "itertree",
+  "version": "1.2.0",
+  "summary": "Python tree structure for data storage and iterations",
+  "author": "B_R",
+  "license": "MIT",
+  "home_page": "https://github.com/BR1py/itertree",
+  "download_filename": "itertree-1.2.0.tar.gz",
+  "download_time": "2025-09-01T20:22:33.958773",
+  "package_url": "https://pypi.org/project/itertree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gqlitedb",
+  "version": "1.3.0",
+  "summary": "Python bindings for GQLite, a Graph Query library",
+  "author": "Cyrille Berger",
+  "license": "MIT",
+  "home_page": "https://gqlite.org",
+  "download_filename": "gqlitedb-1.3.0.tar.gz",
+  "download_time": "2025-09-01T20:22:29.815938",
+  "package_url": "https://pypi.org/project/gqlitedb/"
+}

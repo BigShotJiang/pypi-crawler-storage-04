@@ -1,11 +1,11 @@
 {
   "name": "dataspace-client",
-  "version": "0.1.3.10",
+  "version": "0.1.3.13",
   "summary": "This is a tool for connecting to a dataspace created with publish subscribe paradigm.",
   "author": "Anton Gustafsson",
   "license": null,
   "home_page": null,
-  "download_filename": "dataspace_client-0.1.3.10.tar.gz",
-  "download_time": "2025-09-01T19:40:00.422732",
+  "download_filename": "dataspace_client-0.1.3.13.tar.gz",
+  "download_time": "2025-09-01T20:22:33.446036",
   "package_url": "https://pypi.org/project/dataspace-client/"
 }

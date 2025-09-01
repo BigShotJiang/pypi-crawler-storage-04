@@ -1,0 +1,11 @@
+{
+  "name": "liveproxy-fork",
+  "version": "3.0.0",
+  "summary": "LiveProxy can redirect Livestreams to your favorite player",
+  "author": "amjiddader",
+  "license": null,
+  "home_page": "https://github.com/amjiddader/liveproxy",
+  "download_filename": "liveproxy_fork-3.0.0.tar.gz",
+  "download_time": "2025-09-01T20:22:52.557316",
+  "package_url": "https://pypi.org/project/liveproxy-fork/"
+}

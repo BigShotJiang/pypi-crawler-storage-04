@@ -1,11 +1,11 @@
 {
   "name": "natlog",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Prolog-like interpreter and tuple store",
   "author": "Paul Tarau",
   "license": "Apache",
   "home_page": "https://github.com/ptarau/natlog.git",
-  "download_filename": "natlog-2.0.0.tar.gz",
-  "download_time": "2025-09-01T19:39:59.903863",
+  "download_filename": "natlog-2.0.1.tar.gz",
+  "download_time": "2025-09-01T20:22:34.473231",
   "package_url": "https://pypi.org/project/natlog/"
 }

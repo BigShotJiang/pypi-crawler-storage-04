@@ -1,11 +1,11 @@
 {
   "name": "mcubes",
-  "version": "0.1.4",
-  "summary": "Python bindings for the mcubes library",
-  "author": "David O'Connor",
+  "version": "0.1.5",
+  "summary": "The Marching Cubes algorithm for creating isosurfaces",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcubes-0.1.4.tar.gz",
-  "download_time": "2025-09-01T03:24:17.796262",
+  "download_filename": "mcubes-0.1.5.tar.gz",
+  "download_time": "2025-09-01T20:22:30.870728",
   "package_url": "https://pypi.org/project/mcubes/"
 }

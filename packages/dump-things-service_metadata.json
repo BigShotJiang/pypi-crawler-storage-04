@@ -1,11 +1,11 @@
 {
   "name": "dump-things-service",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "summary": "A simple service to store and retrieve schema-conform data records",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dump_things_service-2.3.0-py3-none-any.whl",
-  "download_time": "2025-09-01T06:35:25.774185",
+  "download_filename": "dump_things_service-2.3.2-py3-none-any.whl",
+  "download_time": "2025-09-01T20:22:18.974436",
   "package_url": "https://pypi.org/project/dump-things-service/"
 }
