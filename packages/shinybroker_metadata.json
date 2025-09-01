@@ -1,11 +1,11 @@
 {
   "name": "shinybroker",
-  "version": "0.6.46",
+  "version": "0.6.47",
   "summary": "Python API for Interactive Brokers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shinybroker-0.6.46.tar.gz",
-  "download_time": "2025-09-01T18:50:03.016152",
+  "download_filename": "shinybroker-0.6.47.tar.gz",
+  "download_time": "2025-09-01T21:39:29.153228",
   "package_url": "https://pypi.org/project/shinybroker/"
 }

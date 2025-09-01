@@ -1,0 +1,11 @@
+{
+  "name": "pyrituals",
+  "version": "0.0.7",
+  "summary": "Async Python wrapper for the Rituals Perfume Genie API",
+  "author": "Milan Meulemans",
+  "license": "GPLv3",
+  "home_page": "https://github.com/milanmeu/pyrituals",
+  "download_filename": "pyrituals-0.0.7.tar.gz",
+  "download_time": "2025-09-01T21:39:23.359009",
+  "package_url": "https://pypi.org/project/pyrituals/"
+}
