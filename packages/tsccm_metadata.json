@@ -1,0 +1,11 @@
+{
+  "name": "tsccm",
+  "version": "0.0.5",
+  "summary": "TSCCM (Tenable.SC CLI Manager) by LimberDuck",
+  "author": "Damian Krawczyk",
+  "license": null,
+  "home_page": "https://github.com/LimberDuck/tsccm",
+  "download_filename": "tsccm-0.0.5.tar.gz",
+  "download_time": "2025-09-01T15:53:41.752417",
+  "package_url": "https://pypi.org/project/tsccm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "discover-overlay",
+  "version": "0.7.9",
+  "summary": "Voice chat overlay",
+  "author": "trigg",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/trigg/Discover",
+  "download_filename": "discover_overlay-0.7.9.tar.gz",
+  "download_time": "2025-09-01T15:53:26.948832",
+  "package_url": "https://pypi.org/project/discover-overlay/"
+}

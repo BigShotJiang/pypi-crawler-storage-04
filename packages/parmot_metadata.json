@@ -1,0 +1,11 @@
+{
+  "name": "parmot",
+  "version": "0.1.1",
+  "summary": "Parmot client SDK with LLM usage tracking and provider wrappers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parmot-0.1.1.tar.gz",
+  "download_time": "2025-09-01T15:53:33.224793",
+  "package_url": "https://pypi.org/project/parmot/"
+}

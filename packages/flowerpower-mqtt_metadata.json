@@ -1,11 +1,11 @@
 {
   "name": "flowerpower-mqtt",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "MQTT plugin for FlowerPower - trigger pipeline execution on MQTT messages",
   "author": "legout",
   "license": null,
   "home_page": null,
-  "download_filename": "flowerpower_mqtt-0.2.1.tar.gz",
-  "download_time": "2025-08-29T21:38:24.441117",
+  "download_filename": "flowerpower_mqtt-0.2.2.tar.gz",
+  "download_time": "2025-09-01T15:53:40.171017",
   "package_url": "https://pypi.org/project/flowerpower-mqtt/"
 }

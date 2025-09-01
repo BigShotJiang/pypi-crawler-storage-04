@@ -1,15 +1,76 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T15:42:47.675507
-- **Total Packages**: 81
-- **Total Size**: 35.38 MB
+- **Download Time**: 2025-09-01T15:53:55.049984
+- **Total Packages**: 86
+- **Total Size**: 15.12 MB
 
 ## Packages List
+- MightyMaxims
+- sniffcat
+- structifyai
+- inspect-swe
+- mcp-proxy-adapter
+- htmlmaster
+- WUADS
+- posebusters
+- tnscm
+- videosdk-plugins-turn-detector
+- videosdk-plugins-speechify
+- diemsim
+- videosdk-plugins-smallestai
+- videosdk-plugins-simli
+- hydra-program
+- letschatty
+- videosdk-plugins-silero
+- videosdk-plugins-sarvamai
+- authentik-client
+- videosdk-plugins-rnnoise
+- videosdk-plugins-rime
+- videosdk-plugins-resemble
+- videosdk-plugins-papla
+- videosdk-plugins-openai
+- flagsmith-flag-engine
+- videosdk-plugins-neuphonic
+- videosdk-plugins-navana
+- videosdk-plugins-lmnt
+- videosdk-plugins-inworldai
+- manipy
+- videosdk-plugins-humeai
+- inopyutils
+- videosdk-plugins-groq
+- videosdk-plugins-google
+- discover-overlay
+- videosdk-plugins-elevenlabs
+- sqlmesh
+- videosdk-plugins-deepgram
+- videosdk-plugins-cerebras
+- videosdk-plugins-cartesia
+- videosdk-plugins-aws
+- brainglobe-napari-io
+- videosdk-plugins-assemblyai
+- videosdk-plugins-anthropic
+- videosdk-agents
+- nillanet
+- parmot
+- mollie-api-python-beta
+- ai-pipeline-core
+- gitlab-pipeline-analyzer
+- eflips-opt
+- eflips-eval
+- firecrawl
+- firecrawl-py
+- odoo-addon-event-sale-session
+- cvat-sdk
+- cvat-cli
+- sirtep
+- flowerpower-mqtt
+- pytemporal
+- httomo-backends
+- tsccm
 - regdurations
 - feedforge
 - aiogram-renderer
-- manipy
 - lilya
 - zhinst
 - usdm4-m11
@@ -18,7 +79,6 @@
 - rusty-tags
 - pymakeutils
 - ImagePRO-Python
-- authentik-client
 - subfork
 - django-cfg
 - iati-sphinx-theme
@@ -32,58 +92,3 @@
 - ds-caselaw-utils
 - OOTS-CS-Query-Validator
 - RubigramClient
-- legend-pygeom-optics
-- spoon-ec5fd18c
-- ohtell
-- eq-api-connector
-- webscrapbook
-- rasa-sdk
-- vibesurf
-- hdh
-- aiovaksms
-- sqlmesh
-- OpenFisca-France
-- osbot-utils
-- language-pipes
-- cubevis
-- freewili
-- text-fabric
-- sourcemeta-jsonschema
-- mistapi
-- torchrl-nightly
-- aiomealie
-- usf-agents
-- krishnautoml
-- galaxy-py-error
-- popmon
-- spdl-io
-- the37lab-authlib
-- spdl-core
-- whatsplay
-- spdl
-- pyconquest
-- tensorcontainer
-- httomolibgpu
-- yta-video-ffmpeg
-- pyfwfinder
-- openfl-nightly
-- VTKio
-- cognee-community-vector-adapter-qdrant
-- forecasting-tools
-- pyfedic
-- ambient-wds
-- pemexe
-- pax-detector
-- skale-watchdog-client
-- seshatdatasetanalysis
-- ut-xls
-- flexget
-- fedoo
-- Whispey
-- apscale-gui
-- groggy
-- file-detector
-- apscale
-- mle-kit-mcp
-- aeroai
-- netintel-ocr

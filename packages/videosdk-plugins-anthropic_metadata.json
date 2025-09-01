@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-anthropic",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "summary": "VideoSDK Agent Framework plugin for anthropic",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_anthropic-0.0.30.tar.gz",
-  "download_time": "2025-08-29T16:26:42.619161",
+  "download_filename": "videosdk_plugins_anthropic-0.0.31.tar.gz",
+  "download_time": "2025-09-01T15:53:31.663684",
   "package_url": "https://pypi.org/project/videosdk-plugins-anthropic/"
 }

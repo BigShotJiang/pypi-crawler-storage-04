@@ -1,0 +1,11 @@
+{
+  "name": "diemsim",
+  "version": "0.0.8",
+  "summary": "A Python Library Implementing Dimension Insensitive Euclidean Metric (DIEM)",
+  "author": "Boddu Sri Pavan",
+  "license": "MIT",
+  "home_page": "https://github.com/BodduSriPavan-111/diemsim",
+  "download_filename": "diemsim-0.0.8.tar.gz",
+  "download_time": "2025-09-01T15:53:14.922732",
+  "package_url": "https://pypi.org/project/diemsim/"
+}
