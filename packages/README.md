@@ -1,18 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T15:22:26.507889
-- **Total Packages**: 86
-- **Total Size**: 46.04 MB
+- **Download Time**: 2025-09-01T15:42:47.675507
+- **Total Packages**: 81
+- **Total Size**: 35.38 MB
 
 ## Packages List
+- regdurations
+- feedforge
+- aiogram-renderer
+- manipy
+- lilya
+- zhinst
+- usdm4-m11
+- vital
+- fatum
+- rusty-tags
+- pymakeutils
+- ImagePRO-Python
+- authentik-client
+- subfork
+- django-cfg
+- iati-sphinx-theme
+- capacity-web
+- django-revolution
+- Telethon
+- langwatch
+- vertopal
+- nonebot-plugin-algo
+- wake-ai
+- ds-caselaw-utils
+- OOTS-CS-Query-Validator
+- RubigramClient
+- legend-pygeom-optics
+- spoon-ec5fd18c
+- ohtell
+- eq-api-connector
+- webscrapbook
+- rasa-sdk
+- vibesurf
+- hdh
+- aiovaksms
+- sqlmesh
+- OpenFisca-France
+- osbot-utils
+- language-pipes
+- cubevis
+- freewili
+- text-fabric
+- sourcemeta-jsonschema
+- mistapi
+- torchrl-nightly
+- aiomealie
+- usf-agents
 - krishnautoml
 - galaxy-py-error
 - popmon
 - spdl-io
 - the37lab-authlib
 - spdl-core
-- steamgameoptions
 - whatsplay
 - spdl
 - pyconquest
@@ -26,7 +72,6 @@
 - forecasting-tools
 - pyfedic
 - ambient-wds
-- capacity-web
 - pemexe
 - pax-detector
 - skale-watchdog-client
@@ -36,59 +81,9 @@
 - fedoo
 - Whispey
 - apscale-gui
-- isage
-- isage-libs
 - groggy
-- isage-middleware
-- isage-kernel
-- isage-common
 - file-detector
 - apscale
 - mle-kit-mcp
 - aeroai
 - netintel-ocr
-- RubigramClient
-- unique_toolkit
-- ipfind-microtip
-- gofit
-- scietex.service
-- authentik-client
-- sqlmap
-- jwatchsync
-- drf-sso-dev-internal
-- apolo-cli
-- apolo-sdk
-- yandexcloud
-- zlang
-- feedforge
-- odoo-addon-stock-barcodes
-- open-edison
-- expyro
-- mteb
-- gemseo-pdfo
-- pytest-tmux
-- whitebox-plugin-stratux
-- django-supportal
-- OpenFisca-France
-- wipo-gbd-pypers
-- seedcase-sprout
-- cardano-clusterlib
-- whitebox-plugin-gps-simulator
-- langfuse
-- pgskewer
-- qutest
-- cua-client
-- pyCFS
-- naeural-core
-- AMR
-- sqlmesh
-- acrome-smd-beta
-- fastremap
-- atlasrun
-- async-http-server
-- fetter
-- planet-dsl
-- pfst
-- cloudyday
-- django-advanced-report-builder
-- eq-api-connector

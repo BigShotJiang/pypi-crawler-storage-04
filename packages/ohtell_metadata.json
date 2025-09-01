@@ -1,11 +1,11 @@
 {
   "name": "ohtell",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "A simple, decorator-based OpenTelemetry wrapper for tracing Python functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ohtell-0.2.2.tar.gz",
-  "download_time": "2025-09-01T12:45:05.597086",
+  "download_filename": "ohtell-0.2.6.tar.gz",
+  "download_time": "2025-09-01T15:42:15.982032",
   "package_url": "https://pypi.org/project/ohtell/"
 }

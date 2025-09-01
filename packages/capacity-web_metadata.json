@@ -1,11 +1,11 @@
 {
   "name": "capacity-web",
-  "version": "1.0.1",
-  "summary": "使用simen内置的联网搜索包进行网络搜索",
+  "version": "1.0.2",
+  "summary": "网络搜索功能包，提供简单易用的网络搜索接口",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "capacity_web-1.0.1.tar.gz",
-  "download_time": "2025-09-01T15:21:50.660301",
+  "download_filename": "capacity_web-1.0.2.tar.gz",
+  "download_time": "2025-09-01T15:42:08.792043",
   "package_url": "https://pypi.org/project/capacity-web/"
 }

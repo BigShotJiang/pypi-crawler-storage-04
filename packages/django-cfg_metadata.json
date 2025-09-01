@@ -1,11 +1,11 @@
 {
   "name": "django-cfg",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "summary": "🚀 Production-ready Django configuration framework with type-safe settings, smart automation, and modern developer experience",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cfg-1.1.8.tar.gz",
-  "download_time": "2025-08-28T17:18:33.262883",
+  "download_filename": "django_cfg-1.1.10.tar.gz",
+  "download_time": "2025-09-01T15:42:07.706305",
   "package_url": "https://pypi.org/project/django-cfg/"
 }

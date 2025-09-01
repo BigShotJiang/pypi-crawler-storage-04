@@ -1,11 +1,11 @@
 {
   "name": "vertopal",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Convert your files in terminal using Vertopal API",
   "author": "Vertopal",
   "license": "MIT",
   "home_page": "https://github.com/vertopal/vertopal-cli",
-  "download_filename": "vertopal-2.0.1.tar.gz",
-  "download_time": "2025-09-01T14:44:08.373498",
+  "download_filename": "vertopal-2.0.2.tar.gz",
+  "download_time": "2025-09-01T15:42:11.435202",
   "package_url": "https://pypi.org/project/vertopal/"
 }

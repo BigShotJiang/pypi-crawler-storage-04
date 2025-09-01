@@ -1,0 +1,11 @@
+{
+  "name": "webscrapbook",
+  "version": "2.7.0",
+  "summary": "A backend toolkit for management of WebScrapBook collection.",
+  "author": "Danny Lin",
+  "license": "MIT License",
+  "home_page": "https://github.com/danny0838/PyWebScrapBook",
+  "download_filename": "webscrapbook-2.7.0.tar.gz",
+  "download_time": "2025-09-01T15:42:17.227994",
+  "package_url": "https://pypi.org/project/webscrapbook/"
+}
