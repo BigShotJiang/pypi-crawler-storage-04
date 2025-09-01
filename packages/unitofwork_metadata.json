@@ -1,11 +1,11 @@
 {
   "name": "unitofwork",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "unitofwork-0.1.0.tar.gz",
-  "download_time": "2025-09-01T04:05:26.403914",
+  "download_filename": "unitofwork-0.1.1.tar.gz",
+  "download_time": "2025-09-01T04:42:50.133933",
   "package_url": "https://pypi.org/project/unitofwork/"
 }

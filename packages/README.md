@@ -1,23 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-01T04:06:03.890339
-- **Total Packages**: 78
-- **Total Size**: 38.75 MB
+- **Download Time**: 2025-09-01T04:43:19.410650
+- **Total Packages**: 70
+- **Total Size**: 18.72 MB
 
 ## Packages List
+- skt
+- minecraft-datapack-language
+- zenx
+- slurm-factory
+- scrapling
+- DiscordEXT
+- PyThermoLinkDB
+- echogem
+- eth-streams-py
+- eth-protocols-py
+- eth-typeshed-py
+- eth-rpc-py
+- authentik-client
+- huggingface-nas
+- unitofwork
+- jjrawlins-cdk-iam-policy-builder-helper
+- mdhk
+- scopinator
+- ner-agent
+- slida
+- pyxcp
+- foreva-ai
+- BioSAK
+- grain-nightly
+- nonebot-plugin-figurine
+- cce
+- gam7
+- langchain-cli-v2
+- LLM-Bridge
+- prava
+- megatron-core
+- rosy
+- verskyt
+- liveConsole
+- pilot.linkstec
+- vlm-recog
+- megfile
+- es2
+- aiauto-client
 - intentkit
 - chromedriver-binary
-- minecraft-datapack-language
 - spml2-mltools
-- scopinator
-- unitofwork
 - connectonion
-- BioSAK
 - keras-nightly
 - ai-kill-switch
 - suga-client
-- foreva-ai
 - rotating-mitmproxy
 - multi-browser-crawler
 - matrice
@@ -28,7 +62,6 @@
 - pyxel
 - ccxw
 - highlighter-sdk
-- authentik-client
 - odoo-addon-sign-oca
 - octavia-loxilb-driver
 - neuro-simulator
@@ -41,46 +74,5 @@
 - liveramp-automation
 - easysubmit
 - dian-utils
-- langchain-cli-v2
 - api-canvas-lms
 - keras-rs-nightly
-- b3th
-- nonebot-plugin-algo
-- wormsim-rs
-- GANDLF
-- splade-index
-- amauo
-- mmng-ui
-- pydantic-typed-cache
-- ersilia
-- init-agent-docker
-- slimformers
-- wintop
-- tce-lib
-- maleo-mixins
-- bbansi
-- skt
-- pyaubo-agvc-sdk
-- netintel-ocr
-- flog-otlp
-- dycw-pre-commit-hooks
-- minimal-activitypub
-- LLM-Bridge
-- odoo-addon-openupgrade-scripts
-- langchain-tool-server
-- polars-ta
-- pytest-infrahouse
-- pysubebm
-- bugbug
-- pyrime
-- davidkhala.azure
-- svg-path-data
-- technical-analysis-mcp
-- types-networkx
-- gllm-core-binary
-- bubblebarrier
-- sphinxcontrib-phpdomain
-- DiscordEXT
-- pyqqq
-- python3-cloudpods
-- vimgolf

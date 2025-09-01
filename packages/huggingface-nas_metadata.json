@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-nas",
+  "version": "0.1.1",
+  "summary": "Using NAS such as huggingface hub",
+  "author": "tony9402",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/tony9402/huggingface-NAS",
+  "download_filename": "huggingface_nas-0.1.1.tar.gz",
+  "download_time": "2025-09-01T04:42:49.621874",
+  "package_url": "https://pypi.org/project/huggingface-nas/"
+}
