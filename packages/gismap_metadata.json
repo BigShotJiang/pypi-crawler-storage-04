@@ -1,11 +1,11 @@
 {
   "name": "gismap",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "GISMAP leverages DBLP and HAL databases to provide cartography tools for you and your lab.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gismap-0.2.0.tar.gz",
-  "download_time": "2025-08-31T09:38:38.857007",
+  "download_filename": "gismap-0.2.1.tar.gz",
+  "download_time": "2025-09-01T07:53:45.028622",
   "package_url": "https://pypi.org/project/gismap/"
 }
