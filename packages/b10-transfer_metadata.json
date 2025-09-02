@@ -1,11 +1,11 @@
 {
   "name": "b10-transfer",
-  "version": "0.1.1",
-  "summary": "Distributed PyTorch compilation cache for Baseten - Environment-aware, lock-free compilation cache management",
+  "version": "0.1.2",
+  "summary": "Distributed PyTorch file transfer for Baseten - Environment-aware, lock-free file transfer management",
   "author": "Shounak Ray",
   "license": "MIT",
   "home_page": "https://docs.baseten.co/development/model/b10-transfer",
-  "download_filename": "b10_transfer-0.1.1.tar.gz",
-  "download_time": "2025-08-29T23:38:45.566832",
+  "download_filename": "b10_transfer-0.1.2.tar.gz",
+  "download_time": "2025-09-02T20:53:56.586983",
   "package_url": "https://pypi.org/project/b10-transfer/"
 }

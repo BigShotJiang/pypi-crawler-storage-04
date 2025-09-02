@@ -1,0 +1,11 @@
+{
+  "name": "tscytopred",
+  "version": "0.0.2",
+  "summary": "A Deep Learning Framework for Inferring Cytokine Expression Trajectories from Irregular Longitudinal Gene Expression Data",
+  "author": "miniymay",
+  "license": null,
+  "home_page": "https://github.com/joungmin-choi/TSCytoPred",
+  "download_filename": "tscytopred-0.0.2.tar.gz",
+  "download_time": "2025-09-02T20:53:57.678658",
+  "package_url": "https://pypi.org/project/tscytopred/"
+}
