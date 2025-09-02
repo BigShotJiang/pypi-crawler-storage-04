@@ -1,11 +1,11 @@
 {
   "name": "HoloLink",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "Modern manager for AI skills, tools, loading, execution, and automation.",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "hololink-0.1.9.tar.gz",
-  "download_time": "2025-09-02T04:32:43.547968",
+  "download_filename": "hololink-0.2.0.tar.gz",
+  "download_time": "2025-09-02T05:22:43.807629",
   "package_url": "https://pypi.org/project/HoloLink/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "factorysimpy",
-  "version": "0.1.0b1",
+  "version": "0.1.0b3",
   "summary": "A light-weight component library for simulating manufacturing systems, based on SimPy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "factorysimpy-0.1.0b1.tar.gz",
-  "download_time": "2025-09-01T10:46:47.913042",
+  "download_filename": "factorysimpy-0.1.0b3.tar.gz",
+  "download_time": "2025-09-02T05:22:39.641865",
   "package_url": "https://pypi.org/project/factorysimpy/"
 }

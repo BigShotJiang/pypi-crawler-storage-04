@@ -1,11 +1,11 @@
 {
   "name": "account-codes-jp",
-  "version": "0.4.30",
+  "version": "0.4.32",
   "summary": "e-Tax / EDINETタクソノミ / 青色申告 の勘定科目(コード)表のラッパー (非公式)",
   "author": "34j",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "account_codes_jp-0.4.30.tar.gz",
-  "download_time": "2025-09-01T20:41:24.139976",
+  "download_filename": "account_codes_jp-0.4.32.tar.gz",
+  "download_time": "2025-09-02T05:22:57.380011",
   "package_url": "https://pypi.org/project/account-codes-jp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zazen",
+  "version": "0.0.1",
+  "summary": "Zazen - An extendable web-based application for creating and managing AI-powered chatbots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zazen-0.0.1.tar.gz",
+  "download_time": "2025-09-02T05:22:57.899895",
+  "package_url": "https://pypi.org/project/zazen/"
+}

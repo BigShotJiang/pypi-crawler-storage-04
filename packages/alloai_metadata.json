@@ -1,11 +1,11 @@
 {
   "name": "alloai",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Write markdown files mixing Python code with natural language prompts that generate and execute additional code in a shared runtime",
   "author": "Maxwell Felix",
   "license": "MIT",
   "home_page": "https://github.com/m4xw311/AlloAI",
-  "download_filename": "alloai-0.2.0.tar.gz",
-  "download_time": "2025-08-31T15:39:27.834803",
+  "download_filename": "alloai-0.3.0.tar.gz",
+  "download_time": "2025-09-02T05:22:47.461010",
   "package_url": "https://pypi.org/project/alloai/"
 }

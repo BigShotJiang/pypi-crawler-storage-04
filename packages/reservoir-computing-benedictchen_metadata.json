@@ -1,11 +1,11 @@
 {
   "name": "reservoir-computing-benedictchen",
-  "version": "1.1.0",
-  "summary": "Echo State Networks and Liquid State Machines - Revolutionary temporal processing without training recurrent weights",
+  "version": "1.1.1",
+  "summary": "Echo State Networks and Liquid State Machines for temporal pattern recognition",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "reservoir_computing_benedictchen-1.1.0.tar.gz",
-  "download_time": "2025-08-31T09:19:49.952229",
+  "download_filename": "reservoir_computing_benedictchen-1.1.1.tar.gz",
+  "download_time": "2025-09-02T05:22:49.018943",
   "package_url": "https://pypi.org/project/reservoir-computing-benedictchen/"
 }

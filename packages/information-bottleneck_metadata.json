@@ -1,11 +1,11 @@
 {
   "name": "information-bottleneck",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Optimal compression-prediction tradeoffs for principled feature extraction",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "information_bottleneck-1.1.0.tar.gz",
-  "download_time": "2025-08-31T08:53:48.398778",
+  "download_filename": "information_bottleneck-1.1.1.tar.gz",
+  "download_time": "2025-09-02T05:22:51.632603",
   "package_url": "https://pypi.org/project/information-bottleneck/"
 }
