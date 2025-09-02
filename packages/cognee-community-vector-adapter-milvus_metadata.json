@@ -1,0 +1,11 @@
+{
+  "name": "cognee-community-vector-adapter-milvus",
+  "version": "0.0.2",
+  "summary": "Milvus vector database adapter for cognee",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognee_community_vector_adapter_milvus-0.0.2.tar.gz",
+  "download_time": "2025-09-02T19:40:20.790028",
+  "package_url": "https://pypi.org/project/cognee-community-vector-adapter-milvus/"
+}

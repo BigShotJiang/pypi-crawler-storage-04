@@ -1,11 +1,11 @@
 {
   "name": "monarchmoney-enhanced",
-  "version": "0.3.3",
-  "summary": "Enhanced Monarch Money API for Python with authentication fixes",
+  "version": "0.3.4",
+  "summary": "Enhanced Monarch Money API for Python with comprehensive GraphQL fixes",
   "author": "keithah",
   "license": "MIT",
   "home_page": "https://github.com/keithah/monarchmoney-enhanced",
-  "download_filename": "monarchmoney_enhanced-0.3.3.tar.gz",
-  "download_time": "2025-09-02T17:54:58.665888",
+  "download_filename": "monarchmoney_enhanced-0.3.4.tar.gz",
+  "download_time": "2025-09-02T19:39:52.880552",
   "package_url": "https://pypi.org/project/monarchmoney-enhanced/"
 }

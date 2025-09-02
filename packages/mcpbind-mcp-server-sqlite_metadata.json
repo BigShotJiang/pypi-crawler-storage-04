@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-server-sqlite",
+  "version": "3.66.40.4187",
+  "summary": "MCP Server Package: mcp-server-sqlite",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_server_sqlite-3.66.40.4187-py3-none-any.whl",
+  "download_time": "2025-09-02T19:39:54.451606",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-server-sqlite/"
+}

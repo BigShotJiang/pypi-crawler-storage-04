@@ -1,11 +1,11 @@
 {
   "name": "scorner",
-  "version": "0.1.0",
-  "summary": "Produces a similar plot to  corner.py, which shows the projections of data in a multi-dimensional space. This uses seaborn to produce a more adjustable, 'publication ready' plot",
+  "version": "0.2.0",
+  "summary": "Produces a similar plot to  corner.py, but uses seaborn to produce a more adjustable, 'publication ready' plot",
   "author": "Stephen Curran",
   "license": null,
   "home_page": "https://github.com/steviecurran/scorner",
-  "download_filename": "scorner-0.1.0.tar.gz",
-  "download_time": "2025-09-02T08:30:53.012024",
+  "download_filename": "scorner-0.2.0.tar.gz",
+  "download_time": "2025-09-02T19:40:12.045849",
   "package_url": "https://pypi.org/project/scorner/"
 }

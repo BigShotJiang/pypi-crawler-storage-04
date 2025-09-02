@@ -1,0 +1,11 @@
+{
+  "name": "sstools",
+  "version": "0.2.8",
+  "summary": "swimstats tools",
+  "author": "Roman Arnet",
+  "license": null,
+  "home_page": "https://swimstats.net",
+  "download_filename": "sstools-0.2.8.tar.gz",
+  "download_time": "2025-09-02T19:40:19.755427",
+  "package_url": "https://pypi.org/project/sstools/"
+}
