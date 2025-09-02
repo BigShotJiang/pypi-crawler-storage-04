@@ -1,0 +1,11 @@
+{
+  "name": "django-mailupy",
+  "version": "0.1.0",
+  "summary": "Django app wrapping the MailUp Python client",
+  "author": "Lotrèk",
+  "license": "MIT",
+  "home_page": "https://github.com/lotrekagency/django-mailupy",
+  "download_filename": "django_mailupy-0.1.0.tar.gz",
+  "download_time": "2025-09-02T13:49:51.199963",
+  "package_url": "https://pypi.org/project/django-mailupy/"
+}

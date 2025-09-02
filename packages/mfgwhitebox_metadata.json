@@ -1,11 +1,11 @@
 {
   "name": "mfgwhitebox",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "A package to convert between Excel and XML files.",
   "author": "liumao0917",
   "license": null,
   "home_page": "https://github.com/hedaima/excel-xml-converter",
-  "download_filename": "mfgwhitebox-0.0.6-py3-none-any.whl",
-  "download_time": "2025-09-02T13:21:53.262579",
+  "download_filename": "mfgwhitebox-0.0.8-py3-none-any.whl",
+  "download_time": "2025-09-02T13:49:21.339961",
   "package_url": "https://pypi.org/project/mfgwhitebox/"
 }

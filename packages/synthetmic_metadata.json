@@ -1,0 +1,11 @@
+{
+  "name": "synthetmic",
+  "version": "0.1.4",
+  "summary": "A Python package for generating synthetic Laguerre polycrystalline microstructures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synthetmic-0.1.4.tar.gz",
+  "download_time": "2025-09-02T13:49:09.610396",
+  "package_url": "https://pypi.org/project/synthetmic/"
+}

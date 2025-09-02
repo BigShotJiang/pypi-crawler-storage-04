@@ -1,11 +1,11 @@
 {
   "name": "aiforge-engine",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Intelligent Intent Adaptive Execution Engine - 智能意图自适应执行引擎",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "aiforge_engine-0.0.14.tar.gz",
-  "download_time": "2025-09-02T08:52:02.211563",
+  "download_filename": "aiforge_engine-0.0.15.tar.gz",
+  "download_time": "2025-09-02T13:49:16.194143",
   "package_url": "https://pypi.org/project/aiforge-engine/"
 }

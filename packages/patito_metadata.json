@@ -1,0 +1,11 @@
+{
+  "name": "patito",
+  "version": "0.8.5",
+  "summary": "A dataframe modelling library built on top of polars and pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "patito-0.8.5.tar.gz",
+  "download_time": "2025-09-02T13:49:35.140371",
+  "package_url": "https://pypi.org/project/patito/"
+}

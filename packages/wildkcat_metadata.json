@@ -1,11 +1,11 @@
 {
   "name": "wildkcat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Extract, Retrieve and Predict kcat values for a metabolic model to run enzyme constrained metabolic pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wildkcat-0.0.2-py3-none-any.whl",
-  "download_time": "2025-09-02T12:45:14.307152",
+  "download_filename": "wildkcat-0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-02T13:49:46.515536",
   "package_url": "https://pypi.org/project/wildkcat/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lushalytics",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "summary": "tools for quick and convenient data analysis",
   "author": "Moran Reznik",
   "license": null,
   "home_page": null,
-  "download_filename": "lushalytics-1.4.8.tar.gz",
-  "download_time": "2025-09-02T12:44:51.102001",
+  "download_filename": "lushalytics-1.4.9.tar.gz",
+  "download_time": "2025-09-02T13:49:57.725878",
   "package_url": "https://pypi.org/project/lushalytics/"
 }

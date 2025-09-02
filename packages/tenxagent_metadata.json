@@ -1,11 +1,11 @@
 {
   "name": "tenxagent",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A flexible, Pydantic-powered library for building AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tenxagent-0.1.8.tar.gz",
-  "download_time": "2025-09-02T13:21:58.534247",
+  "download_filename": "tenxagent-0.1.9.tar.gz",
+  "download_time": "2025-09-02T13:49:58.882227",
   "package_url": "https://pypi.org/project/tenxagent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "traffic-generator-mcp",
+  "version": "1.0.0",
+  "summary": "Generate load testing with k6 and Amazon Relay",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traffic_generator_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-02T13:49:10.766544",
+  "package_url": "https://pypi.org/project/traffic-generator-mcp/"
+}

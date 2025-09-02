@@ -1,11 +1,11 @@
 {
   "name": "denario_app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "GUI for Denario",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "denario_app-0.1.1.tar.gz",
-  "download_time": "2025-08-29T17:42:38.093252",
+  "download_filename": "denario_app-0.1.2.tar.gz",
+  "download_time": "2025-09-02T13:49:47.098182",
   "package_url": "https://pypi.org/project/denario_app/"
 }

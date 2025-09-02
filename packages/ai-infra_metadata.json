@@ -1,11 +1,11 @@
 {
   "name": "ai-infra",
-  "version": "0.1.38",
+  "version": "0.1.39",
   "summary": "Infrastructure for efficient and scalable AI applications.",
   "author": "Ali Khatami",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_infra-0.1.38.tar.gz",
-  "download_time": "2025-09-02T13:22:07.900901",
+  "download_filename": "ai_infra-0.1.39.tar.gz",
+  "download_time": "2025-09-02T13:49:43.624347",
   "package_url": "https://pypi.org/project/ai-infra/"
 }

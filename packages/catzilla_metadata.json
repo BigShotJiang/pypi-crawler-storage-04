@@ -1,0 +1,11 @@
+{
+  "name": "catzilla",
+  "version": "0.2.0",
+  "summary": "Ultra-fast Python web framework with C-accelerated routing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catzilla-0.2.0.tar.gz",
+  "download_time": "2025-09-02T13:49:27.943558",
+  "package_url": "https://pypi.org/project/catzilla/"
+}
