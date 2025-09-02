@@ -1,0 +1,11 @@
+{
+  "name": "qmem",
+  "version": "0.0.1",
+  "summary": "Qdrant wrapper for simple ingestion & retrieval with pluggable embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qmem-0.0.1.tar.gz",
+  "download_time": "2025-09-02T05:55:52.852167",
+  "package_url": "https://pypi.org/project/qmem/"
+}

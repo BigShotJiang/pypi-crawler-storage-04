@@ -1,11 +1,11 @@
 {
   "name": "adif-mcp",
-  "version": "0.1.19",
-  "summary": "ADIF MCP core engine with plugin support (LoTW, eQSL)",
+  "version": "0.2.0",
+  "summary": "ADIF MCP core engine with plugin support (LoTW, eQSL, QRZ, Club Log)",
   "author": "KI7MT",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adif_mcp-0.1.19.tar.gz",
-  "download_time": "2025-08-30T16:43:26.728302",
+  "download_filename": "adif_mcp-0.2.0.tar.gz",
+  "download_time": "2025-09-02T05:55:53.494743",
   "package_url": "https://pypi.org/project/adif-mcp/"
 }
