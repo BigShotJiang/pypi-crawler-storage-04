@@ -1,11 +1,11 @@
 {
   "name": "htmlmaster",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Provides tools for making html.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "htmlmaster-0.0.4.tar.gz",
-  "download_time": "2025-09-01T15:53:11.666731",
+  "download_filename": "htmlmaster-0.0.5.tar.gz",
+  "download_time": "2025-09-02T06:58:56.068484",
   "package_url": "https://pypi.org/project/htmlmaster/"
 }

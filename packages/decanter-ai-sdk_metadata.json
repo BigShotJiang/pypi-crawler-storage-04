@@ -1,0 +1,11 @@
+{
+  "name": "decanter-ai-sdk",
+  "version": "0.1.21",
+  "summary": "Decanter AI is a powerful AutoML tool which enables everyone to build ML models and make predictions without data science background. With Decanter AI SDK, you can integrate Decanter AI into your application more easily with Python.",
+  "author": "senchao",
+  "license": null,
+  "home_page": "https://github.com/MoBagel/decanter-ai-sdk",
+  "download_filename": "decanter_ai_sdk-0.1.21.tar.gz",
+  "download_time": "2025-09-02T06:59:06.214118",
+  "package_url": "https://pypi.org/project/decanter-ai-sdk/"
+}

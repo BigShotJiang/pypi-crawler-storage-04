@@ -1,11 +1,11 @@
 {
   "name": "xiaothink",
-  "version": "1.2.5",
+  "version": "1.2.5.2",
   "summary": "=?unknown-8bit?b?5LiA5LiqQUnlt6XlhbfljIXvvIzluK7liqnnlKjmiLflv6vpgJ/osIPnlKjlsI/mgJ3moYbmnrbvvIhYaWFvdGhpbmvvvInnm7jlhbPmjqXlj6PjgII=?=",
   "author": "Shi Jingqi",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "xiaothink-1.2.5.tar.gz",
-  "download_time": "2025-09-02T06:33:29.136351",
+  "download_filename": "xiaothink-1.2.5.2.tar.gz",
+  "download_time": "2025-09-02T06:58:46.126618",
   "package_url": "https://pypi.org/project/xiaothink/"
 }

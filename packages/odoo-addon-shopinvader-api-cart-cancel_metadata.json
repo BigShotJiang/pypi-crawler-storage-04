@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-api-cart-cancel",
+  "version": "16.0.1.0.0.1",
+  "summary": "Cancel cart via Fastapi",
+  "author": "Camptocamp",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_api_cart_cancel-16.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-09-02T06:59:05.141870",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-api-cart-cancel/"
+}

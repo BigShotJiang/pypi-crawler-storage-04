@@ -1,11 +1,11 @@
 {
   "name": "json-model-compiler",
-  "version": "2.0b11",
+  "version": "2.0b12",
   "summary": "JSON Model Tools",
   "author": "Fabien Coelho, Claire Yannou-Medrala",
   "license": null,
   "home_page": null,
-  "download_filename": "json_model_compiler-2.0b11.tar.gz",
-  "download_time": "2025-09-01T17:40:49.856331",
+  "download_filename": "json_model_compiler-2.0b12.tar.gz",
+  "download_time": "2025-09-02T06:59:04.062245",
   "package_url": "https://pypi.org/project/json-model-compiler/"
 }

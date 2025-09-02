@@ -1,0 +1,11 @@
+{
+  "name": "kozhindev-data-labeler",
+  "version": "0.0.2",
+  "summary": "Пакет, содержащий класс для разметки данных, используя большие языковые модели",
+  "author": "YVoskanyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kozhindev_data_labeler-0.0.2.tar.gz",
+  "download_time": "2025-09-02T06:59:00.844829",
+  "package_url": "https://pypi.org/project/kozhindev-data-labeler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-algo",
+  "version": "0.0.2",
+  "summary": "Python Algorithm for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bsaltel/galaxy-py-algo",
+  "download_filename": "galaxy_py_algo-0.0.2.tar.gz",
+  "download_time": "2025-09-02T06:59:08.411168",
+  "package_url": "https://pypi.org/project/galaxy-py-algo/"
+}
