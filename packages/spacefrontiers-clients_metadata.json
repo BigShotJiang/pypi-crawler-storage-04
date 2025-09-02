@@ -1,11 +1,11 @@
 {
   "name": "spacefrontiers-clients",
-  "version": "0.0.101",
+  "version": "0.0.102",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spacefrontiers_clients-0.0.101.tar.gz",
-  "download_time": "2025-09-02T15:25:57.306025",
+  "download_filename": "spacefrontiers_clients-0.0.102.tar.gz",
+  "download_time": "2025-09-02T16:26:26.521078",
   "package_url": "https://pypi.org/project/spacefrontiers-clients/"
 }
