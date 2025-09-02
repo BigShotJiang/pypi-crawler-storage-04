@@ -1,0 +1,11 @@
+{
+  "name": "dwave-inspector",
+  "version": "0.5.5",
+  "summary": "D-Wave Problem Inspector tool",
+  "author": "D-Wave Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dwavesystems/dwave-inspector",
+  "download_filename": "dwave_inspector-0.5.5.tar.gz",
+  "download_time": "2025-09-02T14:58:15.516781",
+  "package_url": "https://pypi.org/project/dwave-inspector/"
+}

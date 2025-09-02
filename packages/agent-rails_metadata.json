@@ -1,11 +1,11 @@
 {
   "name": "agent-rails",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "put your agents on guardrails",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_rails-0.1.1.tar.gz",
-  "download_time": "2025-08-29T15:40:17.467809",
+  "download_filename": "agent_rails-0.2.0.tar.gz",
+  "download_time": "2025-09-02T14:57:48.768542",
   "package_url": "https://pypi.org/project/agent-rails/"
 }

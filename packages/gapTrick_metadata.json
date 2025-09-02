@@ -1,0 +1,11 @@
+{
+  "name": "gapTrick",
+  "version": "1.0.25",
+  "summary": "rebuilds and completes models of protein complexes using AlphaFold2",
+  "author": "Grzegorz Chojnowski",
+  "license": "BSD",
+  "home_page": "https://github.com/gchojnowski/gapTrick",
+  "download_filename": "gapTrick-1.0.25.tar.gz",
+  "download_time": "2025-09-02T14:57:55.481565",
+  "package_url": "https://pypi.org/project/gapTrick/"
+}

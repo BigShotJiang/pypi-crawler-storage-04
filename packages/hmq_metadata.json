@@ -1,0 +1,11 @@
+{
+  "name": "hmq",
+  "version": "25.7",
+  "summary": "Distributed computing.",
+  "author": "Guido von Rudorff",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/NablaChem/hummingqueue",
+  "download_filename": "hmq-25.7.tar.gz",
+  "download_time": "2025-09-02T14:58:07.284685",
+  "package_url": "https://pypi.org/project/hmq/"
+}

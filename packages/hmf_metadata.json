@@ -1,0 +1,11 @@
+{
+  "name": "hmf",
+  "version": "3.5.2",
+  "summary": "A halo mass function calculator",
+  "author": "Steven Murray",
+  "license": "mit",
+  "home_page": "https://github.com/steven-murray/hmf",
+  "download_filename": "hmf-3.5.2.tar.gz",
+  "download_time": "2025-09-02T14:57:38.921755",
+  "package_url": "https://pypi.org/project/hmf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-set-nokia",
+  "version": "0.1.2",
+  "summary": "This library allows to manipulate and plot Fuzzy Sets, Fuzzy Numbers, Trapezoidal Fuzzy Numbers and Triangular Fuzzy Numbers",
+  "author": "Marc-Olivier Buob",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "fuzzy_set_nokia-0.1.2.tar.gz",
+  "download_time": "2025-09-02T14:58:01.108777",
+  "package_url": "https://pypi.org/project/fuzzy-set-nokia/"
+}
