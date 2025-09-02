@@ -1,0 +1,11 @@
+{
+  "name": "grepsr-cli",
+  "version": "0.9.53",
+  "summary": "A Cli tool for Grepsr Developers",
+  "author": "grepsr",
+  "license": "unlicensed",
+  "home_page": "https://bitbucket.org/grepsr/grepsr-cli/",
+  "download_filename": "grepsr_cli-0.9.53.tar.gz",
+  "download_time": "2025-09-02T10:56:54.571112",
+  "package_url": "https://pypi.org/project/grepsr-cli/"
+}

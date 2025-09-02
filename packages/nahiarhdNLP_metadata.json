@@ -1,11 +1,11 @@
 {
   "name": "nahiarhdNLP",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Advanced Indonesian Natural Language Processing Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nahiarhdnlp-1.4.0.tar.gz",
-  "download_time": "2025-09-02T05:43:50.731626",
+  "download_filename": "nahiarhdnlp-1.4.1.tar.gz",
+  "download_time": "2025-09-02T10:56:49.454065",
   "package_url": "https://pypi.org/project/nahiarhdNLP/"
 }

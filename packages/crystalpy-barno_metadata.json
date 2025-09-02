@@ -1,0 +1,11 @@
+{
+  "name": "crystalpy-barno",
+  "version": "1.1.26",
+  "summary": "Python integration with Crystal Reports",
+  "author": "barno1994",
+  "license": "MIT",
+  "home_page": "https://github.com/barno1994/crystalpy_barno",
+  "download_filename": "crystalpy_barno-1.1.26.tar.gz",
+  "download_time": "2025-09-02T10:56:47.405503",
+  "package_url": "https://pypi.org/project/crystalpy-barno/"
+}
