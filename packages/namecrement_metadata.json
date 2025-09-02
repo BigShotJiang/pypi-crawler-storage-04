@@ -1,0 +1,11 @@
+{
+  "name": "namecrement",
+  "version": "0.1.0",
+  "summary": "A smart python utility that generates unique incremental names, preventing naming collisions by automatically appending incremental suffixes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "namecrement-0.1.0.tar.gz",
+  "download_time": "2025-09-02T23:53:23.311011",
+  "package_url": "https://pypi.org/project/namecrement/"
+}

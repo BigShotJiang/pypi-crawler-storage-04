@@ -1,0 +1,11 @@
+{
+  "name": "graphreduce",
+  "version": "1.8.7",
+  "summary": "Leveraging graph data structures for complex feature engineering pipelines.",
+  "author": "Wes Madrigal",
+  "license": "MIT",
+  "home_page": "https://github.com/wesmadrigal/graphreduce",
+  "download_filename": "graphreduce-1.8.7.tar.gz",
+  "download_time": "2025-09-02T23:53:28.563382",
+  "package_url": "https://pypi.org/project/graphreduce/"
+}
