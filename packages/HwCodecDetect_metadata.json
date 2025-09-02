@@ -1,11 +1,11 @@
 {
   "name": "HwCodecDetect",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A cross-platform tool to automatically detect and test hardware video decoders/encoders using FFmpeg.",
   "author": "whyb",
   "license": null,
   "home_page": "https://github.com/whyb/HwCodecDetect",
-  "download_filename": "hwcodecdetect-0.0.7.tar.gz",
-  "download_time": "2025-08-31T13:52:52.635871",
+  "download_filename": "hwcodecdetect-0.0.8.tar.gz",
+  "download_time": "2025-09-02T03:42:45.060186",
   "package_url": "https://pypi.org/project/HwCodecDetect/"
 }

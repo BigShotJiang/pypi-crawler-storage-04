@@ -1,11 +1,11 @@
 {
   "name": "pax-detector",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A vision pipeline for object and car make classification with CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pax_detector-0.1.6.tar.gz",
-  "download_time": "2025-09-01T22:41:53.982668",
+  "download_filename": "pax_detector-0.1.7.tar.gz",
+  "download_time": "2025-09-02T03:43:22.156169",
   "package_url": "https://pypi.org/project/pax-detector/"
 }

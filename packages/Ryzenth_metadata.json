@@ -1,11 +1,11 @@
 {
   "name": "Ryzenth",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "summary": "Ryzenth is a flexible Multi-API SDK with built-in support for API key management and database integration.",
   "author": "TeamKillerX",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ryzenth-2.3.5.tar.gz",
-  "download_time": "2025-09-01T18:29:43.600540",
+  "download_filename": "ryzenth-2.3.6.tar.gz",
+  "download_time": "2025-09-02T03:43:17.501459",
   "package_url": "https://pypi.org/project/Ryzenth/"
 }

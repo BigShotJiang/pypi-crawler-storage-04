@@ -1,0 +1,11 @@
+{
+  "name": "flake8-errmsg",
+  "version": "0.6.0",
+  "summary": "Flake8 checker for raw literals inside raises.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_errmsg-0.6.0.tar.gz",
+  "download_time": "2025-09-02T03:43:24.729295",
+  "package_url": "https://pypi.org/project/flake8-errmsg/"
+}

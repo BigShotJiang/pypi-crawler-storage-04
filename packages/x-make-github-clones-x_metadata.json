@@ -1,11 +1,11 @@
 {
   "name": "x-make-github-clones-x",
-  "version": "1.0.8",
-  "summary": "Makes GitHub repository clones.",
-  "author": "Roy GM",
+  "version": "2.0.4",
+  "summary": null,
+  "author": null,
   "license": null,
-  "home_page": "https://pypi.org/project/x_make_github_clones_x/",
-  "download_filename": "x_make_github_clones_x-1.0.8.tar.gz",
-  "download_time": "2025-09-02T03:00:57.130995",
+  "home_page": null,
+  "download_filename": "x_make_github_clones_x-2.0.4.tar.gz",
+  "download_time": "2025-09-02T03:42:56.915269",
   "package_url": "https://pypi.org/project/x-make-github-clones-x/"
 }

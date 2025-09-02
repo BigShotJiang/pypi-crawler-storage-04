@@ -1,11 +1,11 @@
 {
   "name": "verskyt",
-  "version": "0.1.4",
+  "version": "0.2.3",
   "summary": "Python library for Tversky Neural Networks with research tools for model introspection and prototype analysis",
   "author": "Jeff Smith",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "verskyt-0.1.4.tar.gz",
-  "download_time": "2025-09-01T04:42:59.545483",
+  "download_filename": "verskyt-0.2.3.tar.gz",
+  "download_time": "2025-09-02T03:42:58.459322",
   "package_url": "https://pypi.org/project/verskyt/"
 }

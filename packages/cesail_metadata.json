@@ -1,0 +1,11 @@
+{
+  "name": "cesail",
+  "version": "0.2.3",
+  "summary": "A comprehensive web automation and DOM parsing platform with AI-powered agents",
+  "author": "Rachita Pradeep",
+  "license": "MIT",
+  "home_page": "https://github.com/AkilaJay/cesail",
+  "download_filename": "cesail-0.2.3.tar.gz",
+  "download_time": "2025-09-02T03:43:16.473431",
+  "package_url": "https://pypi.org/project/cesail/"
+}

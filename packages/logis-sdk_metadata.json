@@ -1,11 +1,11 @@
 {
   "name": "logis-sdk",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "络捷斯特 Python 模块合集",
   "author": "leoking",
   "license": null,
   "home_page": null,
-  "download_filename": "logis_sdk-0.1.3.tar.gz",
-  "download_time": "2025-09-01T12:44:47.593860",
+  "download_filename": "logis_sdk-0.1.5.tar.gz",
+  "download_time": "2025-09-02T03:42:51.259159",
   "package_url": "https://pypi.org/project/logis-sdk/"
 }
