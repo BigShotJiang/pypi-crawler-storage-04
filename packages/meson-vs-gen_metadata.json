@@ -1,0 +1,11 @@
+{
+  "name": "meson-vs-gen",
+  "version": "0.7.0",
+  "summary": "Generates Visual Studio solutions and projects for meson projects",
+  "author": "Charles Brunet",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/optelgroup-public/meson-vs-gen",
+  "download_filename": "meson_vs_gen-0.7.0.tar.gz",
+  "download_time": "2025-09-02T19:17:32.002941",
+  "package_url": "https://pypi.org/project/meson-vs-gen/"
+}

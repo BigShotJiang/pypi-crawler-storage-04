@@ -1,0 +1,11 @@
+{
+  "name": "argparse-decorations",
+  "version": "1.0.0",
+  "summary": "argparse wrapper around decorations",
+  "author": "Rafael Monico",
+  "license": "GPL3",
+  "home_page": "https://bitbucket.org/rmonico/argparse_decorations",
+  "download_filename": "argparse_decorations-1.0.0.tar.gz",
+  "download_time": "2025-09-02T19:17:23.133600",
+  "package_url": "https://pypi.org/project/argparse-decorations/"
+}

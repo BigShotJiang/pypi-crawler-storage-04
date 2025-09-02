@@ -1,11 +1,11 @@
 {
   "name": "cpln-py",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "A Python library for the Control Plane API",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "cpln_py-1.2.0.tar.gz",
-  "download_time": "2025-09-02T17:41:15.195276",
+  "download_filename": "cpln_py-1.2.2.tar.gz",
+  "download_time": "2025-09-02T19:17:29.925836",
   "package_url": "https://pypi.org/project/cpln-py/"
 }

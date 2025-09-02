@@ -1,0 +1,11 @@
+{
+  "name": "postnote",
+  "version": "0.5.0",
+  "summary": "A lightweight Postman-like client for Jupyter notebooks and Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "postnote-0.5.0.tar.gz",
+  "download_time": "2025-09-02T19:17:30.962544",
+  "package_url": "https://pypi.org/project/postnote/"
+}
