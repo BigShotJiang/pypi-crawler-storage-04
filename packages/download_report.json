@@ -1,10 +1,11 @@
 {
-  "download_time": "2025-09-02T04:33:23.482222",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 21.96,
+  "download_time": "2025-09-02T04:54:53.774136",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 2.22,
   "packages": [
-    "HoloLink",
     "multimodal-sdk",
+    "mem8",
+    "HoloLink",
     "whiskerrag",
     "bili_stalker_mcp",
     "phg-vis",
@@ -77,8 +78,6 @@
     "internal",
     "pynetsuite",
     "rcabench-platform",
-    "cascade-reg",
-    "keras-nightly",
-    "odoo-addon-sign-oca"
+    "cascade-reg"
   ]
 }

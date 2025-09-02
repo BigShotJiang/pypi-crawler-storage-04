@@ -1,11 +1,11 @@
 {
   "name": "multimodal-sdk",
-  "version": "0.0.6.67.10",
+  "version": "0.0.6.67.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multimodal_sdk-0.0.6.67.10.tar.gz",
-  "download_time": "2025-09-02T04:32:44.059399",
+  "download_filename": "multimodal_sdk-0.0.6.67.11.tar.gz",
+  "download_time": "2025-09-02T04:54:13.400353",
   "package_url": "https://pypi.org/project/multimodal-sdk/"
 }
