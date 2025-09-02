@@ -1,0 +1,11 @@
+{
+  "name": "pycgmes",
+  "version": "2.0.6",
+  "summary": "Python dataclasses for CGMES 3.0.0",
+  "author": "pycgmes",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/alliander-opensource/pycgmes",
+  "download_filename": "pycgmes-2.0.6.tar.gz",
+  "download_time": "2025-09-02T07:25:50.923056",
+  "package_url": "https://pypi.org/project/pycgmes/"
+}

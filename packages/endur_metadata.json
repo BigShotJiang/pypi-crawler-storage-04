@@ -1,0 +1,11 @@
+{
+  "name": "endur",
+  "version": "0.0.1",
+  "summary": "Stable Channels implementation as a Python ASGI State Middleware and Dependency Injection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "endur-0.0.1.tar.gz",
+  "download_time": "2025-09-02T07:26:05.868970",
+  "package_url": "https://pypi.org/project/endur/"
+}

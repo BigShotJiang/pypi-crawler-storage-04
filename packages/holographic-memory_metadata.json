@@ -1,11 +1,11 @@
 {
   "name": "holographic-memory",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Compositional memory with fixed-size vectors via circular convolution (Holographic Reduced Representations)",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "holographic_memory-1.2.0.tar.gz",
-  "download_time": "2025-09-02T06:33:44.465410",
+  "download_filename": "holographic_memory-1.3.0.tar.gz",
+  "download_time": "2025-09-02T07:25:55.521720",
   "package_url": "https://pypi.org/project/holographic-memory/"
 }

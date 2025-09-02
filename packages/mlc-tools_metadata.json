@@ -1,11 +1,11 @@
 {
   "name": "mlc-tools",
-  "version": "0.4.1172",
+  "version": "0.4.1173",
   "summary": "A tool to generate and translate C++ code to other languages from one code-base.",
   "author": "Vladimir Tolmachev",
   "license": null,
   "home_page": "https://github.com/mlc-tools/mlc-tools",
-  "download_filename": "mlc-tools-0.4.1172.tar.gz",
-  "download_time": "2025-09-01T03:24:10.052362",
+  "download_filename": "mlc-tools-0.4.1173.tar.gz",
+  "download_time": "2025-09-02T07:25:50.411746",
   "package_url": "https://pypi.org/project/mlc-tools/"
 }

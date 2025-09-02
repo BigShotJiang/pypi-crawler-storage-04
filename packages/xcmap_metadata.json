@@ -1,11 +1,11 @@
 {
   "name": "xcmap",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": "chuck yang",
   "license": null,
   "home_page": "https://www.xcmap.cn",
-  "download_filename": "xcmap-0.1.4.tar.gz",
-  "download_time": "2025-09-02T06:34:06.519713",
+  "download_filename": "xcmap-0.1.5.tar.gz",
+  "download_time": "2025-09-02T07:26:06.901705",
   "package_url": "https://pypi.org/project/xcmap/"
 }

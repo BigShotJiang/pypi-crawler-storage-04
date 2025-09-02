@@ -1,11 +1,11 @@
 {
   "name": "sparse-coding",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Biological vision principles for efficient representation learning from natural images",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "sparse_coding-2.1.0.tar.gz",
-  "download_time": "2025-09-02T05:22:52.152848",
+  "download_filename": "sparse_coding-2.2.0.tar.gz",
+  "download_time": "2025-09-02T07:25:57.056992",
   "package_url": "https://pypi.org/project/sparse-coding/"
 }

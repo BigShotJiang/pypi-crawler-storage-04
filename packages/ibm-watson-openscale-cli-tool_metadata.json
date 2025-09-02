@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watson-openscale-cli-tool",
+  "version": "3.5.64",
+  "summary": "CLI library to automate the onboarding process to IBM Watson OpenScale",
+  "author": "IBM Corp",
+  "license": "Apache-2.0",
+  "home_page": "https://www.ibm.com/cloud/watson-openscale",
+  "download_filename": "ibm_watson_openscale_cli_tool-3.5.64.tar.gz",
+  "download_time": "2025-09-02T07:25:39.595243",
+  "package_url": "https://pypi.org/project/ibm-watson-openscale-cli-tool/"
+}
