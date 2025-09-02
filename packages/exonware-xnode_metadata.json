@@ -1,0 +1,11 @@
+{
+  "name": "exonware-xnode",
+  "version": "0.0.1",
+  "summary": "Node-based data processing and graph computation library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exonware_xnode-0.0.1.tar.gz",
+  "download_time": "2025-09-02T21:53:49.426550",
+  "package_url": "https://pypi.org/project/exonware-xnode/"
+}

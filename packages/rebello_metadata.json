@@ -1,11 +1,11 @@
 {
   "name": "rebello",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Editor-driven Markdown interface for Trello",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rebello-0.1.0.tar.gz",
-  "download_time": "2025-09-02T07:42:24.830632",
+  "download_filename": "rebello-0.2.0.tar.gz",
+  "download_time": "2025-09-02T21:53:46.331577",
   "package_url": "https://pypi.org/project/rebello/"
 }

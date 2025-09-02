@@ -1,0 +1,11 @@
+{
+  "name": "pure-protobuf",
+  "version": "3.1.5",
+  "summary": "Protocol Buffers using Python type annotations",
+  "author": "Pavel Perestoronin",
+  "license": "MIT",
+  "home_page": "https://github.com/eigenein/protobuf",
+  "download_filename": "pure_protobuf-3.1.5.tar.gz",
+  "download_time": "2025-09-02T21:53:59.479301",
+  "package_url": "https://pypi.org/project/pure-protobuf/"
+}

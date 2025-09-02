@@ -1,11 +1,11 @@
 {
   "name": "tui-audioplayer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "TUI WebRadio player",
   "author": "Alfredo Cubitos",
   "license": null,
   "home_page": null,
-  "download_filename": "tui_audioplayer-0.1.2.tar.gz",
-  "download_time": "2025-09-02T21:39:39.331483",
+  "download_filename": "tui_audioplayer-0.1.3.tar.gz",
+  "download_time": "2025-09-02T21:53:53.575189",
   "package_url": "https://pypi.org/project/tui-audioplayer/"
 }

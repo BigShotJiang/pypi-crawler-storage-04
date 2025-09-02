@@ -1,0 +1,11 @@
+{
+  "name": "radical.asyncflow",
+  "version": "0.2.0",
+  "summary": "A High Performance Asynchronous Workflow Scripting Library",
+  "author": "RADICAL Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "radical_asyncflow-0.2.0.tar.gz",
+  "download_time": "2025-09-02T21:53:57.745444",
+  "package_url": "https://pypi.org/project/radical.asyncflow/"
+}
