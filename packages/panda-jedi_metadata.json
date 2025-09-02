@@ -1,11 +1,11 @@
 {
   "name": "panda-jedi",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "PanDA JEDI Package",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "panda_jedi-0.6.3.tar.gz",
-  "download_time": "2025-09-02T09:54:40.867904",
+  "download_filename": "panda_jedi-0.6.4.tar.gz",
+  "download_time": "2025-09-02T11:40:09.071084",
   "package_url": "https://pypi.org/project/panda-jedi/"
 }

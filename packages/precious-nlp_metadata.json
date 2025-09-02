@@ -1,11 +1,11 @@
 {
   "name": "precious-nlp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tokenizer-free NLP library with T-FREE, CANINE, and byte-level approaches",
   "author": "bimri",
   "license": "MIT",
   "home_page": "https://github.com/bimri/precious",
-  "download_filename": "precious_nlp-0.1.1.tar.gz",
-  "download_time": "2025-09-02T10:46:10.892372",
+  "download_filename": "precious_nlp-0.1.2.tar.gz",
+  "download_time": "2025-09-02T11:40:20.874785",
   "package_url": "https://pypi.org/project/precious-nlp/"
 }

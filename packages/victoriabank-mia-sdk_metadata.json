@@ -1,11 +1,11 @@
 {
   "name": "victoriabank-mia-sdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Python SDK for Victoriabank MIA API",
   "author": "Alexander Minza",
   "license": null,
   "home_page": null,
-  "download_filename": "victoriabank_mia_sdk-1.1.0.tar.gz",
-  "download_time": "2025-09-02T09:24:54.347367",
+  "download_filename": "victoriabank_mia_sdk-1.1.1.tar.gz",
+  "download_time": "2025-09-02T11:40:30.167780",
   "package_url": "https://pypi.org/project/victoriabank-mia-sdk/"
 }

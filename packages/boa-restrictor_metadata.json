@@ -1,0 +1,11 @@
+{
+  "name": "boa-restrictor",
+  "version": "1.10.6",
+  "summary": "A custom Python and Django linter from Ambient",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boa_restrictor-1.10.6.tar.gz",
+  "download_time": "2025-09-02T11:40:13.681033",
+  "package_url": "https://pypi.org/project/boa-restrictor/"
+}

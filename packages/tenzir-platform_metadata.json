@@ -1,11 +1,11 @@
 {
   "name": "tenzir-platform",
-  "version": "1.17.4",
+  "version": "1.18.0",
   "summary": "Tenzir CLI",
   "author": "Tenzir",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "tenzir_platform-1.17.4.tar.gz",
-  "download_time": "2025-08-28T18:30:20.801631",
+  "download_filename": "tenzir_platform-1.18.0.tar.gz",
+  "download_time": "2025-09-02T11:40:30.680328",
   "package_url": "https://pypi.org/project/tenzir-platform/"
 }

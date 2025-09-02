@@ -1,11 +1,11 @@
 {
   "name": "memecoin-analyst-agent",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Memecoin Smart Trading Analyst Agent with MCP server for Alibaba Cloud Bailian",
   "author": "Memecoin Trading Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memecoin_analyst_agent-0.1.8.tar.gz",
-  "download_time": "2025-09-02T11:20:04.901119",
+  "download_filename": "memecoin_analyst_agent-0.1.9.tar.gz",
+  "download_time": "2025-09-02T11:40:08.557644",
   "package_url": "https://pypi.org/project/memecoin-analyst-agent/"
 }

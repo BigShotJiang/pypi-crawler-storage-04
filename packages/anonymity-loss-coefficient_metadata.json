@@ -1,0 +1,11 @@
+{
+  "name": "anonymity-loss-coefficient",
+  "version": "1.0.32",
+  "summary": "A package to run attacks on anonymized data using the Anonymity Loss Coefficient.",
+  "author": "Paul Francis",
+  "license": null,
+  "home_page": "https://github.com/yoid2000/anonymity_loss_coefficient",
+  "download_filename": "anonymity_loss_coefficient-1.0.32.tar.gz",
+  "download_time": "2025-09-02T11:40:33.450724",
+  "package_url": "https://pypi.org/project/anonymity-loss-coefficient/"
+}

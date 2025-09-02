@@ -1,0 +1,11 @@
+{
+  "name": "modcma",
+  "version": "1.1.0",
+  "summary": "Package Containing Modular CMA-ES optimizer",
+  "author": "Jacob de Nobel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modcma-1.1.0.tar.gz",
+  "download_time": "2025-09-02T11:40:22.947970",
+  "package_url": "https://pypi.org/project/modcma/"
+}
