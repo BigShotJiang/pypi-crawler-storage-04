@@ -1,0 +1,11 @@
+{
+  "name": "shellpomodoro",
+  "version": "0.1.0",
+  "summary": "A cross-platform terminal Pomodoro timer (stdlib-only) with keypress pauses and an ASCII reward banner.",
+  "author": "Avi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shellpomodoro-0.1.0.tar.gz",
+  "download_time": "2025-09-02T17:41:37.438599",
+  "package_url": "https://pypi.org/project/shellpomodoro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "yaokong",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "A Python package for yaokong functionality",
   "author": "Kim Jarvis",
-  "license": null,
-  "home_page": null,
-  "download_filename": "yaokong-0.1.tar.gz",
-  "download_time": "2025-09-02T17:04:37.495506",
+  "license": "MIT",
+  "home_page": "https://github.com/kimjarvis/yaokong",
+  "download_filename": "yaokong-0.2.tar.gz",
+  "download_time": "2025-09-02T17:41:35.257495",
   "package_url": "https://pypi.org/project/yaokong/"
 }

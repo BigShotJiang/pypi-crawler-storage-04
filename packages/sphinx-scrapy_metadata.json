@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-scrapy",
+  "version": "0.3.0",
+  "summary": "Sphinx extension for documentation in the Scrapy ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_scrapy-0.3.0.tar.gz",
+  "download_time": "2025-09-02T17:41:33.691982",
+  "package_url": "https://pypi.org/project/sphinx-scrapy/"
+}

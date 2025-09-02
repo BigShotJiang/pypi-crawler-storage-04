@@ -1,11 +1,11 @@
 {
   "name": "simc-support",
-  "version": "11.2.0.5",
+  "version": "11.2.0.6",
   "summary": "Data to support simulations for World of Warcraft with SimulationCraft.",
   "author": "Bloodmallet(EU)",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "home_page": "https://github.com/Bloodmallet/simc_support",
-  "download_filename": "simc_support-11.2.0.5.tar.gz",
-  "download_time": "2025-08-30T08:43:57.592527",
+  "download_filename": "simc_support-11.2.0.6.tar.gz",
+  "download_time": "2025-09-02T17:41:41.624263",
   "package_url": "https://pypi.org/project/simc-support/"
 }

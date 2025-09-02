@@ -1,0 +1,11 @@
+{
+  "name": "pyrilog",
+  "version": "0.2.0",
+  "summary": "A Python-based SystemVerilog code generator using context managers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrilog-0.2.0.tar.gz",
+  "download_time": "2025-09-02T17:41:41.094420",
+  "package_url": "https://pypi.org/project/pyrilog/"
+}
