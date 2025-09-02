@@ -1,0 +1,11 @@
+{
+  "name": "claude-statusbar",
+  "version": "1.1.0",
+  "summary": "Lightweight status bar monitor for Claude AI token usage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_statusbar-1.1.0.tar.gz",
+  "download_time": "2025-09-02T01:42:07.787594",
+  "package_url": "https://pypi.org/project/claude-statusbar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-gsc",
+  "version": "0.1.0",
+  "summary": "Google Search Console integration for Model Context Protocol (MCP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_gsc-0.1.0.tar.gz",
+  "download_time": "2025-09-02T01:42:23.814139",
+  "package_url": "https://pypi.org/project/mcp-gsc/"
+}

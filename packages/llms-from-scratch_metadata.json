@@ -1,0 +1,11 @@
+{
+  "name": "llms-from-scratch",
+  "version": "1.0.18",
+  "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llms_from_scratch-1.0.18.tar.gz",
+  "download_time": "2025-09-02T01:42:12.418480",
+  "package_url": "https://pypi.org/project/llms-from-scratch/"
+}

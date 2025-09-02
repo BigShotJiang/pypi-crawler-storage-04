@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-silero",
+  "version": "1.2.8",
+  "summary": "Agent Framework Plugin for Silero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_silero-1.2.8.tar.gz",
+  "download_time": "2025-09-02T01:42:33.177282",
+  "package_url": "https://pypi.org/project/livekit-plugins-silero/"
+}

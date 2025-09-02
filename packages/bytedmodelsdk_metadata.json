@@ -1,0 +1,11 @@
+{
+  "name": "bytedmodelsdk",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedmodelsdk",
+  "download_filename": "bytedmodelsdk-0.0.1.tar.gz",
+  "download_time": "2025-09-02T01:42:07.275115",
+  "package_url": "https://pypi.org/project/bytedmodelsdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mapclient",
+  "version": "0.25.0",
+  "summary": "A framework for managing and sharing workflows.",
+  "author": "MAP Client Developers",
+  "license": null,
+  "home_page": "https://github.com/MusculoskeletalAtlasProject/mapclient",
+  "download_filename": "mapclient-0.25.0-py3-none-any.whl",
+  "download_time": "2025-09-02T01:41:58.683946",
+  "package_url": "https://pypi.org/project/mapclient/"
+}
