@@ -1,0 +1,11 @@
+{
+  "name": "veriq",
+  "version": "0.0.1",
+  "summary": "A lightweight Python library for managing system requirements, verifications, and design.",
+  "author": "Shunichiro Nomura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veriq-0.0.1.tar.gz",
+  "download_time": "2025-09-02T05:43:46.605145",
+  "package_url": "https://pypi.org/project/veriq/"
+}

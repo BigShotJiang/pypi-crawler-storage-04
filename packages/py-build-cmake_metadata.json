@@ -1,0 +1,11 @@
+{
+  "name": "py-build-cmake",
+  "version": "0.5.0",
+  "summary": "Modern, PEP 517 compliant build backend for creating Python packages with",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_build_cmake-0.5.0.tar.gz",
+  "download_time": "2025-09-02T05:43:52.803400",
+  "package_url": "https://pypi.org/project/py-build-cmake/"
+}

@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-02T05:23:04.140208
-- **Total Packages**: 85
-- **Total Size**: 21.06 MB
+- **Download Time**: 2025-09-02T05:44:31.436089
+- **Total Packages**: 89
+- **Total Size**: 9.68 MB
 
 ## Packages List
+- novalad
+- veriq
+- gemini-mcp
+- jetson-stats-customized
+- tessdb-dao
+- authentik-client
+- lakehouse-plumber
+- pyverbs
+- aemo-to-tariff
+- nahiarhdNLP
+- pyhelper-tools-jbhm
+- docutranslate
+- knowrithm-py
+- py-build-cmake
+- DangQu
+- LogPSplinePSD
+- python-plus
+- hvym-stellar
+- aa-mumble-quick-connect
+- outerport
+- theia-client
+- access-cli-sealuzh
+- orbdot
 - commons-cli
 - quda
 - django-cfg
@@ -14,7 +37,6 @@
 - embed-files
 - yoto-api
 - Chillax
-- pyhelper-tools-jbhm
 - lite-agent
 - nonebot-plugin-bafortune
 - oscillatorlookups
@@ -26,7 +48,6 @@
 - abiftool
 - qufe
 - llama-index
-- authentik-client
 - llama-index-vector-stores-postgres
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
@@ -74,20 +95,3 @@
 - autowzry
 - opencloudtool
 - phiphadl
-- access-cli-sealuzh
-- pwnkit
-- mcp-security-scanner
-- standardweb3
-- account-codes-jp
-- zazen
-- openai-websearch-mcp
-- llama-index-core
-- fastapi-rtk
-- greetings-helloworld2030-1
-- multimodal-sdk
-- mem8
-- whiskerrag
-- bili_stalker_mcp
-- phg-vis
-- pycompound
-- abstract-ide

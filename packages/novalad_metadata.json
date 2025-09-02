@@ -1,0 +1,11 @@
+{
+  "name": "novalad",
+  "version": "0.1.16",
+  "summary": "Novalad: AI-powered platform for transforming unstructured documents like PDFs and PowerPoints into machine-readable, structured data.",
+  "author": "Novalad",
+  "license": "Apache-2.0",
+  "home_page": "https://www.novalad.ai",
+  "download_filename": "novalad-0.1.16.tar.gz",
+  "download_time": "2025-09-02T05:43:46.094915",
+  "package_url": "https://pypi.org/project/novalad/"
+}
