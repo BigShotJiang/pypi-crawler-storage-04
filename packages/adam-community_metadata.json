@@ -1,11 +1,11 @@
 {
   "name": "adam-community",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Adam Community Tools and Utilities",
   "author": "Adam Community",
   "license": null,
   "home_page": "https://github.com/yourusername/adam-community",
-  "download_filename": "adam_community-1.0.1.tar.gz",
-  "download_time": "2025-09-02T01:42:06.247763",
+  "download_filename": "adam_community-1.0.4.tar.gz",
+  "download_time": "2025-09-02T04:32:48.186016",
   "package_url": "https://pypi.org/project/adam-community/"
 }

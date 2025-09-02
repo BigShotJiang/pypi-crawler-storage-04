@@ -1,0 +1,11 @@
+{
+  "name": "django-slack-tools",
+  "version": "0.3.2",
+  "summary": "Little helpers working with Slack bot 🤖 in Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_slack_tools-0.3.2.tar.gz",
+  "download_time": "2025-09-02T04:33:09.795268",
+  "package_url": "https://pypi.org/project/django-slack-tools/"
+}

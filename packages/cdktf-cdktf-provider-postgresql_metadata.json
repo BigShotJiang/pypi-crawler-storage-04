@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-postgresql",
+  "version": "12.1.0",
+  "summary": "Prebuilt postgresql Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-postgresql.git",
+  "download_filename": "cdktf_cdktf_provider_postgresql-12.1.0.tar.gz",
+  "download_time": "2025-09-02T04:33:06.160555",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-postgresql/"
+}

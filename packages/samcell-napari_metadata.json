@@ -1,11 +1,11 @@
 {
   "name": "samcell-napari",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "summary": "A napari plugin for cell segmentation with SAMCell 1.0",
   "author": "Saahil Sanganeriya",
   "license": null,
   "home_page": "https://github.com/saahilsanganeriya/samcell-napari",
-  "download_filename": "samcell_napari-1.1.0.tar.gz",
-  "download_time": "2025-09-02T03:00:34.946132",
+  "download_filename": "samcell_napari-1.1.3.tar.gz",
+  "download_time": "2025-09-02T04:33:04.085485",
   "package_url": "https://pypi.org/project/samcell-napari/"
 }
