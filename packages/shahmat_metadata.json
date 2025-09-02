@@ -1,11 +1,11 @@
 {
   "name": "shahmat",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Analyze your Chess.com games: fetch, stats (hour, Elo diff), and clean visualizations.",
   "author": "Anthony Gocmen",
   "license": "MIT",
   "home_page": "https://ag-algolab.github.io/",
-  "download_filename": "shahmat-0.0.5.tar.gz",
-  "download_time": "2025-08-30T17:38:32.059542",
+  "download_filename": "shahmat-0.0.6.tar.gz",
+  "download_time": "2025-09-02T11:20:13.269397",
   "package_url": "https://pypi.org/project/shahmat/"
 }

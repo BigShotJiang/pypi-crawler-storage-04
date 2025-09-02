@@ -1,0 +1,11 @@
+{
+  "name": "ztdata",
+  "version": "0.3.15",
+  "summary": "统一数据库客户端SDK",
+  "author": "ZTQuant团队",
+  "license": "MIT",
+  "home_page": "https://git.ztquant.com/ztData/ztDataClient",
+  "download_filename": "ztdata-0.3.15.tar.gz",
+  "download_time": "2025-09-02T11:19:54.945023",
+  "package_url": "https://pypi.org/project/ztdata/"
+}

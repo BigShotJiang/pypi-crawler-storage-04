@@ -1,11 +1,11 @@
 {
   "name": "galaxy-py-cmd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python Command for the Galaxy Project",
   "author": "Bastien Saltel",
   "license": "Apache-2.0",
   "home_page": "https://github.com/bsaltel/galaxy-py-cmd",
-  "download_filename": "galaxy_py_cmd-0.0.3.tar.gz",
-  "download_time": "2025-09-02T09:54:40.354550",
+  "download_filename": "galaxy_py_cmd-0.0.4.tar.gz",
+  "download_time": "2025-09-02T11:20:08.773935",
   "package_url": "https://pypi.org/project/galaxy-py-cmd/"
 }
