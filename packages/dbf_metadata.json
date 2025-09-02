@@ -1,0 +1,11 @@
+{
+  "name": "dbf",
+  "version": "0.99.11",
+  "summary": "Pure python package for reading/writing dBase, FoxPro, and Visual FoxPro .dbf files (including memos)",
+  "author": "Ethan Furman",
+  "license": "BSD License",
+  "home_page": "https://github.com/ethanfurman/dbf",
+  "download_filename": "dbf-0.99.11.tar.gz",
+  "download_time": "2025-09-02T20:22:57.601135",
+  "package_url": "https://pypi.org/project/dbf/"
+}

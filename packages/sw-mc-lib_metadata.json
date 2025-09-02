@@ -1,11 +1,11 @@
 {
   "name": "sw-mc-lib",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Library for interaction with Stormworks Microcontrollers",
   "author": "Fabian Wunsch",
   "license": null,
   "home_page": null,
-  "download_filename": "sw_mc_lib-0.4.1.tar.gz",
-  "download_time": "2025-09-02T19:17:45.333523",
+  "download_filename": "sw_mc_lib-0.4.2.tar.gz",
+  "download_time": "2025-09-02T20:22:33.343874",
   "package_url": "https://pypi.org/project/sw-mc-lib/"
 }

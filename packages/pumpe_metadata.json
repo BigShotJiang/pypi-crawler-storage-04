@@ -1,11 +1,11 @@
 {
   "name": "pumpe",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Pumping base classes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pumpe-0.4.0.tar.gz",
-  "download_time": "2025-09-02T16:25:45.755614",
+  "download_filename": "pumpe-0.5.0.tar.gz",
+  "download_time": "2025-09-02T20:22:37.041900",
   "package_url": "https://pypi.org/project/pumpe/"
 }

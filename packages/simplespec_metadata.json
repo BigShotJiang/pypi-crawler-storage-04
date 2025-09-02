@@ -1,0 +1,11 @@
+{
+  "name": "simplespec",
+  "version": "0.1.1",
+  "summary": "Convert Python typing annotations, Pydantic v2 models, and dataclasses into a compact, human-readable schema",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "simplespec-0.1.1.tar.gz",
+  "download_time": "2025-09-02T20:23:08.676907",
+  "package_url": "https://pypi.org/project/simplespec/"
+}
