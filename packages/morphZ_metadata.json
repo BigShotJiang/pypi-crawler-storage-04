@@ -1,0 +1,11 @@
+{
+  "name": "morphZ",
+  "version": "0.1.0",
+  "summary": "KDE-based density estimation and approximation package.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "morphz-0.1.0.tar.gz",
+  "download_time": "2025-09-02T03:59:21.290771",
+  "package_url": "https://pypi.org/project/morphZ/"
+}

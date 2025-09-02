@@ -1,11 +1,11 @@
 {
   "name": "django-sentry-auto-setup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Handsfree setup of your Django project inside of Sentry!",
   "author": "MrCocoDev",
   "license": "MIT",
   "home_page": "https://github.com/MrCocoDev/django-sentry-auto-setup",
-  "download_filename": "django_sentry_auto_setup-1.0.2.tar.gz",
-  "download_time": "2025-09-02T03:42:49.723008",
+  "download_filename": "django_sentry_auto_setup-1.0.3.tar.gz",
+  "download_time": "2025-09-02T03:59:15.627290",
   "package_url": "https://pypi.org/project/django-sentry-auto-setup/"
 }

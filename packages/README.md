@@ -1,28 +1,73 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-02T03:43:25.749644
+- **Download Time**: 2025-09-02T03:59:55.067350
 - **Total Packages**: 77
-- **Total Size**: 25.74 MB
+- **Total Size**: 18.08 MB
 
 ## Packages List
+- odoo-addons-oca-storage
+- roi2bb
+- django-sentry-auto-setup
+- nonebot-plugin-fortnite
+- phiphadl
+- django-cool
+- pypika-tortoise
+- aio-sanitana-eden
+- hidet
+- ai-infra
+- yta-video-ffmpeg
+- axl-workflows
+- odoo-addon-stock-move-location-purchase-uom
+- morphZ
+- authentik-client
+- qwendy
+- yundownload
+- odoo-addon-shopfloor-reception-packaging-dimension
+- PteraSoftware
+- pycompound
+- odoo-addon-stock-barcodes
+- pyingraph
+- vkforge
+- internal
+- pynetsuite
+- rcabench-platform
+- cascade-reg
+- keras-nightly
 - HwCodecDetect
+- odoo-addon-sign-oca
+- odoo-addon-hr-shift
+- samcell
+- odoo-addon-date-range
+- lance-namespace-urllib3-client
+- lance-namespace
+- odoo-addon-date-range-account
+- mapfile-parser
+- tortitle
+- pydantic-fixedwidth
+- minecraft-datapack-language
+- fastapi-rtk
+- orbitkit
+- cdktf-cdktf-provider-databricks
+- simple-sdk-axp-v1
+- aws-annoying
+- pulumi-postgresql
+- odoo-addons-oca-search-engine
+- odoo-addon-sale-exception
+- odoo-addons-oca-sale-workflow
+- verskyt
+- odoo-addon-sale-order-invoicing-finished-task
+- stemflow
 - odoo-addon-sale-blanket-order
 - emta
-- yta-video-ffmpeg
 - pulumi-extra
 - BoschMiniRpa
 - PageSizey
-- minecraft-datapack-language
 - ag-draftking-utils
-- django-sentry-auto-setup
-- internal
 - logis-sdk
 - fwdi
 - python-clouddrive2
-- pulumi-postgresql
 - ecdev
-- samcell
 - quda
 - enhance-this
 - device-protocol-sdk
@@ -31,8 +76,6 @@
 - x-make-github-clones-x
 - x-make-pypi-x
 - x-make-markdown-x
-- verskyt
-- authentik-client
 - fred-oss
 - keras-rs-nightly
 - bilichat-request
@@ -40,46 +83,3 @@
 - wayback-machine-archiver
 - GANDLF
 - pulumi-xenorchestra
-- dscol
-- betpy
-- fatum
-- ecrt
-- fastapi-rtk
-- apetech-mcp-demo
-- py-aosmith
-- checkdmarc
-- toolsman
-- cdk-factory
-- phg-vis
-- sack-chat
-- odoo-addon-mrp-multi-level
-- modal
-- stereo-toolbox
-- vchrome
-- batch-executor
-- yta-constants
-- pyingraph
-- fastapi-scaff
-- theia-client
-- duowen-agent
-- tamar-file-hub-client
-- keywordsai-sdk
-- pythoncharmers-meta
-- cesail
-- azure-cli-core
-- Ryzenth
-- azure-cli
-- kognitos-bdk-runtime-client
-- streamlit-rtr-components
-- coordinate-system
-- math-lihu-4375
-- django-msteams-notify
-- barcodactyl
-- cadence-py
-- pax-detector
-- zenx
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- chat-console
-- flake8-errmsg
-- odoo-addon-l10n-br-fiscal

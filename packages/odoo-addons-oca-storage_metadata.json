@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-oca-storage",
+  "version": "16.0.20250901.0",
+  "summary": "Meta package for oca-storage Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_oca_storage-16.0.20250901.0-py3-none-any.whl",
+  "download_time": "2025-09-02T03:59:14.603614",
+  "package_url": "https://pypi.org/project/odoo-addons-oca-storage/"
+}

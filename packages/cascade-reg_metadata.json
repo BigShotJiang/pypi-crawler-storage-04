@@ -1,0 +1,11 @@
+{
+  "name": "cascade-reg",
+  "version": "0.5.0",
+  "summary": "Causal discovery of gene regulatory programs from single-cell genomics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cascade_reg-0.5.0.tar.gz",
+  "download_time": "2025-09-02T03:59:27.958227",
+  "package_url": "https://pypi.org/project/cascade-reg/"
+}

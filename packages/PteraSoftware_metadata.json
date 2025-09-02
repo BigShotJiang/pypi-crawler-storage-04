@@ -1,0 +1,11 @@
+{
+  "name": "PteraSoftware",
+  "version": "3.2.0",
+  "summary": "This is an open-source, unsteady aerodynamics solver for analyzing flapping-wing flight.",
+  "author": "Cameron Urban",
+  "license": "MIT",
+  "home_page": "https://github.com/camurban/pterasoftware",
+  "download_filename": "pterasoftware-3.2.0.tar.gz",
+  "download_time": "2025-09-02T03:59:23.857241",
+  "package_url": "https://pypi.org/project/PteraSoftware/"
+}

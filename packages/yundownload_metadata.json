@@ -1,0 +1,11 @@
+{
+  "name": "yundownload",
+  "version": "0.6.20",
+  "summary": "file downloader",
+  "author": "yunhai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yundownload-0.6.20.tar.gz",
+  "download_time": "2025-09-02T03:59:22.827248",
+  "package_url": "https://pypi.org/project/yundownload/"
+}
