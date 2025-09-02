@@ -1,11 +1,11 @@
 {
   "name": "renderpy",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "summary": "Render CLI in Python",
   "author": "Arsan Codifire",
   "license": null,
   "home_page": "https://github.com/ArsanCodifire/Render-PyCLI",
-  "download_filename": "renderpy-0.5.0.tar.gz",
-  "download_time": "2025-08-31T15:52:46.702249",
+  "download_filename": "renderpy-1.0.0.tar.gz",
+  "download_time": "2025-09-02T18:29:56.475029",
   "package_url": "https://pypi.org/project/renderpy/"
 }

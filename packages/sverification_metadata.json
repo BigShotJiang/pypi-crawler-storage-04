@@ -1,0 +1,11 @@
+{
+  "name": "sverification",
+  "version": "0.1.1",
+  "summary": "A tool for verifying PDF statements from Tanzanian and beyond institutions",
+  "author": "Alex Mkwizu @ Black Swan AI",
+  "license": null,
+  "home_page": "https://github.com/Tausi-Africa/statement-verification",
+  "download_filename": "sverification-0.1.1.tar.gz",
+  "download_time": "2025-09-02T18:29:21.812331",
+  "package_url": "https://pypi.org/project/sverification/"
+}

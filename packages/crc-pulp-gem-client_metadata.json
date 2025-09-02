@@ -1,11 +1,11 @@
 {
   "name": "crc-pulp-gem-client",
-  "version": "20250901.1",
+  "version": "20250902.1",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPLv2+",
   "home_page": null,
-  "download_filename": "crc_pulp_gem_client-20250901.1.tar.gz",
-  "download_time": "2025-09-01T18:50:13.395505",
+  "download_filename": "crc_pulp_gem_client-20250902.1.tar.gz",
+  "download_time": "2025-09-02T18:29:25.996130",
   "package_url": "https://pypi.org/project/crc-pulp-gem-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xwrf",
+  "version": "0.0.5",
+  "summary": "A lightweight interface for working with the Weather Research and Forecasting (WRF) model output in Xarray.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://xwrf.readthedocs.io",
+  "download_filename": "xwrf-0.0.5.tar.gz",
+  "download_time": "2025-09-02T18:29:37.500792",
+  "package_url": "https://pypi.org/project/xwrf/"
+}

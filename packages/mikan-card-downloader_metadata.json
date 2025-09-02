@@ -1,0 +1,11 @@
+{
+  "name": "mikan-card-downloader",
+  "version": "3.2.0",
+  "summary": "Downloads cards and stills from SIFAS and SIF.",
+  "author": "DemonicSavage",
+  "license": "GPLv3",
+  "home_page": "https://www.demonicsavage.com/projects/mikan",
+  "download_filename": "mikan_card_downloader-3.2.0.tar.gz",
+  "download_time": "2025-09-02T18:29:48.015020",
+  "package_url": "https://pypi.org/project/mikan-card-downloader/"
+}

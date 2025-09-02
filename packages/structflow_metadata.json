@@ -1,0 +1,11 @@
+{
+  "name": "structflow",
+  "version": "1.0.0",
+  "summary": "A Python library for programmatic HTML generation with type safety and a clean API",
+  "author": "Pedro José Mora Gallegos",
+  "license": "MIT",
+  "home_page": "https://github.com/pedrojosemoragallegos/structflow",
+  "download_filename": "structflow-1.0.0.tar.gz",
+  "download_time": "2025-09-02T18:29:14.509540",
+  "package_url": "https://pypi.org/project/structflow/"
+}
