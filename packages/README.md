@@ -1,24 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-02T22:19:38.158898
+- **Download Time**: 2025-09-02T22:41:33.701545
 - **Total Packages**: 79
-- **Total Size**: 6.2 MB
+- **Total Size**: 10.98 MB
 
 ## Packages List
+- smcpy
+- nv-one-logger-training-telemetry
+- nv-one-logger-otel
+- supermemory-openai-sdk
+- ser-mail-api
+- nv-one-logger-core
+- data-retrieval-monitor
+- pysacio
+- xspex
+- TempCatcher
+- authentik-client
+- chatgpt-to-sqlite
+- exonware-xdata
+- otpylib
+- homecom-alt
+- fyodorov-utils
+- fyodorov-llm-agents
+- libpixelair
+- cdk-factory
+- ray-utilities
+- gemini-webapi
+- b10-transfer
+- statsig-python-core
+- cyares
+- ratiopath
+- fakegrpc
+- mimic-iv-analysis
+- odoo-commands
+- bombcell
+- exonware-xschema
+- lazy-flask
+- package-for-testing-gh-actions
+- league-analysis-mcp-server
+- d-vecdb-server
+- kubeflow-test
 - pygoroutine
+- onnxruntime-lite
+- blank-line-after-blocks
+- cerebras-cloud-sdk
+- uologging
+- alawymdb
+- oldaplib
+- isapilib
+- soso
+- segmentation-skeleton-metrics
+- pluk
+- GNServer
 - ledger2bql
 - pipen-args
 - common-agent-code
 - claude-code-indexer
-- data-retrieval-monitor
 - python-cowsay
 - zos-ftp-mcp
 - ai-infra
 - bbot
 - regula-documentreader-webclient
-- authentik-client
-- GNServer
 - truss
 - mcp-server-qdrant-pro
 - langsmith
@@ -28,13 +71,11 @@
 - LMtoolbox
 - starkbank-iso8583
 - git-clipboard
-- b10-transfer
 - thds.atacama
 - thds.mops
 - thds.humenc
 - thds.core
 - thds.adls
-- homecom-alt
 - VocabMaster
 - pbs-installer
 - remnawave
@@ -43,45 +84,4 @@
 - netbox-pve-sync
 - sentry-streams
 - pytest-deepassert
-- kubeflow-test
 - graphql_mcp
-- graphql_api
-- pymocker
-- tokenrouter
-- termaitrik
-- graphql_http
-- pype-schema
-- BatchalignHK
-- finnr
-- batchalign
-- polars-istr
-- catalogus
-- pyet
-- timestrader-preprocessing
-- ticdat
-- pysaebm
-- mmar-utils
-- mkdocs-excalidraw
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- rebello
-- keyisbvmhost
-- tobiko-cloud-api-client
-- py3toolset
-- exonware-xnode
-- phylodata
-- multiverse-simulators
-- coloredstrings
-- pysplashsurf
-- json_tabulator
-- tui-audioplayer
-- mmar-mapi
-- jnjrender
-- uk_bin_collection
-- radical.asyncflow
-- qnty
-- pure-protobuf
-- most-client
-- cryoforge
-- passagemath-rankwidth
-- passagemath-plot

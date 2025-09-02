@@ -1,0 +1,11 @@
+{
+  "name": "ser-mail-api",
+  "version": "2.0.4",
+  "summary": "Proofpoint Secure Email Relay Mail API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ser_mail_api-2.0.4.tar.gz",
+  "download_time": "2025-09-02T22:40:53.647392",
+  "package_url": "https://pypi.org/project/ser-mail-api/"
+}

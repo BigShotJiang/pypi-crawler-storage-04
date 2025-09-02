@@ -1,0 +1,11 @@
+{
+  "name": "smcpy",
+  "version": "0.1.7",
+  "summary": "A package for performing uncertainty quantification using a parallelized sequential Monte Carlo sampler.",
+  "author": "Patrick Leser",
+  "license": "NOSA v1.3",
+  "home_page": "https://github.com/nasa/SMCPy",
+  "download_filename": "smcpy-0.1.7.tar.gz",
+  "download_time": "2025-09-02T22:40:51.591027",
+  "package_url": "https://pypi.org/project/smcpy/"
+}
