@@ -1,11 +1,11 @@
 {
   "name": "galaxy-py-data",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Python Data for the Galaxy Project",
   "author": "Bastien Saltel",
   "license": "Apache-2.0",
   "home_page": "https://github.com/bsaltel/galaxy-py-data",
-  "download_filename": "galaxy_py_data-0.0.2.tar.gz",
-  "download_time": "2025-09-01T16:57:41.397297",
+  "download_filename": "galaxy_py_data-0.0.4.tar.gz",
+  "download_time": "2025-09-02T10:46:34.285434",
   "package_url": "https://pypi.org/project/galaxy-py-data/"
 }

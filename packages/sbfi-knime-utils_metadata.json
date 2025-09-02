@@ -1,0 +1,11 @@
+{
+  "name": "sbfi-knime-utils",
+  "version": "1.4.2",
+  "summary": "A lightweight logging utility with folder clearing, browser download support, and pandas DataFrame output.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbfi_knime_utils-1.4.2.tar.gz",
+  "download_time": "2025-09-02T10:46:42.603784",
+  "package_url": "https://pypi.org/project/sbfi-knime-utils/"
+}

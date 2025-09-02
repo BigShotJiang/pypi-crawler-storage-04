@@ -1,11 +1,11 @@
 {
   "name": "assertive-mock-api-client",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Api Client for Mock API Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "assertive_mock_api_client-0.3.0.tar.gz",
-  "download_time": "2025-09-01T20:22:23.650193",
+  "download_filename": "assertive_mock_api_client-0.4.0.tar.gz",
+  "download_time": "2025-09-02T10:46:11.968229",
   "package_url": "https://pypi.org/project/assertive-mock-api-client/"
 }

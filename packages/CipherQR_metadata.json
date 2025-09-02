@@ -1,0 +1,11 @@
+{
+  "name": "CipherQR",
+  "version": "1.0.0",
+  "summary": "End-to-end encrypted QR code generator and scanner with forward secrecy",
+  "author": "CipherQR Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cipherqr-1.0.0.tar.gz",
+  "download_time": "2025-09-02T10:46:03.304750",
+  "package_url": "https://pypi.org/project/CipherQR/"
+}
