@@ -1,0 +1,11 @@
+{
+  "name": "zbuilder",
+  "version": "0.0.67",
+  "summary": "Create VMs",
+  "author": "Chasiotis Nikos",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/hasiotis/zbuilder",
+  "download_filename": "zbuilder-0.0.67.tar.gz",
+  "download_time": "2025-09-02T09:43:29.768780",
+  "package_url": "https://pypi.org/project/zbuilder/"
+}

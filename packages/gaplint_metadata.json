@@ -1,0 +1,11 @@
+{
+  "name": "gaplint",
+  "version": "1.6.0",
+  "summary": "A linter for GAP (https://www.gap-system.org/).",
+  "author": "Reinis Cirpons, James D. Mitchell, Simon Tollman",
+  "license": "GPL3",
+  "home_page": "https://github.com/james-d-mitchell/gaplint",
+  "download_filename": "gaplint-1.6.0.tar.gz",
+  "download_time": "2025-09-02T09:43:38.727498",
+  "package_url": "https://pypi.org/project/gaplint/"
+}

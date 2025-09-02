@@ -1,0 +1,11 @@
+{
+  "name": "whiffle-client",
+  "version": "0.5.0",
+  "summary": "Python based web client to interact with Whiffle services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whiffle_client-0.5.0.tar.gz",
+  "download_time": "2025-09-02T09:43:31.891445",
+  "package_url": "https://pypi.org/project/whiffle-client/"
+}

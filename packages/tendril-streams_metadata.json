@@ -1,0 +1,11 @@
+{
+  "name": "tendril-streams",
+  "version": "0.4.1",
+  "summary": "Primitives for Stream Processing for Tendril",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-streams",
+  "download_filename": "tendril-streams-0.4.1.tar.gz",
+  "download_time": "2025-09-02T09:43:26.065021",
+  "package_url": "https://pypi.org/project/tendril-streams/"
+}

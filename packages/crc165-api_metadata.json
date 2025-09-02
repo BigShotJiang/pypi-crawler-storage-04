@@ -1,11 +1,11 @@
 {
   "name": "crc165-api",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python wrapper for the CRC 1625 MatInf VRO API",
   "author": "Doaa Mohamed",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://gitlab.ruhr-uni-bochum.de/icams-mids/crc1625rdmswrapper",
-  "download_filename": "crc165_api-0.1.5.tar.gz",
-  "download_time": "2025-09-01T12:11:43.942513",
+  "download_filename": "crc165_api-0.1.6.tar.gz",
+  "download_time": "2025-09-02T09:43:48.072893",
   "package_url": "https://pypi.org/project/crc165-api/"
 }

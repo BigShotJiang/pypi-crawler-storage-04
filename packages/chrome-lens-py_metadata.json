@@ -1,0 +1,11 @@
+{
+  "name": "chrome-lens-py",
+  "version": "3.2.2",
+  "summary": "Python library for Google Lens OCR and Translation using the crupload endpoint.",
+  "author": "Bropines",
+  "license": "MIT License",
+  "home_page": "https://github.com/bropines/chrome-lens-py",
+  "download_filename": "chrome_lens_py-3.2.2.tar.gz",
+  "download_time": "2025-09-02T09:43:52.454966",
+  "package_url": "https://pypi.org/project/chrome-lens-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aps-agent",
+  "version": "0.2.0",
+  "summary": "Agent to analyze Abstractive Proposition Segmentation (APS).",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/aps-agent",
+  "download_filename": "aps_agent-0.2.0.tar.gz",
+  "download_time": "2025-09-02T09:43:50.920971",
+  "package_url": "https://pypi.org/project/aps-agent/"
+}

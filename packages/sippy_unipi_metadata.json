@@ -1,0 +1,11 @@
+{
+  "name": "sippy_unipi",
+  "version": "1.0.1",
+  "summary": "Systems Identification Package for Python",
+  "author": "Giuseppe Armenise, Riccardo Bacci di Capaci, Marco Vaccari, Gabriele Pannocchia, Marek Wadinger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sippy_unipi-1.0.1.tar.gz",
+  "download_time": "2025-09-02T09:43:41.829789",
+  "package_url": "https://pypi.org/project/sippy_unipi/"
+}
