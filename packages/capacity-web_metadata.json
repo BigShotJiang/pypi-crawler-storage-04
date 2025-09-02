@@ -1,11 +1,11 @@
 {
   "name": "capacity-web",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "网络搜索功能包，提供简单易用的网络搜索接口",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "capacity_web-1.0.3.tar.gz",
-  "download_time": "2025-09-01T16:26:18.650200",
+  "download_filename": "capacity_web-1.0.4.tar.gz",
+  "download_time": "2025-09-02T14:22:41.109152",
   "package_url": "https://pypi.org/project/capacity-web/"
 }

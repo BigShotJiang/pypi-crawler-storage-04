@@ -1,11 +1,11 @@
 {
   "name": "finergy-mia-pos-sdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Python SDK for Finergy MIA POS eComm API",
   "author": "Alexander Minza",
   "license": null,
   "home_page": null,
-  "download_filename": "finergy_mia_pos_sdk-1.1.0.tar.gz",
-  "download_time": "2025-09-02T09:43:49.129274",
+  "download_filename": "finergy_mia_pos_sdk-1.1.1.tar.gz",
+  "download_time": "2025-09-02T14:22:47.276671",
   "package_url": "https://pypi.org/project/finergy-mia-pos-sdk/"
 }

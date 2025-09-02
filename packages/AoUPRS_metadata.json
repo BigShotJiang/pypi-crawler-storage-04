@@ -1,0 +1,11 @@
+{
+  "name": "AoUPRS",
+  "version": "0.2.4",
+  "summary": "AoUPRS is a Python module for calculating Polygenic Risk Scores (PRS) specific to the All of Us study",
+  "author": "Ahmed Khattab",
+  "license": null,
+  "home_page": "https://github.com/AhmedMKhattab/AoUPRS",
+  "download_filename": "aouprs-0.2.4.tar.gz",
+  "download_time": "2025-09-02T14:23:10.494813",
+  "package_url": "https://pypi.org/project/AoUPRS/"
+}

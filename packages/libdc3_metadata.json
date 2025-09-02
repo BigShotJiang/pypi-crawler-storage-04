@@ -1,0 +1,11 @@
+{
+  "name": "libdc3",
+  "version": "1.3.1",
+  "summary": "The python library for dc3 and central DC shifters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libdc3-1.3.1.tar.gz",
+  "download_time": "2025-09-02T14:22:38.512991",
+  "package_url": "https://pypi.org/project/libdc3/"
+}
