@@ -1,0 +1,11 @@
+{
+  "name": "dqm-ml",
+  "version": "1.1.2",
+  "summary": "Python library designed to compute data quality metrics for Machine Learning",
+  "author": "IRT SystemX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dqm_ml-1.1.2.tar.gz",
+  "download_time": "2025-09-02T08:52:28.319105",
+  "package_url": "https://pypi.org/project/dqm-ml/"
+}

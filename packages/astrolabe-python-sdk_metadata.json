@@ -1,0 +1,11 @@
+{
+  "name": "astrolabe-python-sdk",
+  "version": "1.0.5",
+  "summary": "Python SDK for Astrolabe feature flag system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "astrolabe_python_sdk-1.0.5.tar.gz",
+  "download_time": "2025-09-02T08:52:12.171983",
+  "package_url": "https://pypi.org/project/astrolabe-python-sdk/"
+}
