@@ -1,11 +1,11 @@
 {
   "name": "pytwinnet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "PyTwinNet: Wireless Digital Twin & Network Optimization Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytwinnet-0.1.1.tar.gz",
-  "download_time": "2025-09-02T19:53:59.674042",
+  "download_filename": "pytwinnet-0.1.2.tar.gz",
+  "download_time": "2025-09-02T20:41:03.071438",
   "package_url": "https://pypi.org/project/pytwinnet/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "databaseautomationhuz",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A python package for connecting with database.",
   "author": "HuzaifaZaidi",
   "license": "MIT",
   "home_page": "https://github.com/HuzaifaZaidi/neuron_mlops_mongodb",
-  "download_filename": "databaseautomationhuz-0.0.7.tar.gz",
-  "download_time": "2025-09-02T20:22:37.560323",
+  "download_filename": "databaseautomationhuz-0.0.8.tar.gz",
+  "download_time": "2025-09-02T20:41:09.013634",
   "package_url": "https://pypi.org/project/databaseautomationhuz/"
 }

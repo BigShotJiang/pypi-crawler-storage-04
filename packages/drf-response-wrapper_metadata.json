@@ -1,11 +1,11 @@
 {
   "name": "drf-response-wrapper",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "DRF middleware to wrap all API responses",
   "author": "Md Harun Or Roshed Riyad",
   "license": null,
   "home_page": "https://github.com/yourusername/drf-response-wrapper",
-  "download_filename": "drf_response_wrapper-0.1.3.tar.gz",
-  "download_time": "2025-09-02T19:40:27.573875",
+  "download_filename": "drf_response_wrapper-0.1.5.tar.gz",
+  "download_time": "2025-09-02T20:41:07.882683",
   "package_url": "https://pypi.org/project/drf-response-wrapper/"
 }

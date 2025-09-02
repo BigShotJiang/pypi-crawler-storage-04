@@ -1,11 +1,11 @@
 {
   "name": "reflex",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "summary": "Web apps in pure Python.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "reflex-0.8.8.tar.gz",
-  "download_time": "2025-09-02T19:17:42.221701",
+  "download_filename": "reflex-0.8.9.tar.gz",
+  "download_time": "2025-09-02T20:41:19.624036",
   "package_url": "https://pypi.org/project/reflex/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "treetable",
+  "version": "0.2.6",
+  "summary": "Helper to pretty print an ascii table with a tree-like structure",
+  "author": null,
+  "license": "Unlicense license",
+  "home_page": null,
+  "download_filename": "treetable-0.2.6.tar.gz",
+  "download_time": "2025-09-02T20:41:04.371353",
+  "package_url": "https://pypi.org/project/treetable/"
+}

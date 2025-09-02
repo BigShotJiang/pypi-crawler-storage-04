@@ -1,0 +1,11 @@
+{
+  "name": "vestapol",
+  "version": "0.0.27",
+  "summary": "Python package that loads data from the web and deploys a corresponding external table definition, so that the data can be queried using standard SQL.",
+  "author": "Brian Waligorski",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/phillymedia/vestapol",
+  "download_filename": "vestapol-0.0.27.tar.gz",
+  "download_time": "2025-09-02T20:41:05.523370",
+  "package_url": "https://pypi.org/project/vestapol/"
+}

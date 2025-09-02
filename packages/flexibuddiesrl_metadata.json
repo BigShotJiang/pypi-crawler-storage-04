@@ -1,11 +1,11 @@
 {
   "name": "flexibuddiesrl",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "An Agent API for MARL research that is compatible with flexibuff and flexirunner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flexibuddiesrl-0.2.7.tar.gz",
-  "download_time": "2025-09-02T20:23:04.998877",
+  "download_filename": "flexibuddiesrl-0.2.8.tar.gz",
+  "download_time": "2025-09-02T20:41:24.110080",
   "package_url": "https://pypi.org/project/flexibuddiesrl/"
 }
