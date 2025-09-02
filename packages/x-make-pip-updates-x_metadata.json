@@ -1,11 +1,11 @@
 {
   "name": "x-make-pip-updates-x",
-  "version": "5.0.13",
+  "version": "5.0.17",
   "summary": "Makes pip package updates.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_make_pip_updates_x-5.0.13.tar.gz",
-  "download_time": "2025-09-02T14:57:54.456221",
+  "download_filename": "x_make_pip_updates_x-5.0.17.tar.gz",
+  "download_time": "2025-09-02T15:25:37.070945",
   "package_url": "https://pypi.org/project/x-make-pip-updates-x/"
 }

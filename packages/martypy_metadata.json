@@ -1,0 +1,11 @@
+{
+  "name": "martypy",
+  "version": "3.7.2",
+  "summary": "Python library for Marty the Robot V1 and V2",
+  "author": "Robotical",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/robotical/martypy",
+  "download_filename": "martypy-3.7.2.tar.gz",
+  "download_time": "2025-09-02T15:25:45.071185",
+  "package_url": "https://pypi.org/project/martypy/"
+}

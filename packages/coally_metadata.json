@@ -1,0 +1,11 @@
+{
+  "name": "coally",
+  "version": "0.1.3",
+  "summary": "Coally — your Ally for Google Colab. Zero-setup toolkit at hand.",
+  "author": "Marko Dabovic",
+  "license": "MIT",
+  "home_page": "https://github.com/marcoderspace/coally",
+  "download_filename": "coally-0.1.3.tar.gz",
+  "download_time": "2025-09-02T15:26:01.108456",
+  "package_url": "https://pypi.org/project/coally/"
+}

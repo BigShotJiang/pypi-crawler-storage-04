@@ -1,11 +1,11 @@
 {
   "name": "easy-local-features",
-  "version": "0.8.11",
+  "version": "0.8.12",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_local_features-0.8.11.tar.gz",
-  "download_time": "2025-09-02T14:58:12.951057",
+  "download_filename": "easy_local_features-0.8.12.tar.gz",
+  "download_time": "2025-09-02T15:25:25.422755",
   "package_url": "https://pypi.org/project/easy-local-features/"
 }
