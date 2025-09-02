@@ -1,0 +1,11 @@
+{
+  "name": "tendril-i4-types",
+  "version": "0.4.0",
+  "summary": "Primitives and Types for i4 Tendril Deployments",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-i4-types",
+  "download_filename": "tendril-i4-types-0.4.0.tar.gz",
+  "download_time": "2025-09-02T09:54:35.222731",
+  "package_url": "https://pypi.org/project/tendril-i4-types/"
+}

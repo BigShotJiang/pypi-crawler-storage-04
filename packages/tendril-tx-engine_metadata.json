@@ -1,11 +1,11 @@
 {
   "name": "tendril-tx-engine",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Template for Twisted Services for Tendril",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/tendril-framework/tendril-tx-engine",
-  "download_filename": "tendril-tx-engine-0.4.0.tar.gz",
-  "download_time": "2025-09-02T09:43:30.300777",
+  "download_filename": "tendril-tx-engine-0.4.1.tar.gz",
+  "download_time": "2025-09-02T09:54:10.184893",
   "package_url": "https://pypi.org/project/tendril-tx-engine/"
 }

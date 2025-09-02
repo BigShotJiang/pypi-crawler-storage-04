@@ -1,11 +1,11 @@
 {
   "name": "qgis-plugin-manager",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "Tool for downloading/managing QGIS plugins from CLI.",
   "author": "Étienne Trimaille",
   "license": null,
   "home_page": null,
-  "download_filename": "qgis_plugin_manager-1.7.1.tar.gz",
-  "download_time": "2025-09-01T10:58:08.598997",
+  "download_filename": "qgis_plugin_manager-1.7.2.tar.gz",
+  "download_time": "2025-09-02T09:54:05.511909",
   "package_url": "https://pypi.org/project/qgis-plugin-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "airontools",
+  "version": "0.1.64",
+  "summary": "AIronTools (Beta) is a Python library that provides the user with deep learning tools built to work with tensorflow as a backend.",
+  "author": "Claudi",
+  "license": "BSD",
+  "home_page": "https://github.com/AtrejuArtax/airontools",
+  "download_filename": "airontools-0.1.64-py3-none-any.whl",
+  "download_time": "2025-09-02T09:54:17.841924",
+  "package_url": "https://pypi.org/project/airontools/"
+}
