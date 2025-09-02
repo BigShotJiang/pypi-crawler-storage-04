@@ -1,0 +1,11 @@
+{
+  "name": "pymatgraph",
+  "version": "0.3.0",
+  "summary": "A Python package for high-performance GPU/CPU buffer rendering with support for tables, text, and graphics.",
+  "author": "Alec Candidato",
+  "license": null,
+  "home_page": "https://github.com/0202alcc/pymatgraph",
+  "download_filename": "pymatgraph-0.3.0.tar.gz",
+  "download_time": "2025-09-02T23:40:24.857213",
+  "package_url": "https://pypi.org/project/pymatgraph/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "radboy",
-  "version": "0.0.608",
+  "version": "0.0.610",
   "summary": "A Retail Calculator for Android/Linux",
   "author": "Carl Joseph Hirner III",
   "license": null,
   "home_page": null,
-  "download_filename": "radboy-0.0.608.tar.gz",
-  "download_time": "2025-09-02T21:19:45.960627",
+  "download_filename": "radboy-0.0.610.tar.gz",
+  "download_time": "2025-09-02T23:40:28.540524",
   "package_url": "https://pypi.org/project/radboy/"
 }

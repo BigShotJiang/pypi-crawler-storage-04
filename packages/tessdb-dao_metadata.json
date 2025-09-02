@@ -1,11 +1,11 @@
 {
   "name": "tessdb-dao",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "Database independant SQLAlchemy Data Access Object layer for TESS database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tessdb_dao-0.1.17.tar.gz",
-  "download_time": "2025-09-02T10:46:31.511763",
+  "download_filename": "tessdb_dao-0.1.19.tar.gz",
+  "download_time": "2025-09-02T23:40:37.319167",
   "package_url": "https://pypi.org/project/tessdb-dao/"
 }

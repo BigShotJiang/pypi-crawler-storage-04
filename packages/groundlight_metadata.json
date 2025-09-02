@@ -1,0 +1,11 @@
+{
+  "name": "groundlight",
+  "version": "0.23.1",
+  "summary": "Build computer vision systems using natural language with Groundlight",
+  "author": "Groundlight AI",
+  "license": "MIT",
+  "home_page": "https://code.groundlight.ai/python-sdk",
+  "download_filename": "groundlight-0.23.1.tar.gz",
+  "download_time": "2025-09-02T23:40:46.098038",
+  "package_url": "https://pypi.org/project/groundlight/"
+}

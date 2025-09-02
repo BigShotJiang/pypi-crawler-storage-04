@@ -1,0 +1,11 @@
+{
+  "name": "awsideman",
+  "version": "0.1.2a0",
+  "summary": "AWS Identity Center Manager - A CLI tool for managing AWS Identity Center operations",
+  "author": "Erhan Vikyol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "awsideman-0.1.2a0.tar.gz",
+  "download_time": "2025-09-02T23:40:38.861505",
+  "package_url": "https://pypi.org/project/awsideman/"
+}

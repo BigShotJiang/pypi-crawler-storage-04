@@ -1,0 +1,11 @@
+{
+  "name": "ya-json-server",
+  "version": "0.22.2",
+  "summary": "A REST API for JSON content with zero coding.",
+  "author": "Adriano Vieira",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ya_json_server-0.22.2.tar.gz",
+  "download_time": "2025-09-02T23:40:18.040294",
+  "package_url": "https://pypi.org/project/ya-json-server/"
+}

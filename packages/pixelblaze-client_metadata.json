@@ -1,0 +1,11 @@
+{
+  "name": "pixelblaze-client",
+  "version": "1.1.6",
+  "summary": "Library for Pixelblaze addressable LED controller.",
+  "author": "pixelblaze-client team",
+  "license": "MIT",
+  "home_page": "https://github.com/zranger1/pixelblaze-client",
+  "download_filename": "pixelblaze_client-1.1.6.tar.gz",
+  "download_time": "2025-09-02T23:40:36.807312",
+  "package_url": "https://pypi.org/project/pixelblaze-client/"
+}
