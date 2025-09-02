@@ -1,0 +1,11 @@
+{
+  "name": "pictorus",
+  "version": "0.5.1",
+  "summary": "Pictorus device manager package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pictorus-0.5.1.tar.gz",
+  "download_time": "2025-09-02T21:39:55.625781",
+  "package_url": "https://pypi.org/project/pictorus/"
+}

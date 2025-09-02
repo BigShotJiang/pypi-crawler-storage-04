@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-pipeline-visualizer",
+  "version": "0.4.1",
+  "summary": "generate MD documentation from tekton pipelines and tasks",
+  "author": "Christer Grönblad",
+  "license": null,
+  "home_page": "https://github.com/obegron/mkdocs-pipeline-visualizer",
+  "download_filename": "mkdocs_pipeline_visualizer-0.4.1.tar.gz",
+  "download_time": "2025-09-02T21:39:39.873577",
+  "package_url": "https://pypi.org/project/mkdocs-pipeline-visualizer/"
+}

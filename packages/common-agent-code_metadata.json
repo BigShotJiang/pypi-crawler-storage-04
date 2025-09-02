@@ -1,11 +1,11 @@
 {
   "name": "common-agent-code",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Modular backend agent framework for LLM-driven chat systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "common_agent_code-0.1.11.tar.gz",
-  "download_time": "2025-08-31T16:44:19.324157",
+  "download_filename": "common_agent_code-0.1.12.tar.gz",
+  "download_time": "2025-09-02T21:39:40.419681",
   "package_url": "https://pypi.org/project/common-agent-code/"
 }

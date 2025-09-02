@@ -1,0 +1,11 @@
+{
+  "name": "aioapcaccess",
+  "version": "1.0.0",
+  "summary": "Async version of apcaccess library implemented in python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aioapcaccess-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-02T21:39:38.037819",
+  "package_url": "https://pypi.org/project/aioapcaccess/"
+}

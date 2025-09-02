@@ -1,0 +1,11 @@
+{
+  "name": "numpy-lite",
+  "version": "1.26.4",
+  "summary": "Ultra-light minimal NumPy build (core functionality only) for AWS Lambda / serverless.",
+  "author": "JacquieAM",
+  "license": null,
+  "home_page": "https://github.com/JacquieAM/numpy-lite",
+  "download_filename": "numpy_lite-1.26.4.tar.gz",
+  "download_time": "2025-09-02T21:39:56.186425",
+  "package_url": "https://pypi.org/project/numpy-lite/"
+}
