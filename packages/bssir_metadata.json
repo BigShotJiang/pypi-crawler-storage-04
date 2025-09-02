@@ -1,0 +1,11 @@
+{
+  "name": "bssir",
+  "version": "0.6.0",
+  "summary": "Shared data-loading and transformation utilities for Iranian socioeconomic surveys.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bssir-0.6.0.tar.gz",
+  "download_time": "2025-09-02T17:55:01.824906",
+  "package_url": "https://pypi.org/project/bssir/"
+}

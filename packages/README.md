@@ -1,28 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-02T17:41:59.287913
+- **Download Time**: 2025-09-02T17:55:37.834322
 - **Total Packages**: 85
-- **Total Size**: 23.67 MB
+- **Total Size**: 10.1 MB
 
 ## Packages List
+- langchain-core
+- prt-rl
+- wagtail-newsletter-django-backend
+- whatamithinking-bundler
+- cpln-py
+- HasteContext
+- quota-notifier
+- termaitrik
+- continual-foragax
+- abhaykipavbhaji
+- doordeck-headless-sdk
+- vellum-workflow-server
+- authentik-client
+- github2gerrit
+- monarchmoney-enhanced
+- xmlstreamer
+- dana
+- lightning-sdk
+- doubletake
+- Encryptors
+- bssir
+- SSDraw
+- binary-classification-ratios
+- llama-parse
+- llama-cloud-services
+- tale-suite
+- mst-vault
+- codesum
+- xum
+- amsdal_data
+- PyGithub
 - bdns-fetch
 - bafser
 - vellum-ai
 - notion-to-markdown
 - codemie-tools
 - inorbit-edge-executor
-- cpln-py
 - ucxdsa
 - krishnautoml
 - terra_ui_components
 - colt
 - zampie_utils
 - ModularML
-- authentik-client
 - CTADIRAC
 - exonware-xsystem
-- codesum
 - odecast
 - odoo14-addon-ssi-consulting
 - letta-client
@@ -63,31 +91,3 @@
 - stackit-kms
 - cc-sessions
 - langgraph
-- archytas
-- ppplca
-- taranis-models
-- d-vecdb
-- deepl-haystack
-- flexsolve
-- cadence-py
-- plaid-python
-- cadence-sdk
-- data-retrieval-monitor
-- cadence-example-plugins
-- tlparse
-- MDL-Density-Histogram
-- gdsfactory
-- phylodata
-- gamspy-snopt
-- pygar-client
-- gamspy-reshop
-- gamspy-examiner
-- gamspy-miles
-- gamspy-mpsge
-- terra-scientific-pipelines-service-api-client
-- gamspy-soplex
-- product-marketing-agency
-- receptor-digger
-- gamspy-sbb
-- gamspy-minos
-- gamspy-mosek
