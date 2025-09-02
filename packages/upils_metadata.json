@@ -1,0 +1,11 @@
+{
+  "name": "upils",
+  "version": "0.10.0",
+  "summary": "Unified Python Utils. Requires python 3.10 and later",
+  "author": "Aslam Hadi Harsono",
+  "license": null,
+  "home_page": null,
+  "download_filename": "upils-0.10.0.tar.gz",
+  "download_time": "2025-09-02T09:24:43.517403",
+  "package_url": "https://pypi.org/project/upils/"
+}

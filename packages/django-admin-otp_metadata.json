@@ -1,11 +1,11 @@
 {
   "name": "django-admin-otp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Implements Django Admin OTP Auth",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_admin_otp-0.1.7.tar.gz",
-  "download_time": "2025-09-02T08:52:03.366498",
+  "download_filename": "django_admin_otp-0.1.8.tar.gz",
+  "download_time": "2025-09-02T09:24:54.920618",
   "package_url": "https://pypi.org/project/django-admin-otp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tps-agent",
+  "version": "2.0.0",
+  "summary": "Lightweight TPS monitoring agent for distributed systems",
+  "author": "Earlypay",
+  "license": null,
+  "home_page": "https://github.com/Earlypay/tps-manager",
+  "download_filename": "tps_agent-2.0.0.tar.gz",
+  "download_time": "2025-09-02T09:24:58.981956",
+  "package_url": "https://pypi.org/project/tps-agent/"
+}

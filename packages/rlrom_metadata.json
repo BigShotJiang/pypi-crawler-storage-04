@@ -1,11 +1,11 @@
 {
   "name": "rlrom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "RLROM is a library for testing and training reinforcement learning agent using online monitoring of signal temporal logics formulas, and more.",
   "author": "Alexandre Donze",
-  "license": "BSD3",
+  "license": "BSD-3-Clauses",
   "home_page": null,
-  "download_filename": "rlrom-0.1.0.tar.gz",
-  "download_time": "2025-09-02T07:25:43.181826",
+  "download_filename": "rlrom-0.1.1.tar.gz",
+  "download_time": "2025-09-02T09:25:26.584810",
   "package_url": "https://pypi.org/project/rlrom/"
 }

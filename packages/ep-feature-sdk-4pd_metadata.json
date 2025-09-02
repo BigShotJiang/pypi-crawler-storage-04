@@ -1,0 +1,11 @@
+{
+  "name": "ep-feature-sdk-4pd",
+  "version": "1.0.0",
+  "summary": "4paradigm Ep Feature Service SDK Library for Python",
+  "author": "4paradigm Ep Feature SDK",
+  "license": null,
+  "home_page": "https://gitlab.4pd.io/electricityproject/ep-feature-sdk",
+  "download_filename": "ep_feature_sdk_4pd-1.0.0.tar.gz",
+  "download_time": "2025-09-02T09:24:49.772296",
+  "package_url": "https://pypi.org/project/ep-feature-sdk-4pd/"
+}

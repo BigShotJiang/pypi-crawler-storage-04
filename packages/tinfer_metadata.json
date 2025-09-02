@@ -1,0 +1,11 @@
+{
+  "name": "tinfer",
+  "version": "0.1.5",
+  "summary": "Model Serving made Efficient in the Cloud",
+  "author": "luisyjliu",
+  "license": "Apache-2.0",
+  "home_page": "https://git.woa.com/ti-cloud/ti-cloud-ems-infer/ti-cloud-infer-framework.git",
+  "download_filename": "tinfer-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-02T09:24:58.409643",
+  "package_url": "https://pypi.org/project/tinfer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chunkle",
+  "version": "0.3.0",
+  "summary": "Chunk long text with policies.",
+  "author": "allen2c",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunkle-0.3.0.tar.gz",
+  "download_time": "2025-09-02T09:24:56.077536",
+  "package_url": "https://pypi.org/project/chunkle/"
+}

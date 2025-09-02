@@ -1,11 +1,11 @@
 {
   "name": "dhcptool",
-  "version": "2025.9.2.3",
+  "version": "2025.9.2.5",
   "summary": "支持对部分option的值指定编码发送",
   "author": "mf.liang",
   "license": null,
   "home_page": null,
-  "download_filename": "dhcptool-2025.9.2.3.tar.gz",
-  "download_time": "2025-09-02T07:53:31.660369",
+  "download_filename": "dhcptool-2025.9.2.5.tar.gz",
+  "download_time": "2025-09-02T09:24:53.204500",
   "package_url": "https://pypi.org/project/dhcptool/"
 }

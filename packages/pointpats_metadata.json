@@ -1,0 +1,11 @@
+{
+  "name": "pointpats",
+  "version": "2.5.2",
+  "summary": "Methods and Functions for planar point pattern analysis",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "pointpats-2.5.2.tar.gz",
+  "download_time": "2025-09-02T09:25:18.386683",
+  "package_url": "https://pypi.org/project/pointpats/"
+}

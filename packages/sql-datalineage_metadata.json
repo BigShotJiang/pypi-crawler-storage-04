@@ -1,0 +1,11 @@
+{
+  "name": "sql-datalineage",
+  "version": "0.0.15",
+  "summary": "A project to build and visualize data lineage from SQL written in python. It supports column level lineage and can combine with metadata retriever for better result.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sql_datalineage-0.0.15.tar.gz",
+  "download_time": "2025-09-02T09:25:14.310314",
+  "package_url": "https://pypi.org/project/sql-datalineage/"
+}

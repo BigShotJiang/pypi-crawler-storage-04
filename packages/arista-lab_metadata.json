@@ -1,0 +1,11 @@
+{
+  "name": "arista-lab",
+  "version": "0.3.0",
+  "summary": "Simple tooling when working with EOS in labs",
+  "author": "Matthieu Tâche",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arista_lab-0.3.0.tar.gz",
+  "download_time": "2025-09-02T09:25:07.440052",
+  "package_url": "https://pypi.org/project/arista-lab/"
+}
