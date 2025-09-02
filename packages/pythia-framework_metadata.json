@@ -1,0 +1,11 @@
+{
+  "name": "pythia-framework",
+  "version": "1.0.1",
+  "summary": "A modern library for creating efficient and scalable workers in Python",
+  "author": "Pythia Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythia_framework-1.0.1.tar.gz",
+  "download_time": "2025-09-02T23:19:07.932488",
+  "package_url": "https://pypi.org/project/pythia-framework/"
+}

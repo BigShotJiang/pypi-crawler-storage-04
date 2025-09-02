@@ -1,0 +1,11 @@
+{
+  "name": "stadle-client",
+  "version": "0.8.0",
+  "summary": "Stadle, A platform for federated learning.",
+  "author": "Tie-Set Inc",
+  "license": null,
+  "home_page": "https://github.com/tie-set/stadle_dev",
+  "download_filename": "stadle_client-0.8.0.tar.gz",
+  "download_time": "2025-09-02T23:19:21.391463",
+  "package_url": "https://pypi.org/project/stadle-client/"
+}
