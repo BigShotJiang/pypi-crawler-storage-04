@@ -1,11 +1,11 @@
 {
   "name": "pyvisalgo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python-based algorithm visualization framework for teaching.",
   "author": "Kiyong Kim",
   "license": null,
   "home_page": null,
-  "download_filename": "pyvisalgo-0.1.0.tar.gz",
-  "download_time": "2025-09-02T01:42:15.027118",
+  "download_filename": "pyvisalgo-0.1.1.tar.gz",
+  "download_time": "2025-09-02T03:00:40.617215",
   "package_url": "https://pypi.org/project/pyvisalgo/"
 }

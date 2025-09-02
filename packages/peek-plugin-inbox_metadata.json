@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-inbox",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "summary": "Peek Plugin Inbox - task management for Peek users",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-inbox-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:54:56.528926",
+  "download_filename": "peek-plugin-inbox-5.0.3.tar.gz",
+  "download_time": "2025-09-02T03:00:59.180892",
   "package_url": "https://pypi.org/project/peek-plugin-inbox/"
 }

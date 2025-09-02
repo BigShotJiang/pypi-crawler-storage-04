@@ -1,11 +1,11 @@
 {
   "name": "dearpygui-nodezoomfork",
-  "version": "2.1.1",
-  "summary": "DearPyGui: A fork with Zoom support in Nodes",
+  "version": "2.1.0",
+  "summary": "DearPyGui Fork, with zoom in Nodes",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Maltergate/DearPyGui",
-  "download_filename": "dearpygui_nodezoomfork-2.1.1.tar.gz",
-  "download_time": "2025-09-01T13:21:17.241047",
+  "download_filename": "dearpygui_nodezoomfork-2.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-02T03:00:23.490614",
   "package_url": "https://pypi.org/project/dearpygui-nodezoomfork/"
 }

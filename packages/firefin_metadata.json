@@ -1,11 +1,11 @@
 {
   "name": "firefin",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "The bundled opensource toolkit for book Navigate through the Factor Zoo: The Science of Factor Investing.",
-  "author": null,
+  "author": "Renjie Liao, Baochen Qiao",
   "license": null,
   "home_page": null,
-  "download_filename": "firefin-0.3.1.tar.gz",
-  "download_time": "2025-08-29T02:54:28.036492",
+  "download_filename": "firefin-0.3.2.tar.gz",
+  "download_time": "2025-09-02T03:00:36.485337",
   "package_url": "https://pypi.org/project/firefin/"
 }
