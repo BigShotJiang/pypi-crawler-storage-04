@@ -1,0 +1,11 @@
+{
+  "name": "vrt-lss-routing",
+  "version": "7.22.2904",
+  "summary": "VRt.Routing [RT]",
+  "author": "Veeroute Support Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "vrt_lss_routing-7.22.2904-py3-none-any.whl",
+  "download_time": "2025-09-02T07:42:19.692495",
+  "package_url": "https://pypi.org/project/vrt-lss-routing/"
+}

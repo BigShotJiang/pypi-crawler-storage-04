@@ -1,0 +1,11 @@
+{
+  "name": "ucloud-sdk-python3",
+  "version": "0.11.77",
+  "summary": "UCloud Service Development Kit - Python",
+  "author": "ucloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ucloud/ucloud-sdk-python3",
+  "download_filename": "ucloud-sdk-python3-0.11.77.tar.gz",
+  "download_time": "2025-09-02T07:42:28.955886",
+  "package_url": "https://pypi.org/project/ucloud-sdk-python3/"
+}

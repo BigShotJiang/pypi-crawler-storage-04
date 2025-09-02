@@ -1,0 +1,11 @@
+{
+  "name": "django-unlimited-char",
+  "version": "0.0.3b1",
+  "summary": "Django-Unlimited-Char - the library introducing unlimited character database field for Django",
+  "author": "Vsevolod Novikov",
+  "license": "LGPL",
+  "home_page": "https://github.com/nnseva/django-unlimited-char",
+  "download_filename": "django_unlimited_char-0.0.3b1.tar.gz",
+  "download_time": "2025-09-02T07:42:26.364396",
+  "package_url": "https://pypi.org/project/django-unlimited-char/"
+}
