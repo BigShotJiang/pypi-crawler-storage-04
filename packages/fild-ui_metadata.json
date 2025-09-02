@@ -1,0 +1,11 @@
+{
+  "name": "fild-ui",
+  "version": "0.1.10",
+  "summary": "Operate with Web UI using selenium and fild library",
+  "author": "Elena Kulgavaya",
+  "license": null,
+  "home_page": "https://github.com/elenakulgavaya/fild-ui",
+  "download_filename": "fild_ui-0.1.10.tar.gz",
+  "download_time": "2025-09-02T06:33:28.613791",
+  "package_url": "https://pypi.org/project/fild-ui/"
+}

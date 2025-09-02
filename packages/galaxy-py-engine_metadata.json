@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-engine",
+  "version": "0.0.2",
+  "summary": "Python Engine for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bsaltel/galaxy-py-engine",
+  "download_filename": "galaxy_py_engine-0.0.2.tar.gz",
+  "download_time": "2025-09-02T06:33:33.351375",
+  "package_url": "https://pypi.org/project/galaxy-py-engine/"
+}

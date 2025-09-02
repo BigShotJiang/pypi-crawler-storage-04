@@ -1,11 +1,11 @@
 {
   "name": "fighub",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A simple example package for draw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fighub-0.1.5-py2.py3-none-any.whl",
-  "download_time": "2025-09-01T09:26:46.687653",
+  "download_filename": "fighub-0.1.6-py2.py3-none-any.whl",
+  "download_time": "2025-09-02T06:33:31.217477",
   "package_url": "https://pypi.org/project/fighub/"
 }

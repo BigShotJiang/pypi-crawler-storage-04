@@ -1,11 +1,11 @@
 {
   "name": "xiaothink",
-  "version": "1.2.4",
-  "summary": "一个AI工具包，帮助用户快速调用小思框架（Xiaothink）相关接口。",
+  "version": "1.2.5",
+  "summary": "=?unknown-8bit?b?5LiA5LiqQUnlt6XlhbfljIXvvIzluK7liqnnlKjmiLflv6vpgJ/osIPnlKjlsI/mgJ3moYbmnrbvvIhYaWFvdGhpbmvvvInnm7jlhbPmjqXlj6PjgII=?=",
   "author": "Shi Jingqi",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "xiaothink-1.2.4.tar.gz",
-  "download_time": "2025-08-30T03:21:22.082419",
+  "download_filename": "xiaothink-1.2.5.tar.gz",
+  "download_time": "2025-09-02T06:33:29.136351",
   "package_url": "https://pypi.org/project/xiaothink/"
 }

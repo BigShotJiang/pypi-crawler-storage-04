@@ -1,11 +1,11 @@
 {
   "name": "qualitative-reasoning",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Qualitative physics simulation and causal reasoning systems",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "qualitative_reasoning-1.1.1.tar.gz",
-  "download_time": "2025-09-02T05:22:49.540278",
+  "download_filename": "qualitative_reasoning-1.2.0.tar.gz",
+  "download_time": "2025-09-02T06:33:42.381329",
   "package_url": "https://pypi.org/project/qualitative-reasoning/"
 }

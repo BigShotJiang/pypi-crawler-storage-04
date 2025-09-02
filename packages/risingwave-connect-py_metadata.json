@@ -1,11 +1,11 @@
 {
   "name": "risingwave-connect-py",
-  "version": "0.2.7",
-  "summary": "Python SDK for integrating RisingWave with various CDC sources (like PostgreSQL) and supporting multiple sink destinations such as Iceberg and S3.",
+  "version": "0.3.0",
+  "summary": "Python SDK for integrating RisingWave with various CDC sources (like PostgreSQL, MongoDB) and supporting multiple sink destinations such as Iceberg and S3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "risingwave_connect_py-0.2.7.tar.gz",
-  "download_time": "2025-08-29T07:39:28.045108",
+  "download_filename": "risingwave_connect_py-0.3.0.tar.gz",
+  "download_time": "2025-09-02T06:33:59.160575",
   "package_url": "https://pypi.org/project/risingwave-connect-py/"
 }

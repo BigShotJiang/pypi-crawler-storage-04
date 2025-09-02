@@ -1,0 +1,11 @@
+{
+  "name": "gyb-classification-model",
+  "version": "0.1.5",
+  "summary": "ML classification models package",
+  "author": "Hrutik-M",
+  "license": null,
+  "home_page": "https://github.com/GreenBills/GYB-Classification-Model",
+  "download_filename": "gyb_classification_model-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-02T06:33:27.029018",
+  "package_url": "https://pypi.org/project/gyb-classification-model/"
+}
