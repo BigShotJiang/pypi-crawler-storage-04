@@ -1,0 +1,11 @@
+{
+  "name": "python-cowsay",
+  "version": "1.2.2",
+  "summary": "A Cowsay clone in Python",
+  "author": "James Finnie-Ansley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_cowsay-1.2.2.tar.gz",
+  "download_time": "2025-09-02T22:18:58.083885",
+  "package_url": "https://pypi.org/project/python-cowsay/"
+}

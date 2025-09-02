@@ -1,11 +1,11 @@
 {
   "name": "pymocker",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Generate realistic, context-aware mock data automatically.",
   "author": "eschallack",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "pymocker-0.1.1.tar.gz",
-  "download_time": "2025-09-01T20:53:01.716370",
+  "download_filename": "pymocker-0.1.5.tar.gz",
+  "download_time": "2025-09-02T22:19:17.224775",
   "package_url": "https://pypi.org/project/pymocker/"
 }

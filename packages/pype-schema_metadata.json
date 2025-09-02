@@ -1,0 +1,11 @@
+{
+  "name": "pype-schema",
+  "version": "0.7.1",
+  "summary": "Class hierarchy to represent configurations of process engineering systems.",
+  "author": "WE3 Lab",
+  "license": null,
+  "home_page": "https://github.com/we3lab/pype-schema",
+  "download_filename": "pype_schema-0.7.1.tar.gz",
+  "download_time": "2025-09-02T22:19:19.383221",
+  "package_url": "https://pypi.org/project/pype-schema/"
+}

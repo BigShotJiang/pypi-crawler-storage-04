@@ -1,0 +1,11 @@
+{
+  "name": "starkbank-iso8583",
+  "version": "0.6.1",
+  "summary": "Python library for conversion between ISO 8583 message standard and JSON",
+  "author": "Stark Bank",
+  "license": "MIT License",
+  "home_page": "https://github.com/starkbank/iso8583-python",
+  "download_filename": "starkbank-iso8583-0.6.1.tar.gz",
+  "download_time": "2025-09-02T22:19:06.374210",
+  "package_url": "https://pypi.org/project/starkbank-iso8583/"
+}

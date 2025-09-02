@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-qdrant-pro",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP server for Qdrant vector database - supports personal memory management and enterprise GitHub codebase search. Extended from original mcp-server-qdrant package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_qdrant_pro-0.1.4.tar.gz",
-  "download_time": "2025-09-02T20:53:45.885306",
+  "download_filename": "mcp_server_qdrant_pro-0.1.5.tar.gz",
+  "download_time": "2025-09-02T22:19:03.150943",
   "package_url": "https://pypi.org/project/mcp-server-qdrant-pro/"
 }

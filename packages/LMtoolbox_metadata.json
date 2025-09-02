@@ -1,0 +1,11 @@
+{
+  "name": "LMtoolbox",
+  "version": "0.5.18",
+  "summary": "A collection of CLI tools leveraging language models",
+  "author": "Sébastien De Revière",
+  "license": "Apache Licence, Version 2.0",
+  "home_page": "https://github.com/sderev/lmtoolbox",
+  "download_filename": "lmtoolbox-0.5.18.tar.gz",
+  "download_time": "2025-09-02T22:19:05.830374",
+  "package_url": "https://pypi.org/project/LMtoolbox/"
+}
