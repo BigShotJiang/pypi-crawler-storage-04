@@ -1,11 +1,11 @@
 {
   "name": "sabledocs",
-  "version": "0.18.940",
+  "version": "0.18.966",
   "summary": "Static documentation generator for Protobuf and gRPC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sabledocs-0.18.940.tar.gz",
-  "download_time": "2025-09-02T14:57:54.971182",
+  "download_filename": "sabledocs-0.18.966.tar.gz",
+  "download_time": "2025-09-02T15:44:47.909626",
   "package_url": "https://pypi.org/project/sabledocs/"
 }

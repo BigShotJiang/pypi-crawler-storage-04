@@ -1,0 +1,11 @@
+{
+  "name": "cloudformation-loader",
+  "version": "0.1.0",
+  "summary": "Import Python code embedded in CloudFormation Templates without hassle. Helps you test your Lambda Functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudformation_loader-0.1.0.tar.gz",
+  "download_time": "2025-09-02T15:44:50.210045",
+  "package_url": "https://pypi.org/project/cloudformation-loader/"
+}
