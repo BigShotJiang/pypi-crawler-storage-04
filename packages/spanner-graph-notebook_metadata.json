@@ -1,0 +1,11 @@
+{
+  "name": "spanner-graph-notebook",
+  "version": "1.1.8",
+  "summary": "Visually query Spanner Graph data in notebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spanner_graph_notebook-1.1.8.tar.gz",
+  "download_time": "2025-09-02T21:19:50.903266",
+  "package_url": "https://pypi.org/project/spanner-graph-notebook/"
+}

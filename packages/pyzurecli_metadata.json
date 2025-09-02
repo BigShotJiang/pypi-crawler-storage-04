@@ -1,11 +1,11 @@
 {
   "name": "pyzurecli",
-  "version": "0.7.416",
+  "version": "0.7.417",
   "summary": "Azure CLI automation via Docker",
   "author": "Miles Copeland Luce",
   "license": null,
   "home_page": null,
-  "download_filename": "pyzurecli-0.7.416.tar.gz",
-  "download_time": "2025-09-02T20:41:27.566059",
+  "download_filename": "pyzurecli-0.7.417.tar.gz",
+  "download_time": "2025-09-02T21:20:15.177919",
   "package_url": "https://pypi.org/project/pyzurecli/"
 }

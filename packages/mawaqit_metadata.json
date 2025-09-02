@@ -1,11 +1,11 @@
 {
   "name": "mawaqit",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "summary": "The official MAWAQIT Python wrapper.",
   "author": "MAWAQIT",
   "license": "MIT",
   "home_page": "https://github.com/mawaqit/mawaqit-py",
-  "download_filename": "mawaqit-1.0.4.tar.gz",
-  "download_time": "2025-09-02T20:41:26.383141",
+  "download_filename": "mawaqit-1.0.8.tar.gz",
+  "download_time": "2025-09-02T21:20:15.812773",
   "package_url": "https://pypi.org/project/mawaqit/"
 }

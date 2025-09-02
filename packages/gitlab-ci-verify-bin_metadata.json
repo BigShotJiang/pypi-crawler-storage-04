@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-ci-verify-bin",
+  "version": "2.4.2",
+  "summary": "Validate and lint your gitlab ci files using ShellCheck, the Gitlab API and curated checks",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "gitlab_ci_verify_bin-2.4.2-py3-none-win_amd64.whl",
+  "download_time": "2025-09-02T21:19:55.403286",
+  "package_url": "https://pypi.org/project/gitlab-ci-verify-bin/"
+}

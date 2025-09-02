@@ -1,0 +1,11 @@
+{
+  "name": "aiavatar",
+  "version": "0.7.10",
+  "summary": "🥰 Building AI-based conversational avatars lightning fast ⚡️💬",
+  "author": "uezo",
+  "license": "Apache v2",
+  "home_page": "https://github.com/uezo/aiavatar",
+  "download_filename": "aiavatar-0.7.10-py3-none-any.whl",
+  "download_time": "2025-09-02T21:19:48.450730",
+  "package_url": "https://pypi.org/project/aiavatar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "d-vecdb-server",
+  "version": "0.1.1",
+  "summary": "High-performance vector database server with embedded binaries",
+  "author": "Durai",
+  "license": "MIT",
+  "home_page": "https://github.com/rdmurugan/d-vecDB",
+  "download_filename": "d_vecdb_server-0.1.1.tar.gz",
+  "download_time": "2025-09-02T21:19:51.669002",
+  "package_url": "https://pypi.org/project/d-vecdb-server/"
+}
