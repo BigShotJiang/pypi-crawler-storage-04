@@ -1,0 +1,11 @@
+{
+  "name": "cfy",
+  "version": "0.1.0.post13",
+  "summary": "Modern Python configuration management system with CLI override support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cfy-0.1.0.post13-py3-none-any.whl",
+  "download_time": "2025-09-02T17:19:19.459314",
+  "package_url": "https://pypi.org/project/cfy/"
+}

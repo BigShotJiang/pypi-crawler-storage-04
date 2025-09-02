@@ -1,0 +1,11 @@
+{
+  "name": "pos-mm",
+  "version": "0.1.0",
+  "summary": "An open-source Point of Sale library for restaurants.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pos_mm-0.1.0.tar.gz",
+  "download_time": "2025-09-02T17:19:17.914449",
+  "package_url": "https://pypi.org/project/pos-mm/"
+}

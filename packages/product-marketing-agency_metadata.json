@@ -1,0 +1,11 @@
+{
+  "name": "product-marketing-agency",
+  "version": "1.0.1",
+  "summary": "A comprehensive multi-agent marketing system for generating various types of product marketing images and content using the swarms framework",
+  "author": "The Swarm Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/The-Swarm-Corporation/Product-Marketing-Agency",
+  "download_filename": "product_marketing_agency-1.0.1.tar.gz",
+  "download_time": "2025-09-02T17:18:58.441876",
+  "package_url": "https://pypi.org/project/product-marketing-agency/"
+}

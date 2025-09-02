@@ -1,11 +1,11 @@
 {
   "name": "PyQrackIsing",
-  "version": "1.26.1",
+  "version": "1.26.2",
   "summary": "Near-ideal closed-form solutions for transverse field Ising model (TFIM)",
   "author": "Dan Strano",
   "license": "LGPL-3.0-or-later",
   "home_page": "https://github.com/vm6502q/PyQrackIsing",
-  "download_filename": "pyqrackising-1.26.1.tar.gz",
-  "download_time": "2025-09-01T16:57:55.388559",
+  "download_filename": "pyqrackising-1.26.2.tar.gz",
+  "download_time": "2025-09-02T17:19:06.102313",
   "package_url": "https://pypi.org/project/PyQrackIsing/"
 }
