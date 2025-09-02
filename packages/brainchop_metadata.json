@@ -1,0 +1,11 @@
+{
+  "name": "brainchop",
+  "version": "0.1.22",
+  "summary": "Portable and lightweight brain segmentation using tinygrad",
+  "author": "Mike Doan",
+  "license": null,
+  "home_page": "https://github.com/neuroneural/brainchop-cli",
+  "download_filename": "brainchop-0.1.22.tar.gz",
+  "download_time": "2025-09-02T17:04:58.034468",
+  "package_url": "https://pypi.org/project/brainchop/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "certbot",
+  "version": "5.0.0",
+  "summary": "ACME client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot-5.0.0.tar.gz",
+  "download_time": "2025-09-02T17:04:22.696451",
+  "package_url": "https://pypi.org/project/certbot/"
+}

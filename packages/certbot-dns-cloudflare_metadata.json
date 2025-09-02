@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-cloudflare",
+  "version": "5.0.0",
+  "summary": "Cloudflare DNS Authenticator plugin for Certbot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_cloudflare-5.0.0.tar.gz",
+  "download_time": "2025-09-02T17:04:32.690060",
+  "package_url": "https://pypi.org/project/certbot-dns-cloudflare/"
+}

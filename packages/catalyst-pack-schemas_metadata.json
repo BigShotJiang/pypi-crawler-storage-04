@@ -1,0 +1,11 @@
+{
+  "name": "catalyst-pack-schemas",
+  "version": "1.0.0",
+  "summary": "Shared schemas and validation for Catalyst Knowledge Packs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catalyst_pack_schemas-1.0.0.tar.gz",
+  "download_time": "2025-09-02T17:05:15.932337",
+  "package_url": "https://pypi.org/project/catalyst-pack-schemas/"
+}

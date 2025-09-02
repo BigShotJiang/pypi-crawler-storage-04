@@ -1,11 +1,11 @@
 {
   "name": "reasoning-kernel",
-  "version": "0.0.6",
-  "summary": "Model Synthesis Architecture (MSA) reasoning engine built on ReasoningFleet's FastAPI/Semantic Kernel foundation with NumPyro probabilistic programming",
+  "version": "2.0.0",
+  "summary": "SK-native MSA Architecture for Advanced Reasoning",
   "author": null,
-  "license": "Apache-2.0",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "reasoning_kernel-0.0.6.tar.gz",
-  "download_time": "2025-09-02T04:32:53.313011",
+  "download_filename": "reasoning_kernel-2.0.0.tar.gz",
+  "download_time": "2025-09-02T17:04:44.925788",
   "package_url": "https://pypi.org/project/reasoning-kernel/"
 }

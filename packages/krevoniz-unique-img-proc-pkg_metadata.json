@@ -1,0 +1,11 @@
+{
+  "name": "krevoniz-unique-img-proc-pkg",
+  "version": "0.1.0",
+  "summary": "Pacote de processamento de imagens usando Python",
+  "author": "Krevoniz",
+  "license": null,
+  "home_page": "https://github.com/krevoniz/image_processing_pkg",
+  "download_filename": "krevoniz_unique_img_proc_pkg-0.1.0.tar.gz",
+  "download_time": "2025-09-02T17:05:10.274342",
+  "package_url": "https://pypi.org/project/krevoniz-unique-img-proc-pkg/"
+}

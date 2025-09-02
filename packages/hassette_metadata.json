@@ -1,0 +1,11 @@
+{
+  "name": "hassette",
+  "version": "0.1.1",
+  "summary": "Hassette is a modern, asynchronous, fully typed Python framework for running Home Assistant scripts and automations.",
+  "author": "Jessica",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hassette-0.1.1.tar.gz",
+  "download_time": "2025-09-02T17:04:42.613786",
+  "package_url": "https://pypi.org/project/hassette/"
+}

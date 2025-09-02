@@ -1,11 +1,11 @@
 {
   "name": "pygar-client",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "A Python client for the GAR protocol",
   "author": "Jon Hill",
   "license": null,
   "home_page": "https://www.trinityriversystems.com/docs/gar_protocol/",
-  "download_filename": "pygar_client-3.1.1-py3-none-any.whl",
-  "download_time": "2025-09-02T05:22:27.523911",
+  "download_filename": "pygar_client-3.1.2-py3-none-any.whl",
+  "download_time": "2025-09-02T17:05:14.840841",
   "package_url": "https://pypi.org/project/pygar-client/"
 }
