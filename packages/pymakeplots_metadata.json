@@ -1,11 +1,11 @@
 {
   "name": "pymakeplots",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": null,
   "author": "Timothy A. Davis",
   "license": "MIT",
   "home_page": "https://github.com/TimothyADavis/pymakeplots",
-  "download_filename": "pymakeplots-0.2.4.tar.gz",
-  "download_time": "2025-09-01T17:20:20.170342",
+  "download_filename": "pymakeplots-0.2.5.tar.gz",
+  "download_time": "2025-09-02T12:44:50.061819",
   "package_url": "https://pypi.org/project/pymakeplots/"
 }

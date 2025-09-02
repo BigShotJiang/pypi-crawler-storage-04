@@ -1,0 +1,11 @@
+{
+  "name": "swarmsort",
+  "version": "0.1.0",
+  "summary": "Standalone SwarmSort multi-object tracker with deep learning embeddings",
+  "author": "Charles Fosseprez",
+  "license": "MIT",
+  "home_page": "https://github.com/cfosseprez/swarmsort",
+  "download_filename": "swarmsort-0.1.0.tar.gz",
+  "download_time": "2025-09-02T12:44:39.109772",
+  "package_url": "https://pypi.org/project/swarmsort/"
+}

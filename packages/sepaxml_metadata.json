@@ -1,0 +1,11 @@
+{
+  "name": "sepaxml",
+  "version": "2.7.0",
+  "summary": "Python SEPA XML implementations",
+  "author": "Raphael Michel",
+  "license": "MIT License",
+  "home_page": "https://github.com/raphaelm/python-sepaxml",
+  "download_filename": "sepaxml-2.7.0.tar.gz",
+  "download_time": "2025-09-02T12:45:21.836278",
+  "package_url": "https://pypi.org/project/sepaxml/"
+}

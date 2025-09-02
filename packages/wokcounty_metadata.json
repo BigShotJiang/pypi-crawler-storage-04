@@ -1,0 +1,11 @@
+{
+  "name": "wokcounty",
+  "version": "0.0.1",
+  "summary": "The only correct, pure, PEP 8 compliant implementation of AES-128 which do not use modes of operation, iv etc but follows the core AES-128 standard only (Details: others are either incorrect as given the same input as that specified in AES-128, it produce a different output and hence by AES-128 is deemed not compliant; or they use iv, modes of operations like CBC/ECB, padding, salt, password-based key deriviation, randomness et cetera).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wokcounty-0.0.1.tar.gz",
+  "download_time": "2025-09-02T12:45:20.231569",
+  "package_url": "https://pypi.org/project/wokcounty/"
+}
