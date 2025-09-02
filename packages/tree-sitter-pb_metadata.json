@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-pb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pb grammar for tree-sitter",
   "author": "TAI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_pb-0.1.0.tar.gz",
-  "download_time": "2025-09-02T06:58:43.373396",
+  "download_filename": "tree_sitter_pb-0.1.1.tar.gz",
+  "download_time": "2025-09-02T13:22:17.244402",
   "package_url": "https://pypi.org/project/tree-sitter-pb/"
 }

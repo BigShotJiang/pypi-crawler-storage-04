@@ -1,0 +1,11 @@
+{
+  "name": "docuglean-ocr",
+  "version": "1.0.0",
+  "summary": "An SDK for intelligent document processing using SOTA VLLM models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "docuglean_ocr-1.0.0.tar.gz",
+  "download_time": "2025-09-02T13:21:52.751653",
+  "package_url": "https://pypi.org/project/docuglean-ocr/"
+}

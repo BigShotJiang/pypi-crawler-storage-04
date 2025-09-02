@@ -1,0 +1,11 @@
+{
+  "name": "security-lake-tools",
+  "version": "0.2.1",
+  "summary": "Tools for managing AWS Security Lake custom sources",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "security_lake_tools-0.2.1.tar.gz",
+  "download_time": "2025-09-02T13:22:23.920513",
+  "package_url": "https://pypi.org/project/security-lake-tools/"
+}

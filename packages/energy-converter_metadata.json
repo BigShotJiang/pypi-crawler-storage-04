@@ -1,0 +1,11 @@
+{
+  "name": "energy-converter",
+  "version": "0.4",
+  "summary": "Converter for translating from different time intervals and different units of measure",
+  "author": "Artem Pleshakov",
+  "license": null,
+  "home_page": "https://github.com/Artem.Pleshakov/energy-converter",
+  "download_filename": "energy_converter-0.4.tar.gz",
+  "download_time": "2025-09-02T13:22:27.008870",
+  "package_url": "https://pypi.org/project/energy-converter/"
+}

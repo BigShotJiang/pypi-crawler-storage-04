@@ -1,0 +1,11 @@
+{
+  "name": "numline-c",
+  "version": "0.0.0",
+  "summary": "Pure NumPy machine-learning toolkit (name reservation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "numline_c-0.0.0.tar.gz",
+  "download_time": "2025-09-02T13:21:52.238524",
+  "package_url": "https://pypi.org/project/numline-c/"
+}

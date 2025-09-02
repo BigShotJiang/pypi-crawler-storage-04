@@ -1,0 +1,11 @@
+{
+  "name": "gfw-api-python-client",
+  "version": "1.2.0",
+  "summary": "Python package for accessing data from Global Fishing Watch APIs.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "gfw_api_python_client-1.2.0.tar.gz",
+  "download_time": "2025-09-02T13:22:20.335540",
+  "package_url": "https://pypi.org/project/gfw-api-python-client/"
+}

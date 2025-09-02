@@ -1,11 +1,11 @@
 {
   "name": "sppyte",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Common tasks with SharePoint REST service",
   "author": "B-Jones-RFD",
   "license": null,
   "home_page": null,
-  "download_filename": "sppyte-0.1.1.tar.gz",
-  "download_time": "2025-08-29T16:47:03.008238",
+  "download_filename": "sppyte-0.1.4.tar.gz",
+  "download_time": "2025-09-02T13:22:18.788418",
   "package_url": "https://pypi.org/project/sppyte/"
 }

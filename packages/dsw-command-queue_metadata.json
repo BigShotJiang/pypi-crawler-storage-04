@@ -1,0 +1,11 @@
+{
+  "name": "dsw-command-queue",
+  "version": "4.22.0",
+  "summary": "Library for working with command queue and persistent commands",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dsw_command_queue-4.22.0.tar.gz",
+  "download_time": "2025-09-02T13:22:28.558401",
+  "package_url": "https://pypi.org/project/dsw-command-queue/"
+}

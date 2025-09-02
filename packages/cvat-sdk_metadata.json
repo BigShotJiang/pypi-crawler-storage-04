@@ -1,11 +1,11 @@
 {
   "name": "cvat-sdk",
-  "version": "2.44.0",
+  "version": "2.44.1",
   "summary": "CVAT REST API",
   "author": "CVAT.ai team",
   "license": "MIT License",
   "home_page": "https://github.com/cvat-ai/cvat",
-  "download_filename": "cvat_sdk-2.44.0.tar.gz",
-  "download_time": "2025-09-01T15:53:38.609614",
+  "download_filename": "cvat_sdk-2.44.1.tar.gz",
+  "download_time": "2025-09-02T13:21:46.569928",
   "package_url": "https://pypi.org/project/cvat-sdk/"
 }
