@@ -1,0 +1,11 @@
+{
+  "name": "tendril-connector-rabbitmq",
+  "version": "0.4.0",
+  "summary": "RabbitMQ Connector for Tendril",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-connector-rabbitmq",
+  "download_filename": "tendril-connector-rabbitmq-0.4.0.tar.gz",
+  "download_time": "2025-09-02T10:24:40.959676",
+  "package_url": "https://pypi.org/project/tendril-connector-rabbitmq/"
+}

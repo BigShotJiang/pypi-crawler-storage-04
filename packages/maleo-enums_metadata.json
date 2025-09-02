@@ -1,11 +1,11 @@
 {
   "name": "maleo-enums",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Enums package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_enums-0.0.5.tar.gz",
-  "download_time": "2025-09-02T08:52:12.748644",
+  "download_filename": "maleo_enums-0.0.6.tar.gz",
+  "download_time": "2025-09-02T10:24:33.232320",
   "package_url": "https://pypi.org/project/maleo-enums/"
 }

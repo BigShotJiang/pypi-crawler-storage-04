@@ -1,0 +1,11 @@
+{
+  "name": "tendril-connector-influxdb",
+  "version": "0.4.0",
+  "summary": "Tendril Connector to InfluxDB",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-connector-influxdb",
+  "download_filename": "tendril-connector-influxdb-0.4.0.tar.gz",
+  "download_time": "2025-09-02T10:24:36.754132",
+  "package_url": "https://pypi.org/project/tendril-connector-influxdb/"
+}
