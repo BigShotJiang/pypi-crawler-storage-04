@@ -1,11 +1,11 @@
 {
   "name": "termaitrik",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Terminal AI assistant inspired by Warp AI, supporting Ollama and BYOK",
   "author": "Trikketto",
   "license": null,
   "home_page": null,
-  "download_filename": "termaitrik-1.3.0.tar.gz",
-  "download_time": "2025-09-02T19:40:10.496618",
+  "download_filename": "termaitrik-1.3.1.tar.gz",
+  "download_time": "2025-09-02T19:54:37.223971",
   "package_url": "https://pypi.org/project/termaitrik/"
 }
