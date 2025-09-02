@@ -1,0 +1,11 @@
+{
+  "name": "prophecy-libs",
+  "version": "2.1.4",
+  "summary": "Helper library for prophecy generated code",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/SimpleDataLabsInc/prophecy-python-libs",
+  "download_filename": "prophecy-libs-2.1.4.tar.gz",
+  "download_time": "2025-09-02T08:30:38.445435",
+  "package_url": "https://pypi.org/project/prophecy-libs/"
+}

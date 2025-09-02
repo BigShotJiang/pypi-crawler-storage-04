@@ -1,0 +1,11 @@
+{
+  "name": "cdst-genome",
+  "version": "0.2.1",
+  "summary": "CoDing Sequence Typer (CDST): MD5 hash-based genome typing and clustering",
+  "author": "Collaborators",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "cdst_genome-0.2.1.tar.gz",
+  "download_time": "2025-09-02T08:30:12.920476",
+  "package_url": "https://pypi.org/project/cdst-genome/"
+}

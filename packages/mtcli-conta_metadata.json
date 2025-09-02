@@ -1,11 +1,11 @@
 {
   "name": "mtcli-conta",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Plugin mtcli para exibir dados da conta",
   "author": "Valmir França da Silva",
   "license": null,
   "home_page": "https://github.com/vfranca/mtcli-conta",
-  "download_filename": "mtcli_conta-0.1.0.tar.gz",
-  "download_time": "2025-09-01T18:30:11.811075",
+  "download_filename": "mtcli_conta-0.2.0.tar.gz",
+  "download_time": "2025-09-02T08:30:11.784341",
   "package_url": "https://pypi.org/project/mtcli-conta/"
 }

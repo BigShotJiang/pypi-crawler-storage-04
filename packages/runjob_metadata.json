@@ -1,0 +1,11 @@
+{
+  "name": "runjob",
+  "version": "2.11.0",
+  "summary": null,
+  "author": "yodeng",
+  "license": "MIT",
+  "home_page": "https://github.com/yodeng/runjob",
+  "download_filename": "runjob-2.11.0-py3-none-any.whl",
+  "download_time": "2025-09-02T08:30:42.246006",
+  "package_url": "https://pypi.org/project/runjob/"
+}

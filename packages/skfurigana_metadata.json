@@ -1,0 +1,11 @@
+{
+  "name": "skfurigana",
+  "version": "0.1.6",
+  "summary": "日本語テキストにふりがなを付与するツール",
+  "author": "sugarkwork",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skfurigana-0.1.6.tar.gz",
+  "download_time": "2025-09-02T08:30:08.399375",
+  "package_url": "https://pypi.org/project/skfurigana/"
+}

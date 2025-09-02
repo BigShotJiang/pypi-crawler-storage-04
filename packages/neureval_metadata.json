@@ -1,0 +1,11 @@
+{
+  "name": "neureval",
+  "version": "1.1.1",
+  "summary": "Stability-based relative clustering validation algorithm for neuroimaging data",
+  "author": "Federica Colombo",
+  "license": null,
+  "home_page": "https://github.com/fede-colombo/NeuReval",
+  "download_filename": "neureval-1.1.1.tar.gz",
+  "download_time": "2025-09-02T08:30:16.788256",
+  "package_url": "https://pypi.org/project/neureval/"
+}

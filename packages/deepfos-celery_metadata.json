@@ -1,0 +1,11 @@
+{
+  "name": "deepfos-celery",
+  "version": "1.1.22",
+  "summary": "Distributed Task Queue.",
+  "author": "DeepFOS",
+  "license": "BSD",
+  "home_page": "http://celeryproject.org",
+  "download_filename": "deepfos_celery-1.1.22-py3-none-any.whl",
+  "download_time": "2025-09-02T08:30:47.142483",
+  "package_url": "https://pypi.org/project/deepfos-celery/"
+}
