@@ -1,11 +1,11 @@
 {
   "name": "ordal-autohire-firebase-server",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Ordal AutoHire Firebase-backed MCP server & tools",
   "author": "Obie Ananda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ordal_autohire_firebase_server-0.1.2.tar.gz",
-  "download_time": "2025-09-02T18:29:28.080582",
+  "download_filename": "ordal_autohire_firebase_server-0.1.5.tar.gz",
+  "download_time": "2025-09-02T18:49:43.441363",
   "package_url": "https://pypi.org/project/ordal-autohire-firebase-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "poc-python-smvers",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "A proof-of-concept Python project using semantic versioning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "poc_python_smvers-2.0.0.tar.gz",
-  "download_time": "2025-09-02T17:05:09.118742",
+  "download_filename": "poc_python_smvers-2.1.0.tar.gz",
+  "download_time": "2025-09-02T18:49:33.402437",
   "package_url": "https://pypi.org/project/poc-python-smvers/"
 }

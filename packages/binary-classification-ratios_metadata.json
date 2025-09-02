@@ -1,11 +1,11 @@
 {
   "name": "binary-classification-ratios",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Binary classification ratios gathered in one package.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "binary_classification_ratios-0.1.4.tar.gz",
-  "download_time": "2025-09-02T18:29:45.418147",
+  "download_filename": "binary_classification_ratios-0.1.5.tar.gz",
+  "download_time": "2025-09-02T18:50:04.309377",
   "package_url": "https://pypi.org/project/binary-classification-ratios/"
 }

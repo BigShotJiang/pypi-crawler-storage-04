@@ -1,11 +1,11 @@
 {
   "name": "mcpbind-meta-ads-mcp",
-  "version": "0.11.3",
-  "summary": "MCP Server Package for PyPI",
+  "version": "2.1439.50.8127",
+  "summary": "MCP Server Package: meta-ads-mcp",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpbind_meta_ads_mcp-0.11.3-py3-none-any.whl",
-  "download_time": "2025-08-31T18:28:10.030797",
+  "download_filename": "mcpbind_meta_ads_mcp-2.1439.50.8127-py3-none-any.whl",
+  "download_time": "2025-09-02T18:50:12.228905",
   "package_url": "https://pypi.org/project/mcpbind-meta-ads-mcp/"
 }

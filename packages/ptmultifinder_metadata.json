@@ -1,0 +1,11 @@
+{
+  "name": "ptmultifinder",
+  "version": "0.0.6",
+  "summary": "Custom Source Domain Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3+",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptmultifinder-0.0.6.tar.gz",
+  "download_time": "2025-09-02T18:49:42.393919",
+  "package_url": "https://pypi.org/project/ptmultifinder/"
+}

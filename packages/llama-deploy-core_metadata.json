@@ -1,11 +1,11 @@
 {
   "name": "llama-deploy-core",
-  "version": "0.3.0a16",
+  "version": "0.3.0a17",
   "summary": "Core models and schemas for LlamaDeploy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_deploy_core-0.3.0a16.tar.gz",
-  "download_time": "2025-09-01T20:41:42.457367",
+  "download_filename": "llama_deploy_core-0.3.0a17.tar.gz",
+  "download_time": "2025-09-02T18:50:02.751321",
   "package_url": "https://pypi.org/project/llama-deploy-core/"
 }

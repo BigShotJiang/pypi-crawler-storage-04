@@ -1,0 +1,11 @@
+{
+  "name": "sqeezz",
+  "version": "0.1.0",
+  "summary": "A lightweight dependency injection and service configuration library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqeezz-0.1.0.tar.gz",
+  "download_time": "2025-09-02T18:49:47.114121",
+  "package_url": "https://pypi.org/project/sqeezz/"
+}

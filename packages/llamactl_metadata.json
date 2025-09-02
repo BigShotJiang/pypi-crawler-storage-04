@@ -1,11 +1,11 @@
 {
   "name": "llamactl",
-  "version": "0.3.0a16",
+  "version": "0.3.0a17",
   "summary": "A command-line interface for managing LlamaDeploy projects and deployments",
   "author": "Adrian Lyjak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llamactl-0.3.0a16.tar.gz",
-  "download_time": "2025-09-01T20:41:41.459498",
+  "download_filename": "llamactl-0.3.0a17.tar.gz",
+  "download_time": "2025-09-02T18:50:02.232510",
   "package_url": "https://pypi.org/project/llamactl/"
 }
