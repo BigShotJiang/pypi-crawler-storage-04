@@ -1,0 +1,11 @@
+{
+  "name": "pyrat-game",
+  "version": "6.2.2",
+  "summary": "PyRat software used in the computer science course at IMT Atlantique",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrat_game-6.2.2.tar.gz",
+  "download_time": "2025-09-02T11:53:23.204903",
+  "package_url": "https://pypi.org/project/pyrat-game/"
+}

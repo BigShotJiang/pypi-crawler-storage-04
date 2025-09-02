@@ -1,0 +1,11 @@
+{
+  "name": "thin-osm-api-wrapper",
+  "version": "0.0.5",
+  "summary": "thin wrapper of https://wiki.openstreetmap.org/wiki/API",
+  "author": "Mateusz Konieczny",
+  "license": null,
+  "home_page": "https://github.com/matkoniecz/thin_osm_api_python_wrapper",
+  "download_filename": "thin_osm_api_wrapper-0.0.5.tar.gz",
+  "download_time": "2025-09-02T11:53:30.531857",
+  "package_url": "https://pypi.org/project/thin-osm-api-wrapper/"
+}

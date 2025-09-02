@@ -1,0 +1,11 @@
+{
+  "name": "ieltspeak",
+  "version": "2025.9.2",
+  "summary": "a CLI application that displays IELTS speaking questions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ieltspeak-2025.9.2.tar.gz",
+  "download_time": "2025-09-02T11:53:31.555322",
+  "package_url": "https://pypi.org/project/ieltspeak/"
+}
