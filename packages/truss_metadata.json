@@ -1,11 +1,11 @@
 {
   "name": "truss",
-  "version": "0.10.11",
+  "version": "0.10.12",
   "summary": "A seamless bridge from model development to model delivery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truss-0.10.11.tar.gz",
-  "download_time": "2025-09-03T03:19:54.113163",
+  "download_filename": "truss-0.10.12.tar.gz",
+  "download_time": "2025-09-03T22:20:38.565532",
   "package_url": "https://pypi.org/project/truss/"
 }
