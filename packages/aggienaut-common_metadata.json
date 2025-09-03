@@ -1,0 +1,11 @@
+{
+  "name": "aggienaut-common",
+  "version": "0.1.6",
+  "summary": "A collection of common utilities and modules for AggieNaut projects",
+  "author": "AggieNaut Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Aggienaut-Apps/aggienaut-common",
+  "download_filename": "aggienaut_common-0.1.6.tar.gz",
+  "download_time": "2025-09-03T17:19:45.583626",
+  "package_url": "https://pypi.org/project/aggienaut-common/"
+}

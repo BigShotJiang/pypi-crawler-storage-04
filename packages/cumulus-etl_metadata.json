@@ -1,0 +1,11 @@
+{
+  "name": "cumulus-etl",
+  "version": "3.4.0",
+  "summary": "Turns FHIR data into de-identified & aggregated records",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cumulus_etl-3.4.0.tar.gz",
+  "download_time": "2025-09-03T17:19:59.098037",
+  "package_url": "https://pypi.org/project/cumulus-etl/"
+}

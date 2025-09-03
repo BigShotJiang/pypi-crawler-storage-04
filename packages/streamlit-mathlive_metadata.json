@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-mathlive",
+  "version": "0.0.3",
+  "summary": "A WYSWYG math expression editor for Streamlit using MathLive mathfield and on-screen keyboard.",
+  "author": "Sina Golchi",
+  "license": null,
+  "home_page": "https://github.com/sinagolchi/Streamlit-Mathlive-Editor",
+  "download_filename": "streamlit-mathlive-0.0.3.tar.gz",
+  "download_time": "2025-09-03T17:20:04.842991",
+  "package_url": "https://pypi.org/project/streamlit-mathlive/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-dev-toolkit",
+  "version": "0.1.9",
+  "summary": "Professional toolkit for Python developers and software engineers",
+  "author": "alex-smith",
+  "license": "MIT",
+  "home_page": "https://github.com/alex-smith/python-dev-toolkit",
+  "download_filename": "python_dev_toolkit-0.1.9.tar.gz",
+  "download_time": "2025-09-03T17:19:47.642245",
+  "package_url": "https://pypi.org/project/python-dev-toolkit/"
+}

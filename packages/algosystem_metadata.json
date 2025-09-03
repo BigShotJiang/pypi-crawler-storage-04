@@ -1,0 +1,11 @@
+{
+  "name": "algosystem",
+  "version": "0.1.4",
+  "summary": "A batteries-included pythonic library for AlgoGators members",
+  "author": "AlgoGators Team",
+  "license": null,
+  "home_page": "https://github.com/algogators/algosystem",
+  "download_filename": "algosystem-0.1.4.tar.gz",
+  "download_time": "2025-09-03T17:20:00.152358",
+  "package_url": "https://pypi.org/project/algosystem/"
+}

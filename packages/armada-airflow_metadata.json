@@ -1,0 +1,11 @@
+{
+  "name": "armada-airflow",
+  "version": "1.0.14",
+  "summary": "Armada Airflow Operator",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "armada_airflow-1.0.14-py3-none-any.whl",
+  "download_time": "2025-09-03T17:20:21.534155",
+  "package_url": "https://pypi.org/project/armada-airflow/"
+}
