@@ -1,11 +1,11 @@
 {
   "name": "core-system-grpc",
-  "version": "0.2.56",
+  "version": "0.2.59",
   "summary": "Core System gRPC Package - Python Proto Specifications and Client Libraries",
   "author": null,
   "license": "Closed Source",
   "home_page": null,
-  "download_filename": "core_system_grpc-0.2.56.tar.gz",
-  "download_time": "2025-09-03T07:40:48.448916",
+  "download_filename": "core_system_grpc-0.2.59.tar.gz",
+  "download_time": "2025-09-03T08:29:06.259396",
   "package_url": "https://pypi.org/project/core-system-grpc/"
 }

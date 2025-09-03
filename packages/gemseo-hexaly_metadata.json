@@ -1,0 +1,11 @@
+{
+  "name": "gemseo-hexaly",
+  "version": "1.1.0",
+  "summary": "GEMSEO interface to Hexaly solver.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemseo_hexaly-1.1.0.tar.gz",
+  "download_time": "2025-09-03T08:29:10.957056",
+  "package_url": "https://pypi.org/project/gemseo-hexaly/"
+}

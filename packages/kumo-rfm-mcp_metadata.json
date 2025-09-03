@@ -1,11 +1,11 @@
 {
   "name": "kumo-rfm-mcp",
-  "version": "0.2.1",
+  "version": "0.1.0",
   "summary": "Model Context Protocol server for KumoRFM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kumo_rfm_mcp-0.2.1.tar.gz",
-  "download_time": "2025-09-02T18:29:34.350431",
+  "download_filename": "kumo_rfm_mcp-0.1.0.tar.gz",
+  "download_time": "2025-09-03T08:29:07.826242",
   "package_url": "https://pypi.org/project/kumo-rfm-mcp/"
 }

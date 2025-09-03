@@ -1,0 +1,11 @@
+{
+  "name": "IronPdf",
+  "version": "2025.9.1.4",
+  "summary": "IronPdf for Python",
+  "author": "Iron Software",
+  "license": "Commercial",
+  "home_page": "https://ironpdf.com/",
+  "download_filename": "IronPdf-2025.9.1.4-py37-none-any.whl",
+  "download_time": "2025-09-03T08:29:14.754486",
+  "package_url": "https://pypi.org/project/IronPdf/"
+}

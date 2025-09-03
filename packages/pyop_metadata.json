@@ -1,0 +1,11 @@
+{
+  "name": "pyop",
+  "version": "3.4.2",
+  "summary": "OpenID Connect Provider (OP) library in Python.",
+  "author": "Rebecka Gulliksson",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/IdentityPython/pyop",
+  "download_filename": "pyop-3.4.2.tar.gz",
+  "download_time": "2025-09-03T08:29:36.626774",
+  "package_url": "https://pypi.org/project/pyop/"
+}

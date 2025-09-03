@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-server-odoo",
+  "version": "3.496.54.6181",
+  "summary": "MCP Server Package: mcp-server-odoo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_server_odoo-3.496.54.6181-py3-none-any.whl",
+  "download_time": "2025-09-03T08:29:19.964039",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-server-odoo/"
+}

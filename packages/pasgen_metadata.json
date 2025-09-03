@@ -1,0 +1,11 @@
+{
+  "name": "pasgen",
+  "version": "0.5",
+  "summary": "Password Generator For Python",
+  "author": "ahmetyavuzkanat@outlook.com",
+  "license": "MIT",
+  "home_page": "https://github.com/yavuzkanat/PasGen",
+  "download_filename": "pasgen-0.5.tar.gz",
+  "download_time": "2025-09-03T08:29:37.671412",
+  "package_url": "https://pypi.org/project/pasgen/"
+}

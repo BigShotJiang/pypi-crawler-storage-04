@@ -1,0 +1,11 @@
+{
+  "name": "sevent",
+  "version": "0.4.38",
+  "summary": "lightweight event loop",
+  "author": "snower",
+  "license": "MIT",
+  "home_page": "https://github.com/snower/sevent",
+  "download_filename": "sevent-0.4.38.tar.gz",
+  "download_time": "2025-09-03T08:29:15.803612",
+  "package_url": "https://pypi.org/project/sevent/"
+}

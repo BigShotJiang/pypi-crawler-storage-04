@@ -1,11 +1,11 @@
 {
   "name": "expdata-libsvm",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": "datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "expdata_libsvm-0.1.2.tar.gz",
-  "download_time": "2025-09-03T07:40:33.045775",
+  "download_filename": "expdata_libsvm-0.1.8.tar.gz",
+  "download_time": "2025-09-03T08:29:12.608932",
   "package_url": "https://pypi.org/project/expdata-libsvm/"
 }

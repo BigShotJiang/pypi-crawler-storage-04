@@ -1,11 +1,11 @@
 {
   "name": "cwatch",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Monitors and generates a report for changes in reports from Cyberbro",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cwatch-0.3.2.tar.gz",
-  "download_time": "2025-09-02T14:58:11.387759",
+  "download_filename": "cwatch-0.3.3.tar.gz",
+  "download_time": "2025-09-03T08:29:31.963695",
   "package_url": "https://pypi.org/project/cwatch/"
 }
