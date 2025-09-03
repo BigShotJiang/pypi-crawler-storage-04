@@ -1,0 +1,11 @@
+{
+  "name": "worth-calculator-mcp",
+  "version": "0.1.0",
+  "summary": "一个基于Zippland/worth-calculator的工作性价比计算工具，综合评估工作真实价值",
+  "author": "Alvin",
+  "license": null,
+  "home_page": "https://github.com/Zippland/worth-calculator",
+  "download_filename": "worth_calculator_mcp-0.1.0.tar.gz",
+  "download_time": "2025-09-03T07:40:41.505063",
+  "package_url": "https://pypi.org/project/worth-calculator-mcp/"
+}

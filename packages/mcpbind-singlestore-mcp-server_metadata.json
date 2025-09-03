@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-singlestore-mcp-server",
+  "version": "3.457.32.1496",
+  "summary": "MCP Server Package: singlestore-mcp-server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_singlestore_mcp_server-3.457.32.1496-py3-none-any.whl",
+  "download_time": "2025-09-03T07:40:30.872586",
+  "package_url": "https://pypi.org/project/mcpbind-singlestore-mcp-server/"
+}

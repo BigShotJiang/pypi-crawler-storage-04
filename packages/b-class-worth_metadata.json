@@ -1,0 +1,11 @@
+{
+  "name": "b-class-worth",
+  "version": "0.1.0",
+  "summary": "这个B班值不值得上 - 一个帮助你评估工作真实价值的工具，综合考虑薪资、工时、通勤、工作环境等多个因素",
+  "author": "Alvin",
+  "license": null,
+  "home_page": "https://github.com/Zippland/worth-calculator",
+  "download_filename": "b_class_worth-0.1.0.tar.gz",
+  "download_time": "2025-09-03T07:40:28.155176",
+  "package_url": "https://pypi.org/project/b-class-worth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "CubeRaspberryLib3",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "CubeRaspberryLib driver adapted to Python3 version",
   "author": "RikoNaka",
   "license": null,
   "home_page": "https://github.com/rikonaka/CubeRaspberryLib3",
-  "download_filename": "cuberaspberrylib3-0.1.5.tar.gz",
-  "download_time": "2025-09-03T03:56:37.769576",
+  "download_filename": "cuberaspberrylib3-0.1.7.tar.gz",
+  "download_time": "2025-09-03T07:40:26.471107",
   "package_url": "https://pypi.org/project/CubeRaspberryLib3/"
 }

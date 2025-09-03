@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-cockroachdb-mcp-server",
+  "version": "3.440.58.2964",
+  "summary": "MCP Server Package: cockroachdb-mcp-server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_cockroachdb_mcp_server-3.440.58.2964-py3-none-any.whl",
+  "download_time": "2025-09-03T07:40:57.638948",
+  "package_url": "https://pypi.org/project/mcpbind-cockroachdb-mcp-server/"
+}

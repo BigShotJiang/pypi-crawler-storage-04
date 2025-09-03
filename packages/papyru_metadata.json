@@ -1,0 +1,11 @@
+{
+  "name": "papyru",
+  "version": "2.10.0",
+  "summary": "minimal REST library with OpenAPI-based validation for django",
+  "author": "puzzleYOU GmbH",
+  "license": "AGPLv3",
+  "home_page": "http://www.puzzleyou.net/",
+  "download_filename": "papyru-2.10.0.tar.gz",
+  "download_time": "2025-09-03T07:40:53.917255",
+  "package_url": "https://pypi.org/project/papyru/"
+}

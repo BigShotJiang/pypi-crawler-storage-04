@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-microsoft-fabric-rti-mcp",
+  "version": "3.458.56.9547",
+  "summary": "MCP Server Package: microsoft-fabric-rti-mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_microsoft_fabric_rti_mcp-3.458.56.9547-py3-none-any.whl",
+  "download_time": "2025-09-03T07:40:29.238896",
+  "package_url": "https://pypi.org/project/mcpbind-microsoft-fabric-rti-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "articom-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SDK for building and self-hosting skills for the Articom Agentic Marketplace.",
   "author": "Articom Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "articom_sdk-0.1.0.tar.gz",
-  "download_time": "2025-09-03T07:21:47.485576",
+  "download_filename": "articom_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-03T07:40:59.214631",
   "package_url": "https://pypi.org/project/articom-sdk/"
 }
