@@ -1,0 +1,11 @@
+{
+  "name": "fiftyone-brain",
+  "version": "0.21.3",
+  "summary": "FiftyOne Brain",
+  "author": "Voxel51, Inc.",
+  "license": "Apache",
+  "home_page": "https://github.com/voxel51/fiftyone-brain",
+  "download_filename": "fiftyone_brain-0.21.3.tar.gz",
+  "download_time": "2025-09-03T15:24:07.599060",
+  "package_url": "https://pypi.org/project/fiftyone-brain/"
+}
