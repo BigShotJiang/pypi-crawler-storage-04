@@ -1,11 +1,11 @@
 {
   "name": "FastQuat",
-  "version": "0.5",
+  "version": "0.5.1",
   "summary": "High-performance quaternions with JAX support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastquat-0.5.tar.gz",
-  "download_time": "2025-09-03T09:42:19.080828",
+  "download_filename": "fastquat-0.5.1.tar.gz",
+  "download_time": "2025-09-03T11:19:18.601113",
   "package_url": "https://pypi.org/project/FastQuat/"
 }

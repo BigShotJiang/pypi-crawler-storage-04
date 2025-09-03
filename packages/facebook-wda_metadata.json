@@ -1,11 +1,11 @@
 {
   "name": "facebook-wda",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Python Client for Facebook WebDriverAgent",
   "author": "\"codeskyblue\"",
   "license": "MIT",
   "home_page": "https://github.com/openatx/facebook-wda",
-  "download_filename": "facebook-wda-1.5.3.tar.gz",
-  "download_time": "2025-09-01T08:31:44.698920",
+  "download_filename": "facebook-wda-1.5.4.tar.gz",
+  "download_time": "2025-09-03T11:19:54.533201",
   "package_url": "https://pypi.org/project/facebook-wda/"
 }

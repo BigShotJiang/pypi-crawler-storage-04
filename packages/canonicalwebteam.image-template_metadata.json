@@ -1,0 +1,11 @@
+{
+  "name": "canonicalwebteam.image-template",
+  "version": "1.9.0",
+  "summary": "Generate <img> markup block for an image.",
+  "author": "Canonical webteam",
+  "license": null,
+  "home_page": "https://github.com/canonical-web-and-design/canonicalwebteam.image-template",
+  "download_filename": "canonicalwebteam_image_template-1.9.0.tar.gz",
+  "download_time": "2025-09-03T11:20:17.426812",
+  "package_url": "https://pypi.org/project/canonicalwebteam.image-template/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyloch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "هذا المكتبه تحت اشراف حسو ال علي وتحت التطوير حاليا سيتم اضافه تحديثات جديده كل يوم",
   "author": "Hasneen Qusay",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyloch-0.1.1.tar.gz",
-  "download_time": "2025-09-03T10:55:54.641733",
+  "download_filename": "pyloch-0.1.2.tar.gz",
+  "download_time": "2025-09-03T11:19:29.932959",
   "package_url": "https://pypi.org/project/pyloch/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "test-eicar",
+  "version": "0.1.0",
+  "summary": "A sample Python package with EICAR signature for AV testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_eicar-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-03T11:19:53.173781",
+  "package_url": "https://pypi.org/project/test-eicar/"
+}

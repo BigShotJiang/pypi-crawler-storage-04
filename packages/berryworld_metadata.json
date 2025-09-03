@@ -1,11 +1,11 @@
 {
   "name": "berryworld",
-  "version": "1.0.0.194584",
+  "version": "1.0.0.194660",
   "summary": "Handy classes to improve ETL processes",
   "author": "BerryWorld ltd",
   "license": null,
   "home_page": "https://www.berryworld.com",
-  "download_filename": "berryworld-1.0.0.194584-py3-none-any.whl",
-  "download_time": "2025-09-01T12:45:07.199595",
+  "download_filename": "berryworld-1.0.0.194660-py3-none-any.whl",
+  "download_time": "2025-09-03T11:19:29.284635",
   "package_url": "https://pypi.org/project/berryworld/"
 }

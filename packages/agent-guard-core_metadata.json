@@ -1,11 +1,11 @@
 {
   "name": "agent-guard-core",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Python library to secure AI agents with environment credentials from multiple secret providers and more",
   "author": "CyberArk",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_guard_core-0.1.30-py3-none-any.whl",
-  "download_time": "2025-09-03T09:54:17.040898",
+  "download_filename": "agent_guard_core-0.1.31-py3-none-any.whl",
+  "download_time": "2025-09-03T11:20:10.822433",
   "package_url": "https://pypi.org/project/agent-guard-core/"
 }

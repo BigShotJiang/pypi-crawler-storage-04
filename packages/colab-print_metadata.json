@@ -1,11 +1,11 @@
 {
   "name": "colab-print",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Enhanced display utilities for Jupyter/Colab notebooks with customizable styles",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "colab_print-0.7.0.tar.gz",
-  "download_time": "2025-09-03T10:55:39.746606",
+  "download_filename": "colab_print-0.7.1.tar.gz",
+  "download_time": "2025-09-03T11:20:06.437227",
   "package_url": "https://pypi.org/project/colab-print/"
 }

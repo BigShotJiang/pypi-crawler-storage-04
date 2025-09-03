@@ -1,0 +1,11 @@
+{
+  "name": "datasense-eda",
+  "version": "0.1.0",
+  "summary": "Datasense: An Explainable EDA library for automated exploratory data analysis, outlier detection, feature importance, and visualization.",
+  "author": "Akash Sare",
+  "license": "MIT",
+  "home_page": "https://github.com/Akash-Sare03/datasense",
+  "download_filename": "datasense_eda-0.1.0.tar.gz",
+  "download_time": "2025-09-03T11:19:33.329952",
+  "package_url": "https://pypi.org/project/datasense-eda/"
+}
