@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-minecraft",
+  "version": "1.5.2",
+  "summary": "NoneBot2与MineCraft Server互通的适配器。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_adapter_minecraft-1.5.2.tar.gz",
+  "download_time": "2025-09-03T10:55:47.416469",
+  "package_url": "https://pypi.org/project/nonebot-adapter-minecraft/"
+}

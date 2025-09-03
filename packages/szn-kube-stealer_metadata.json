@@ -1,0 +1,11 @@
+{
+  "name": "szn-kube-stealer",
+  "version": "0.0.1",
+  "summary": "Security placeholder package",
+  "author": "Security Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "szn_kube_stealer-0.0.1.tar.gz",
+  "download_time": "2025-09-03T10:55:40.257597",
+  "package_url": "https://pypi.org/project/szn-kube-stealer/"
+}

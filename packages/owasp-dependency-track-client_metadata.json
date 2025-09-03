@@ -1,0 +1,11 @@
+{
+  "name": "owasp-dependency-track-client",
+  "version": "4.13.5",
+  "summary": "Inofficial OWASP Dependency Track API Python client",
+  "author": "Mike Reiche",
+  "license": null,
+  "home_page": "https://github.com/mreiche/owasp-dependency-track-python-client",
+  "download_filename": "owasp_dependency_track_client-4.13.5.tar.gz",
+  "download_time": "2025-09-03T10:55:59.372141",
+  "package_url": "https://pypi.org/project/owasp-dependency-track-client/"
+}
