@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T04:46:07.761892
-- **Total Packages**: 78
-- **Total Size**: 12.06 MB
+- **Download Time**: 2025-09-03T04:57:25.630432
+- **Total Packages**: 71
+- **Total Size**: 13.12 MB
 
 ## Packages List
+- rosy
+- svc-infra
+- mcpbind-mcp-naver
+- x-make-pip-updates-x
+- x-make-github-clones-x
+- x-make-pypi-x
+- x-make-persistent-env-var-x
+- x-make-markdown-x
+- edx-token-utils
+- aara
+- rk4-sparse-cpp
+- authentik-client
+- legit-api-client
+- pyoxynet
+- gllm-tools-binary
+- doris-mcp-server
+- kyutils
+- git-timemachine
+- fieldedge-utilities
+- iamdata
+- devstack-cli
 - solarwindpy
 - model-compose
 - aiauto-client
@@ -20,25 +41,17 @@
 - napistu
 - sleipnirgroup-jormungandr
 - klotho-cac
-- svc-infra
 - coex
 - embed-rerank
-- authentik-client
 - gpusnatcher
 - sshconfig_to_ananta
 - opendht
 - sinonym
 - promptdown
 - todo-agent
-- x-make-pip-updates-x
-- x-make-github-clones-x
-- x-make-pypi-x
-- x-make-persistent-env-var-x
-- x-make-markdown-x
 - inventree-stock-forecasting
 - sc-orchestrator
 - kipjak
-- aara
 - pysantec
 - pytest-scenario-files
 - mcpbind-excel-mcp-server
@@ -64,23 +77,3 @@
 - fiftyone-devicedetection-onpremise
 - fiftyone-devicedetection
 - fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- smart-financial-mcp
-- tripp
-- runbooks
-- maleo-mixins
-- snowflake-connector-python-nightly
-- langevaluate
-- juno-agent
-- weaviate-client
-- gllm-agents-binary
-- frplib
-- investgo
-- fastnntpy
-- maleo-logging
-- wayspiritmcp-weather
-- z8ter
-- league-of-legends-decoded-replay-packets-gym
-- pluk
-- flog-otlp
-- foamlib

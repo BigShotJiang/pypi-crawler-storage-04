@@ -1,0 +1,11 @@
+{
+  "name": "edx-token-utils",
+  "version": "0.3.1",
+  "summary": "App for the creation, signing, and decoding of various access tokens",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/token-utils",
+  "download_filename": "edx_token_utils-0.3.1.tar.gz",
+  "download_time": "2025-09-03T04:56:53.476508",
+  "package_url": "https://pypi.org/project/edx-token-utils/"
+}
