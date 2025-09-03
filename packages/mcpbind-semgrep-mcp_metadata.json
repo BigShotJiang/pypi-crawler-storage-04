@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-semgrep-mcp",
+  "version": "3.527.19.1530",
+  "summary": "MCP Server Package: semgrep-mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_semgrep_mcp-3.527.19.1530-py3-none-any.whl",
+  "download_time": "2025-09-03T08:49:14.046224",
+  "package_url": "https://pypi.org/project/mcpbind-semgrep-mcp/"
+}

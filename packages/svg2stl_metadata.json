@@ -1,0 +1,11 @@
+{
+  "name": "svg2stl",
+  "version": "0.0.3",
+  "summary": "A package to help you convert a SVG file to a 3D STL file",
+  "author": "aviinfinity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "svg2stl-0.0.3.tar.gz",
+  "download_time": "2025-09-03T08:49:24.396543",
+  "package_url": "https://pypi.org/project/svg2stl/"
+}

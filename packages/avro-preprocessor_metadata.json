@@ -1,0 +1,11 @@
+{
+  "name": "avro-preprocessor",
+  "version": "0.9.1",
+  "summary": "A preprocessor for Avro Schemata",
+  "author": "Jaumo GmbH",
+  "license": "Apache2",
+  "home_page": "https://gitlab.com/Jaumo/avro-preprocessor",
+  "download_filename": "avro-preprocessor-0.9.1.tar.gz",
+  "download_time": "2025-09-03T08:49:47.481000",
+  "package_url": "https://pypi.org/project/avro-preprocessor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "evoagentx",
+  "version": "0.1.0",
+  "summary": "A framework for evolving agentic workflows with LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evoagentx-0.1.0.tar.gz",
+  "download_time": "2025-09-03T08:49:37.736993",
+  "package_url": "https://pypi.org/project/evoagentx/"
+}
