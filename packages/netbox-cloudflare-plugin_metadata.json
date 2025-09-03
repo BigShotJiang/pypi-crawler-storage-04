@@ -1,0 +1,11 @@
+{
+  "name": "netbox-cloudflare-plugin",
+  "version": "0.5.0",
+  "summary": "Manage Cloudflare with Netbox & style.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_cloudflare_plugin-0.5.0.tar.gz",
+  "download_time": "2025-09-03T10:24:04.209137",
+  "package_url": "https://pypi.org/project/netbox-cloudflare-plugin/"
+}

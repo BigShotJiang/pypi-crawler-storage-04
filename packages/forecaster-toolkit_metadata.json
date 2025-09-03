@@ -1,0 +1,11 @@
+{
+  "name": "forecaster-toolkit",
+  "version": "0.1.3",
+  "summary": "Python library for time series forecasting",
+  "author": "Paul-Adrien Marie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forecaster_toolkit-0.1.3.tar.gz",
+  "download_time": "2025-09-03T10:24:24.268318",
+  "package_url": "https://pypi.org/project/forecaster-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "donodo",
+  "version": "0.4",
+  "summary": "Bridging Docker images with Zenodo",
+  "author": "Loïc Paulevé",
+  "license": "MIT",
+  "home_page": "https://github.com/pauleve/donodo",
+  "download_filename": "donodo-0.4.tar.gz",
+  "download_time": "2025-09-03T10:24:19.158624",
+  "package_url": "https://pypi.org/project/donodo/"
+}
