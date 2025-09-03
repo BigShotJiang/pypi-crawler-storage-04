@@ -1,11 +1,11 @@
 {
   "name": "hyperchoron",
-  "version": "1.0.13",
+  "version": "1.1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperchoron-1.0.13.tar.gz",
-  "download_time": "2025-08-30T20:52:42.149442",
+  "download_filename": "hyperchoron-1.1.0.tar.gz",
+  "download_time": "2025-09-03T22:41:58.733500",
   "package_url": "https://pypi.org/project/hyperchoron/"
 }

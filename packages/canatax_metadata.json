@@ -1,0 +1,11 @@
+{
+  "name": "canatax",
+  "version": "2.0.1",
+  "summary": "An easy-to-use, dependency-free Canadian sales and income tax calculator.",
+  "author": "Michael Pearce",
+  "license": "MIT",
+  "home_page": "https://github.com/firstflush/canatax",
+  "download_filename": "canatax-2.0.1.tar.gz",
+  "download_time": "2025-09-03T22:42:13.754745",
+  "package_url": "https://pypi.org/project/canatax/"
+}

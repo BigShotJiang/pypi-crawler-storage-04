@@ -1,0 +1,11 @@
+{
+  "name": "Telethon-v1.24",
+  "version": "1.24.20",
+  "summary": "Updated fork of 1.24 branch of Telethon, primarily used by TGPy",
+  "author": "vanutp",
+  "license": "MIT",
+  "home_page": "https://github.com/vanutp/Telethon",
+  "download_filename": "telethon_v1_24-1.24.20.tar.gz",
+  "download_time": "2025-09-03T22:42:11.174851",
+  "package_url": "https://pypi.org/project/Telethon-v1.24/"
+}
