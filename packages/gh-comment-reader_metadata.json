@@ -1,0 +1,11 @@
+{
+  "name": "gh-comment-reader",
+  "version": "0.1.0",
+  "summary": "GitHub Comment Reader - CLI tool for easily reading GitHub PR comments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gh_comment_reader-0.1.0.tar.gz",
+  "download_time": "2025-09-03T04:28:28.296421",
+  "package_url": "https://pypi.org/project/gh-comment-reader/"
+}

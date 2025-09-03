@@ -1,11 +1,11 @@
 {
   "name": "powerplan",
-  "version": "1.1.0",
-  "summary": "Get Windows power plan scheme name or guid and change power plan to any plan.",
+  "version": "1.2.0",
+  "summary": "Simple Windows-only Python package to read your current power plan (name and GUID) and switch to one of the standard Windows power plans.",
   "author": "Temal",
   "license": null,
   "home_page": "https://github.com/temal32/powerplan",
-  "download_filename": "powerplan-1.1.0.tar.gz",
-  "download_time": "2025-09-03T03:56:48.951417",
+  "download_filename": "powerplan-1.2.0.tar.gz",
+  "download_time": "2025-09-03T04:28:54.076024",
   "package_url": "https://pypi.org/project/powerplan/"
 }

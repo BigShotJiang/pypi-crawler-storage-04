@@ -1,0 +1,11 @@
+{
+  "name": "bookalimo",
+  "version": "0.1.1",
+  "summary": "Python wrapper for the Book-A-Limo API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bookalimo-0.1.1.tar.gz",
+  "download_time": "2025-09-03T04:29:00.848796",
+  "package_url": "https://pypi.org/project/bookalimo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-hotel-housekeeping",
+  "version": "14.0.1.0.1.dev46",
+  "summary": "Manages Housekeeping Activities and its Process",
+  "author": "Odoo Community Association (OCA), Serpent Consulting Services Pvt. Ltd., Odoo S.A.",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/vertical-hotel",
+  "download_filename": "odoo14_addon_hotel_housekeeping-14.0.1.0.1.dev46-py3-none-any.whl",
+  "download_time": "2025-09-03T04:28:59.825706",
+  "package_url": "https://pypi.org/project/odoo14-addon-hotel-housekeeping/"
+}

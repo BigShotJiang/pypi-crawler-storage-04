@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hotel-reservation",
+  "version": "15.0.1.0.0.12",
+  "summary": "Manages Guest Reservation & displays Reservation Summary",
+  "author": "Odoo Community Association (OCA), Serpent Consulting Services Pvt. Ltd., Odoo S.A.",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/vertical-hotel",
+  "download_filename": "odoo_addon_hotel_reservation-15.0.1.0.0.12-py3-none-any.whl",
+  "download_time": "2025-09-03T04:28:58.778833",
+  "package_url": "https://pypi.org/project/odoo-addon-hotel-reservation/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyxcp",
-  "version": "0.23.8",
+  "version": "0.23.9",
   "summary": "Universal Calibration Protocol for Python",
   "author": "Christoph Schueler",
   "license": "LGPLv3",
   "home_page": null,
-  "download_filename": "pyxcp-0.23.8.tar.gz",
-  "download_time": "2025-09-02T05:22:37.514679",
+  "download_filename": "pyxcp-0.23.9.tar.gz",
+  "download_time": "2025-09-03T04:28:28.839854",
   "package_url": "https://pypi.org/project/pyxcp/"
 }
