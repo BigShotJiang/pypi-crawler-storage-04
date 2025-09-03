@@ -1,0 +1,11 @@
+{
+  "name": "kozhindev-clearml-wrapper",
+  "version": "0.0.2",
+  "summary": "Wrapper over clearml, developed by ML team of KozhinDev company",
+  "author": "YVoskanyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kozhindev_clearml_wrapper-0.0.2.tar.gz",
+  "download_time": "2025-09-03T05:20:37.912620",
+  "package_url": "https://pypi.org/project/kozhindev-clearml-wrapper/"
+}

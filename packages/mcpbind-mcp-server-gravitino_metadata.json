@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-server-gravitino",
+  "version": "3.316.26.1665",
+  "summary": "MCP Server Package: mcp-server-gravitino",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_server_gravitino-3.316.26.1665-py3-none-any.whl",
+  "download_time": "2025-09-03T05:20:46.688377",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-server-gravitino/"
+}
