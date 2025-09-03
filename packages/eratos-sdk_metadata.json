@@ -1,0 +1,11 @@
+{
+  "name": "eratos-sdk",
+  "version": "0.19.0",
+  "summary": "Python SDK for interacting with Eratos platform and services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eratos_sdk-0.19.0.tar.gz",
+  "download_time": "2025-09-03T23:54:28.254215",
+  "package_url": "https://pypi.org/project/eratos-sdk/"
+}
