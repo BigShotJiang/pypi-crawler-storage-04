@@ -1,0 +1,11 @@
+{
+  "name": "hitif-ops",
+  "version": "0.1.1",
+  "summary": "A Python package for OPS POP 2022 works",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/CBIIT/HiTIF-OPS-POP",
+  "download_filename": "hitif_ops-0.1.1.tar.gz",
+  "download_time": "2025-09-03T19:18:45.745587",
+  "package_url": "https://pypi.org/project/hitif-ops/"
+}

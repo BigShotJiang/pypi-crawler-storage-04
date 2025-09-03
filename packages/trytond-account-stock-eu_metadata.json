@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-stock-eu",
+  "version": "7.6.3",
+  "summary": "Tryton module for european stock accounting",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_stock_eu-7.6.3.tar.gz",
+  "download_time": "2025-09-03T19:18:57.683324",
+  "package_url": "https://pypi.org/project/trytond-account-stock-eu/"
+}
