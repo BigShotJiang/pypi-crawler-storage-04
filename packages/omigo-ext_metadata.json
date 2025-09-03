@@ -1,0 +1,11 @@
+{
+  "name": "omigo-ext",
+  "version": "0.9.2",
+  "summary": "Extensions for omigo_core package",
+  "author": "amit jaiswal",
+  "license": null,
+  "home_page": "https://github.com/CrowdStrike/omigo-data-analytics",
+  "download_filename": "omigo_ext-0.9.2.tar.gz",
+  "download_time": "2025-09-03T06:51:29.693330",
+  "package_url": "https://pypi.org/project/omigo-ext/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mdbq",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "summary": null,
   "author": "xigua, ",
   "license": "MIT",
   "home_page": "https://pypi.org/project/mdbq",
-  "download_filename": "mdbq-4.1.1.tar.gz",
-  "download_time": "2025-08-29T11:17:21.488300",
+  "download_filename": "mdbq-4.1.2.tar.gz",
+  "download_time": "2025-09-03T06:51:21.144776",
   "package_url": "https://pypi.org/project/mdbq/"
 }

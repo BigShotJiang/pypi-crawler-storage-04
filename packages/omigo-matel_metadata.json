@@ -1,0 +1,11 @@
+{
+  "name": "omigo-matel",
+  "version": "0.9.2",
+  "summary": "Data Analytics Library for Python",
+  "author": "amit jaiswal",
+  "license": null,
+  "home_page": "https://github.com/CrowdStrike/omigo-data-analytics",
+  "download_filename": "omigo_matel-0.9.2.tar.gz",
+  "download_time": "2025-09-03T06:51:26.558827",
+  "package_url": "https://pypi.org/project/omigo-matel/"
+}

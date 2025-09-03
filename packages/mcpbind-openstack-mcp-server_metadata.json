@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-openstack-mcp-server",
+  "version": "3.395.27.2984",
+  "summary": "MCP Server Package: openstack-mcp-server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_openstack_mcp_server-3.395.27.2984-py3-none-any.whl",
+  "download_time": "2025-09-03T06:51:31.345513",
+  "package_url": "https://pypi.org/project/mcpbind-openstack-mcp-server/"
+}

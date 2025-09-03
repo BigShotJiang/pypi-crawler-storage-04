@@ -1,0 +1,11 @@
+{
+  "name": "omigo-lokki",
+  "version": "0.9.2",
+  "summary": "Data Analytics Library for Python5",
+  "author": "amit jaiswal",
+  "license": null,
+  "home_page": "https://github.com/CrowdStrike/omigo-data-analytics",
+  "download_filename": "omigo_lokki-0.9.2.tar.gz",
+  "download_time": "2025-09-03T06:51:28.647166",
+  "package_url": "https://pypi.org/project/omigo-lokki/"
+}
