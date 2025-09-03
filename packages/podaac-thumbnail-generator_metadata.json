@@ -1,0 +1,11 @@
+{
+  "name": "podaac-thumbnail-generator",
+  "version": "0.14.0",
+  "summary": "Tool for Image Generation (TIG)",
+  "author": "podaac-tva",
+  "license": "Apache-2.0",
+  "home_page": "https://github.jpl.nasa.gov/podaac/tig",
+  "download_filename": "podaac_thumbnail_generator-0.14.0.tar.gz",
+  "download_time": "2025-09-03T18:31:25.715059",
+  "package_url": "https://pypi.org/project/podaac-thumbnail-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chatcompletionreq",
+  "version": "0.1.0",
+  "summary": "A simple library to wrap chat completion requests",
+  "author": "William Ambrosetti",
+  "license": null,
+  "home_page": "https://github.com/WiiLife/chatcompletionreq",
+  "download_filename": "chatcompletionreq-0.1.0.tar.gz",
+  "download_time": "2025-09-03T18:31:10.029667",
+  "package_url": "https://pypi.org/project/chatcompletionreq/"
+}

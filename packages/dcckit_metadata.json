@@ -1,0 +1,11 @@
+{
+  "name": "dcckit",
+  "version": "0.0.4",
+  "summary": "Description",
+  "author": "Bailey3D",
+  "license": "MIT",
+  "home_page": "https://github.com/Bailey3D/dcc-kit",
+  "download_filename": "dcckit-0.0.4.tar.gz",
+  "download_time": "2025-09-03T18:30:54.216212",
+  "package_url": "https://pypi.org/project/dcckit/"
+}

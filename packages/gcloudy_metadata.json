@@ -1,0 +1,11 @@
+{
+  "name": "gcloudy",
+  "version": "3.0.0",
+  "summary": "A more intuitive approach to using Google's existing Google Cloud Platform (GCP) framework of cloud services in Python",
+  "author": "tomathon",
+  "license": "GPL-3",
+  "home_page": "https://tomathon.dev/articles/gcloudy",
+  "download_filename": "gcloudy-3.0.0.tar.gz",
+  "download_time": "2025-09-03T18:31:31.004735",
+  "package_url": "https://pypi.org/project/gcloudy/"
+}
