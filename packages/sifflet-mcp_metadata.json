@@ -1,0 +1,11 @@
+{
+  "name": "sifflet-mcp",
+  "version": "0.1.6",
+  "summary": "MCP server for interaction with Sifflet data observability platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sifflet_mcp-0.1.6.tar.gz",
+  "download_time": "2025-09-03T10:44:43.132921",
+  "package_url": "https://pypi.org/project/sifflet-mcp/"
+}

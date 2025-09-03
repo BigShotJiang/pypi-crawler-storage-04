@@ -1,0 +1,11 @@
+{
+  "name": "hwo_sci_eng",
+  "version": "0.1.9",
+  "summary": "HWO Science Engineering Interface",
+  "author": "Breann Sitarski, NASA/GSFC, Jason Tumlinson, STScI",
+  "license": "CC",
+  "home_page": "https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface",
+  "download_filename": "hwo_sci_eng-0.1.9.tar.gz",
+  "download_time": "2025-09-03T10:44:36.228383",
+  "package_url": "https://pypi.org/project/hwo_sci_eng/"
+}

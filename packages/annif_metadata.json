@@ -1,0 +1,11 @@
+{
+  "name": "annif",
+  "version": "1.4.0",
+  "summary": "Automated subject indexing and classification tool",
+  "author": "National Library of Finland",
+  "license": "Apache-2.0",
+  "home_page": "https://annif.org",
+  "download_filename": "annif-1.4.0.tar.gz",
+  "download_time": "2025-09-03T10:44:26.006933",
+  "package_url": "https://pypi.org/project/annif/"
+}
