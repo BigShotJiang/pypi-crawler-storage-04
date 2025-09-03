@@ -1,0 +1,11 @@
+{
+  "name": "inventree-stock-forecasting",
+  "version": "0.4.0",
+  "summary": "Stock forecasting for InvenTree based on scheduled orders",
+  "author": "Oliver Walters",
+  "license": "MIT",
+  "home_page": "https://github.com/inventree/inventree-forecasting",
+  "download_filename": "inventree_stock_forecasting-0.4.0.tar.gz",
+  "download_time": "2025-09-03T04:45:42.596254",
+  "package_url": "https://pypi.org/project/inventree-stock-forecasting/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sshconfig_to_ananta",
+  "version": "2.1.1",
+  "summary": "Convert SSH config to Ananta hosts format (CSV or TOML)",
+  "author": "IceCodeNew, yzqzss",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sshconfig_to_ananta-2.1.1.tar.gz",
+  "download_time": "2025-09-03T04:45:37.296680",
+  "package_url": "https://pypi.org/project/sshconfig_to_ananta/"
+}

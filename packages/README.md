@@ -1,29 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T04:29:10.118284
-- **Total Packages**: 82
-- **Total Size**: 32.2 MB
+- **Download Time**: 2025-09-03T04:46:07.761892
+- **Total Packages**: 78
+- **Total Size**: 12.06 MB
 
 ## Packages List
-- letta-memory
-- BlazeCache
-- authentik-client
+- solarwindpy
+- model-compose
+- aiauto-client
+- commonmeta-py
+- pythonic-fp-booleans
+- yyinput
+- gemini-parallel
+- omniopt2
+- gtm-rosamii1
 - gh-comment-reader
-- pyxcp
-- mcp-server-weather-cuhksz
-- yugenkairo-sentinel-sdk
-- meta-learning-toolkit
-- mcpbind-mcp-ambari-api
+- anysecret-io
+- napistu
+- sleipnirgroup-jormungandr
+- klotho-cac
 - svc-infra
-- mw75-streamer
-- d-vecdb-server
-- wxautox-wechatbot
+- coex
+- embed-rerank
+- authentik-client
+- gpusnatcher
+- sshconfig_to_ananta
+- opendht
+- sinonym
+- promptdown
+- todo-agent
 - x-make-pip-updates-x
 - x-make-github-clones-x
 - x-make-pypi-x
 - x-make-persistent-env-var-x
 - x-make-markdown-x
+- inventree-stock-forecasting
+- sc-orchestrator
+- kipjak
+- aara
+- pysantec
+- pytest-scenario-files
+- mcpbind-excel-mcp-server
+- evo-sdk
+- evo-sdk-common
+- fastjson-db
+- letta-memory
+- BlazeCache
+- pyxcp
+- mcp-server-weather-cuhksz
+- yugenkairo-sentinel-sdk
+- meta-learning-toolkit
+- mcpbind-mcp-ambari-api
+- mw75-streamer
+- d-vecdb-server
+- wxautox-wechatbot
 - ai-lls-lib
 - rbx.cp
 - judgeval
@@ -36,10 +67,8 @@
 - fiftyone-devicedetection-cloud
 - smart-financial-mcp
 - tripp
-- napistu
 - runbooks
 - maleo-mixins
-- anysecret-io
 - snowflake-connector-python-nightly
 - langevaluate
 - juno-agent
@@ -48,7 +77,6 @@
 - frplib
 - investgo
 - fastnntpy
-- sinonym
 - maleo-logging
 - wayspiritmcp-weather
 - z8ter
@@ -56,35 +84,3 @@
 - pluk
 - flog-otlp
 - foamlib
-- chromedriver-binary
-- powerplan
-- numpy-quaddtype
-- shadowshell
-- sc-orchestrator
-- mcpbind-mcp-google-email
-- odoo-addon-report-hotel-reservation
-- maleo-constants
-- lingtaiAgent
-- odoo-addon-hotel-housekeeping
-- odoo-addon-hotel-reservation
-- odoo14-addon-hotel-reservation
-- odoo14-addon-hotel-housekeeping
-- odoo14-addon-report-hotel-reservation
-- bookalimo
-- nahiarhdNLP
-- odoo-addon-fs-attachment-s3
-- genome-circos
-- wojons-mcp-openvision
-- iflow-mcp_opencv-mcp-server
-- odoo-addon-stock-move-location-purchase-uom
-- multiclean
-- kaldi-native-fbank
-- solarwindpy
-- CubeRaspberryLib3
-- pythonic-fp-booleans
-- styly-netsync-server
-- pycalgo
-- odoo-addon-stock-barcodes
-- ragl
-- iflow-mcp_mcp-video-digest
-- odoo-addon-sign-oca
