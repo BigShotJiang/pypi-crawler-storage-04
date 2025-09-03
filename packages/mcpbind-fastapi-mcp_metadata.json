@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-fastapi-mcp",
+  "version": "3.350.21.1288",
+  "summary": "MCP Server Package: fastapi-mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_fastapi_mcp-3.350.21.1288-py3-none-any.whl",
+  "download_time": "2025-09-03T05:53:39.366698",
+  "package_url": "https://pypi.org/project/mcpbind-fastapi-mcp/"
+}
