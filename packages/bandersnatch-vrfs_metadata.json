@@ -1,0 +1,11 @@
+{
+  "name": "bandersnatch-vrfs",
+  "version": "0.5.0",
+  "summary": "Python Bandersnatch VRFs library utilizing the RUST ark-ec-vrfs cryptographic library",
+  "author": "JAMdot Technologies",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JAMdotTech/py-bandersnatch-vrfs",
+  "download_filename": "bandersnatch_vrfs-0.5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-03T11:54:57.194580",
+  "package_url": "https://pypi.org/project/bandersnatch-vrfs/"
+}

@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T11:41:21.082480
-- **Total Packages**: 83
-- **Total Size**: 29.19 MB
+- **Download Time**: 2025-09-03T11:55:38.743470
+- **Total Packages**: 82
+- **Total Size**: 22.06 MB
 
 ## Packages List
+- ledger2bql
+- ratio1
+- unitlab
+- databoost
+- parsernaam
+- pageextractor
+- happy-python-logging
+- pytest-b-logger
+- funcnodes-core
+- leprikon
+- freewili
+- authentik-client
+- brimfile
+- bandersnatch-vrfs
+- radar-data
+- ecv-data-access
+- orq-ai-sdk
+- authmint
+- geopack
+- toollib
+- dbt-redshift-tsw
+- alpss
+- holmesgpt
+- athlib
+- pyjess
+- PyPika-fork
+- django-cfg
+- cobweb-launcher
+- nemesis-eleos
+- pyfwfinder
+- nonebot-plugin-resolver2
+- spml2-mltools
+- emtest
+- docling
+- physical-spline
+- various-api-tools
+- AutoInspection
+- gs2
+- hyperquant
+- libinephany
+- berryworld
+- result-parser-agent
+- datachain
+- gs2-cdk
+- cloudnet-api-client
+- z-rad
+- inia
+- DeepFriedMarshmallow
 - crc-pulp-service-client
 - crc-pulp-file-client
 - crc-pulp-maven-client
@@ -16,12 +64,10 @@
 - crc-pulpcore-client
 - napalm-opengear-ng
 - gridfm-graphkit
-- authentik-client
 - wayspiritmcp-weather
 - compas-libigl
 - lightwheel-sdk
 - dbmini
-- holmesgpt
 - test-mcp-dongkoo
 - py-event-sourcing
 - nbforager
@@ -40,52 +86,5 @@
 - parabellum
 - netbox-ninja-plugin
 - idtrackerai
-- databoost
 - py-ed25519-zebra-bindings
 - torchx-nightly
-- gdsfactoryplus
-- gima
-- Encorsa-e-Factura
-- esiaccel
-- rcabench-platform
-- gc-jira-api
-- sportsball
-- libinephany
-- openalgo
-- gbdc
-- quark-engine
-- charmed-analytics-ci
-- funcnodes
-- aps-common-toolkit
-- coally-sql
-- reyworm
-- riaesc
-- annet
-- ics-wivi-analytics-ingest
-- gllm-inference-binary
-- archer-cli
-- FastQuat
-- codemie-sdk-python
-- hotpp-benchmark
-- naamkaran
-- verbatim-rag
-- daiedge-vlab
-- legit-api-client
-- aipyapp
-- agenta
-- valuascript-compiler
-- oci-cli
-- astro-provider-databricks
-- fast-mcp-telegram
-- smithery
-- berryworld
-- pyloch
-- tb-nightly
-- datasense-eda
-- nixt
-- backend.ai-test
-- backend.ai-storage-proxy
-- backend.ai-plugin
-- backend.ai-manager
-- backend.ai-logging
-- backend.ai-kernel-helper

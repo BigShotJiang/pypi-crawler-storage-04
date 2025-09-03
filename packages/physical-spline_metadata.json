@@ -1,0 +1,11 @@
+{
+  "name": "physical-spline",
+  "version": "0.1.0",
+  "summary": "Physical spline designer and evaluator",
+  "author": "Jonas Torzewski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physical_spline-0.1.0.tar.gz",
+  "download_time": "2025-09-03T11:55:10.034801",
+  "package_url": "https://pypi.org/project/physical-spline/"
+}

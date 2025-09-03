@@ -1,0 +1,11 @@
+{
+  "name": "geopack",
+  "version": "1.0.12",
+  "summary": "Python version of geopack and Tsyganenko models, compatible with geopack05 and geopack08",
+  "author": "Sheng Tian",
+  "license": "MIT",
+  "home_page": "https://github.com/tsssss/geopack",
+  "download_filename": "geopack-1.0.12.tar.gz",
+  "download_time": "2025-09-03T11:55:00.068668",
+  "package_url": "https://pypi.org/project/geopack/"
+}

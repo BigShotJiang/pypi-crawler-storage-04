@@ -1,0 +1,11 @@
+{
+  "name": "PyPika-fork",
+  "version": "0.51.0",
+  "summary": "A SQL query builder API for Python",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "pypika_fork-0.51.0.tar.gz",
+  "download_time": "2025-09-03T11:55:04.613464",
+  "package_url": "https://pypi.org/project/PyPika-fork/"
+}
