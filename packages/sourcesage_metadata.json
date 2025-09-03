@@ -1,11 +1,11 @@
 {
   "name": "sourcesage",
-  "version": "7.0.1",
+  "version": "7.1.0",
   "summary": "Repository analysis tool that generates AI-friendly documentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sourcesage-7.0.1.tar.gz",
-  "download_time": "2025-08-29T13:55:21.519862",
+  "download_filename": "sourcesage-7.1.0.tar.gz",
+  "download_time": "2025-09-03T14:22:56.227983",
   "package_url": "https://pypi.org/project/sourcesage/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "passive_equipment",
-  "version": "2.16.0",
+  "version": "3.0.0",
   "summary": "作为服务端的设备",
   "author": "WeiLiu",
   "license": null,
   "home_page": null,
-  "download_filename": "passive_equipment-2.16.0.tar.gz",
-  "download_time": "2025-08-29T03:55:01.646763",
+  "download_filename": "passive_equipment-3.0.0.tar.gz",
+  "download_time": "2025-09-03T14:22:42.926228",
   "package_url": "https://pypi.org/project/passive_equipment/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "osfexport",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A package for exporting projects from the Open Science Framework web app. Comes with a Command-line interface for exporting projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "osfexport-0.2.0.tar.gz",
-  "download_time": "2025-09-02T15:44:53.156650",
+  "download_filename": "osfexport-0.2.1.tar.gz",
+  "download_time": "2025-09-03T14:22:36.532902",
   "package_url": "https://pypi.org/project/osfexport/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pageextractor",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Use SAM2 to extract and warp a page from a photo.",
   "author": "Herbert Kruitbosch",
   "license": null,
   "home_page": null,
-  "download_filename": "pageextractor-0.1.0.tar.gz",
-  "download_time": "2025-09-03T11:54:52.170664",
+  "download_filename": "pageextractor-0.1.4.tar.gz",
+  "download_time": "2025-09-03T14:22:53.584555",
   "package_url": "https://pypi.org/project/pageextractor/"
 }

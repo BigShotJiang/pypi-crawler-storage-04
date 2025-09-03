@@ -1,0 +1,11 @@
+{
+  "name": "appcan-helper-mcp",
+  "version": "1.0.0",
+  "summary": "AppCan Helper MCP Server - 提供 AppCan 官方文档查询功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appcan_helper_mcp-1.0.0.tar.gz",
+  "download_time": "2025-09-03T14:22:51.464251",
+  "package_url": "https://pypi.org/project/appcan-helper-mcp/"
+}

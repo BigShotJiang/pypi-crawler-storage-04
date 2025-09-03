@@ -1,0 +1,11 @@
+{
+  "name": "django-epic",
+  "version": "0.6.9",
+  "summary": "A Django app to manage electronic parts inventories for PCB manufacturing.",
+  "author": "David Mosberger-Tang",
+  "license": "MIT License",
+  "home_page": "https://bitbucket.org/egauge/epic/",
+  "download_filename": "django_epic-0.6.9.tar.gz",
+  "download_time": "2025-09-03T14:22:28.039696",
+  "package_url": "https://pypi.org/project/django-epic/"
+}

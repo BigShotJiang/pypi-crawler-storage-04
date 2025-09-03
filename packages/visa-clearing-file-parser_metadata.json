@@ -1,0 +1,11 @@
+{
+  "name": "visa-clearing-file-parser",
+  "version": "0.0.1",
+  "summary": "A Python library for parsing Visa BASE II Clearing Transaction Files",
+  "author": "Peter Dev",
+  "license": "MIT",
+  "home_page": "https://github.com/makafanpeter/visa-clearing-file-parser",
+  "download_filename": "visa_clearing_file_parser-0.0.1.tar.gz",
+  "download_time": "2025-09-03T14:22:19.970409",
+  "package_url": "https://pypi.org/project/visa-clearing-file-parser/"
+}

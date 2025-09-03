@@ -1,0 +1,11 @@
+{
+  "name": "dissect.etl",
+  "version": "3.12",
+  "summary": "A Dissect module implementing a parser for Event Trace Log (ETL) files, used by the Windows operating system to log kernel events",
+  "author": null,
+  "license": "Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "dissect_etl-3.12.tar.gz",
+  "download_time": "2025-09-03T14:22:15.173572",
+  "package_url": "https://pypi.org/project/dissect.etl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "composapy",
+  "version": "0.13.3",
+  "summary": "ComposableAnalytics csharp binding for python",
+  "author": "Composable",
+  "license": null,
+  "home_page": "https://github.com/ComposableAnalytics/Composapy",
+  "download_filename": "composapy-0.13.3-py3-none-any.whl",
+  "download_time": "2025-09-03T14:22:43.455695",
+  "package_url": "https://pypi.org/project/composapy/"
+}
