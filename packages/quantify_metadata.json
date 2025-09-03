@@ -1,0 +1,11 @@
+{
+  "name": "quantify",
+  "version": "0.0.5",
+  "summary": "A framework for controlling quantum computing and solid-state physics experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantify-0.0.5.tar.gz",
+  "download_time": "2025-09-03T01:29:16.275083",
+  "package_url": "https://pypi.org/project/quantify/"
+}

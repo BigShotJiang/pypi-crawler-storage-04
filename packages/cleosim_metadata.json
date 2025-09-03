@@ -1,0 +1,11 @@
+{
+  "name": "cleosim",
+  "version": "0.18.2",
+  "summary": "Cleo: the Closed-Loop, Electrophysiology, and Optophysiology experiment simulation testbed",
+  "author": "Kyle Johnsen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cleosim-0.18.2.tar.gz",
+  "download_time": "2025-09-03T01:29:12.483224",
+  "package_url": "https://pypi.org/project/cleosim/"
+}

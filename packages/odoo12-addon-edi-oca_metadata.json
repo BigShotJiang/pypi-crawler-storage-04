@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-edi-oca",
+  "version": "12.0.1.23.1",
+  "summary": "Define backends, exchange types, exchange records, basic automation and views for handling EDI exchanges.",
+  "author": "ACSONE,Creu Blanca,Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo12_addon_edi_oca-12.0.1.23.1-py3-none-any.whl",
+  "download_time": "2025-09-03T01:29:07.015675",
+  "package_url": "https://pypi.org/project/odoo12-addon-edi-oca/"
+}

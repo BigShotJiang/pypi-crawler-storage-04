@@ -1,0 +1,11 @@
+{
+  "name": "synth-spectra",
+  "version": "1.0.0",
+  "summary": "A package to generate synthetic spectra for testing purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synth_spectra-1.0.0.tar.gz",
+  "download_time": "2025-09-03T01:29:13.011122",
+  "package_url": "https://pypi.org/project/synth-spectra/"
+}

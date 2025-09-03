@@ -1,0 +1,11 @@
+{
+  "name": "ss-sqlahandler",
+  "version": "0.0.21",
+  "summary": "Thin wrapper for sqlalchemy core with support for Pandas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ss_sqlahandler-0.0.21.tar.gz",
+  "download_time": "2025-09-03T01:29:04.858182",
+  "package_url": "https://pypi.org/project/ss-sqlahandler/"
+}
