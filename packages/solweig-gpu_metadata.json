@@ -1,0 +1,11 @@
+{
+  "name": "solweig-gpu",
+  "version": "1.2.15",
+  "summary": "GPU-accelerated SOLWEIG model for urban thermal comfort simulation",
+  "author": "Harsh Kamath, Naveen Sudharsan",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/nvnsudharsan/SOLWEIG-GPU",
+  "download_filename": "solweig_gpu-1.2.15.tar.gz",
+  "download_time": "2025-09-03T21:20:18.498897",
+  "package_url": "https://pypi.org/project/solweig-gpu/"
+}

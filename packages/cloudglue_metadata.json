@@ -1,11 +1,11 @@
 {
   "name": "cloudglue",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Python SDK for Cloudglue API",
   "author": null,
   "license": "Elastic License 2.0",
   "home_page": null,
-  "download_filename": "cloudglue-0.1.8.tar.gz",
-  "download_time": "2025-09-02T23:40:21.128892",
+  "download_filename": "cloudglue-0.1.9.tar.gz",
+  "download_time": "2025-09-03T21:20:29.346587",
   "package_url": "https://pypi.org/project/cloudglue/"
 }

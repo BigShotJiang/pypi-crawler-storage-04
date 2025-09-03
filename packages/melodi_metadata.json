@@ -1,0 +1,11 @@
+{
+  "name": "melodi",
+  "version": "0.1.37",
+  "summary": "Helper functions for Melodi",
+  "author": "Melodi Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "melodi-0.1.37.tar.gz",
+  "download_time": "2025-09-03T21:20:32.990790",
+  "package_url": "https://pypi.org/project/melodi/"
+}

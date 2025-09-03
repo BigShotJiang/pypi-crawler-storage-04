@@ -1,11 +1,11 @@
 {
   "name": "harambot",
-  "version": "0.5.2",
+  "version": "0.5.2.post2",
   "summary": "A Yahoo Fantasy Sports bot for Discord",
   "author": "DMcP89",
   "license": "MIT",
   "home_page": "http://harambot.io",
-  "download_filename": "harambot-0.5.2.tar.gz",
-  "download_time": "2025-09-03T20:43:54.237287",
+  "download_filename": "harambot-0.5.2.post2.tar.gz",
+  "download_time": "2025-09-03T21:20:08.141554",
   "package_url": "https://pypi.org/project/harambot/"
 }

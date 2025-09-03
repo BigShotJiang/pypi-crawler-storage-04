@@ -1,11 +1,11 @@
 {
   "name": "tol-sdk",
-  "version": "1.6.27",
+  "version": "1.6.28",
   "summary": "SDK for interaction with ToL, Sanger and external services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tol_sdk-1.6.27.tar.gz",
-  "download_time": "2025-09-03T13:59:13.148859",
+  "download_filename": "tol_sdk-1.6.28.tar.gz",
+  "download_time": "2025-09-03T21:20:17.968451",
   "package_url": "https://pypi.org/project/tol-sdk/"
 }

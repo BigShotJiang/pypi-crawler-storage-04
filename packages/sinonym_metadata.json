@@ -1,11 +1,11 @@
 {
   "name": "sinonym",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Chinese Name Detection and Normalization Module",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sinonym-0.1.6.tar.gz",
-  "download_time": "2025-09-03T07:22:03.995019",
+  "download_filename": "sinonym-0.1.7.tar.gz",
+  "download_time": "2025-09-03T21:20:32.476875",
   "package_url": "https://pypi.org/project/sinonym/"
 }

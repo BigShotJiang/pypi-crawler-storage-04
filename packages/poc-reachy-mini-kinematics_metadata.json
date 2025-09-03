@@ -1,11 +1,11 @@
 {
   "name": "poc-reachy-mini-kinematics",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Reachy mini kinematics library (POC)",
   "author": null,
   "license": null,
   "home_page": "https://github.com/gregwar/reachy_mini_kinematics",
-  "download_filename": "poc_reachy_mini_kinematics-0.0.3.tar.gz",
-  "download_time": "2025-09-03T20:54:19.201626",
+  "download_filename": "poc_reachy_mini_kinematics-0.0.4.tar.gz",
+  "download_time": "2025-09-03T21:20:30.377423",
   "package_url": "https://pypi.org/project/poc-reachy-mini-kinematics/"
 }

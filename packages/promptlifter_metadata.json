@@ -1,0 +1,11 @@
+{
+  "name": "promptlifter",
+  "version": "0.4.0",
+  "summary": "LLM-powered conversation interface with intelligent context management, real-time search integration, and seamless conversation flow",
+  "author": "PromptLifter Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Thinkata/promptlifter",
+  "download_filename": "promptlifter-0.4.0.tar.gz",
+  "download_time": "2025-09-03T21:20:24.151880",
+  "package_url": "https://pypi.org/project/promptlifter/"
+}
