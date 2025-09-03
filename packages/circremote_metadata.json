@@ -1,11 +1,11 @@
 {
   "name": "circremote",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "A command-line tool for uploading and running code on CircuitPython devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "circremote-0.11.0.tar.gz",
-  "download_time": "2025-09-03T17:42:30.993363",
+  "download_filename": "circremote-0.12.0.tar.gz",
+  "download_time": "2025-09-03T17:54:28.255099",
   "package_url": "https://pypi.org/project/circremote/"
 }

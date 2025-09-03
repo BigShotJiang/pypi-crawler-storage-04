@@ -1,11 +1,11 @@
 {
   "name": "gemini-mcp",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "MCP server for Gemini AI image processing - 基于 Gemini 2.5 Flash 的图片处理 MCP 服务",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemini_mcp-0.2.3.tar.gz",
-  "download_time": "2025-09-03T07:22:18.617001",
+  "download_filename": "gemini_mcp-0.2.4.tar.gz",
+  "download_time": "2025-09-03T17:54:24.548454",
   "package_url": "https://pypi.org/project/gemini-mcp/"
 }

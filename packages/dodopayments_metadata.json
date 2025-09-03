@@ -1,11 +1,11 @@
 {
   "name": "dodopayments",
-  "version": "1.51.1",
+  "version": "1.52.4",
   "summary": "The official Python library for the Dodo Payments API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dodopayments-1.51.1.tar.gz",
-  "download_time": "2025-08-31T16:44:33.021004",
+  "download_filename": "dodopayments-1.52.4.tar.gz",
+  "download_time": "2025-09-03T17:54:33.512463",
   "package_url": "https://pypi.org/project/dodopayments/"
 }
