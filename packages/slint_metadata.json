@@ -1,0 +1,11 @@
+{
+  "name": "slint",
+  "version": "1.13.0b1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://slint.dev",
+  "download_filename": "slint-1.13.0b1.tar.gz",
+  "download_time": "2025-09-03T14:56:28.304656",
+  "package_url": "https://pypi.org/project/slint/"
+}

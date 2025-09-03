@@ -1,0 +1,11 @@
+{
+  "name": "sklearndf",
+  "version": "2.4.2",
+  "summary": "Data frame support and feature traceability for `scikit-learn`.",
+  "author": "Boston Consulting Group (BCG)",
+  "license": "Apache Software License v2.0",
+  "home_page": "https://github.com/BCG-X-Official/sklearndf",
+  "download_filename": "sklearndf-2.4.2.tar.gz",
+  "download_time": "2025-09-03T14:56:20.341656",
+  "package_url": "https://pypi.org/project/sklearndf/"
+}

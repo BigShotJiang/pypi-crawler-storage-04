@@ -1,0 +1,11 @@
+{
+  "name": "nayzakishere",
+  "version": "0.1.3",
+  "summary": "مكتبة لتحميل وتشغيل ملف exe من رابط",
+  "author": "اسمك",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nayzakishere-0.1.3.tar.gz",
+  "download_time": "2025-09-03T14:56:09.838198",
+  "package_url": "https://pypi.org/project/nayzakishere/"
+}

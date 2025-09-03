@@ -1,0 +1,11 @@
+{
+  "name": "learning-pypi-demo-nisimi",
+  "version": "0.1.1",
+  "summary": "Educational Python package to demonstrate PyPI publishing process",
+  "author": "nisimi",
+  "license": "MIT",
+  "home_page": "https://github.com/nisimi/learning-pypi-demo-nisimi",
+  "download_filename": "learning_pypi_demo_nisimi-0.1.1.tar.gz",
+  "download_time": "2025-09-03T14:56:19.292645",
+  "package_url": "https://pypi.org/project/learning-pypi-demo-nisimi/"
+}

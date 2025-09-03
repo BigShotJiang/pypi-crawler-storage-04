@@ -1,0 +1,11 @@
+{
+  "name": "cblind",
+  "version": "2.3.2",
+  "summary": "Colorblind friendly colormaps and color cycles for matplotlib",
+  "author": "G. Wafflard-Fernandez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cblind-2.3.2.tar.gz",
+  "download_time": "2025-09-03T14:56:30.375105",
+  "package_url": "https://pypi.org/project/cblind/"
+}

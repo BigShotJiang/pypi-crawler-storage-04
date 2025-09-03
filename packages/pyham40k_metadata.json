@@ -1,11 +1,11 @@
 {
   "name": "pyham40k",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "pyham40k (pyham) - to overanalyze your Warhammer 40k 10e gameplay",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyham40k-1.0.0.tar.gz",
-  "download_time": "2025-09-03T13:18:10.992236",
+  "download_filename": "pyham40k-1.1.0.tar.gz",
+  "download_time": "2025-09-03T14:56:15.634364",
   "package_url": "https://pypi.org/project/pyham40k/"
 }

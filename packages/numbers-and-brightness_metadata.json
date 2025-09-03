@@ -1,0 +1,11 @@
+{
+  "name": "numbers-and-brightness",
+  "version": "0.1.13",
+  "summary": "Numbers and brightness analysis for microscopic image analysis implemented in python.",
+  "author": "KJ van Beem",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "numbers_and_brightness-0.1.13.tar.gz",
+  "download_time": "2025-09-03T14:56:27.210531",
+  "package_url": "https://pypi.org/project/numbers-and-brightness/"
+}

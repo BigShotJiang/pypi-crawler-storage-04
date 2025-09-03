@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T14:45:16.855105
-- **Total Packages**: 88
-- **Total Size**: 55.01 MB
+- **Download Time**: 2025-09-03T14:56:53.421874
+- **Total Packages**: 86
+- **Total Size**: 11.15 MB
 
 ## Packages List
+- lastmile
+- scc-firewall-manager-sdk
+- chain-of-thought-tool
+- anthropic
+- mcpevals
+- nayzakishere
+- yta-video-opengl
+- tortitle
+- svc-from-callable
+- ms-toollib
+- fmscraper
+- svc-infra
+- fastcs
+- triton-shared
+- openubmc-bingo
+- pykeedy
+- pyham40k
+- unitlab
+- azurefunctions-extensions-bindings-blob
+- authentik-client
+- osdental-library
+- briefcasex-slint
+- tox
+- learning-pypi-demo-nisimi
+- rxnn
+- sklearndf
+- cg
+- physical-spline
+- certbot-dns-active24
+- claude-cto
+- ethiopian-date-converter-py
+- slint-compiler
+- clear-skies-doc-builder
+- mouse-tracking
+- yh-password
+- django-bs
+- lasso.reports
+- eflips-model
+- numbers-and-brightness
+- Dosepy
+- slint
+- pypi-simple
+- arklex
+- cblind
+- cams-ncp-client
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - taranis-models
@@ -36,7 +81,6 @@
 - authmint
 - graphreduce
 - revoxx
-- authentik-client
 - chutes
 - tuya-strip
 - mc-lab-edu
@@ -48,49 +92,3 @@
 - Encryptors
 - datacontract-helper
 - gatlens-opinionated-template
-- pydropsonde
-- cams-ncp-client
-- xgt
-- tox
-- TRI-LBM
-- nasdaq-public-api
-- openstarlab-preprocessing
-- django-outbox-pattern
-- cribl-control-plane
-- svc-infra
-- paddleformers
-- uv
-- uv-build
-- nsj-integracao-api-client
-- traderbacktesteroptalpha
-- newrelic-lambda-cli
-- otpme
-- py-adaptive
-- qtuidoctools
-- pyproforma
-- scCellFie
-- telethon-up
-- CiscoAutomationFramework
-- markdown-query
-- libretificacaotjcore
-- polars-cloud
-- standardbots
-- dissect.etl
-- intelinair-utils
-- konfuzio-sdk
-- pysdmx
-- dissect.fve
-- dissect.vmfs
-- dissect.executable
-- sbcli-rj
-- pixelle
-- taegis-sdk-python
-- pycalgo
-- pharmpy-core
-- pulumi-upcloud
-- pageextractor
-- ratiopath
-- aicostmanager
-- bidsschematools
-- trgenpy
-- Whispey

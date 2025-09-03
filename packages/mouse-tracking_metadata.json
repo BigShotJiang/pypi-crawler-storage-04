@@ -1,0 +1,11 @@
+{
+  "name": "mouse-tracking",
+  "version": "0.1.1",
+  "summary": "Runtime environment for mouse tracking experiments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mouse_tracking-0.1.1.tar.gz",
+  "download_time": "2025-09-03T14:56:24.601322",
+  "package_url": "https://pypi.org/project/mouse-tracking/"
+}

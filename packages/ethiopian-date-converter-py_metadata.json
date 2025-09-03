@@ -1,0 +1,11 @@
+{
+  "name": "ethiopian-date-converter-py",
+  "version": "1.0.0",
+  "summary": "Ethiopian calendar date conversion for Python",
+  "author": "Abiy",
+  "license": "MIT",
+  "home_page": "https://github.com/abiywondimu5758/ethiopian-date-converter",
+  "download_filename": "ethiopian_date_converter_py-1.0.0.tar.gz",
+  "download_time": "2025-09-03T14:56:23.017546",
+  "package_url": "https://pypi.org/project/ethiopian-date-converter-py/"
+}
