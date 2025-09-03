@@ -1,0 +1,11 @@
+{
+  "name": "pynqutils-git",
+  "version": "0.1.1",
+  "summary": "Utilities for PYNQ",
+  "author": "pynq",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/Xilinx/PYNQ-Utils",
+  "download_filename": "pynqutils_git-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-03T12:43:28.839621",
+  "package_url": "https://pypi.org/project/pynqutils-git/"
+}

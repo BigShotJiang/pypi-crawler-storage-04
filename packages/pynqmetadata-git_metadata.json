@@ -1,0 +1,11 @@
+{
+  "name": "pynqmetadata-git",
+  "version": "0.1.8",
+  "summary": "Extensible, Modular, Metadata layer for PYNQ projects",
+  "author": "Pynq",
+  "license": "BSD 3-Clause",
+  "home_page": "http://github.com/Xilinx/PYNQ-Metadata",
+  "download_filename": "pynqmetadata_git-0.1.8-py3-none-any.whl",
+  "download_time": "2025-09-03T12:43:34.673685",
+  "package_url": "https://pypi.org/project/pynqmetadata-git/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pingera-sdk",
+  "version": "1.0.5",
+  "summary": "Python SDK for the Pingera monitoring platform API",
+  "author": "Pingera Team",
+  "license": "MIT",
+  "home_page": "https://github.com/pingera/pingera-sdk",
+  "download_filename": "pingera_sdk-1.0.5.tar.gz",
+  "download_time": "2025-09-03T12:43:22.577709",
+  "package_url": "https://pypi.org/project/pingera-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "forensic-cli",
-  "version": "1.2.7",
+  "version": "1.2.11",
   "summary": "DevKit Forense - CLI para análise de navegadores e rede",
-  "author": "Erick Gabriel dos Santos Alves",
+  "author": "Erick Gabriel",
   "license": "MIT",
   "home_page": "https://github.com/ErickG123/devkit_forense",
-  "download_filename": "forensic_cli-1.2.7.tar.gz",
-  "download_time": "2025-09-02T18:49:38.172483",
+  "download_filename": "forensic_cli-1.2.11.tar.gz",
+  "download_time": "2025-09-03T12:43:54.517551",
   "package_url": "https://pypi.org/project/forensic-cli/"
 }

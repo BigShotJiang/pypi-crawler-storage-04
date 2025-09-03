@@ -1,0 +1,11 @@
+{
+  "name": "hummingbot_lbank",
+  "version": "1.0.0",
+  "summary": null,
+  "author": "Hummingbot Foundation",
+  "license": null,
+  "home_page": "https://github.com/hummingbot/hummingbot",
+  "download_filename": "hummingbot_lbank-1.0.0.tar.gz",
+  "download_time": "2025-09-03T12:43:57.661108",
+  "package_url": "https://pypi.org/project/hummingbot_lbank/"
+}

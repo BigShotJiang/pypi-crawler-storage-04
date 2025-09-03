@@ -1,11 +1,11 @@
 {
   "name": "openhexa.sdk",
-  "version": "2.10.0",
+  "version": "2.11.0",
   "summary": "OpenHEXA SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openhexa_sdk-2.10.0.tar.gz",
-  "download_time": "2025-09-03T06:31:28.445007",
+  "download_filename": "openhexa_sdk-2.11.0.tar.gz",
+  "download_time": "2025-09-03T12:43:49.823600",
   "package_url": "https://pypi.org/project/openhexa.sdk/"
 }

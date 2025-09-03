@@ -1,11 +1,11 @@
 {
   "name": "functai",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "DSPy-powered function decorators for AI-enhanced programming",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "functai-0.10.0.tar.gz",
-  "download_time": "2025-09-02T23:53:29.590809",
+  "download_filename": "functai-0.11.0.tar.gz",
+  "download_time": "2025-09-03T12:43:23.096953",
   "package_url": "https://pypi.org/project/functai/"
 }

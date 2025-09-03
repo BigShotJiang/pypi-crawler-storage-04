@@ -1,11 +1,11 @@
 {
   "name": "trancit",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "summary": "TranCIT: Transient Causal Interaction Toolbox.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trancit-1.0.10.tar.gz",
-  "download_time": "2025-08-30T10:19:23.628236",
+  "download_filename": "trancit-1.0.12.tar.gz",
+  "download_time": "2025-09-03T12:43:53.478046",
   "package_url": "https://pypi.org/project/trancit/"
 }

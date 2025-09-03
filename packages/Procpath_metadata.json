@@ -1,0 +1,11 @@
+{
+  "name": "Procpath",
+  "version": "1.14.0",
+  "summary": "Procpath is a process tree analysis workbench",
+  "author": "saaj",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://heptapod.host/saajns/procpath",
+  "download_filename": "procpath-1.14.0.tar.gz",
+  "download_time": "2025-09-03T12:43:41.477628",
+  "package_url": "https://pypi.org/project/Procpath/"
+}

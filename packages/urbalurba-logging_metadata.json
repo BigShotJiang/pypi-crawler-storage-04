@@ -1,11 +1,11 @@
 {
   "name": "urbalurba-logging",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Professional structured logging library following 'Loggeloven av 2025' requirements",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "urbalurba_logging-1.0.5.tar.gz",
-  "download_time": "2025-09-03T07:22:10.004524",
+  "download_filename": "urbalurba_logging-1.0.6.tar.gz",
+  "download_time": "2025-09-03T12:43:48.252604",
   "package_url": "https://pypi.org/project/urbalurba-logging/"
 }

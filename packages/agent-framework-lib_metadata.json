@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-lib",
+  "version": "0.1.8",
+  "summary": "A comprehensive Python framework for building and serving conversational AI agents with FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_framework_lib-0.1.8.tar.gz",
+  "download_time": "2025-09-03T12:43:48.773625",
+  "package_url": "https://pypi.org/project/agent-framework-lib/"
+}

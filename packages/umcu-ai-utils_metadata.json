@@ -1,0 +1,11 @@
+{
+  "name": "umcu-ai-utils",
+  "version": "0.2.4",
+  "summary": "Utility functions used by multiple AI projects at the UMCU",
+  "author": "AI for Health",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umcu_ai_utils-0.2.4.tar.gz",
+  "download_time": "2025-09-03T12:43:43.557612",
+  "package_url": "https://pypi.org/project/umcu-ai-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pkdevtools",
-  "version": "0.13.20250902.287",
+  "version": "0.13.20250903.290",
   "summary": "A general day-to-day toolset for PKScreener repos",
   "author": "pkjmesra",
   "license": "OSI Approved (MIT)",
   "home_page": "https://github.com/pkjmesra/PKDevTools",
-  "download_filename": "pkdevtools-0.13.20250902.287.tar.gz",
-  "download_time": "2025-09-02T18:50:06.931298",
+  "download_filename": "pkdevtools-0.13.20250903.290.tar.gz",
+  "download_time": "2025-09-03T12:43:26.222974",
   "package_url": "https://pypi.org/project/pkdevtools/"
 }

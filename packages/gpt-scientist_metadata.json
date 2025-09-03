@@ -1,0 +1,11 @@
+{
+  "name": "gpt-scientist",
+  "version": "0.1.22",
+  "summary": "A library for processing textual datasets with large language models.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "gpt_scientist-0.1.22.tar.gz",
+  "download_time": "2025-09-03T12:43:43.039147",
+  "package_url": "https://pypi.org/project/gpt-scientist/"
+}
