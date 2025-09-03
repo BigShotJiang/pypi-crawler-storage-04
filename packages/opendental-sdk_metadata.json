@@ -1,0 +1,11 @@
+{
+  "name": "opendental-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Open Dental API - Integration tested with real API, 42 resources, full type safety",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opendental_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-03T23:40:31.721767",
+  "package_url": "https://pypi.org/project/opendental-sdk/"
+}

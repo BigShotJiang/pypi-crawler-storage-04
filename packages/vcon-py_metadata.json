@@ -1,11 +1,11 @@
 {
   "name": "vcon-py",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python wheels and a wrapper for Vcontacts, a tool to compute surface areas in contact using the constrained Voronoi procedure.",
   "author": "Thomas DesCôteaux",
   "license": null,
   "home_page": null,
-  "download_filename": "vcon_py-1.0.1.tar.gz",
-  "download_time": "2025-09-03T22:54:12.382579",
+  "download_filename": "vcon_py-1.0.2.tar.gz",
+  "download_time": "2025-09-03T23:40:50.252067",
   "package_url": "https://pypi.org/project/vcon-py/"
 }
