@@ -1,0 +1,11 @@
+{
+  "name": "stackit-intake",
+  "version": "0.1.1",
+  "summary": "STACKIT Intake API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_intake-0.1.1.tar.gz",
+  "download_time": "2025-09-03T05:42:24.144399",
+  "package_url": "https://pypi.org/project/stackit-intake/"
+}

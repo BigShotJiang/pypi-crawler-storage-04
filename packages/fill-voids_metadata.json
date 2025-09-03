@@ -1,0 +1,11 @@
+{
+  "name": "fill-voids",
+  "version": "2.1.1",
+  "summary": "Fill voids in 3D binary images fast.",
+  "author": "William Silversmith",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/seung-lab/fill_voids/",
+  "download_filename": "fill_voids-2.1.1.tar.gz",
+  "download_time": "2025-09-03T05:42:22.610710",
+  "package_url": "https://pypi.org/project/fill-voids/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-shell",
+  "version": "3.332.19.1054",
+  "summary": "MCP Server Package: mcp-shell",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_shell-3.332.19.1054-py3-none-any.whl",
+  "download_time": "2025-09-03T05:42:17.428061",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-shell/"
+}
