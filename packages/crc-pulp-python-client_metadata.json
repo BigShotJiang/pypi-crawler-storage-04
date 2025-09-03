@@ -1,11 +1,11 @@
 {
   "name": "crc-pulp-python-client",
-  "version": "20250903.1",
+  "version": "20250903.2",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPLv2+",
   "home_page": null,
-  "download_filename": "crc_pulp_python_client-20250903.1.tar.gz",
-  "download_time": "2025-09-03T11:55:21.811804",
+  "download_filename": "crc_pulp_python_client-20250903.2.tar.gz",
+  "download_time": "2025-09-03T13:18:48.249573",
   "package_url": "https://pypi.org/project/crc-pulp-python-client/"
 }

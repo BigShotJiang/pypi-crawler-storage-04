@@ -1,11 +1,11 @@
 {
   "name": "clear-skies-doc-builder",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "The docbuilder for all 'official' clearskies plugins (as well as the main clearskies docs)",
-  "author": "Conor Mancone",
-  "license": "MIT",
-  "home_page": "https://github.com/clearskies-py/docs",
-  "download_filename": "clear_skies_doc_builder-2.0.0.tar.gz",
-  "download_time": "2025-08-31T11:53:04.644784",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clear_skies_doc_builder-2.0.1.tar.gz",
+  "download_time": "2025-09-03T13:18:40.820753",
   "package_url": "https://pypi.org/project/clear-skies-doc-builder/"
 }

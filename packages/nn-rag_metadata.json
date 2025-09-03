@@ -1,0 +1,11 @@
+{
+  "name": "nn-rag",
+  "version": "1.0.3",
+  "summary": "Neural Retrieval-Augmented Generation for GitHub code blocks",
+  "author": "ABrain One and contributors",
+  "license": null,
+  "home_page": "https://github.com/ABrain-One/nn-rag",
+  "download_filename": "nn_rag-1.0.3.tar.gz",
+  "download_time": "2025-09-03T13:18:36.082163",
+  "package_url": "https://pypi.org/project/nn-rag/"
+}

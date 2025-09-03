@@ -1,0 +1,11 @@
+{
+  "name": "treetag",
+  "version": "0.1.0",
+  "summary": "Hierarchical cell-type tagging with YAML ontologies and markers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "treetag-0.1.0.tar.gz",
+  "download_time": "2025-09-03T13:18:37.637829",
+  "package_url": "https://pypi.org/project/treetag/"
+}

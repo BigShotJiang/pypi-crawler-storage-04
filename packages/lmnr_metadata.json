@@ -1,11 +1,11 @@
 {
   "name": "lmnr",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "Python SDK for Laminar",
   "author": "lmnr.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "lmnr-0.7.9.tar.gz",
-  "download_time": "2025-08-28T16:27:23.080282",
+  "download_filename": "lmnr-0.7.10.tar.gz",
+  "download_time": "2025-09-03T13:18:19.956911",
   "package_url": "https://pypi.org/project/lmnr/"
 }

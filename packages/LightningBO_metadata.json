@@ -1,11 +1,11 @@
 {
   "name": "LightningBO",
-  "version": "0.1.0",
-  "summary": "Bayesian optimization library",
+  "version": "0.1.1",
+  "summary": "LightningBO: JAXベースの高速ベイジアン最適化ライブラリ。ハイパーパラメータ探索やマーケティング最適化に最適。EI/PI/UCB/LCB獲得関数、ガウス過程、JIT高速化、メモリ効率設計。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightningbo-0.1.0.tar.gz",
-  "download_time": "2025-09-03T12:43:51.914183",
+  "download_filename": "lightningbo-0.1.1.tar.gz",
+  "download_time": "2025-09-03T13:18:43.485877",
   "package_url": "https://pypi.org/project/LightningBO/"
 }
