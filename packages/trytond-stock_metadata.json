@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock",
+  "version": "7.6.3",
+  "summary": "Tryton module for stock and inventory",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock-7.6.3.tar.gz",
+  "download_time": "2025-09-03T18:51:02.667250",
+  "package_url": "https://pypi.org/project/trytond-stock/"
+}

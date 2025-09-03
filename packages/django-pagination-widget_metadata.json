@@ -1,0 +1,11 @@
+{
+  "name": "django-pagination-widget",
+  "version": "0.1.1",
+  "summary": "A reusable Django pagination component with modern, clean styling and interactive JavaScript behavior",
+  "author": "Priyesh Shukla",
+  "license": null,
+  "home_page": "https://github.com/priyesh-04/django-pagination-widget",
+  "download_filename": "django_pagination_widget-0.1.1.tar.gz",
+  "download_time": "2025-09-03T18:50:51.431693",
+  "package_url": "https://pypi.org/project/django-pagination-widget/"
+}
