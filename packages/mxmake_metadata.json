@@ -1,0 +1,11 @@
+{
+  "name": "mxmake",
+  "version": "1.3.0",
+  "summary": "Generates a Python project-specific Makefile by using an extensible library of configurable Makefile snippets.",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "mxmake-1.3.0.tar.gz",
+  "download_time": "2025-09-03T13:59:11.990218",
+  "package_url": "https://pypi.org/project/mxmake/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fmugym",
+  "version": "0.2.0",
+  "summary": "Interface to connect Reinforcement Learning libraries to Functional Mock-up Units for control under uncertainties",
+  "author": "Konstantin Wrede",
+  "license": "MIT",
+  "home_page": "https://github.com/Fraunhofer-IIS/fmugym",
+  "download_filename": "fmugym-0.2.0.tar.gz",
+  "download_time": "2025-09-03T13:59:00.285759",
+  "package_url": "https://pypi.org/project/fmugym/"
+}

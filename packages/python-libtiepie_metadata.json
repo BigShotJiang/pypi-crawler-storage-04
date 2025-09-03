@@ -1,0 +1,11 @@
+{
+  "name": "python-libtiepie",
+  "version": "1.4.0",
+  "summary": "Python bindings for LibTiePie",
+  "author": "TiePie engineering",
+  "license": "MIT",
+  "home_page": "https://www.tiepie.com/libtiepie-hw-sdk/python",
+  "download_filename": "python_libtiepie-1.4.0-py3-none-any.whl",
+  "download_time": "2025-09-03T13:58:58.172910",
+  "package_url": "https://pypi.org/project/python-libtiepie/"
+}

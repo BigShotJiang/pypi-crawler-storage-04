@@ -1,0 +1,11 @@
+{
+  "name": "twopilabs-sense-scpidevice",
+  "version": "0.1.3",
+  "summary": "Base package for 2pi-Labs SENSE SCPI devices",
+  "author": "2pi-Labs GmbH",
+  "license": "LGPLv3",
+  "home_page": "https://www.2pi-labs.com",
+  "download_filename": "twopilabs_sense_scpidevice-0.1.3.tar.gz",
+  "download_time": "2025-09-03T13:58:33.669981",
+  "package_url": "https://pypi.org/project/twopilabs-sense-scpidevice/"
+}

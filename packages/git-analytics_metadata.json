@@ -1,11 +1,11 @@
 {
   "name": "git-analytics",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Advanced analytics for Git repositories — commits, authors, code churn, lines of code, trends, and visual dashboards.",
   "author": "n0rfas",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "git_analytics-0.1.9.tar.gz",
-  "download_time": "2025-09-01T16:57:46.035393",
+  "home_page": "https://git-analytics.com",
+  "download_filename": "git_analytics-0.1.10.tar.gz",
+  "download_time": "2025-09-03T13:59:12.568444",
   "package_url": "https://pypi.org/project/git-analytics/"
 }

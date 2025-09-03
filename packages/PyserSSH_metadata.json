@@ -1,0 +1,11 @@
+{
+  "name": "PyserSSH",
+  "version": "5.3",
+  "summary": "python scriptable ssh server library. based on Paramiko",
+  "author": "DPSoftware Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/damp11113/PyserSSH",
+  "download_filename": "pyserssh-5.3.tar.gz",
+  "download_time": "2025-09-03T13:58:37.853896",
+  "package_url": "https://pypi.org/project/PyserSSH/"
+}
