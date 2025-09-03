@@ -1,11 +1,11 @@
 {
   "name": "batchalign",
-  "version": "0.7.21.post2",
+  "version": "0.7.21.post3",
   "summary": "Python Speech Language Sample Analysis",
   "author": "Brian MacWhinney, Houjun Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "batchalign-0.7.21.post2.tar.gz",
-  "download_time": "2025-09-02T22:19:20.975016",
+  "download_filename": "batchalign-0.7.21.post3.tar.gz",
+  "download_time": "2025-09-03T13:45:50.069431",
   "package_url": "https://pypi.org/project/batchalign/"
 }

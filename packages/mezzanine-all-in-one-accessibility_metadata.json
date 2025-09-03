@@ -1,0 +1,11 @@
+{
+  "name": "mezzanine-all-in-one-accessibility",
+  "version": "1.0.1",
+  "summary": "Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!",
+  "author": "Skynet Technologies USA LLC",
+  "license": null,
+  "home_page": "https://www.skynettechnologies.com",
+  "download_filename": "mezzanine_all_in_one_accessibility-1.0.1.tar.gz",
+  "download_time": "2025-09-03T13:46:20.327972",
+  "package_url": "https://pypi.org/project/mezzanine-all-in-one-accessibility/"
+}

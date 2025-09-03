@@ -1,0 +1,11 @@
+{
+  "name": "soupx-python",
+  "version": "0.3.0",
+  "summary": "Python implementation of SoupX for removing ambient RNA contamination from droplet-based single-cell RNA sequencing data",
+  "author": null,
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "soupx_python-0.3.0.tar.gz",
+  "download_time": "2025-09-03T13:45:46.936696",
+  "package_url": "https://pypi.org/project/soupx-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roblox-speed-api",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Fast, asyncio-friendly Roblox Web API client with retries and caching",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "roblox_speed_api-0.1.0.tar.gz",
-  "download_time": "2025-09-02T18:29:46.986921",
+  "download_filename": "roblox_speed_api-0.2.1.tar.gz",
+  "download_time": "2025-09-03T13:45:47.455232",
   "package_url": "https://pypi.org/project/roblox-speed-api/"
 }

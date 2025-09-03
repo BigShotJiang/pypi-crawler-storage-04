@@ -1,0 +1,11 @@
+{
+  "name": "SchemGenerator",
+  "version": "1.0.6",
+  "summary": "A Package for creating minecraft schematics",
+  "author": "Torb",
+  "license": null,
+  "home_page": "https://github.com/TorbTorb/SchemGenerator",
+  "download_filename": "schemgenerator-1.0.6-py3-none-any.whl",
+  "download_time": "2025-09-03T13:46:19.807119",
+  "package_url": "https://pypi.org/project/SchemGenerator/"
+}

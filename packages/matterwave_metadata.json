@@ -1,0 +1,11 @@
+{
+  "name": "matterwave",
+  "version": "0.5.1",
+  "summary": "A library for matter wave propagation built on top of fftarray.",
+  "author": "Stefan Seckmeyer, Gabriel Müller, Christian Struckmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matterwave-0.5.1.tar.gz",
+  "download_time": "2025-09-03T13:46:23.964933",
+  "package_url": "https://pypi.org/project/matterwave/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opensr-model",
+  "version": "1.0.3",
+  "summary": "ESA OpenSR Diffusion model package for Super-Resolution of Senintel-2 Imagery",
+  "author": "Simon Donike, Cesar Aybar, Luis Gomez Chova, Freddie Kalaitzis",
+  "license": "MIT",
+  "home_page": "https://opensr.eu",
+  "download_filename": "opensr_model-1.0.3.tar.gz",
+  "download_time": "2025-09-03T13:46:01.573209",
+  "package_url": "https://pypi.org/project/opensr-model/"
+}

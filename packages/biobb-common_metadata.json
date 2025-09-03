@@ -1,0 +1,11 @@
+{
+  "name": "biobb-common",
+  "version": "5.1.1",
+  "summary": "Biobb_common is the base package required to use the biobb packages.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_common",
+  "download_filename": "biobb_common-5.1.1.tar.gz",
+  "download_time": "2025-09-03T13:45:55.800391",
+  "package_url": "https://pypi.org/project/biobb-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "twopilabs-sense-x1000",
+  "version": "0.7.12",
+  "summary": "Official 2πSENSE X1000 series hardware control library",
+  "author": "2pi-Labs GmbH",
+  "license": "LGPLv3",
+  "home_page": "https://www.2pi-labs.com",
+  "download_filename": "twopilabs_sense_x1000-0.7.12.tar.gz",
+  "download_time": "2025-09-03T13:45:43.263401",
+  "package_url": "https://pypi.org/project/twopilabs-sense-x1000/"
+}

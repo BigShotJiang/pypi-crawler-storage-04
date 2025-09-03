@@ -1,0 +1,11 @@
+{
+  "name": "SUN-DIC",
+  "version": "0.0.21",
+  "summary": "Stellenbosch University Digital Image Correlation Library",
+  "author": "Gerhard Venter",
+  "license": "MIT License",
+  "home_page": "https://github.com/gventer/SUN-DIC",
+  "download_filename": "sun_dic-0.0.21.tar.gz",
+  "download_time": "2025-09-03T13:45:42.736862",
+  "package_url": "https://pypi.org/project/SUN-DIC/"
+}

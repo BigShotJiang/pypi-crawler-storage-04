@@ -1,0 +1,11 @@
+{
+  "name": "cliptext-st",
+  "version": "0.1.1",
+  "summary": "Small Python module for clipboard text utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cliptext_st-0.1.1.tar.gz",
+  "download_time": "2025-09-03T13:45:40.096697",
+  "package_url": "https://pypi.org/project/cliptext-st/"
+}
