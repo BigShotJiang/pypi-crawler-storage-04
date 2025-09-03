@@ -1,11 +1,11 @@
 {
   "name": "api-canvas-lms",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Una biblioteca de Python para Canvas LMS",
   "author": "Jaime Gomez",
   "license": null,
   "home_page": "https://github.com/jgomezz/api_canvas_lms",
-  "download_filename": "api_canvas_lms-0.1.17.tar.gz",
-  "download_time": "2025-09-01T04:05:42.468313",
+  "download_filename": "api_canvas_lms-0.1.18.tar.gz",
+  "download_time": "2025-09-03T20:54:24.213357",
   "package_url": "https://pypi.org/project/api-canvas-lms/"
 }
