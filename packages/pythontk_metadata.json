@@ -1,11 +1,11 @@
 {
   "name": "pythontk",
-  "version": "0.7.29",
+  "version": "0.7.30",
   "summary": "*A collection of Python utility functions for file operations, text processing, and basic image/video manipulation. Provides helper classes and convenience functions for common programming tasks.*",
   "author": "Ryan Simpson",
   "license": null,
   "home_page": "https://github.com/m3trik/pythontk",
-  "download_filename": "pythontk-0.7.29.tar.gz",
-  "download_time": "2025-09-02T14:57:49.297336",
+  "download_filename": "pythontk-0.7.30.tar.gz",
+  "download_time": "2025-09-03T22:54:23.215298",
   "package_url": "https://pypi.org/project/pythontk/"
 }

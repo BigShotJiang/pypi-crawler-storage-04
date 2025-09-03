@@ -1,11 +1,11 @@
 {
   "name": "tgpy",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "summary": "Run Python code right in your Telegram messages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgpy-0.19.0.tar.gz",
-  "download_time": "2025-09-03T22:42:06.025255",
+  "download_filename": "tgpy-0.19.1.tar.gz",
+  "download_time": "2025-09-03T22:54:46.445068",
   "package_url": "https://pypi.org/project/tgpy/"
 }

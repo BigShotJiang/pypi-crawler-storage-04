@@ -1,11 +1,11 @@
 {
   "name": "uitk",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "summary": null,
   "author": "Ryan Simpson",
   "license": "LGPLv3",
   "home_page": "https://github.com/m3trik/uitk",
-  "download_filename": "uitk-1.0.30.tar.gz",
-  "download_time": "2025-09-02T14:57:41.003741",
+  "download_filename": "uitk-1.0.31.tar.gz",
+  "download_time": "2025-09-03T22:54:21.145073",
   "package_url": "https://pypi.org/project/uitk/"
 }
