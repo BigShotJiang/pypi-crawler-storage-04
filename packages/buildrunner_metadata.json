@@ -1,0 +1,11 @@
+{
+  "name": "buildrunner",
+  "version": "3.16.1185",
+  "summary": "Docker-based build tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "buildrunner-3.16.1185.tar.gz",
+  "download_time": "2025-09-03T16:29:15.148390",
+  "package_url": "https://pypi.org/project/buildrunner/"
+}

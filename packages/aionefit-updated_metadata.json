@@ -1,0 +1,11 @@
+{
+  "name": "aionefit-updated",
+  "version": "0.16",
+  "summary": "asyncio library for Bosch thermostats",
+  "author": "Martijn de Geus",
+  "license": "MIT",
+  "home_page": "https://github.com/spoetnik/aionefit",
+  "download_filename": "aionefit_updated-0.16.tar.gz",
+  "download_time": "2025-09-03T16:29:34.000098",
+  "package_url": "https://pypi.org/project/aionefit-updated/"
+}

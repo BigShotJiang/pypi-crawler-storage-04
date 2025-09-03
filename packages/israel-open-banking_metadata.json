@@ -1,11 +1,11 @@
 {
   "name": "israel-open-banking",
-  "version": "0.3.17",
+  "version": "0.3.19",
   "summary": "Open-source SDK for Israeli Open Banking APIs",
   "author": "Shavve",
   "license": "MIT",
   "home_page": "https://github.com/shavve/open-banking",
-  "download_filename": "israel_open_banking-0.3.17.tar.gz",
-  "download_time": "2025-09-03T15:55:07.955680",
+  "download_filename": "israel_open_banking-0.3.19.tar.gz",
+  "download_time": "2025-09-03T16:29:42.076145",
   "package_url": "https://pypi.org/project/israel-open-banking/"
 }

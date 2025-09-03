@@ -1,0 +1,11 @@
+{
+  "name": "dedalus",
+  "version": "3.0.4",
+  "summary": "A flexible framework for solving PDEs with modern spectral methods.",
+  "author": "Keaton J. Burns",
+  "license": "GPL3",
+  "home_page": "http://dedalus-project.org",
+  "download_filename": "dedalus-3.0.4.tar.gz",
+  "download_time": "2025-09-03T16:29:12.841431",
+  "package_url": "https://pypi.org/project/dedalus/"
+}

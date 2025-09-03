@@ -1,0 +1,11 @@
+{
+  "name": "data-processing-utils",
+  "version": "0.1.8",
+  "summary": "A collection of awesome utility tools for Python developers",
+  "author": "alex-smith",
+  "license": "MIT",
+  "home_page": "https://github.com/alex-smith/data-processing-utils",
+  "download_filename": "data_processing_utils-0.1.8.tar.gz",
+  "download_time": "2025-09-03T16:29:03.514532",
+  "package_url": "https://pypi.org/project/data-processing-utils/"
+}

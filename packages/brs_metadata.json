@@ -1,0 +1,11 @@
+{
+  "name": "brs",
+  "version": "1.0.0",
+  "summary": "A python module for reading/creating/writing .brs files for Brickadia.",
+  "author": "TorbTorb",
+  "license": null,
+  "home_page": "https://github.com/TorbTorb/brs",
+  "download_filename": "brs-1.0.0.tar.gz",
+  "download_time": "2025-09-03T16:28:53.162555",
+  "package_url": "https://pypi.org/project/brs/"
+}
