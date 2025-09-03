@@ -1,11 +1,11 @@
 {
   "name": "inductive-logic-programming",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "FOIL and Progol algorithms for learning logical rules from examples",
   "author": null,
   "license": "Custom Non-Commercial License with Donation Requirements",
   "home_page": null,
-  "download_filename": "inductive_logic_programming-1.2.0.tar.gz",
-  "download_time": "2025-09-02T07:25:52.966351",
+  "download_filename": "inductive_logic_programming-1.2.1.tar.gz",
+  "download_time": "2025-09-03T09:24:22.888007",
   "package_url": "https://pypi.org/project/inductive-logic-programming/"
 }

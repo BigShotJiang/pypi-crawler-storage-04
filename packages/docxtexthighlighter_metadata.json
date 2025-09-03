@@ -1,0 +1,11 @@
+{
+  "name": "docxtexthighlighter",
+  "version": "1.0.0",
+  "summary": "A package that helps to highlight words in your docx file, and generate a new docx file with the highlighted words.",
+  "author": "mq",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docxtexthighlighter-1.0.0.tar.gz",
+  "download_time": "2025-09-03T09:24:39.639117",
+  "package_url": "https://pypi.org/project/docxtexthighlighter/"
+}

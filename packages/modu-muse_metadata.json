@@ -1,0 +1,11 @@
+{
+  "name": "modu-muse",
+  "version": "0.1.1",
+  "summary": "Modular multimodal pipeline for vision-to-LLM integration",
+  "author": "Wissem Elkarous",
+  "license": null,
+  "home_page": "https://github.com/ELkarousWissem/ModuMuse",
+  "download_filename": "modu_muse-0.1.1.tar.gz",
+  "download_time": "2025-09-03T09:23:50.901638",
+  "package_url": "https://pypi.org/project/modu-muse/"
+}

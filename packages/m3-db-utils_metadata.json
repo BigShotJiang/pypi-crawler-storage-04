@@ -1,11 +1,11 @@
 {
   "name": "m3-db-utils",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Utils for working with database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m3_db_utils-0.7.0.tar.gz",
-  "download_time": "2025-08-29T10:54:09.699296",
+  "download_filename": "m3_db_utils-0.7.1.tar.gz",
+  "download_time": "2025-09-03T09:24:28.301259",
   "package_url": "https://pypi.org/project/m3-db-utils/"
 }

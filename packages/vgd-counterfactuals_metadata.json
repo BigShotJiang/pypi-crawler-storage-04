@@ -1,0 +1,11 @@
+{
+  "name": "vgd-counterfactuals",
+  "version": "0.3.13",
+  "summary": "Counterfactual explanations for GNNs based on the visual graph dataset format",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "vgd_counterfactuals-0.3.13.tar.gz",
+  "download_time": "2025-09-03T09:24:20.592567",
+  "package_url": "https://pypi.org/project/vgd-counterfactuals/"
+}

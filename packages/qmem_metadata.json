@@ -1,11 +1,11 @@
 {
   "name": "qmem",
-  "version": "0.0.4",
-  "summary": "Qdrant wrapper for simple ingestion & retrieval with pluggable embeddings",
+  "version": "0.0.6",
+  "summary": "memory library for seamless data ingestion, storage, and retrieval with customizable embedding models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qmem-0.0.4.tar.gz",
-  "download_time": "2025-09-02T06:33:51.822031",
+  "download_filename": "qmem-0.0.6.tar.gz",
+  "download_time": "2025-09-03T09:24:08.874952",
   "package_url": "https://pypi.org/project/qmem/"
 }

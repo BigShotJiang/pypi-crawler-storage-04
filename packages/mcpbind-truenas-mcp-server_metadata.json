@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-truenas-mcp-server",
+  "version": "3.560.18.2221",
+  "summary": "MCP Server Package: truenas-mcp-server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_truenas_mcp_server-3.560.18.2221-py3-none-any.whl",
+  "download_time": "2025-09-03T09:23:55.088100",
+  "package_url": "https://pypi.org/project/mcpbind-truenas-mcp-server/"
+}

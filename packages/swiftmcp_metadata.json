@@ -1,0 +1,11 @@
+{
+  "name": "swiftmcp",
+  "version": "0.0.1",
+  "summary": "multimoda MCP framework",
+  "author": "Yaqiang Sun",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/yaqiangsun/SwiftMCP",
+  "download_filename": "swiftmcp-0.0.1.tar.gz",
+  "download_time": "2025-09-03T09:24:15.389980",
+  "package_url": "https://pypi.org/project/swiftmcp/"
+}
