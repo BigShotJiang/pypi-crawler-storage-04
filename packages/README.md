@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T07:41:10.478086
-- **Total Packages**: 80
-- **Total Size**: 12.35 MB
+- **Download Time**: 2025-09-03T07:55:24.809256
+- **Total Packages**: 79
+- **Total Size**: 15.74 MB
 
 ## Packages List
+- cloxz
+- ssb-dash-framework
+- sup-lang
+- pkbrokers
+- tablestore
+- parsley-coco
+- behave-html-pretty-formatter
+- mcpbind-mxcp
+- pulumiverse-scaleway
+- mcpbind-youtrack-mcp
+- authentik-client
+- sovant
+- core-system-grpc
+- robot_descriptions
+- acdh-wikidata-pyutils
+- py-rattler-build
+- teams-alerter
+- claude-mpm
+- markdown-pdf
+- pancham
+- pygar-client
+- BoschMiniRpa
+- jaf-py
+- graphql_http
+- tripo3d
+- cpm-toolbox
+- PyJSH
+- datasetplus
+- hexdoc-lessertp
+- repopi
+- mmgp
+- uapg
+- deepseekr
+- hope-flex-fields
+- mcpbind-random-number-mcp
+- maleo-schemas
+- jacksung
+- Brotli-Ng
+- mcpbind-bitable-mcp
+- aidlc-mcp-tools
 - CubeRaspberryLib3
 - plua
 - timestrader-preprocessing
@@ -19,8 +59,6 @@
 - fdc-shared-kernel
 - ananta
 - expdata-libsvm
-- authentik-client
-- aidlc-mcp-tools
 - pypne
 - mcpbind-fpl-mcp
 - aalgorithm
@@ -31,7 +69,6 @@
 - Ryzenth
 - maleo-mixins
 - coex
-- uapg
 - dsp-tools
 - worth-calculator-mcp
 - codex-as-mcp
@@ -45,44 +82,6 @@
 - ragaai-catalyst
 - stepcount
 - gdsfactoryplus
-- core-system-grpc
 - gisweb-tenants
 - ecma426
 - dycw-pre-commit-hooks
-- ament-ruff
-- repopi
-- km3det
-- ebau-gwr
-- atlas-init
-- legit-api-client
-- papyru
-- mkdocs-excalidraw
-- tamar-file-hub-client
-- codeclinic
-- onedl-mmpretrain
-- odoo-addon-product-supplierinfo-for-customer
-- troubadix
-- mcpbind-cockroachdb-mcp-server
-- cli-base-utilities
-- reykit
-- articom-sdk
-- prune-lib
-- odoo-addon-product-multi-company
-- runbooks
-- tisit-keycloak-adapter
-- oqtopus
-- ant-ray-cpp-nightly
-- braindecode
-- dsipts
-- tmdbone
-- squawk-cli
-- programming-game
-- smithery
-- pacli-tool
-- securecrypto-bridge
-- onnxscript
-- pointr-cloud-common
-- mlflow-pri
-- david-aws-util
-- fred-oss
-- WebtoonScraper
