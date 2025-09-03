@@ -1,11 +1,11 @@
 {
   "name": "maleo-exceptions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Exceptions package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_exceptions-0.0.2.tar.gz",
-  "download_time": "2025-09-03T08:29:29.347931",
+  "download_filename": "maleo_exceptions-0.0.3.tar.gz",
+  "download_time": "2025-09-03T09:54:25.324039",
   "package_url": "https://pypi.org/project/maleo-exceptions/"
 }

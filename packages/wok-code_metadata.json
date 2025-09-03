@@ -1,0 +1,11 @@
+{
+  "name": "wok-code",
+  "version": "2.0.23",
+  "summary": "Python developers tools",
+  "author": "Antonio Maria Vigliotti",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/zeroincombenze/tools",
+  "download_filename": "wok_code-2.0.23.tar.gz",
+  "download_time": "2025-09-03T09:54:13.911493",
+  "package_url": "https://pypi.org/project/wok-code/"
+}

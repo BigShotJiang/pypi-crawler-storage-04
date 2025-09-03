@@ -1,0 +1,11 @@
+{
+  "name": "hilbert-quantization",
+  "version": "1.3.0",
+  "summary": "Ultra-fast similarity search with Hilbert curve quantization and MPEG-AI compression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hilbert_quantization-1.3.0.tar.gz",
+  "download_time": "2025-09-03T09:54:02.982053",
+  "package_url": "https://pypi.org/project/hilbert-quantization/"
+}

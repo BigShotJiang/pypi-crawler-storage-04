@@ -1,0 +1,11 @@
+{
+  "name": "ifdef",
+  "version": "0.1.3",
+  "summary": "A ifdef/else/endif macro preprocessor for standalone python scripts and importable modules",
+  "author": "py552",
+  "license": "ASL",
+  "home_page": "https://github.com/py552/ifdef/",
+  "download_filename": "ifdef-0.1.3.tar.gz",
+  "download_time": "2025-09-03T09:54:09.740197",
+  "package_url": "https://pypi.org/project/ifdef/"
+}

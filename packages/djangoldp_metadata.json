@@ -1,11 +1,11 @@
 {
   "name": "djangoldp",
-  "version": "4.0.7",
+  "version": "4.0.8",
   "summary": "Linked Data Platform interface for Django Rest Framework",
   "author": "Startin'blox",
   "license": "MIT",
   "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp/",
-  "download_filename": "djangoldp-4.0.7.tar.gz",
-  "download_time": "2025-09-02T17:04:51.141710",
+  "download_filename": "djangoldp-4.0.8.tar.gz",
+  "download_time": "2025-09-03T09:54:07.666101",
   "package_url": "https://pypi.org/project/djangoldp/"
 }

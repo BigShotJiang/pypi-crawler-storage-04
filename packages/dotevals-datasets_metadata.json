@@ -1,0 +1,11 @@
+{
+  "name": "dotevals-datasets",
+  "version": "0.8.0",
+  "summary": "Standard datasets for dotevals LLM evaluations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotevals_datasets-0.8.0.tar.gz",
+  "download_time": "2025-09-03T09:54:20.667517",
+  "package_url": "https://pypi.org/project/dotevals-datasets/"
+}

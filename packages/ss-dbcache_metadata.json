@@ -1,11 +1,11 @@
 {
   "name": "ss-dbcache",
-  "version": "0.0.26",
+  "version": "0.0.30",
   "summary": "Cache Manger: cache compressed, serialised database tables as longblob in database cache table ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ss_dbcache-0.0.26.tar.gz",
-  "download_time": "2025-09-03T09:42:10.730131",
+  "download_filename": "ss_dbcache-0.0.30.tar.gz",
+  "download_time": "2025-09-03T09:54:11.335504",
   "package_url": "https://pypi.org/project/ss-dbcache/"
 }
