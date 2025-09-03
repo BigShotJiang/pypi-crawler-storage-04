@@ -1,0 +1,11 @@
+{
+  "name": "py-bip39-bindings",
+  "version": "0.3.0",
+  "summary": "Python bindings for tiny-bip39 RUST crate",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/polkascan/py-bip39-bindings",
+  "download_filename": "py_bip39_bindings-0.3.0.tar.gz",
+  "download_time": "2025-09-03T11:40:44.555806",
+  "package_url": "https://pypi.org/project/py-bip39-bindings/"
+}
