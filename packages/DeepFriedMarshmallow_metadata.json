@@ -1,11 +1,11 @@
 {
   "name": "DeepFriedMarshmallow",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A plug-and-play JIT implementation for Marshmallow to speed up data serialization and deserialization",
   "author": "Maciej Wilczynski",
   "license": "Apache-2.0",
   "home_page": "https://github.com/mLupine/DeepFriedMarshmallow",
-  "download_filename": "deepfriedmarshmallow-1.1.1.tar.gz",
-  "download_time": "2025-09-03T11:55:17.788680",
+  "download_filename": "deepfriedmarshmallow-1.1.2.tar.gz",
+  "download_time": "2025-09-03T19:54:54.268747",
   "package_url": "https://pypi.org/project/DeepFriedMarshmallow/"
 }

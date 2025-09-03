@@ -1,0 +1,11 @@
+{
+  "name": "autotuning_methodology",
+  "version": "1.1.0",
+  "summary": "Software package easing implementation of the guidelines of the 2024 paper 'A Methodology for Comparing Auto-Tuning Optimization Algorithms' (https://doi.org/10.1016/j.future.2024.05.021). The DOI of this software is https://doi.org/10.5281/zenodo.11243974.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autotuning_methodology-1.1.0.tar.gz",
+  "download_time": "2025-09-03T19:54:59.322679",
+  "package_url": "https://pypi.org/project/autotuning_methodology/"
+}

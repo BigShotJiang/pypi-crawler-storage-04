@@ -1,11 +1,11 @@
 {
   "name": "dbt-redshift-tsw",
-  "version": "1.9.5a1",
+  "version": "1.9.5a2",
   "summary": "The Redshift adapter plugin for dbt (fork with SSO authentication support)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_redshift_tsw-1.9.5a1.tar.gz",
-  "download_time": "2025-09-03T19:40:45.979091",
+  "download_filename": "dbt_redshift_tsw-1.9.5a2.tar.gz",
+  "download_time": "2025-09-03T19:54:21.742512",
   "package_url": "https://pypi.org/project/dbt-redshift-tsw/"
 }

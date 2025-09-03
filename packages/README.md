@@ -1,23 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T19:41:17.460331
-- **Total Packages**: 82
-- **Total Size**: 32.61 MB
+- **Download Time**: 2025-09-03T19:55:00.872508
+- **Total Packages**: 84
+- **Total Size**: 9.32 MB
 
 ## Packages List
-- sbt-zapp
-- firecrawl
-- firecrawl-py
-- bombcell
-- django-docrootcms
-- repo-to-llm-context
-- maleo-logging
-- claude-cto
-- vivi-analytics-library
-- sphinx-terminal
-- modal
-- behave-parallel-runners
 - eventometrics
 - dbt-databricks
 - a1facts
@@ -67,6 +55,7 @@
 - anynet
 - txttoqti
 - magnuslib
+- claude-cto
 - universal-mcp-outlook
 - exospherehost
 - sourcemeta-jsonschema
@@ -88,3 +77,16 @@
 - isos
 - sapiens-transformers
 - gammarers.aws-daily-cloud-watch-logs-archive-stack
+- fsai-proto-specs
+- DeepFriedMarshmallow
+- faststripe
+- bigframes
+- genr
+- arize-phoenix
+- pytest-infrahouse
+- cuplegend
+- pumpe
+- malevich-coretools
+- autotuning_methodology
+- assemblyline-core
+- sampley
