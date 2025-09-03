@@ -1,0 +1,11 @@
+{
+  "name": "whit-phys-util",
+  "version": "1.1.0",
+  "summary": "Tools to support use of Google Colab + GitHub Classroom for physics lab instruction",
+  "author": "John Larkin",
+  "license": null,
+  "home_page": "https://github.com/JohnMLarkin/Colab-for-Physics-Lab-Tools",
+  "download_filename": "whit-phys-util-1.1.0.tar.gz",
+  "download_time": "2025-09-03T16:48:29.950308",
+  "package_url": "https://pypi.org/project/whit-phys-util/"
+}

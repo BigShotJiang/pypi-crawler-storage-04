@@ -1,0 +1,11 @@
+{
+  "name": "pyDEXPI",
+  "version": "1.1.0",
+  "summary": "Package containing the DEXPI data model in Python and a parser to load Proteus .xml data to the data model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydexpi-1.1.0.tar.gz",
+  "download_time": "2025-09-03T16:49:03.976276",
+  "package_url": "https://pypi.org/project/pyDEXPI/"
+}

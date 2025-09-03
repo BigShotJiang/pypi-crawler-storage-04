@@ -1,11 +1,11 @@
 {
   "name": "unitlab",
-  "version": "2.3.23",
+  "version": "2.3.26",
   "summary": null,
   "author": "Unitlab Inc.",
   "license": "MIT",
   "home_page": "https://github.com/teamunitlab/unitlab-sdk",
-  "download_filename": "unitlab-2.3.23.tar.gz",
-  "download_time": "2025-09-03T16:29:14.572772",
+  "download_filename": "unitlab-2.3.26.tar.gz",
+  "download_time": "2025-09-03T16:48:42.468891",
   "package_url": "https://pypi.org/project/unitlab/"
 }

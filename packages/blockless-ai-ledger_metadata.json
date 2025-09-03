@@ -1,11 +1,11 @@
 {
   "name": "blockless-ai-ledger",
-  "version": "0.1.5",
-  "summary": "Distributed AI-validated ledger system - Blockless blockchain with AI consensus",
+  "version": "1.0.0",
+  "summary": "🌍 Global AI-powered blockchain - Join the worldwide decentralized network instantly",
   "author": "Nethara Labs",
   "license": null,
   "home_page": "https://github.com/netharalabs/blockless",
-  "download_filename": "blockless_ai_ledger-0.1.5.tar.gz",
-  "download_time": "2025-09-03T13:46:24.482830",
+  "download_filename": "blockless_ai_ledger-1.0.0.tar.gz",
+  "download_time": "2025-09-03T16:49:04.505472",
   "package_url": "https://pypi.org/project/blockless-ai-ledger/"
 }

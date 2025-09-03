@@ -1,11 +1,11 @@
 {
   "name": "legacy-cobol-modernization",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "A Python implementation of a COBOL accounting system with Golden Master testing",
   "author": "Your Name",
   "license": "MIT",
-  "home_page": "https://github.com/mballot/modernize-legacy-cobol-app",
-  "download_filename": "legacy_cobol_modernization-1.0.0.tar.gz",
-  "download_time": "2025-09-03T16:28:54.938250",
+  "home_page": "https://github.com/math974/modernize-legacy-cobol-app",
+  "download_filename": "legacy_cobol_modernization-1.0.4.tar.gz",
+  "download_time": "2025-09-03T16:48:35.421250",
   "package_url": "https://pypi.org/project/legacy-cobol-modernization/"
 }

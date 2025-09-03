@@ -1,0 +1,11 @@
+{
+  "name": "maboss",
+  "version": "0.8.12",
+  "summary": "A python and jupyter API for the MaBoSS software",
+  "author": "Vincent Noël, Loic Paulevé, Aurelien Naldi and Nicolas Levy",
+  "license": null,
+  "home_page": "https://maboss.curie.fr",
+  "download_filename": "maboss-0.8.12.tar.gz",
+  "download_time": "2025-09-03T16:48:43.016365",
+  "package_url": "https://pypi.org/project/maboss/"
+}

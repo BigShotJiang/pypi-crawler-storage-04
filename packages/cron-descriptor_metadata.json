@@ -1,0 +1,11 @@
+{
+  "name": "cron-descriptor",
+  "version": "2.0.6",
+  "summary": "A Python library that converts cron expressions into human readable strings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cron_descriptor-2.0.6.tar.gz",
+  "download_time": "2025-09-03T16:48:53.939782",
+  "package_url": "https://pypi.org/project/cron-descriptor/"
+}

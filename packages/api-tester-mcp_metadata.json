@@ -1,11 +1,11 @@
 {
   "name": "api-tester-mcp",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "summary": "MCP server for API testing with Swagger/OpenAPI and Postman collection support",
   "author": "API Tester MCP",
   "license": "MIT",
   "home_page": "https://github.com/kirti676/api_tester_mcp",
-  "download_filename": "api_tester_mcp-1.0.1.tar.gz",
-  "download_time": "2025-09-03T15:43:41.286927",
+  "download_filename": "api_tester_mcp-1.0.6.tar.gz",
+  "download_time": "2025-09-03T16:48:40.290671",
   "package_url": "https://pypi.org/project/api-tester-mcp/"
 }

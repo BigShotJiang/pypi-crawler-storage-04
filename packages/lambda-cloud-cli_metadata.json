@@ -1,0 +1,11 @@
+{
+  "name": "lambda-cloud-cli",
+  "version": "0.1.35",
+  "summary": "CLI tool for managing Lambda Cloud resources",
+  "author": "Taylor Gautreaux",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/lambda-cloud-cli",
+  "download_filename": "lambda_cloud_cli-0.1.35.tar.gz",
+  "download_time": "2025-09-03T16:48:28.890314",
+  "package_url": "https://pypi.org/project/lambda-cloud-cli/"
+}
