@@ -1,0 +1,11 @@
+{
+  "name": "cellworld-npx",
+  "version": "0.0.6",
+  "summary": "Dombeck/MacIver labs neuroethology analysis package - combined cellworld behavior and neuropixels recordings",
+  "author": "Chris Angeloni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cellworld_npx-0.0.6.tar.gz",
+  "download_time": "2025-09-03T21:53:57.465580",
+  "package_url": "https://pypi.org/project/cellworld-npx/"
+}

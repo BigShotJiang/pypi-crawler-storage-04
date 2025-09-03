@@ -1,11 +1,11 @@
 {
   "name": "agent-os-cli",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "summary": "Modern Python CLI for AgentOS - Streamlined AI-assisted development environment management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_os_cli-1.4.8.tar.gz",
-  "download_time": "2025-09-03T21:40:30.331128",
+  "download_filename": "agent_os_cli-1.4.9.tar.gz",
+  "download_time": "2025-09-03T21:54:00.269960",
   "package_url": "https://pypi.org/project/agent-os-cli/"
 }
