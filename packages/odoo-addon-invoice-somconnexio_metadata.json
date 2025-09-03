@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-invoice-somconnexio",
+  "version": "16.0.1.0.3",
+  "summary": "invoice Som Connexió module",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo-addon-invoice_somconnexio-16.0.1.0.3.tar.gz",
+  "download_time": "2025-09-03T15:54:54.879705",
+  "package_url": "https://pypi.org/project/odoo-addon-invoice-somconnexio/"
+}

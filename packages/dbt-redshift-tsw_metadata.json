@@ -1,11 +1,11 @@
 {
   "name": "dbt-redshift-tsw",
-  "version": "1.9.5",
+  "version": "1.9.5.post1",
   "summary": "The Redshift adapter plugin for dbt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_redshift_tsw-1.9.5.tar.gz",
-  "download_time": "2025-09-03T11:55:01.282536",
+  "download_filename": "dbt_redshift_tsw-1.9.5.post1.tar.gz",
+  "download_time": "2025-09-03T15:55:05.249725",
   "package_url": "https://pypi.org/project/dbt-redshift-tsw/"
 }

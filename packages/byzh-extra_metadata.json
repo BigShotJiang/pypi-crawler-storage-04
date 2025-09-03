@@ -1,11 +1,11 @@
 {
   "name": "byzh-extra",
-  "version": "0.0.9.0",
-  "summary": "基于byzh_core的扩展包",
+  "version": "0.0.9.1",
+  "summary": "基于byzh-core的扩展包",
   "author": "byzh_rc",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "byzh_extra-0.0.9.0.tar.gz",
-  "download_time": "2025-09-03T13:58:55.677682",
+  "download_filename": "byzh_extra-0.0.9.1.tar.gz",
+  "download_time": "2025-09-03T15:55:05.776372",
   "package_url": "https://pypi.org/project/byzh-extra/"
 }

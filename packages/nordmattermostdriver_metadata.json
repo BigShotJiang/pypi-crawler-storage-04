@@ -1,11 +1,11 @@
 {
   "name": "nordmattermostdriver",
-  "version": "7.3.2",
+  "version": "7.3.3",
   "summary": "A Python Mattermost Driver",
   "author": "Igor Mantuliak",
   "license": "MIT",
   "home_page": "https://github.com/i-mantuliak/python-mattermost-driver",
-  "download_filename": "nordmattermostdriver-7.3.2.tar.gz",
-  "download_time": "2025-09-03T09:24:13.005426",
+  "download_filename": "nordmattermostdriver-7.3.3.tar.gz",
+  "download_time": "2025-09-03T15:55:09.035729",
   "package_url": "https://pypi.org/project/nordmattermostdriver/"
 }

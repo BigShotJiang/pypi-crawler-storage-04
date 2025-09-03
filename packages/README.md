@@ -1,24 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-03T15:44:01.266682
-- **Total Packages**: 80
-- **Total Size**: 33.92 MB
+- **Download Time**: 2025-09-03T15:55:35.693258
+- **Total Packages**: 84
+- **Total Size**: 19.23 MB
 
 ## Packages List
+- Pharmaradar
+- odoo-addon-switchboard-somconnexio
+- sherpa-ncnn
+- odoo-addon-somconnexio
+- polyapi-python
+- odoo14-addon-ssi-consulting
+- byzh-core
+- odoo-addon-mass-mailing-somconnexio
+- odoo-addon-invoice-somconnexio
+- odoo-addon-filmin-somconnexio
+- odoo-addon-crm-lead-api-somconnexio
+- netbox-mikrotik
+- odoo-addon-cooperator-somconnexio
+- unitlab
 - awesome-tools-collection
+- images-to-zarr
+- py-adaptive
+- c1s-slingshot-sdk-py
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- wdq-mcp
+- dbt-redshift-tsw
+- byzh-extra
+- pysuricata
+- brighteyes-ism
+- assisted-service-client
+- israel-open-banking
+- invenio-rdm-records
+- nordmattermostdriver
+- authentik-client
+- frogml
+- classifier_trains
+- splicespectrax
+- dynamiq
+- sqlmesh
+- maleo-exceptions
+- torchgfn
+- cybrid-api-bank-python
+- cpz-ai
+- foscat
+- aicostmanager
+- cybrid-api-id-python
+- livesearch
+- cybrid-api-organization-python
+- libinspector
+- xebus-family-data-library
+- api-tester-mcp
 - markdown-flow
 - alithia
 - pygamejr
-- snakegram-up
 - qwak-core
 - modal
 - eaasy
 - wzrdbrain
 - sambacc
 - termgraph
-- xebus-family-data-library
-- unitlab
 - psychopy-eyetracker-pupil-labs
 - magentic-olly
 - edat-utils
@@ -26,10 +76,8 @@
 - tempnetviz
 - library
 - webeater
-- authentik-client
 - inspect-ai
 - karellen-llvm-toolchain-tools
-- aicostmanager
 - karellen-llvm-lldb
 - jyinit
 - mc-lab-edu
@@ -42,47 +90,3 @@
 - odoo-addon-ebill-postfinance
 - eso
 - bigdata-research-tools
-- aider-lint-fixer
-- ramodels
-- aquarium-python-api
-- rowan-python
-- MolParse
-- manage-django-project
-- streamledge
-- byzh-core
-- eccfp
-- secop-ophyd
-- api-tester-mcp
-- drf-sso-dev-internal
-- codecam
-- odoo-addon-l10n-br-fiscal
-- codegen
-- notifator
-- amsdal_models
-- edx-braze-client
-- earthcarekit
-- eis-claims
-- sherpa-ncnn-core
-- sherpa-ncnn-bin
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- swh.coarnotify
-- tobiko-cloud-api-client
-- secret-ai-sdk
-- qc-selector
-- netbox-aci-plugin
-- orq-ai-sdk
-- eis-insurance
-- staticat
-- letschatty
-- mrkwatkins-oakemu
-- etendo-mcp-atlassian
-- maleo-schemas
-- odoo-addon-edi-account-oca
-- tinybird
-- TopoPyScale
-- bookalimo
-- attack-executor
-- openaleph-search
-- cartographer3d-plugin
-- flexget
