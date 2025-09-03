@@ -1,11 +1,11 @@
 {
   "name": "huibiao-framework",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "summary": "Huibioa framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "huibiao_framework-1.0.3.tar.gz",
-  "download_time": "2025-09-02T07:25:46.770771",
+  "download_filename": "huibiao_framework-1.0.7.tar.gz",
+  "download_time": "2025-09-03T02:45:41.522176",
   "package_url": "https://pypi.org/project/huibiao-framework/"
 }

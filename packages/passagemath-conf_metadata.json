@@ -1,11 +1,11 @@
 {
   "name": "passagemath-conf",
-  "version": "10.6.13",
+  "version": "10.6.14",
   "summary": "passagemath: Confectionery and configuration module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_conf-10.6.13.tar.gz",
-  "download_time": "2025-08-31T17:40:44.975065",
+  "download_filename": "passagemath_conf-10.6.14.tar.gz",
+  "download_time": "2025-09-03T02:45:07.367206",
   "package_url": "https://pypi.org/project/passagemath-conf/"
 }

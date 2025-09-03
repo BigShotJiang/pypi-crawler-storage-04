@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-fortnite",
-  "version": "0.3.7",
+  "version": "0.4.1",
   "summary": "堡垒之夜插件",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_fortnite-0.3.7.tar.gz",
-  "download_time": "2025-09-02T11:19:50.228420",
+  "download_filename": "nonebot_plugin_fortnite-0.4.1.tar.gz",
+  "download_time": "2025-09-03T02:45:03.133774",
   "package_url": "https://pypi.org/project/nonebot-plugin-fortnite/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "passagemath-bliss",
-  "version": "10.6.12",
+  "version": "10.6.14",
   "summary": "passagemath: Graph (iso/auto)morphisms with bliss",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_bliss-10.6.12.tar.gz",
-  "download_time": "2025-08-29T22:41:21.862157",
+  "download_filename": "passagemath_bliss-10.6.14.tar.gz",
+  "download_time": "2025-09-03T02:45:13.160175",
   "package_url": "https://pypi.org/project/passagemath-bliss/"
 }
