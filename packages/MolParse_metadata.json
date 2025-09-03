@@ -1,0 +1,11 @@
+{
+  "name": "MolParse",
+  "version": "0.0.39",
+  "summary": "Package for parsing, writing, and modifying molecular structure files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "molparse-0.0.39.tar.gz",
+  "download_time": "2025-09-03T15:43:38.214567",
+  "package_url": "https://pypi.org/project/MolParse/"
+}

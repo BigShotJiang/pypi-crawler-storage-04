@@ -1,0 +1,11 @@
+{
+  "name": "xebus-family-data-library",
+  "version": "1.0.12",
+  "summary": "Python library for loading family data from sheets",
+  "author": "Daniel CAUNE",
+  "license": "SEE LICENSE IN <LICENSE.md>",
+  "home_page": "https://github.com/xebus/xebus-family-data-python-library",
+  "download_filename": "xebus_family_data_library-1.0.12.tar.gz",
+  "download_time": "2025-09-03T15:43:21.208817",
+  "package_url": "https://pypi.org/project/xebus-family-data-library/"
+}

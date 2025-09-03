@@ -1,0 +1,11 @@
+{
+  "name": "netbox-aci-plugin",
+  "version": "0.1.0",
+  "summary": "NetBox plugin for Cisco ACI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_aci_plugin-0.1.0.tar.gz",
+  "download_time": "2025-09-03T15:43:52.618604",
+  "package_url": "https://pypi.org/project/netbox-aci-plugin/"
+}

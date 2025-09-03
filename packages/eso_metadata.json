@@ -1,0 +1,11 @@
+{
+  "name": "eso",
+  "version": "0.1.0.dev50",
+  "summary": "Evolutionary Spectrogram Optimisation : optimise the selection and size of frequency bands of spectrograms to maximise deep learning classification accuracy while minimising the model's size using genetic algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eso-0.1.0.dev50.tar.gz",
+  "download_time": "2025-09-03T15:43:34.121339",
+  "package_url": "https://pypi.org/project/eso/"
+}

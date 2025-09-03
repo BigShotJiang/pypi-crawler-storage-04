@@ -1,11 +1,11 @@
 {
   "name": "sherpa-ncnn-core",
-  "version": "0.0.1",
+  "version": "2.1.13",
   "summary": "Core shared libraries for sherpa-ncnn",
   "author": "The sherpa-ncnn development team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/k2-fsa/sherpa-ncnn",
-  "download_filename": "sherpa_ncnn_core-0.0.1-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-09-03T09:42:48.386121",
+  "download_filename": "sherpa_ncnn_core-2.1.13-py3-none-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-03T15:43:48.473507",
   "package_url": "https://pypi.org/project/sherpa-ncnn-core/"
 }
