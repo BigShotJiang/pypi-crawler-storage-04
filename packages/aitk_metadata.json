@@ -1,11 +1,11 @@
 {
   "name": "aitk",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "summary": "Python tools for AI",
   "author": "Douglas Blank",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/ArtificialIntelligenceToolkit/aitk",
-  "download_filename": "aitk-3.0.8.tar.gz",
-  "download_time": "2025-09-03T20:24:42.189014",
+  "download_filename": "aitk-3.0.9.tar.gz",
+  "download_time": "2025-09-03T20:43:39.798729",
   "package_url": "https://pypi.org/project/aitk/"
 }

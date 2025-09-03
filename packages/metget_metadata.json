@@ -1,0 +1,11 @@
+{
+  "name": "metget",
+  "version": "0.11.0",
+  "summary": "A client package for interaction with a MetGet server instance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metget-0.11.0.tar.gz",
+  "download_time": "2025-09-03T20:43:30.773804",
+  "package_url": "https://pypi.org/project/metget/"
+}

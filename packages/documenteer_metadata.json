@@ -1,0 +1,11 @@
+{
+  "name": "documenteer",
+  "version": "2.3.0",
+  "summary": "Rubin Observatory / LSST Sphinx documentation tools, extensions, and configurations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "documenteer-2.3.0.tar.gz",
+  "download_time": "2025-09-03T20:43:36.515049",
+  "package_url": "https://pypi.org/project/documenteer/"
+}

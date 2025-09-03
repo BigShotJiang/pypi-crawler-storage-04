@@ -1,0 +1,11 @@
+{
+  "name": "tts-with-rvc-onnx",
+  "version": "0.1.9.3",
+  "summary": "TTS with RVC pipeline (ONNX Version)",
+  "author": "Atm4x",
+  "license": "MIT",
+  "home_page": "https://github.com/Atm4x/tts-with-rvc/tree/onnx",
+  "download_filename": "tts_with_rvc_onnx-0.1.9.3.tar.gz",
+  "download_time": "2025-09-03T20:43:51.858532",
+  "package_url": "https://pypi.org/project/tts-with-rvc-onnx/"
+}

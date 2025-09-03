@@ -1,11 +1,11 @@
 {
   "name": "alfacrm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Is an asynchronous implementation for AlfaCRM API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alfacrm-0.1.0.tar.gz",
-  "download_time": "2025-09-03T20:24:33.181041",
+  "download_filename": "alfacrm-0.1.1.tar.gz",
+  "download_time": "2025-09-03T20:43:50.676763",
   "package_url": "https://pypi.org/project/alfacrm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stempy",
+  "version": "3.4.1",
+  "summary": "A package for the ingestion of 4D STEM data.",
+  "author": "Kitware Inc",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/OpenChemistry/stempy",
+  "download_filename": "stempy-3.4.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-03T20:43:49.512482",
+  "package_url": "https://pypi.org/project/stempy/"
+}
