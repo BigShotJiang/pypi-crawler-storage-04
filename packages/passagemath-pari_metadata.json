@@ -1,11 +1,11 @@
 {
   "name": "passagemath-pari",
-  "version": "10.6.13",
+  "version": "10.6.14",
   "summary": "passagemath: Computational Number Theory with PARI/GP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_pari-10.6.13.tar.gz",
-  "download_time": "2025-08-31T17:40:08.040818",
+  "download_filename": "passagemath_pari-10.6.14.tar.gz",
+  "download_time": "2025-09-03T03:20:31.079120",
   "package_url": "https://pypi.org/project/passagemath-pari/"
 }

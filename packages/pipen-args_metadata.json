@@ -1,11 +1,11 @@
 {
   "name": "pipen-args",
-  "version": "0.17.5",
+  "version": "0.17.6",
   "summary": "Command-line argument parser for pipen.",
   "author": "pwwang",
   "license": "MIT",
   "home_page": "https://github.com/pwwang/pipen-args",
-  "download_filename": "pipen_args-0.17.5.tar.gz",
-  "download_time": "2025-09-02T22:18:55.836112",
+  "download_filename": "pipen_args-0.17.6.tar.gz",
+  "download_time": "2025-09-03T03:20:07.899163",
   "package_url": "https://pypi.org/project/pipen-args/"
 }

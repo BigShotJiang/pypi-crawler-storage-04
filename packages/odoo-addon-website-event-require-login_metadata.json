@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-event-require-login",
+  "version": "17.0.1.0.0.6",
+  "summary": "Website Event Require Login",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/event",
+  "download_filename": "odoo_addon_website_event_require_login-17.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-09-03T03:20:17.005110",
+  "package_url": "https://pypi.org/project/odoo-addon-website-event-require-login/"
+}

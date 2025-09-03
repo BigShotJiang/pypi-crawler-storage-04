@@ -1,0 +1,11 @@
+{
+  "name": "conflict-collection",
+  "version": "0.0.2",
+  "summary": "Data collection from Git merge conflicts.",
+  "author": "Jinu Jang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "conflict_collection-0.0.2.tar.gz",
+  "download_time": "2025-09-03T03:20:33.424264",
+  "package_url": "https://pypi.org/project/conflict-collection/"
+}

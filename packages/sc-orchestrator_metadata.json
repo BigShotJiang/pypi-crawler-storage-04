@@ -1,11 +1,11 @@
 {
   "name": "sc-orchestrator",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "summary": "Szymanski Consulting – Orchestrator for PM/vCISO/Quoting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sc_orchestrator-0.2.11.tar.gz",
-  "download_time": "2025-09-01T06:35:40.298579",
+  "download_filename": "sc_orchestrator-0.2.12.tar.gz",
+  "download_time": "2025-09-03T03:20:05.832203",
   "package_url": "https://pypi.org/project/sc-orchestrator/"
 }

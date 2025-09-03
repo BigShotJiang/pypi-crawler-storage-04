@@ -1,0 +1,11 @@
+{
+  "name": "pyfmm-kit",
+  "version": "0.5.0",
+  "summary": "A C/Python package for solving eikonal equation using Fast Marching/Sweeping Method",
+  "author": "Zhu Dengda",
+  "license": null,
+  "home_page": "https://github.com/Dengda98/PyFMM",
+  "download_filename": "pyfmm_kit-0.5.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-03T03:20:30.038259",
+  "package_url": "https://pypi.org/project/pyfmm-kit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langevaluate",
+  "version": "0.1.2",
+  "summary": "LLM 기반의 자동 평가 시스템",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langevaluate-0.1.2.tar.gz",
+  "download_time": "2025-09-03T03:20:15.473888",
+  "package_url": "https://pypi.org/project/langevaluate/"
+}

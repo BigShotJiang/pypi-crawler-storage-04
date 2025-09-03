@@ -1,0 +1,11 @@
+{
+  "name": "psyborg",
+  "version": "0.4.0",
+  "summary": "Write markdown files mixing Python code with natural language prompts that generate and execute additional code in a shared runtime",
+  "author": "Maxwell Felix",
+  "license": "MIT",
+  "home_page": "https://github.com/m4xw311/psyborg",
+  "download_filename": "psyborg-0.4.0.tar.gz",
+  "download_time": "2025-09-03T03:19:58.227659",
+  "package_url": "https://pypi.org/project/psyborg/"
+}
