@@ -1,0 +1,11 @@
+{
+  "name": "smithery",
+  "version": "0.1.4",
+  "summary": "SDK for using Smithery with Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smithery-0.1.4.tar.gz",
+  "download_time": "2025-09-03T07:21:55.561961",
+  "package_url": "https://pypi.org/project/smithery/"
+}

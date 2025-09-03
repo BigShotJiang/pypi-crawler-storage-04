@@ -1,11 +1,11 @@
 {
   "name": "lingtaiAgent",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "灵台客户端包",
   "author": "jiayifei",
   "license": null,
   "home_page": "https://www.bailongma.com",
-  "download_filename": "lingtaiagent-0.0.4.tar.gz",
-  "download_time": "2025-09-03T04:28:57.749510",
+  "download_filename": "lingtaiagent-0.0.5.tar.gz",
+  "download_time": "2025-09-03T07:22:27.541721",
   "package_url": "https://pypi.org/project/lingtaiAgent/"
 }

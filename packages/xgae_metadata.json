@@ -1,11 +1,11 @@
 {
   "name": "xgae",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Extreme General Agent Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xgae-0.1.17.tar.gz",
-  "download_time": "2025-09-01T09:46:20.092659",
+  "download_filename": "xgae-0.1.18.tar.gz",
+  "download_time": "2025-09-03T07:22:22.265692",
   "package_url": "https://pypi.org/project/xgae/"
 }

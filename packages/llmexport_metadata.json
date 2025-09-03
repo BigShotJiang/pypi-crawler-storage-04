@@ -1,0 +1,11 @@
+{
+  "name": "llmexport",
+  "version": "0.0.3",
+  "summary": "llmexport: A toolkit to export llm to onnx or mnn.",
+  "author": "wangzhaode",
+  "license": "MIT",
+  "home_page": "https://github.com/wangzhaode/llm-export",
+  "download_filename": "llmexport-0.0.3.tar.gz",
+  "download_time": "2025-09-03T07:22:12.739193",
+  "package_url": "https://pypi.org/project/llmexport/"
+}

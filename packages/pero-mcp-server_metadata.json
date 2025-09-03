@@ -1,0 +1,11 @@
+{
+  "name": "pero-mcp-server",
+  "version": "0.1.0",
+  "summary": "A comprehensive MCP (Model Context Protocol) server supporting App Store Connect and SSH operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pero_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-09-03T07:22:18.105284",
+  "package_url": "https://pypi.org/project/pero-mcp-server/"
+}

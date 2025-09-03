@@ -1,11 +1,11 @@
 {
   "name": "sugar-sdk",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Sugar SDK",
   "author": "Velodrome Finance",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/velodrome-finance/sugar-sdk/",
-  "download_filename": "sugar_sdk-0.2.3.tar.gz",
-  "download_time": "2025-09-02T03:00:25.565931",
+  "download_filename": "sugar_sdk-0.3.1.tar.gz",
+  "download_time": "2025-09-03T07:22:11.085007",
   "package_url": "https://pypi.org/project/sugar-sdk/"
 }

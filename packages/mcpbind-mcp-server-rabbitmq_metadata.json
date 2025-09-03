@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-server-rabbitmq",
+  "version": "3.423.2.6672",
+  "summary": "MCP Server Package: mcp-server-rabbitmq",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_server_rabbitmq-3.423.2.6672-py3-none-any.whl",
+  "download_time": "2025-09-03T07:22:14.903112",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-server-rabbitmq/"
+}

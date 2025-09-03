@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-pubchem-mcp-server",
+  "version": "3.413.25.5224",
+  "summary": "MCP Server Package: pubchem_mcp_server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_pubchem_mcp_server-3.413.25.5224-py3-none-any.whl",
+  "download_time": "2025-09-03T07:22:28.051519",
+  "package_url": "https://pypi.org/project/mcpbind-pubchem-mcp-server/"
+}

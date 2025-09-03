@@ -1,11 +1,11 @@
 {
   "name": "cdk-fck-nat",
-  "version": "1.6.12",
+  "version": "1.6.13",
   "summary": "A NAT Gateway instance construct built on the fck-nat AMI.",
   "author": "Andrew Guenther<guenther.andrew.j@gmail.com>",
   "license": "MIT",
   "home_page": "https://github.com/AndrewGuenther/cdk-fck-nat.git",
-  "download_filename": "cdk_fck_nat-1.6.12.tar.gz",
-  "download_time": "2025-09-03T05:20:58.043004",
+  "download_filename": "cdk_fck_nat-1.6.13.tar.gz",
+  "download_time": "2025-09-03T07:22:15.474598",
   "package_url": "https://pypi.org/project/cdk-fck-nat/"
 }
