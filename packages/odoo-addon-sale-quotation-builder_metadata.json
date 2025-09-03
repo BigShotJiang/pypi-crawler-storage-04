@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-quotation-builder",
+  "version": "17.0.1.0.1.2",
+  "summary": "Build great quotation templates",
+  "author": "Odoo Community Association (OCA), Odoo SA",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-reporting",
+  "download_filename": "odoo_addon_sale_quotation_builder-17.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-03T03:57:00.393313",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-quotation-builder/"
+}

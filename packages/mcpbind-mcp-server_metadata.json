@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-mcp-server",
+  "version": "3.218.50.9329",
+  "summary": "MCP Server Package: mcp_server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_mcp_server-3.218.50.9329-py3-none-any.whl",
+  "download_time": "2025-09-03T03:56:59.187598",
+  "package_url": "https://pypi.org/project/mcpbind-mcp-server/"
+}

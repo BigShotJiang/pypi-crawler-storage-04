@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-category-vertical-display",
+  "version": "17.0.1.0.0.4",
+  "summary": "POS Category Vertical Display",
+  "author": "Antoni Marroig, APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_category_vertical_display-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-03T03:57:15.042473",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-category-vertical-display/"
+}

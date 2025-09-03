@@ -1,0 +1,11 @@
+{
+  "name": "arduino-hid-emulator",
+  "version": "0.4.1",
+  "summary": "A Python library for controlling Arduino HID devices",
+  "author": "Andrey Mishchenko",
+  "license": null,
+  "home_page": "https://github.com/mvandrew/arduino-hid-emulator",
+  "download_filename": "arduino_hid_emulator-0.4.1.tar.gz",
+  "download_time": "2025-09-03T03:56:55.567133",
+  "package_url": "https://pypi.org/project/arduino-hid-emulator/"
+}

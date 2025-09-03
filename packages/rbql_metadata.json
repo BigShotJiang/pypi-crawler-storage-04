@@ -1,0 +1,11 @@
+{
+  "name": "rbql",
+  "version": "0.28.0",
+  "summary": "Rainbow Query Language",
+  "author": "Dmitry Ignatovich",
+  "license": null,
+  "home_page": "https://github.com/mechatroner/RBQL",
+  "download_filename": "rbql-0.28.0.tar.gz",
+  "download_time": "2025-09-03T03:56:58.598213",
+  "package_url": "https://pypi.org/project/rbql/"
+}

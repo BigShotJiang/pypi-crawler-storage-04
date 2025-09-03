@@ -1,0 +1,11 @@
+{
+  "name": "mcpbind-sec-edgar-mcp",
+  "version": "3.220.2.1888",
+  "summary": "MCP Server Package: sec-edgar-mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpbind_sec_edgar_mcp-3.220.2.1888-py3-none-any.whl",
+  "download_time": "2025-09-03T03:56:57.425944",
+  "package_url": "https://pypi.org/project/mcpbind-sec-edgar-mcp/"
+}

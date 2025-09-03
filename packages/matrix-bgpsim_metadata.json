@@ -1,0 +1,11 @@
+{
+  "name": "matrix-bgpsim",
+  "version": "1.0.1",
+  "summary": "Matrix-based BGP simulation tool for AS-level routing analysis, supporting GPU acceleration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matrix_bgpsim-1.0.1.tar.gz",
+  "download_time": "2025-09-03T03:56:48.361501",
+  "package_url": "https://pypi.org/project/matrix-bgpsim/"
+}
