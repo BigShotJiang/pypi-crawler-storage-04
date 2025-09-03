@@ -1,11 +1,11 @@
 {
   "name": "aicostmanager",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Python SDK for the AICostManager API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aicostmanager-0.1.30.tar.gz",
-  "download_time": "2025-09-02T17:05:17.994242",
+  "download_filename": "aicostmanager-0.1.31.tar.gz",
+  "download_time": "2025-09-03T14:45:14.799619",
   "package_url": "https://pypi.org/project/aicostmanager/"
 }

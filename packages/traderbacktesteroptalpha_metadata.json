@@ -1,11 +1,11 @@
 {
   "name": "traderbacktesteroptalpha",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "Package for backtesting trading strategies and updating required files",
   "author": "Vadlamani Rampratap Sharma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "traderbacktesteroptalpha-1.2.tar.gz",
-  "download_time": "2025-09-03T13:59:09.706252",
+  "download_filename": "traderbacktesteroptalpha-1.3.tar.gz",
+  "download_time": "2025-09-03T14:44:59.772362",
   "package_url": "https://pypi.org/project/traderbacktesteroptalpha/"
 }

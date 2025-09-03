@@ -1,0 +1,11 @@
+{
+  "name": "scCellFie",
+  "version": "0.5.0",
+  "summary": "A tool for inferring metabolic activities from single-cell and spatial transcriptomics",
+  "author": "Erick Armingol",
+  "license": null,
+  "home_page": "https://github.com/earmingol/scCellFie",
+  "download_filename": "sccellfie-0.5.0.tar.gz",
+  "download_time": "2025-09-03T14:45:03.384567",
+  "package_url": "https://pypi.org/project/scCellFie/"
+}

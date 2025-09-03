@@ -1,11 +1,11 @@
 {
   "name": "sbcli-rj",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "CLI for managing SimplyBlock cluster",
   "author": "Hamdy",
   "license": null,
   "home_page": "https://www.simplyblock.io/",
-  "download_filename": "sbcli_rj-0.1.0.tar.gz",
-  "download_time": "2025-09-02T10:24:38.653145",
+  "download_filename": "sbcli_rj-0.2.0.tar.gz",
+  "download_time": "2025-09-03T14:45:10.637734",
   "package_url": "https://pypi.org/project/sbcli-rj/"
 }

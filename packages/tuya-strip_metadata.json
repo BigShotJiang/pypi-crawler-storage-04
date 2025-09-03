@@ -1,0 +1,11 @@
+{
+  "name": "tuya-strip",
+  "version": "0.1.0",
+  "summary": "CLI for controlling a Tuya 3-way power strip over LAN",
+  "author": "wanjawischmeier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuya_strip-0.1.0.tar.gz",
+  "download_time": "2025-09-03T14:44:47.183650",
+  "package_url": "https://pypi.org/project/tuya-strip/"
+}

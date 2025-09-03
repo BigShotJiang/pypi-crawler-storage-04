@@ -1,11 +1,11 @@
 {
   "name": "whatamithinking-bundler",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "package python apps for deployment on different platforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "whatamithinking_bundler-1.1.3.tar.gz",
-  "download_time": "2025-09-02T17:54:51.754971",
+  "download_filename": "whatamithinking_bundler-1.1.4.tar.gz",
+  "download_time": "2025-09-03T14:44:37.400398",
   "package_url": "https://pypi.org/project/whatamithinking-bundler/"
 }

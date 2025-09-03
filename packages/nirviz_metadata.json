@@ -1,0 +1,11 @@
+{
+  "name": "nirviz",
+  "version": "0.1.4",
+  "summary": "Visualisation tool for the Neuromorphic Intermediate Representation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nirviz-0.1.4.tar.gz",
+  "download_time": "2025-09-03T14:44:35.852419",
+  "package_url": "https://pypi.org/project/nirviz/"
+}
