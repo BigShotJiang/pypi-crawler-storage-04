@@ -1,0 +1,11 @@
+{
+  "name": "django-docrootcms",
+  "version": "3.6",
+  "summary": "The missing app for developers creating and maintaining websites",
+  "author": "Steve Stacha",
+  "license": "MIT",
+  "home_page": "http://github.com/sstacha/django-docrootcms",
+  "download_filename": "django_docrootcms-3.6.tar.gz",
+  "download_time": "2025-09-03T19:40:34.425723",
+  "package_url": "https://pypi.org/project/django-docrootcms/"
+}

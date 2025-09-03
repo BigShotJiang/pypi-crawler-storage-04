@@ -1,0 +1,11 @@
+{
+  "name": "django-searchkit",
+  "version": "2.0.1",
+  "summary": "Finally a real searchkit for django!",
+  "author": "Thomas Leichtfuß",
+  "license": "BSD License",
+  "home_page": "https://github.com/thomst/django-searchkit",
+  "download_filename": "django_searchkit-2.0.1.tar.gz",
+  "download_time": "2025-09-03T19:41:01.255089",
+  "package_url": "https://pypi.org/project/django-searchkit/"
+}

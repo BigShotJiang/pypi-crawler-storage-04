@@ -1,11 +1,11 @@
 {
   "name": "maleo-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Utils package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_utils-0.0.3.tar.gz",
-  "download_time": "2025-08-30T22:52:48.707548",
+  "download_filename": "maleo_utils-0.0.4.tar.gz",
+  "download_time": "2025-09-03T19:40:41.256277",
   "package_url": "https://pypi.org/project/maleo-utils/"
 }

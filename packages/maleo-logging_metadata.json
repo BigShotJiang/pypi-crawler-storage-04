@@ -1,11 +1,11 @@
 {
   "name": "maleo-logging",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Logging package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_logging-0.0.4.tar.gz",
-  "download_time": "2025-09-03T04:28:49.372024",
+  "download_filename": "maleo_logging-0.0.5.tar.gz",
+  "download_time": "2025-09-03T19:40:35.476765",
   "package_url": "https://pypi.org/project/maleo-logging/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hyphae",
+  "version": "1.0.0",
+  "summary": "The framework for developing TruffleOS agentic applications",
+  "author": "Deepshard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyphae-1.0.0.tar.gz",
+  "download_time": "2025-09-03T19:40:58.136216",
+  "package_url": "https://pypi.org/project/hyphae/"
+}

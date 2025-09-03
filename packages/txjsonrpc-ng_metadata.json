@@ -1,0 +1,11 @@
+{
+  "name": "txjsonrpc-ng",
+  "version": "0.7.3",
+  "summary": "Code for creatig Twisted JSON-RPC servers and clients.",
+  "author": "Duncan McGreggor",
+  "license": "BSD, GPL",
+  "home_page": null,
+  "download_filename": "txjsonrpc_ng-0.7.3.tar.gz",
+  "download_time": "2025-09-03T19:41:11.185831",
+  "package_url": "https://pypi.org/project/txjsonrpc-ng/"
+}

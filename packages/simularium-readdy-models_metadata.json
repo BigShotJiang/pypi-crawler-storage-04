@@ -1,0 +1,11 @@
+{
+  "name": "simularium-readdy-models",
+  "version": "1.0.0",
+  "summary": "Tools for building computational biology models in ReaDDy.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "simularium_readdy_models-1.0.0.tar.gz",
+  "download_time": "2025-09-03T19:41:02.831296",
+  "package_url": "https://pypi.org/project/simularium-readdy-models/"
+}

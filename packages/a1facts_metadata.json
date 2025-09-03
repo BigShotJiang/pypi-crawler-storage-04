@@ -1,11 +1,11 @@
 {
   "name": "a1facts",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "a1facts - precise knowledge for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a1facts-0.1.0.tar.gz",
-  "download_time": "2025-09-03T16:48:29.419409",
+  "download_filename": "a1facts-0.1.3.tar.gz",
+  "download_time": "2025-09-03T19:40:39.673604",
   "package_url": "https://pypi.org/project/a1facts/"
 }
