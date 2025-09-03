@@ -1,0 +1,11 @@
+{
+  "name": "gamma-facet",
+  "version": "2.2.1",
+  "summary": "Human-explainable AI.",
+  "author": "Boston Consulting Group (BCG)",
+  "license": "Apache Software License v2.0",
+  "home_page": "https://github.com/BCG-X-Official/facet",
+  "download_filename": "gamma_facet-2.2.1.tar.gz",
+  "download_time": "2025-09-03T20:24:36.867098",
+  "package_url": "https://pypi.org/project/gamma-facet/"
+}

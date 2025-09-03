@@ -1,0 +1,11 @@
+{
+  "name": "django-oscar-api-checkout",
+  "version": "3.8.0",
+  "summary": "An extension on top of django-oscar-api providing a more flexible checkout API with a pluggable payment methods interface.",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "django_oscar_api_checkout-3.8.0.tar.gz",
+  "download_time": "2025-09-03T20:24:50.187486",
+  "package_url": "https://pypi.org/project/django-oscar-api-checkout/"
+}

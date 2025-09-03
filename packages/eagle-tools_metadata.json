@@ -1,0 +1,11 @@
+{
+  "name": "eagle-tools",
+  "version": "0.1.2",
+  "summary": "Tools for processing and evaluating anemoi based EAGLE ML models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eagle_tools-0.1.2.tar.gz",
+  "download_time": "2025-09-03T20:25:14.908380",
+  "package_url": "https://pypi.org/project/eagle-tools/"
+}

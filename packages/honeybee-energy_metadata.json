@@ -1,11 +1,11 @@
 {
   "name": "honeybee-energy",
-  "version": "1.116.68",
+  "version": "1.116.69",
   "summary": "Energy simulation library for honeybee.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/honeybee-energy",
-  "download_filename": "honeybee_energy-1.116.68.tar.gz",
-  "download_time": "2025-08-30T01:27:56.171004",
+  "download_filename": "honeybee_energy-1.116.69.tar.gz",
+  "download_time": "2025-09-03T20:24:45.418920",
   "package_url": "https://pypi.org/project/honeybee-energy/"
 }

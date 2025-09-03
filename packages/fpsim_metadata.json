@@ -1,0 +1,11 @@
+{
+  "name": "fpsim",
+  "version": "3.3.0",
+  "summary": "FPsim: Family Planning Simulator",
+  "author": "Michelle O'Brien, Annie Valente, Cliff Kerr, Sam Buxton, Daniel Klein, Marita Zimmermann, Emily Driano",
+  "license": null,
+  "home_page": "http://fpsim.org",
+  "download_filename": "fpsim-3.3.0.tar.gz",
+  "download_time": "2025-09-03T20:24:31.052448",
+  "package_url": "https://pypi.org/project/fpsim/"
+}

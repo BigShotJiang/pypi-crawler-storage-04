@@ -1,0 +1,11 @@
+{
+  "name": "wagtailcloudinary",
+  "version": "2.3.0",
+  "summary": "Cloudinary support for Wagtail CMS",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "wagtailcloudinary-2.3.0.tar.gz",
+  "download_time": "2025-09-03T20:24:49.119447",
+  "package_url": "https://pypi.org/project/wagtailcloudinary/"
+}

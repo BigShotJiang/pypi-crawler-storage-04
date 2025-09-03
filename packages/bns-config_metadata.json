@@ -1,0 +1,11 @@
+{
+  "name": "bns-config",
+  "version": "0.0.1",
+  "summary": "Security placeholder package",
+  "author": "Security Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bns_config-0.0.1.tar.gz",
+  "download_time": "2025-09-03T20:25:11.773338",
+  "package_url": "https://pypi.org/project/bns-config/"
+}

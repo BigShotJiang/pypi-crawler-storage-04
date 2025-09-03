@@ -1,0 +1,11 @@
+{
+  "name": "flashvm",
+  "version": "0.1.1",
+  "summary": "Run Python code inside libkrun microVMs, with an embedded offline OCI image",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/fullzer4/flashvm",
+  "download_filename": "flashvm-0.1.1-cp38-abi3-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-09-03T20:24:48.576333",
+  "package_url": "https://pypi.org/project/flashvm/"
+}

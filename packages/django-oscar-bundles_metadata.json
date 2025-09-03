@@ -1,0 +1,11 @@
+{
+  "name": "django-oscar-bundles",
+  "version": "2.4.0",
+  "summary": "An extension on top of django-oscar providing product bundle functionality.",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "django_oscar_bundles-2.4.0.tar.gz",
+  "download_time": "2025-09-03T20:24:47.003544",
+  "package_url": "https://pypi.org/project/django-oscar-bundles/"
+}
