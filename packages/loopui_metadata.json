@@ -1,0 +1,11 @@
+{
+  "name": "loopui",
+  "version": "0.2",
+  "summary": "Uncertainty Indicators for ensemble of 3D voxets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loopui-0.2.tar.gz",
+  "download_time": "2025-09-03T06:31:52.479197",
+  "package_url": "https://pypi.org/project/loopui/"
+}

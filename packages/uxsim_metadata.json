@@ -1,11 +1,11 @@
 {
   "name": "uxsim",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "UXsim: traffic flow simulator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uxsim-1.9.0.tar.gz",
-  "download_time": "2025-09-02T06:33:33.955203",
+  "download_filename": "uxsim-1.9.1.tar.gz",
+  "download_time": "2025-09-03T06:31:48.354536",
   "package_url": "https://pypi.org/project/uxsim/"
 }

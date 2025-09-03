@@ -1,0 +1,11 @@
+{
+  "name": "dynpy",
+  "version": "0.3.0",
+  "summary": "Dynamical systems for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynpy-0.3.0.tar.gz",
+  "download_time": "2025-09-03T06:31:35.797858",
+  "package_url": "https://pypi.org/project/dynpy/"
+}

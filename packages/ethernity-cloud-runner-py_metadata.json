@@ -1,0 +1,11 @@
+{
+  "name": "ethernity-cloud-runner-py",
+  "version": "0.3.4",
+  "summary": "Ethernity Cloud Runner Python",
+  "author": "Ethernity Cloud Team",
+  "license": null,
+  "home_page": "https://github.com/ethernity-cloud/ethernity-cloud-runner-py",
+  "download_filename": "ethernity_cloud_runner_py-0.3.4.tar.gz",
+  "download_time": "2025-09-03T06:31:50.415571",
+  "package_url": "https://pypi.org/project/ethernity-cloud-runner-py/"
+}

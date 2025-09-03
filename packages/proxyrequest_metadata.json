@@ -1,0 +1,11 @@
+{
+  "name": "proxyrequest",
+  "version": "0.14",
+  "summary": "A Python package for making HTTP requests with proxy support and fetching HTML content using requests or Selenium.",
+  "author": "Ramesh Chandra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxyrequest-0.14.tar.gz",
+  "download_time": "2025-09-03T06:31:43.626942",
+  "package_url": "https://pypi.org/project/proxyrequest/"
+}
