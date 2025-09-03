@@ -1,0 +1,11 @@
+{
+  "name": "dbt-teradata",
+  "version": "1.10.0",
+  "summary": "The Teradata adapter plugin for dbt (data build tool)",
+  "author": "Teradata Corporation",
+  "license": null,
+  "home_page": "https://github.com/Teradata/dbt-teradata",
+  "download_filename": "dbt-teradata-1.10.0.tar.gz",
+  "download_time": "2025-09-03T09:42:17.171178",
+  "package_url": "https://pypi.org/project/dbt-teradata/"
+}

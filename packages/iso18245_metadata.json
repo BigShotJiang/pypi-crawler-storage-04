@@ -1,0 +1,11 @@
+{
+  "name": "iso18245",
+  "version": "1.4.1",
+  "summary": "The ISO 18245 Merchant Category Codes database",
+  "author": "Jerome Leclanche",
+  "license": "MIT",
+  "home_page": "https://github.com/jleclanche/python-iso18245",
+  "download_filename": "iso18245-1.4.1.tar.gz",
+  "download_time": "2025-09-03T09:43:01.508334",
+  "package_url": "https://pypi.org/project/iso18245/"
+}

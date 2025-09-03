@@ -1,0 +1,11 @@
+{
+  "name": "rudi-node-read",
+  "version": "0.4.0",
+  "summary": "Use the external API of a RUDI Producer node",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rudi_node_read-0.4.0.tar.gz",
+  "download_time": "2025-09-03T09:42:56.601523",
+  "package_url": "https://pypi.org/project/rudi-node-read/"
+}

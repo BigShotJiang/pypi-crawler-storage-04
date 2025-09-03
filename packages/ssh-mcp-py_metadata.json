@@ -1,0 +1,11 @@
+{
+  "name": "ssh-mcp-py",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol for managing and interacting with multiple virtual machines over SSH",
+  "author": "Sean Dang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssh_mcp_py-0.1.0.tar.gz",
+  "download_time": "2025-09-03T09:42:55.439557",
+  "package_url": "https://pypi.org/project/ssh-mcp-py/"
+}

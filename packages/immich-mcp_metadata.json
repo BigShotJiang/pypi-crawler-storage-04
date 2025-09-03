@@ -1,11 +1,11 @@
 {
   "name": "immich-mcp",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "An MCP server for Immich.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "immich_mcp-0.5.3.tar.gz",
-  "download_time": "2025-09-02T20:22:36.523595",
+  "download_filename": "immich_mcp-0.5.4.tar.gz",
+  "download_time": "2025-09-03T09:42:28.973052",
   "package_url": "https://pypi.org/project/immich-mcp/"
 }

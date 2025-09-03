@@ -1,11 +1,11 @@
 {
   "name": "exposedfunctionality",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "tool to expose functionalities to multiple tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exposedfunctionality-1.0.1.tar.gz",
-  "download_time": "2025-09-03T08:49:31.074656",
+  "download_filename": "exposedfunctionality-1.0.2.tar.gz",
+  "download_time": "2025-09-03T09:42:17.807945",
   "package_url": "https://pypi.org/project/exposedfunctionality/"
 }
