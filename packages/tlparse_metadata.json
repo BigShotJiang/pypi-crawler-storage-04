@@ -1,11 +1,11 @@
 {
   "name": "tlparse",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Parse TORCH_LOG logs produced by PyTorch torch.compile",
   "author": "Edward Z. Yang <ezyang@mit.edu>",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "tlparse-0.4.1.tar.gz",
-  "download_time": "2025-09-02T17:18:50.660104",
+  "download_filename": "tlparse-0.4.2.tar.gz",
+  "download_time": "2025-09-03T21:40:41.521001",
   "package_url": "https://pypi.org/project/tlparse/"
 }

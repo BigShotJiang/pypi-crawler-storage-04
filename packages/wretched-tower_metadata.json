@@ -1,0 +1,11 @@
+{
+  "name": "wretched-tower",
+  "version": "0.1.1",
+  "summary": "A digital die rolling tools for use as an alternative tool for games that implement a tumbling tower resolution mechanic such as those based on the Wretched and Alone SRD.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wretched_tower-0.1.1.tar.gz",
+  "download_time": "2025-09-03T21:40:27.632350",
+  "package_url": "https://pypi.org/project/wretched-tower/"
+}

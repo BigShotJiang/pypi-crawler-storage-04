@@ -1,0 +1,11 @@
+{
+  "name": "Meez",
+  "version": "0.3.3",
+  "summary": "AI Assistant and Copilot SDK for SaaS Applications",
+  "author": "clivern",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/clivern/meez/",
+  "download_filename": "meez-0.3.3.tar.gz",
+  "download_time": "2025-09-03T21:40:28.715216",
+  "package_url": "https://pypi.org/project/Meez/"
+}

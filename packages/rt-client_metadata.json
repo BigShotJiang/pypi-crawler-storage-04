@@ -1,0 +1,11 @@
+{
+  "name": "rt-client",
+  "version": "0.6.2",
+  "summary": "Request Tracker Client",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "rt_client-0.6.2.tar.gz",
+  "download_time": "2025-09-03T21:40:43.688842",
+  "package_url": "https://pypi.org/project/rt-client/"
+}

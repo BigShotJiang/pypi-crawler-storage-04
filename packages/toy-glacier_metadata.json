@@ -1,0 +1,11 @@
+{
+  "name": "toy-glacier",
+  "version": "0.1.1",
+  "summary": "This is a toy CLI tool that allows a user to create a 'glacier' and then mimic accumulation & ablation by adding and subtracting mass from it via terminal commands.",
+  "author": "Emma Marshall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toy_glacier-0.1.1.tar.gz",
+  "download_time": "2025-09-03T21:40:34.354025",
+  "package_url": "https://pypi.org/project/toy-glacier/"
+}

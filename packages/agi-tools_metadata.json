@@ -1,11 +1,11 @@
 {
   "name": "agi-tools",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Biblioteca Python para integração com Spark, Data Lake, envio de e-mails corporativos via Microsoft Graph API e manipulação centralizada de configurações. Ideal para projetos de dados que exigem automação, controle de métricas e comunicação corporativa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_tools-0.1.5.tar.gz",
-  "download_time": "2025-09-03T20:43:27.190597",
+  "download_filename": "agi_tools-0.1.6.tar.gz",
+  "download_time": "2025-09-03T21:40:45.326797",
   "package_url": "https://pypi.org/project/agi-tools/"
 }
