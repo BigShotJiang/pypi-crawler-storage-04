@@ -1,11 +1,11 @@
 {
   "name": "cadence-sdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Cadence SDK - To building custom AI agent plugins for Cadence AI Framework",
   "author": "Jonas Kahn",
   "license": "MIT",
   "home_page": "https://github.com/jonaskahn/cadence-sdk",
-  "download_filename": "cadence_sdk-1.0.8.tar.gz",
-  "download_time": "2025-09-03T17:19:57.889512",
+  "download_filename": "cadence_sdk-1.0.9.tar.gz",
+  "download_time": "2025-09-03T17:42:26.588092",
   "package_url": "https://pypi.org/project/cadence-sdk/"
 }

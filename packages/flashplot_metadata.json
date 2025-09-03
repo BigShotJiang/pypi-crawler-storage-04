@@ -1,11 +1,11 @@
 {
   "name": "flashplot",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flashplot-0.0.3.tar.gz",
-  "download_time": "2025-08-29T20:52:28.240260",
+  "download_filename": "flashplot-0.0.6.tar.gz",
+  "download_time": "2025-09-03T17:42:31.522361",
   "package_url": "https://pypi.org/project/flashplot/"
 }
