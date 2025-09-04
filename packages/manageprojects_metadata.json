@@ -1,11 +1,11 @@
 {
   "name": "manageprojects",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "summary": "Manage Python / Django projects",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "manageprojects-0.22.0.tar.gz",
-  "download_time": "2025-09-03T06:51:09.940967",
+  "download_filename": "manageprojects-0.23.0.tar.gz",
+  "download_time": "2025-09-04T16:54:21.837806",
   "package_url": "https://pypi.org/project/manageprojects/"
 }

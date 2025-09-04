@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sqlalchemy-query-builder",
+  "version": "1.0.1",
+  "summary": "A library for building SQLAlchemy queries with support for advanced filtering, sorting, text search, field and relationship selection, pagination, and model to Pydantic schema mapping",
+  "author": "Pedro",
+  "license": "MIT",
+  "home_page": "https://github.com/Pedroffda/fastapi-query-builder",
+  "download_filename": "fastapi_sqlalchemy_query_builder-1.0.1.tar.gz",
+  "download_time": "2025-09-04T16:54:34.433655",
+  "package_url": "https://pypi.org/project/fastapi-sqlalchemy-query-builder/"
+}

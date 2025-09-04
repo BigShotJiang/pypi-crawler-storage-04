@@ -1,0 +1,11 @@
+{
+  "name": "wavesynth",
+  "version": "2.3.0",
+  "summary": "Simple sound-synthesis library for very basic music creation, intended for beginner programmers.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": "https://cs.wellesley.edu/~pmwh/wavesynth/docs/wavesynth",
+  "download_filename": "wavesynth-2.3.0.tar.gz",
+  "download_time": "2025-09-04T16:55:01.147400",
+  "package_url": "https://pypi.org/project/wavesynth/"
+}

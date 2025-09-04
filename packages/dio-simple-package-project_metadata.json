@@ -1,0 +1,11 @@
+{
+  "name": "dio-simple-package-project",
+  "version": "0.0.1",
+  "summary": "Example project for creating a simple package - DIO Course",
+  "author": "Francisco Ricardo",
+  "license": null,
+  "home_page": "https://github.com/fricardo-it/dio-simple-package-project.git",
+  "download_filename": "dio_simple_package_project-0.0.1.tar.gz",
+  "download_time": "2025-09-04T16:54:26.914378",
+  "package_url": "https://pypi.org/project/dio-simple-package-project/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "matrix-zion",
+  "version": "0.1.0",
+  "summary": "Framework para microserviços Python com arquitetura de plugins",
+  "author": "Tuyoshi Vinicius",
+  "license": "MIT",
+  "home_page": "https://github.com/tuyoshivinicius/python-microservice-v2",
+  "download_filename": "matrix_zion-0.1.0.tar.gz",
+  "download_time": "2025-09-04T16:54:44.465816",
+  "package_url": "https://pypi.org/project/matrix-zion/"
+}

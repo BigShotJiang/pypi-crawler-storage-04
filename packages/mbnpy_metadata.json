@@ -1,0 +1,11 @@
+{
+  "name": "mbnpy",
+  "version": "0.1.12",
+  "summary": "MBNpy is a Python package for Bayesian network applications for large-scale system events (i.e. high-dimensional data).",
+  "author": "The DUCO team",
+  "license": null,
+  "home_page": "https://github.com/jieunbyun/MBNpy",
+  "download_filename": "mbnpy-0.1.12.tar.gz",
+  "download_time": "2025-09-04T16:54:36.772423",
+  "package_url": "https://pypi.org/project/mbnpy/"
+}

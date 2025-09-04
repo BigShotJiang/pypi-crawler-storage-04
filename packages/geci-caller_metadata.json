@@ -1,0 +1,11 @@
+{
+  "name": "geci-caller",
+  "version": "0.19.0",
+  "summary": "A template Python module",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/api_caller",
+  "download_filename": "geci_caller-0.19.0.tar.gz",
+  "download_time": "2025-09-04T16:54:49.010676",
+  "package_url": "https://pypi.org/project/geci-caller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "matrix-zion-fastapi",
+  "version": "0.1.0",
+  "summary": "Extensão FastAPI para o framework Matrix - Plugin para APIs REST",
+  "author": "Tuyoshi Vinicius",
+  "license": "MIT",
+  "home_page": "https://github.com/tuyoshivinicius/python-microservice-v2",
+  "download_filename": "matrix_zion_fastapi-0.1.0.tar.gz",
+  "download_time": "2025-09-04T16:54:40.583421",
+  "package_url": "https://pypi.org/project/matrix-zion-fastapi/"
+}
