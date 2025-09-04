@@ -1,11 +1,11 @@
 {
   "name": "AMR",
-  "version": "3.0.0.9022",
+  "version": "3.0.0.9025",
   "summary": "A Python wrapper for the AMR R package",
   "author": "Matthijs Berends",
   "license": "GPL 2",
   "home_page": "https://github.com/msberends/AMR",
-  "download_filename": "amr-3.0.0.9022.tar.gz",
-  "download_time": "2025-09-03T13:45:46.417370",
+  "download_filename": "amr-3.0.0.9025.tar.gz",
+  "download_time": "2025-09-04T12:42:04.463411",
   "package_url": "https://pypi.org/project/AMR/"
 }

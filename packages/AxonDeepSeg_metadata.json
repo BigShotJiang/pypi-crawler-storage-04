@@ -1,0 +1,11 @@
+{
+  "name": "AxonDeepSeg",
+  "version": "5.1.1",
+  "summary": "Axon/Myelin segmentation using AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "axondeepseg-5.1.1-py3-none-any.whl",
+  "download_time": "2025-09-04T12:42:38.157388",
+  "package_url": "https://pypi.org/project/AxonDeepSeg/"
+}

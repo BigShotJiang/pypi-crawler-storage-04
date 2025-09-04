@@ -1,11 +1,11 @@
 {
   "name": "pixelle",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Pixelle MCP: Convert ComfyUI workflows into MCP Tools with a single command, providing an MCP server and a Chainlit-based web UI.",
   "author": "AIDC-AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixelle-0.1.5.tar.gz",
-  "download_time": "2025-09-04T09:23:48.258246",
+  "download_filename": "pixelle-0.1.6.tar.gz",
+  "download_time": "2025-09-04T12:42:16.194230",
   "package_url": "https://pypi.org/project/pixelle/"
 }

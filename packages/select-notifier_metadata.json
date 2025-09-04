@@ -1,0 +1,11 @@
+{
+  "name": "select-notifier",
+  "version": "0.0.1",
+  "summary": "Lightweight email notification module for Select services",
+  "author": "Select Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "select_notifier-0.0.1.tar.gz",
+  "download_time": "2025-09-04T12:42:14.028770",
+  "package_url": "https://pypi.org/project/select-notifier/"
+}

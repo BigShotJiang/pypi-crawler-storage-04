@@ -1,0 +1,11 @@
+{
+  "name": "funcnodes-span",
+  "version": "1.0.0",
+  "summary": "SPectral ANalysis (SPAN) for funcnodes",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "funcnodes_span-1.0.0.tar.gz",
+  "download_time": "2025-09-04T12:42:21.928474",
+  "package_url": "https://pypi.org/project/funcnodes-span/"
+}

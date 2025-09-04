@@ -1,0 +1,11 @@
+{
+  "name": "yield-analysis-sdk",
+  "version": "0.5.1",
+  "summary": "A Python SDK for analyzing DeFi vault performance and yield metrics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yield_analysis_sdk-0.5.1.tar.gz",
+  "download_time": "2025-09-04T12:42:16.714218",
+  "package_url": "https://pypi.org/project/yield-analysis-sdk/"
+}

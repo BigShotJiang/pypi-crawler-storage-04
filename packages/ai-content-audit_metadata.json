@@ -1,0 +1,11 @@
+{
+  "name": "ai-content-audit",
+  "version": "0.2.0",
+  "summary": "基于大语言模型（LLM）的内容审核工具，支持文本与图像，自定义审核项配置，调用模型获得结构化判定结果，使用 OpenAI 兼容接口",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_content_audit-0.2.0.tar.gz",
+  "download_time": "2025-09-04T12:42:22.446785",
+  "package_url": "https://pypi.org/project/ai-content-audit/"
+}
