@@ -1,0 +1,11 @@
+{
+  "name": "django-markov",
+  "version": "0.5.0",
+  "summary": "django-markov is a reusable Django app that enables you to create Markov text models, and store them in the database. Those models can then be used to generate Markov chain sentences.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_markov-0.5.0.tar.gz",
+  "download_time": "2025-09-04T20:44:14.115745",
+  "package_url": "https://pypi.org/project/django-markov/"
+}

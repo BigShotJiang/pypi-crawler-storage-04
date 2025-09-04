@@ -1,0 +1,11 @@
+{
+  "name": "symMaps",
+  "version": "0.0.3",
+  "summary": "System of mappings to navigate stacked system of equations defined over pandas indices",
+  "author": "Rasmus K. Skjødt Berg",
+  "license": null,
+  "home_page": "https://github.com/ChampionApe/symMaps",
+  "download_filename": "symmaps-0.0.3.tar.gz",
+  "download_time": "2025-09-04T20:44:16.766620",
+  "package_url": "https://pypi.org/project/symMaps/"
+}

@@ -5,7 +5,7 @@
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_providers_openai-2.3.1-py3-none-any.whl",
-  "download_time": "2025-09-04T20:24:37.622196",
+  "download_filename": "trulens_providers_openai-2.3.1.tar.gz",
+  "download_time": "2025-09-04T20:44:39.036116",
   "package_url": "https://pypi.org/project/trulens-providers-openai/"
 }

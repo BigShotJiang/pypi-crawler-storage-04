@@ -1,0 +1,11 @@
+{
+  "name": "varaps",
+  "version": "1.2.0",
+  "summary": "VaRaPS : Variants Ratios from Pooled Sequencing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "varaps-1.2.0.tar.gz",
+  "download_time": "2025-09-04T20:44:18.336766",
+  "package_url": "https://pypi.org/project/varaps/"
+}

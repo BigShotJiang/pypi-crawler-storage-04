@@ -5,7 +5,7 @@
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_connectors_snowflake-2.3.1-py3-none-any.whl",
-  "download_time": "2025-09-04T20:24:44.443038",
+  "download_filename": "trulens_connectors_snowflake-2.3.1.tar.gz",
+  "download_time": "2025-09-04T20:44:45.386715",
   "package_url": "https://pypi.org/project/trulens-connectors-snowflake/"
 }
