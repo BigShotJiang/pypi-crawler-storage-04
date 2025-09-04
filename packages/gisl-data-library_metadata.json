@@ -1,11 +1,11 @@
 {
   "name": "gisl-data-library",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A simple Python library for retrieving Genshin Impact character and material data from a JSON file. This is a work in progress.",
   "author": "Imran Bin Gifary (System Delta or Imran Delta Online)",
   "license": null,
   "home_page": "https://github.com/Imran-Delta/GI-Static-Data-Library",
-  "download_filename": "gisl_data_library-0.0.4.tar.gz",
-  "download_time": "2025-09-04T15:44:53.443288",
+  "download_filename": "gisl_data_library-0.0.5.tar.gz",
+  "download_time": "2025-09-04T15:56:44.090861",
   "package_url": "https://pypi.org/project/gisl-data-library/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "voxel51-eta",
+  "version": "0.15.1",
+  "summary": "Extensible Toolkit for Analytics",
+  "author": "Voxel51, Inc.",
+  "license": "Apache",
+  "home_page": "https://github.com/voxel51/eta",
+  "download_filename": "voxel51_eta-0.15.1.tar.gz",
+  "download_time": "2025-09-04T15:56:35.712875",
+  "package_url": "https://pypi.org/project/voxel51-eta/"
+}
