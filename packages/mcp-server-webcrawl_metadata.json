@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-webcrawl",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "MCP server for search and retrieval of web crawler content",
   "author": "Ben Caulfield",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_webcrawl-0.13.0.tar.gz",
-  "download_time": "2025-08-29T14:54:37.051692",
+  "download_filename": "mcp_server_webcrawl-0.13.1.tar.gz",
+  "download_time": "2025-09-04T15:15:35.455974",
   "package_url": "https://pypi.org/project/mcp-server-webcrawl/"
 }

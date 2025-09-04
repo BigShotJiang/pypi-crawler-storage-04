@@ -1,0 +1,11 @@
+{
+  "name": "yyx",
+  "version": "0.1.7",
+  "summary": "一个用于数学建模的工具包，包含数据处理和分析功能",
+  "author": "ZengHao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yyx-0.1.7.tar.gz",
+  "download_time": "2025-09-04T15:15:16.349199",
+  "package_url": "https://pypi.org/project/yyx/"
+}

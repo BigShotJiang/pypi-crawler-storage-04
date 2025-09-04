@@ -1,0 +1,11 @@
+{
+  "name": "arygem",
+  "version": "0.1.0",
+  "summary": "A simple Python wrapper for Google Gemini AI",
+  "author": "Aryan Mishra",
+  "license": null,
+  "home_page": "https://github.com/arycodes/arygem",
+  "download_filename": "arygem-0.1.0.tar.gz",
+  "download_time": "2025-09-04T15:15:22.183594",
+  "package_url": "https://pypi.org/project/arygem/"
+}

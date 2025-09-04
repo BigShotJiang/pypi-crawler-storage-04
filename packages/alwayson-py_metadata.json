@@ -1,11 +1,11 @@
 {
   "name": "alwayson-py",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python bindings for ThingWorx AlwaysOn protocol encoding/decoding",
   "author": null,
   "license": null,
   "home_page": "https://github.com/xudesheng/alwayson_py",
-  "download_filename": "alwayson_py-0.2.1.tar.gz",
-  "download_time": "2025-09-04T14:45:22.586906",
+  "download_filename": "alwayson_py-0.3.0.tar.gz",
+  "download_time": "2025-09-04T15:15:25.060324",
   "package_url": "https://pypi.org/project/alwayson-py/"
 }

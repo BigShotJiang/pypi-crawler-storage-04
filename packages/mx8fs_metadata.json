@@ -1,11 +1,11 @@
 {
   "name": "mx8fs",
-  "version": "1.1.0.20",
+  "version": "1.1.0.21",
   "summary": "MX8 Filing system",
   "author": "Tom Weiss",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mx8fs-1.1.0.20.tar.gz",
-  "download_time": "2025-08-29T07:20:39.889863",
+  "download_filename": "mx8fs-1.1.0.21.tar.gz",
+  "download_time": "2025-09-04T15:15:34.876435",
   "package_url": "https://pypi.org/project/mx8fs/"
 }
