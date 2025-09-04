@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-ladirecta-res-partner-api",
-  "version": "16.0.1.0.0",
-  "summary": "La Directa Res Partner API Connector",
+  "version": "16.0.1.0.0.1",
+  "summary": "La Directa Res Partner API",
   "author": "Coopdevs Treball SCCL,",
   "license": "AGPL-3",
   "home_page": "https://git.coopdevs.org/talaios/addons/odoo-directa#",
-  "download_filename": "odoo_addon_ladirecta_res_partner_api-16.0.1.0.0.tar.gz",
-  "download_time": "2025-09-03T13:46:08.900035",
+  "download_filename": "odoo_addon_ladirecta_res_partner_api-16.0.1.0.0.1.tar.gz",
+  "download_time": "2025-09-04T10:44:43.418787",
   "package_url": "https://pypi.org/project/odoo-addon-ladirecta-res-partner-api/"
 }

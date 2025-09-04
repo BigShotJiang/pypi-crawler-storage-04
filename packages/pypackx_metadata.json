@@ -1,11 +1,11 @@
 {
   "name": "pypackx",
-  "version": "1.0.0",
-  "summary": "React + Tailwind dev tool with live reload and production bundling (esbuild)",
+  "version": "1.0.2",
+  "summary": "React + Tailwind Dev-Server, Hot-live-Reloader and Production-Bundler (Rohit C.)",
   "author": "Rohit Chauhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypackx-1.0.0.tar.gz",
-  "download_time": "2025-09-04T09:55:41.387686",
+  "download_filename": "pypackx-1.0.2.tar.gz",
+  "download_time": "2025-09-04T10:44:27.694484",
   "package_url": "https://pypi.org/project/pypackx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xlpkg",
-  "version": "1.0.0.133",
+  "version": "1.0.0.134",
   "summary": "include xq.p y.py y.py pub.py",
   "author": "xiaolong",
   "license": "MIT",
   "home_page": "https://gitee.com/dellcell/xlpkg",
-  "download_filename": "xlpkg-1.0.0.133.tar.gz",
-  "download_time": "2025-09-04T10:24:06.560222",
+  "download_filename": "xlpkg-1.0.0.134.tar.gz",
+  "download_time": "2025-09-04T10:44:43.939334",
   "package_url": "https://pypi.org/project/xlpkg/"
 }

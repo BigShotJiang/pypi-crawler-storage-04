@@ -1,0 +1,11 @@
+{
+  "name": "sardana",
+  "version": "3.6.0",
+  "summary": "instrument control and data acquisition system",
+  "author": "Tiago Coutinho et al.",
+  "license": "LGPL",
+  "home_page": "http://www.sardana-controls.org",
+  "download_filename": "sardana-3.6.0-py3-none-any.whl",
+  "download_time": "2025-09-04T10:44:34.515901",
+  "package_url": "https://pypi.org/project/sardana/"
+}

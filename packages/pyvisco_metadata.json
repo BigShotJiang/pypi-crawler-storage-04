@@ -1,0 +1,11 @@
+{
+  "name": "pyvisco",
+  "version": "1.0.4",
+  "summary": "Pyvisco is a Python library that supports Prony series identification for linear viscoelastic material models.",
+  "author": "Martin Springer",
+  "license": "BSD-3",
+  "home_page": "https://github.com/NREL/pyvisco",
+  "download_filename": "pyvisco-1.0.4.tar.gz",
+  "download_time": "2025-09-04T10:44:27.177183",
+  "package_url": "https://pypi.org/project/pyvisco/"
+}

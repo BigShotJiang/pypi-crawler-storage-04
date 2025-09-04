@@ -1,11 +1,11 @@
 {
   "name": "batchdownload",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Asynchronous batch directory crawler & downloader",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "batchdownload-0.1.1.tar.gz",
-  "download_time": "2025-09-04T10:24:45.723305",
+  "download_filename": "batchdownload-0.1.2.tar.gz",
+  "download_time": "2025-09-04T10:44:39.781780",
   "package_url": "https://pypi.org/project/batchdownload/"
 }

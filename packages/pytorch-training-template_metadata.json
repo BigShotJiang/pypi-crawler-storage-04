@@ -1,11 +1,11 @@
 {
   "name": "pytorch-training-template",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A modular PyTorch training template for deep learning tasks",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/pytorch-training-template",
-  "download_filename": "pytorch_training_template-0.1.2.tar.gz",
-  "download_time": "2025-09-02T12:45:19.002178",
+  "download_filename": "pytorch_training_template-0.1.3.tar.gz",
+  "download_time": "2025-09-04T10:44:12.971649",
   "package_url": "https://pypi.org/project/pytorch-training-template/"
 }

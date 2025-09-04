@@ -1,0 +1,11 @@
+{
+  "name": "script2stlite",
+  "version": "0.2.0",
+  "summary": "Package to convert a streamlit script and files to an stlite app (https://github.com/whitphx/stlite)",
+  "author": "LukeAFullard",
+  "license": "MIT",
+  "home_page": "https://github.com/LukeAFullard/script2stlite",
+  "download_filename": "script2stlite-0.2.0.tar.gz",
+  "download_time": "2025-09-04T10:44:16.094657",
+  "package_url": "https://pypi.org/project/script2stlite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wakeblaster-sdk",
+  "version": "2.7.40",
+  "summary": "The WakeBlaster SDK",
+  "author": "ProPlanEn GmbH",
+  "license": null,
+  "home_page": "http://www.wakeblaster.net",
+  "download_filename": "wakeblaster-sdk-2.7.40.tar.gz",
+  "download_time": "2025-09-04T10:44:09.849901",
+  "package_url": "https://pypi.org/project/wakeblaster-sdk/"
+}
