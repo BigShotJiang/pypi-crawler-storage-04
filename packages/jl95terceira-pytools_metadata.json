@@ -1,11 +1,11 @@
 {
   "name": "jl95terceira-pytools",
-  "version": "0.10.0",
+  "version": "0.11.1",
   "summary": "Python command line tools collection (general)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jl95terceira_pytools-0.10.0.tar.gz",
-  "download_time": "2025-08-29T09:41:32.333502",
+  "download_filename": "jl95terceira_pytools-0.11.1.tar.gz",
+  "download_time": "2025-09-04T15:45:21.269948",
   "package_url": "https://pypi.org/project/jl95terceira-pytools/"
 }

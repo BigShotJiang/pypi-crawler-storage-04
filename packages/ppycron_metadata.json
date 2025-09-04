@@ -1,0 +1,11 @@
+{
+  "name": "ppycron",
+  "version": "1.1.0",
+  "summary": "PPyCron is a cross-platform Python library for managing scheduled tasks on Linux (cron) and Windows (Task Scheduler).",
+  "author": "Marcio Bernardes Barbosa Junior",
+  "license": "MIT License",
+  "home_page": "https://github.com/marciobbj/ppycron",
+  "download_filename": "ppycron-1.1.0.tar.gz",
+  "download_time": "2025-09-04T15:45:18.100991",
+  "package_url": "https://pypi.org/project/ppycron/"
+}

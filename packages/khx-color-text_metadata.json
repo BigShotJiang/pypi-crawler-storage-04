@@ -1,0 +1,11 @@
+{
+  "name": "khx-color-text",
+  "version": "0.3.0",
+  "summary": "A comprehensive Python package for printing colored and styled text in the terminal with decorative lines, extensive customization options, and IDE autocomplete support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "khx_color_text-0.3.0.tar.gz",
+  "download_time": "2025-09-04T15:45:28.133713",
+  "package_url": "https://pypi.org/project/khx-color-text/"
+}

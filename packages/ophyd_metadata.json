@@ -1,0 +1,11 @@
+{
+  "name": "ophyd",
+  "version": "1.11.0",
+  "summary": "Bluesky hardware abstraction with an emphasis on EPICS",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/bluesky/ophyd",
+  "download_filename": "ophyd-1.11.0.tar.gz",
+  "download_time": "2025-09-04T15:45:13.364596",
+  "package_url": "https://pypi.org/project/ophyd/"
+}

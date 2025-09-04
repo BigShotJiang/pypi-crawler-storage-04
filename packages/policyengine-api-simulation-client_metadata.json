@@ -1,11 +1,11 @@
 {
   "name": "policyengine-api-simulation-client",
-  "version": "0.20250903.6",
+  "version": "0.20250904.7",
   "summary": "A client library for accessing policyengine-api-simulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_api_simulation_client-0.20250903.6.tar.gz",
-  "download_time": "2025-09-03T23:40:35.460413",
+  "download_filename": "policyengine_api_simulation_client-0.20250904.7.tar.gz",
+  "download_time": "2025-09-04T15:45:06.023394",
   "package_url": "https://pypi.org/project/policyengine-api-simulation-client/"
 }

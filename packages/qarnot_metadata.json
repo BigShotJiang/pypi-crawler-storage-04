@@ -1,0 +1,11 @@
+{
+  "name": "qarnot",
+  "version": "2.19.0",
+  "summary": "Qarnot Computing SDK",
+  "author": "Qarnot computing",
+  "license": "apache",
+  "home_page": "https://computing.qarnot.com",
+  "download_filename": "qarnot-2.19.0.tar.gz",
+  "download_time": "2025-09-04T15:45:28.655260",
+  "package_url": "https://pypi.org/project/qarnot/"
+}

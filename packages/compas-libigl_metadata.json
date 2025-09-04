@@ -1,11 +1,11 @@
 {
   "name": "compas-libigl",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "libigl wrapper for COMPAS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "compas_libigl-0.7.5-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-03T11:40:38.330891",
+  "download_filename": "compas_libigl-0.7.6-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-04T15:45:10.714970",
   "package_url": "https://pypi.org/project/compas-libigl/"
 }

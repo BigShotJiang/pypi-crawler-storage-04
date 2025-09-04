@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-ssi-consulting",
-  "version": "14.0.4.0.0",
+  "version": "14.0.4.1.0",
   "summary": "Consulting",
   "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
   "license": "AGPL-3",
   "home_page": "https://simetri-sinergi.id",
-  "download_filename": "odoo14_addon_ssi_consulting-14.0.4.0.0-py3-none-any.whl",
-  "download_time": "2025-09-04T09:23:34.082500",
+  "download_filename": "odoo14_addon_ssi_consulting-14.0.4.1.0-py3-none-any.whl",
+  "download_time": "2025-09-04T15:45:22.317228",
   "package_url": "https://pypi.org/project/odoo14-addon-ssi-consulting/"
 }
