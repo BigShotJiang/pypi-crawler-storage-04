@@ -1,0 +1,11 @@
+{
+  "name": "ime-utils",
+  "version": "0.1.0",
+  "summary": "Chinese IME ciku(aka cell wordlist file) parsing tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ime_utils-0.1.0.tar.gz",
+  "download_time": "2025-09-04T11:19:39.079973",
+  "package_url": "https://pypi.org/project/ime-utils/"
+}

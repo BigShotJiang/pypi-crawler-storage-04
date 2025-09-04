@@ -1,0 +1,11 @@
+{
+  "name": "langchain-modelscope-integration",
+  "version": "0.1.1",
+  "summary": "An integration package connecting ModelScope and LangChain",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_modelscope_integration-0.1.1.tar.gz",
+  "download_time": "2025-09-04T11:19:47.141147",
+  "package_url": "https://pypi.org/project/langchain-modelscope-integration/"
+}

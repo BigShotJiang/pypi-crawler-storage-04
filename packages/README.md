@@ -1,11 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T10:55:50.646357
-- **Total Packages**: 82
-- **Total Size**: 24.3 MB
+- **Download Time**: 2025-09-04T11:20:15.016728
+- **Total Packages**: 85
+- **Total Size**: 25.91 MB
 
 ## Packages List
+- yta-video-pyav
+- pypipr
+- lf-crlf
+- cpcv
+- django-hls
+- xtrack
+- unquotemail
+- HyFetch
+- PVNet_summation
+- dnora
+- attoworld
+- netbox-network-canvas-plugin
+- tb-nightly
+- mcp-ambari-api
+- cpz-ai
+- looker_loader
+- nanobind
+- yta-video-opengl
+- x-tools-pylint
+- ime-utils
+- rayml
+- django-bulk-hooks
+- nesso_cli
+- alpss-processor
+- deribit-trading-sdk
+- vcspull
+- unicorn-eval
+- morphopy
+- dependamerge
+- pineboo
+- fastcs
+- authentik-client
+- smithery
+- langchain-modelscope-integration
+- planqk-commons
+- marlo-mcp
+- optics-framework
+- aiorisk
+- semantics.py3
+- napalm-opengear-ng
+- relkit
+- mailerlite-wrapper
+- orpheus-r
+- olas-operate-middleware
+- pybiwenger
+- qecore
+- safe-cli
+- geotribu
+- vgis-ai
+- mcp-postgresql-ops
+- midna
+- pyptrs
+- mcp-airflow-api
+- zeblok-ai
+- qwak-core
+- inceptum
+- aiko-monitor
+- user-simulator
+- codemie-mcp-datasources
+- clear-skies-akeyless-custom-openapi
 - codemie-mcp-assistants
 - ckzg
 - sregion
@@ -14,7 +74,6 @@
 - omniadapters
 - python-osw-validation
 - rbx
-- cpz-ai
 - justoneapi
 - umbi
 - aurelia
@@ -24,7 +83,6 @@
 - nvidia-mtbench-evaluator
 - nvidia-simple-evals
 - nvidia-tooltalk
-- authentik-client
 - nvidia-crfm-helm
 - nvidia-livecodebench
 - vstt
@@ -33,58 +91,3 @@
 - nvidia-lm-eval
 - splitgill
 - pytest-b-logger
-- core-system-grpc
-- mediacrop
-- momentpy
-- pytorch-training-template
-- arpakitlib
-- regula-facesdk-webclient
-- django-bulk-hooks
-- sp-obs
-- konduktor-nightly
-- neops_graphql
-- pdbeccdutils
-- cntc260
-- ohtell
-- databaseautomationhuz
-- applications-download
-- video-quick-editor-mcp
-- trainy-policy-nightly
-- rebrandly-otel
-- ProfiWiki
-- yta-video-opengl
-- codemie-sdk-python
-- wakeblaster-sdk
-- kst-instruct-following
-- nvidia-mmath
-- letta-nightly
-- aiko-monitor
-- FISHPainter
-- opentaskpy
-- aiagents4pharma
-- pypne
-- script2stlite
-- alpss-processor
-- enebootools
-- sphinx-ts
-- keepassfunctions
-- refpy
-- x-tools-pylint
-- pymediawikidocker
-- fastapi-limiter-tl
-- usss-mysqlhandler
-- funcnodes-core
-- x-tools-mypy
-- nvidia-bfcl
-- vwo-fme-python-sdk
-- arthur-client
-- unitlab
-- nvidia-eval-commons
-- matrice
-- mcpm
-- none-shall-parse
-- pyvisco
-- pypackx
-- tfmindi
-- bimdata-api-client
-- kxy-framework

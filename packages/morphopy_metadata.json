@@ -1,0 +1,11 @@
+{
+  "name": "morphopy",
+  "version": "0.7.3",
+  "summary": "Python package to display morphologies of neurons and compute statistical measures and representations",
+  "author": "Sophie Laturnus, Adam von Daranyi, Ziwei Huang and Philipp Berens",
+  "license": null,
+  "home_page": "https://github.com/berenslab/MorphoPy",
+  "download_filename": "morphopy-0.7.3-py3-none-any.whl",
+  "download_time": "2025-09-04T11:19:43.971532",
+  "package_url": "https://pypi.org/project/morphopy/"
+}

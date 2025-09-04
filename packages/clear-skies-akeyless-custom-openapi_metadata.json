@@ -1,11 +1,11 @@
 {
   "name": "clear-skies-akeyless-custom-openapi",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Akeyless+Clearskies Custom OpenApi Producer/Rotator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clear_skies_akeyless_custom_openapi-2.0.4.tar.gz",
-  "download_time": "2025-09-02T11:40:04.442814",
+  "download_filename": "clear_skies_akeyless_custom_openapi-2.0.5.tar.gz",
+  "download_time": "2025-09-04T11:20:01.212090",
   "package_url": "https://pypi.org/project/clear-skies-akeyless-custom-openapi/"
 }

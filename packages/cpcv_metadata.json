@@ -1,0 +1,11 @@
+{
+  "name": "cpcv",
+  "version": "0.1.0",
+  "summary": "CPCV with Embargo for financial train-test splitting",
+  "author": "Yosri Ben Halima",
+  "license": null,
+  "home_page": "https://github.com/Yosri-Ben-Halima/cpcv",
+  "download_filename": "cpcv-0.1.0.tar.gz",
+  "download_time": "2025-09-04T11:19:30.420919",
+  "package_url": "https://pypi.org/project/cpcv/"
+}
