@@ -1,0 +1,11 @@
+{
+  "name": "sortingview",
+  "version": "0.14.2",
+  "summary": "Web app for viewing results of ephys spike sorting",
+  "author": "Jeff Soules",
+  "license": null,
+  "home_page": "https://github.com/magland/sortingview",
+  "download_filename": "sortingview-0.14.2.tar.gz",
+  "download_time": "2025-09-04T19:18:55.970990",
+  "package_url": "https://pypi.org/project/sortingview/"
+}

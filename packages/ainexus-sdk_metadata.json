@@ -1,11 +1,11 @@
 {
   "name": "ainexus-sdk",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "This is the official SDK for Nexus, a centralized repository system for AI agents.",
   "author": "Ashutosh Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "ainexus_sdk-0.1.3.tar.gz",
-  "download_time": "2025-09-04T18:51:48.122170",
+  "download_filename": "ainexus_sdk-0.1.4.tar.gz",
+  "download_time": "2025-09-04T19:18:47.707823",
   "package_url": "https://pypi.org/project/ainexus-sdk/"
 }

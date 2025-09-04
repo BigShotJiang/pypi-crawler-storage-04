@@ -1,0 +1,11 @@
+{
+  "name": "tera-rag",
+  "version": "0.0.0",
+  "summary": "Tera-RAG: Search Billions, Answer Instantly.",
+  "author": "wangxingjun778",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wangxingjun778/tera-rag",
+  "download_filename": "tera_rag-0.0.0.tar.gz",
+  "download_time": "2025-09-04T19:18:50.809632",
+  "package_url": "https://pypi.org/project/tera-rag/"
+}

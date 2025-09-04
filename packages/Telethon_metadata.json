@@ -1,11 +1,11 @@
 {
   "name": "Telethon",
-  "version": "1.41.0",
+  "version": "1.41.2",
   "summary": "Full-featured Telegram client library for Python 3",
   "author": "Lonami Exo",
   "license": "MIT",
   "home_page": "https://github.com/LonamiWebs/Telethon",
-  "download_filename": "telethon-1.41.0.tar.gz",
-  "download_time": "2025-09-01T15:42:09.898082",
+  "download_filename": "telethon-1.41.2.tar.gz",
+  "download_time": "2025-09-04T19:18:33.225336",
   "package_url": "https://pypi.org/project/Telethon/"
 }

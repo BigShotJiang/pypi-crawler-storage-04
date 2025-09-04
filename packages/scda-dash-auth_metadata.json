@@ -1,0 +1,11 @@
+{
+  "name": "scda-dash-auth",
+  "version": "0.3.8",
+  "summary": "wrapper for scda dash authentication qdt auth service and Microsoft Identity Platform",
+  "author": "Cesar Flores",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scda_dash_auth-0.3.8.tar.gz",
+  "download_time": "2025-09-04T19:18:57.543529",
+  "package_url": "https://pypi.org/project/scda-dash-auth/"
+}
