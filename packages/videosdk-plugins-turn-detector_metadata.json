@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-turn-detector",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "VideoSDK Agent Framework plugin for turnsense turn detector model",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_turn_detector-0.0.31.tar.gz",
-  "download_time": "2025-09-01T15:53:13.885672",
+  "download_filename": "videosdk_plugins_turn_detector-0.0.32.tar.gz",
+  "download_time": "2025-09-04T08:30:01.013845",
   "package_url": "https://pypi.org/project/videosdk-plugins-turn-detector/"
 }

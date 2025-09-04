@@ -1,0 +1,11 @@
+{
+  "name": "agent-workstation",
+  "version": "0.0.0",
+  "summary": "Agent-Workstation: An fully self-hosted multimodal agent framework for building local AI applications.",
+  "author": "wangxingjun778",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wangxingjun778/agent-workstation",
+  "download_filename": "agent_workstation-0.0.0.tar.gz",
+  "download_time": "2025-09-04T08:29:52.006711",
+  "package_url": "https://pypi.org/project/agent-workstation/"
+}

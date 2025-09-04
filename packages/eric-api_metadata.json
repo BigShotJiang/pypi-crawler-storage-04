@@ -1,0 +1,11 @@
+{
+  "name": "eric-api",
+  "version": "1.6.0",
+  "summary": "A Server sent events based messaging microservice implementation",
+  "author": "Luca Stretti",
+  "license": "MIT",
+  "home_page": "https://github.com/laxertu/eric-api",
+  "download_filename": "eric_api-1.6.0.tar.gz",
+  "download_time": "2025-09-04T08:29:43.235859",
+  "package_url": "https://pypi.org/project/eric-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kocoafab",
+  "version": "1.0.6",
+  "summary": "Library to get readings from sensors on a ESP32.",
+  "author": "kocoafab",
+  "license": null,
+  "home_page": "https://kocoafab.cc",
+  "download_filename": "kocoafab-1.0.6.tar.gz",
+  "download_time": "2025-09-04T08:29:34.829767",
+  "package_url": "https://pypi.org/project/kocoafab/"
+}

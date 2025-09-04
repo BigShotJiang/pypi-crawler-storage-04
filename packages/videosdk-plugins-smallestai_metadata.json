@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-smallestai",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "VideoSDK Agent Framework plugin for smallestai services",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_smallestai-0.0.31.tar.gz",
-  "download_time": "2025-09-01T15:53:15.441831",
+  "download_filename": "videosdk_plugins_smallestai-0.0.32.tar.gz",
+  "download_time": "2025-09-04T08:30:02.042888",
   "package_url": "https://pypi.org/project/videosdk-plugins-smallestai/"
 }

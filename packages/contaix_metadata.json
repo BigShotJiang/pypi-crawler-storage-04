@@ -1,0 +1,11 @@
+{
+  "name": "contaix",
+  "version": "0.0.10",
+  "summary": "Tools to make contexts for AI",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/contaix",
+  "download_filename": "contaix-0.0.10.tar.gz",
+  "download_time": "2025-09-04T08:29:50.976749",
+  "package_url": "https://pypi.org/project/contaix/"
+}

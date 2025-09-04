@@ -1,0 +1,11 @@
+{
+  "name": "biobb-haddock",
+  "version": "5.1.1",
+  "summary": "biobb_haddock is the Biobb module collection to compute information-driven flexible protein-protein docking.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_haddock",
+  "download_filename": "biobb_haddock-5.1.1.tar.gz",
+  "download_time": "2025-09-04T08:29:31.752328",
+  "package_url": "https://pypi.org/project/biobb-haddock/"
+}

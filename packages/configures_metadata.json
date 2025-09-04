@@ -1,0 +1,11 @@
+{
+  "name": "configures",
+  "version": "0.9.0",
+  "summary": "Streamlined application runtime configuration, validation and access",
+  "author": "Daniel Sissman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "configures-0.9.0.tar.gz",
+  "download_time": "2025-09-04T08:29:45.301821",
+  "package_url": "https://pypi.org/project/configures/"
+}

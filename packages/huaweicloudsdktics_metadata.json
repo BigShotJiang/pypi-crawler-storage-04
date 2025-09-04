@@ -1,11 +1,11 @@
 {
   "name": "huaweicloudsdktics",
-  "version": "3.1.165",
+  "version": "3.1.166",
   "summary": "TICS",
-  "author": "HuaweiCloud SDK",
-  "license": "Apache LICENSE 2.0",
-  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
-  "download_filename": "huaweicloudsdktics-3.1.165-py3-none-any.whl",
-  "download_time": "2025-08-28T08:28:00.956637",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "huaweicloudsdktics-3.1.166-py3-none-any.whl",
+  "download_time": "2025-09-04T08:30:13.068194",
   "package_url": "https://pypi.org/project/huaweicloudsdktics/"
 }
