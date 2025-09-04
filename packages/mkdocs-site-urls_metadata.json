@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-site-urls",
+  "version": "0.3.1",
+  "summary": "A MkDocs plugin that adds support for site-relative URLs",
+  "author": "Gina Häußge",
+  "license": "MIT",
+  "home_page": "https://github.com/OctoPrint/mkdocs-site-urls",
+  "download_filename": "mkdocs_site_urls-0.3.1.tar.gz",
+  "download_time": "2025-09-04T08:50:53.021655",
+  "package_url": "https://pypi.org/project/mkdocs-site-urls/"
+}

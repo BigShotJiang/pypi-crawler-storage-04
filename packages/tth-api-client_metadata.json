@@ -1,0 +1,11 @@
+{
+  "name": "tth-api-client",
+  "version": "1.4.0",
+  "summary": "Typhoon Test Hub API client library",
+  "author": "Typhoon HIL",
+  "license": null,
+  "home_page": "https://github.com/typhoon-hil",
+  "download_filename": "tth_api_client-1.4.0-py3-none-any.whl",
+  "download_time": "2025-09-04T08:50:50.940377",
+  "package_url": "https://pypi.org/project/tth-api-client/"
+}

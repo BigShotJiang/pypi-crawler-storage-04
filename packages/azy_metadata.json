@@ -1,0 +1,11 @@
+{
+  "name": "azy",
+  "version": "0.0.1",
+  "summary": "A Python package for intelligent information bagging system",
+  "author": "lqxnjk",
+  "license": "MIT",
+  "home_page": "https://github.com/lqxnjk/azy",
+  "download_filename": "azy-0.0.1.tar.gz",
+  "download_time": "2025-09-04T08:50:31.549627",
+  "package_url": "https://pypi.org/project/azy/"
+}

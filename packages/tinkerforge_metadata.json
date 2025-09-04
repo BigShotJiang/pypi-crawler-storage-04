@@ -1,0 +1,11 @@
+{
+  "name": "tinkerforge",
+  "version": "2.1.32",
+  "summary": "Python API Bindings for Tinkerforge Bricks and Bricklets",
+  "author": "Tinkerforge GmbH",
+  "license": "CC0 1.0 Universal",
+  "home_page": "https://www.tinkerforge.com",
+  "download_filename": "tinkerforge-2.1.32.tar.gz",
+  "download_time": "2025-09-04T08:50:43.134686",
+  "package_url": "https://pypi.org/project/tinkerforge/"
+}

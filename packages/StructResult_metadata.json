@@ -1,11 +1,11 @@
 {
   "name": "StructResult",
-  "version": "0.8.10",
+  "version": "0.8.11",
   "summary": "structural result with ExceptionGroup",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structresult-0.8.10.tar.gz",
-  "download_time": "2025-09-04T07:40:35.439166",
+  "download_filename": "structresult-0.8.11.tar.gz",
+  "download_time": "2025-09-04T08:50:26.852887",
   "package_url": "https://pypi.org/project/StructResult/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "apb-duckdb-utils",
+  "version": "1.0.3",
+  "summary": "DuckDB utils",
+  "author": "Ernesto Arredondo Martínez",
+  "license": null,
+  "home_page": "https://github.com/portdebarcelona/PLANOL-generic_python_packages/tree/master/apb_duckdb_utils_pckg",
+  "download_filename": "apb_duckdb_utils-1.0.3.tar.gz",
+  "download_time": "2025-09-04T08:50:49.384516",
+  "package_url": "https://pypi.org/project/apb-duckdb-utils/"
+}
