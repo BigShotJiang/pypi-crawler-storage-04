@@ -1,11 +1,11 @@
 {
   "name": "project-llm-trainer",
-  "version": "0.7.9",
+  "version": "0.8.2",
   "summary": "LLM and VLM trainer",
   "author": "qibin",
   "license": null,
   "home_page": null,
-  "download_filename": "project_llm_trainer-0.7.9-py3-none-any.whl",
-  "download_time": "2025-08-28T11:17:44.784587",
+  "download_filename": "project_llm_trainer-0.8.2-py3-none-any.whl",
+  "download_time": "2025-09-04T06:33:04.763870",
   "package_url": "https://pypi.org/project/project-llm-trainer/"
 }

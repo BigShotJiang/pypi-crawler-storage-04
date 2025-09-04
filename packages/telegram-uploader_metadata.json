@@ -1,0 +1,11 @@
+{
+  "name": "telegram-uploader",
+  "version": "0.9.0",
+  "summary": "Upload (and download) files to Telegram up to 4 GiB using your account. ",
+  "author": "MohammadHam",
+  "license": null,
+  "home_page": "https://github.com/mohammadham/telegram-uploader/",
+  "download_filename": "telegram-uploader-0.9.0.tar.gz",
+  "download_time": "2025-09-04T06:33:06.824827",
+  "package_url": "https://pypi.org/project/telegram-uploader/"
+}
