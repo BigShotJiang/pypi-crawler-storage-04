@@ -1,11 +1,11 @@
 {
   "name": "vibetools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Core modules shared across vibe-engineers libraries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibetools-1.0.1.tar.gz",
-  "download_time": "2025-09-04T17:20:53.747444",
+  "download_filename": "vibetools-1.0.2.tar.gz",
+  "download_time": "2025-09-04T17:42:27.626702",
   "package_url": "https://pypi.org/project/vibetools/"
 }

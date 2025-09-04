@@ -1,11 +1,11 @@
 {
   "name": "mindsdb-sdk",
-  "version": "3.4.7",
+  "version": "3.4.8",
   "summary": "MindsDB Python SDK, provides an SDK to use a remote mindsdb instance",
   "author": "MindsDB Inc",
   "license": "MIT",
   "home_page": "https://github.com/mindsdb/mindsdb_python_sdk",
-  "download_filename": "mindsdb_sdk-3.4.7.tar.gz",
-  "download_time": "2025-09-01T13:47:34.586814",
+  "download_filename": "mindsdb_sdk-3.4.8.tar.gz",
+  "download_time": "2025-09-04T17:42:03.577097",
   "package_url": "https://pypi.org/project/mindsdb-sdk/"
 }

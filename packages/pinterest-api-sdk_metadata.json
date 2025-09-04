@@ -1,0 +1,11 @@
+{
+  "name": "pinterest-api-sdk",
+  "version": "0.2.6",
+  "summary": "Pinterest API SDK",
+  "author": "Pinterest, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pinterest/pinterest-python-sdk",
+  "download_filename": "pinterest_api_sdk-0.2.6.tar.gz",
+  "download_time": "2025-09-04T17:42:07.960253",
+  "package_url": "https://pypi.org/project/pinterest-api-sdk/"
+}

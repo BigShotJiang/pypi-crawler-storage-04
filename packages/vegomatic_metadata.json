@@ -1,0 +1,11 @@
+{
+  "name": "vegomatic",
+  "version": "0.3.0",
+  "summary": "Veg-o-Matic is a multi-module library of various Python Utilities that I have evolved over the years. It originally started as PyDataXlate to provide a data driven field mapping of data sources that I used for various website migrations.",
+  "author": "Mark Gooderum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vegomatic-0.3.0.tar.gz",
+  "download_time": "2025-09-04T17:42:05.212105",
+  "package_url": "https://pypi.org/project/vegomatic/"
+}

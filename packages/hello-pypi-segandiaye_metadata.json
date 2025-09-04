@@ -1,0 +1,11 @@
+{
+  "name": "hello-pypi-segandiaye",
+  "version": "0.1.0",
+  "summary": "A simple example package",
+  "author": "Sega NDIAYE",
+  "license": null,
+  "home_page": "https://github.com/segandiaye/hello-pypi",
+  "download_filename": "hello_pypi_segandiaye-0.1.0.tar.gz",
+  "download_time": "2025-09-04T17:42:02.484878",
+  "package_url": "https://pypi.org/project/hello-pypi-segandiaye/"
+}

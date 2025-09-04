@@ -1,0 +1,11 @@
+{
+  "name": "visiopy",
+  "version": "0.2.1",
+  "summary": "A library to automate Visio operations.",
+  "author": "Yacine Gacem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visiopy-0.2.1.tar.gz",
+  "download_time": "2025-09-04T17:42:01.902926",
+  "package_url": "https://pypi.org/project/visiopy/"
+}
