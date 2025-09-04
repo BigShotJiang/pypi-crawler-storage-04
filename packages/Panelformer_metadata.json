@@ -1,0 +1,11 @@
+{
+  "name": "Panelformer",
+  "version": "0.2.4",
+  "summary": "A transformer-based architecture for robust panel time series forecasting, extending the Temporal Fusion Transformer with multi-scale decomposition, Segment-wise Attention, cross-entity attention, and adaptive trend-seasonal modeling.",
+  "author": "Shabthana Johnson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "panelformer-0.2.4.tar.gz",
+  "download_time": "2025-09-04T09:23:54.012111",
+  "package_url": "https://pypi.org/project/Panelformer/"
+}

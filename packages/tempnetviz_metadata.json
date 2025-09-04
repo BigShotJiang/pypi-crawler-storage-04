@@ -1,11 +1,11 @@
 {
   "name": "tempnetviz",
-  "version": "0.1.121",
+  "version": "0.1.122",
   "summary": null,
   "author": "Corentin Nelias",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tempnetviz-0.1.121.tar.gz",
-  "download_time": "2025-09-03T16:29:07.536372",
+  "download_filename": "tempnetviz-0.1.122.tar.gz",
+  "download_time": "2025-09-04T09:23:58.739097",
   "package_url": "https://pypi.org/project/tempnetviz/"
 }
