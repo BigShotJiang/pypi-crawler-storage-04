@@ -1,0 +1,11 @@
+{
+  "name": "pyriemann-qiskit",
+  "version": "0.4.2",
+  "summary": "Qiskit wrapper for pyRiemann",
+  "author": "Gregoire Cattan",
+  "license": "BSD (3-clause)",
+  "home_page": "https://pyriemann-qiskit.readthedocs.io",
+  "download_filename": "pyriemann_qiskit-0.4.2.tar.gz",
+  "download_time": "2025-09-04T21:24:57.181091",
+  "package_url": "https://pypi.org/project/pyriemann-qiskit/"
+}

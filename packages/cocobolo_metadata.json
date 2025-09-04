@@ -1,0 +1,11 @@
+{
+  "name": "cocobolo",
+  "version": "0.0.1",
+  "summary": "MQTT message router",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cocobolo-0.0.1.tar.gz",
+  "download_time": "2025-09-04T21:25:04.310699",
+  "package_url": "https://pypi.org/project/cocobolo/"
+}

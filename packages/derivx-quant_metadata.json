@@ -1,0 +1,11 @@
+{
+  "name": "derivx-quant",
+  "version": "0.1.0",
+  "summary": "Precificador de derivativos por building blocks (MC/LSMC, PDE CN, Heston FFT, IR Black-76) com DSL declarativa.",
+  "author": "Walter C. Neto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "derivx_quant-0.1.0.tar.gz",
+  "download_time": "2025-09-04T21:24:41.202653",
+  "package_url": "https://pypi.org/project/derivx-quant/"
+}

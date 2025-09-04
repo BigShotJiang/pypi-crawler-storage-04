@@ -1,0 +1,11 @@
+{
+  "name": "ephios",
+  "version": "0.24.2",
+  "summary": "ephios is a tool to manage shifts for medical services.",
+  "author": "Julian Baumann",
+  "license": "MIT",
+  "home_page": "https://ephios.de",
+  "download_filename": "ephios-0.24.2.tar.gz",
+  "download_time": "2025-09-04T21:25:11.839871",
+  "package_url": "https://pypi.org/project/ephios/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-quotes",
+  "version": "0.6.1",
+  "summary": "A reusable Django app to collect quotes for use in random retrieval or generation of sentences using Markov Chains.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_quotes-0.6.1.tar.gz",
+  "download_time": "2025-09-04T21:24:43.529610",
+  "package_url": "https://pypi.org/project/django-quotes/"
+}

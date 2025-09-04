@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mock",
+  "version": "3.15.0",
+  "summary": "Thin-wrapper around the mock package for easier use with pytest",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_mock-3.15.0.tar.gz",
+  "download_time": "2025-09-04T21:25:11.241142",
+  "package_url": "https://pypi.org/project/pytest-mock/"
+}

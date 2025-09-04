@@ -1,11 +1,11 @@
 {
   "name": "tussh",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A fast, responsive Textual TUI for managing and launching SSH hosts from your OpenSSH config.",
   "author": "Kim Schulz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tussh-0.2.0.tar.gz",
-  "download_time": "2025-09-04T17:42:27.076171",
+  "download_filename": "tussh-0.3.0.tar.gz",
+  "download_time": "2025-09-04T21:25:12.430231",
   "package_url": "https://pypi.org/project/tussh/"
 }

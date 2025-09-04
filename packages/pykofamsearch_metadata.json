@@ -1,0 +1,11 @@
+{
+  "name": "pykofamsearch",
+  "version": "2024.11.9",
+  "summary": "Fast implementation of KofamScan optimized for high-memory systems using PyHmmer",
+  "author": "Josh L. Espinoza",
+  "license": "MIT License",
+  "home_page": "https://github.com/jolespin/pykofamsearch",
+  "download_filename": "pykofamsearch-2024.11.9.tar.gz",
+  "download_time": "2025-09-04T21:24:58.336820",
+  "package_url": "https://pypi.org/project/pykofamsearch/"
+}

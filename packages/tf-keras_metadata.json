@@ -1,0 +1,11 @@
+{
+  "name": "tf-keras",
+  "version": "2.20.1",
+  "summary": "Deep learning for humans.",
+  "author": "Keras team",
+  "license": "Apache 2.0",
+  "home_page": "https://keras.io/",
+  "download_filename": "tf_keras-2.20.1.tar.gz",
+  "download_time": "2025-09-04T21:24:26.825782",
+  "package_url": "https://pypi.org/project/tf-keras/"
+}

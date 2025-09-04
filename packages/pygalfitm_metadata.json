@@ -1,0 +1,11 @@
+{
+  "name": "pygalfitm",
+  "version": "1.51",
+  "summary": "Python3 GalfitM wrapper",
+  "author": "Gustavo Schwarz",
+  "license": null,
+  "home_page": "https://github.com/schwarzam/pygalfitm",
+  "download_filename": "pygalfitm-1.51-py3-none-any.whl",
+  "download_time": "2025-09-04T21:24:39.972799",
+  "package_url": "https://pypi.org/project/pygalfitm/"
+}
