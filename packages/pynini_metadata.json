@@ -1,0 +1,11 @@
+{
+  "name": "pynini",
+  "version": "2.1.7",
+  "summary": "Finite-state grammar compilation",
+  "author": "Kyle Gorman <kbg@google.com>",
+  "license": "Apache 2.0",
+  "home_page": "https://pynini.opengrm.org",
+  "download_filename": "pynini-2.1.7.tar.gz",
+  "download_time": "2025-09-04T22:22:31.330329",
+  "package_url": "https://pypi.org/project/pynini/"
+}

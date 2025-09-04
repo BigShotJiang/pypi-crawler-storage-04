@@ -1,11 +1,11 @@
 {
   "name": "cuenca-validations",
-  "version": "2.1.15",
+  "version": "2.1.16",
   "summary": "Cuenca common validations",
   "author": "Cuenca",
   "license": null,
   "home_page": "https://github.com/cuenca-mx/cuenca-validations",
-  "download_filename": "cuenca_validations-2.1.15.tar.gz",
-  "download_time": "2025-09-01T18:29:49.519550",
+  "download_filename": "cuenca_validations-2.1.16.tar.gz",
+  "download_time": "2025-09-04T22:22:08.889798",
   "package_url": "https://pypi.org/project/cuenca-validations/"
 }

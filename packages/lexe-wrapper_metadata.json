@@ -1,11 +1,11 @@
 {
   "name": "lexe-wrapper",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Unofficial, open-source Python wrapper for Lexe Bitcoin Lightning Network wallet integration",
   "author": "Mat Balez",
   "license": "MIT",
   "home_page": "https://github.com/lexe-app/lexe-wrapper",
-  "download_filename": "lexe-wrapper-1.2.0.tar.gz",
-  "download_time": "2025-09-04T21:24:58.914625",
+  "download_filename": "lexe_wrapper-1.2.1.tar.gz",
+  "download_time": "2025-09-04T22:22:41.003610",
   "package_url": "https://pypi.org/project/lexe-wrapper/"
 }

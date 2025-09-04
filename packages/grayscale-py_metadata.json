@@ -1,0 +1,11 @@
+{
+  "name": "grayscale-py",
+  "version": "0.1.0",
+  "summary": "A Python grayscale image converter using C++ and pybind11",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grayscale_py-0.1.0.tar.gz",
+  "download_time": "2025-09-04T22:22:33.594468",
+  "package_url": "https://pypi.org/project/grayscale-py/"
+}

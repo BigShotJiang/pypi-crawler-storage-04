@@ -1,0 +1,11 @@
+{
+  "name": "pytdi",
+  "version": "1.4.0",
+  "summary": "Manipulate and evaluate time-delay interferometry combinations.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pytdi-1.4.0.tar.gz",
+  "download_time": "2025-09-04T22:22:26.897391",
+  "package_url": "https://pypi.org/project/pytdi/"
+}
