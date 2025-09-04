@@ -1,28 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T05:43:23.090616
-- **Total Packages**: 75
-- **Total Size**: 11.73 MB
+- **Download Time**: 2025-09-04T05:54:40.150442
+- **Total Packages**: 73
+- **Total Size**: 10.43 MB
 
 ## Packages List
+- scmpompg
+- nanako
+- uiautodev
+- webagents
+- experiments
+- authentik-client
 - matrice
+- banklewan09
+- doubletake
+- libsw3
+- tps-agent
+- yta-video-opengl
+- cloudshell-tools
+- mangoautomation
+- mangotools
+- swarmsort
+- sq3m
+- geomad
+- just-prompt-sdk
+- pairwiseANIviz
+- htsdk
+- pyxllib
+- neosqlite
+- pyavc
+- cpdts
+- foreva-ai
+- qwak-core
 - wayspiritmcp-weather
 - notebook-intelligence
 - ggdtest
 - novita-sandbox
 - hectofinancial-mcp-server
-- cpdts
-- just-prompt-sdk
 - muoblpsolvers
 - openpecha
-- authentik-client
 - desklog
 - nonebot-plugin-algo
 - cfgtools
-- cloudshell-tools
 - AmaritPg
-- sq3m
 - random-rhythms
 - macode
 - cyberstorm-attestor-schemas
@@ -31,11 +52,9 @@
 - anclient.py3
 - vector-khing
 - khingproject
-- scmpompg
 - sp-package
 - hf-vram-calc
 - Navygram
-- yta-video-opengl
 - pyciv7
 - flexsolve
 - http-misc
@@ -60,24 +79,3 @@
 - zenx
 - TSMasterAPI
 - aliros
-- letta-memory
-- pytest-homeassistant-custom-component
-- tumblrbot
-- git-timemachine
-- genr
-- odoo-addon-maintenance-equipment-tags
-- tdmgm
-- pytest-infrahouse
-- code-scope-mcp
-- anki-release
-- aqt
-- langchain-siliconflow
-- anki
-- zhmiscellany
-- charsi
-- pyssm-client
-- flexibuddiesrl
-- neonunicorn
-- uv-publish-github
-- letta-nightly
-- letta

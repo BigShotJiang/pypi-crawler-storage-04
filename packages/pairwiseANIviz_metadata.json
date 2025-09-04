@@ -1,11 +1,11 @@
 {
   "name": "pairwiseANIviz",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "Pairwise ANI (Average Nucleotide Identity) visualization tool",
   "author": "Runjia Ji",
   "license": null,
   "home_page": "https://github.com/RunJiaJi/pairwiseANIviz",
-  "download_filename": "pairwiseaniviz-1.2.tar.gz",
-  "download_time": "2025-09-04T04:56:02.509083",
+  "download_filename": "pairwiseaniviz-1.3.tar.gz",
+  "download_time": "2025-09-04T05:54:11.641325",
   "package_url": "https://pypi.org/project/pairwiseANIviz/"
 }

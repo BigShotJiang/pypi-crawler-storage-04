@@ -1,11 +1,11 @@
 {
   "name": "tps-agent",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Comprehensive TPS monitoring and throttling library with database-driven controls",
   "author": "Earlypay",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/tps-agent/tps-agent",
-  "download_filename": "tps_agent-2.2.0.tar.gz",
-  "download_time": "2025-09-04T04:26:24.579616",
+  "download_filename": "tps_agent-2.2.1.tar.gz",
+  "download_time": "2025-09-04T05:54:07.018044",
   "package_url": "https://pypi.org/project/tps-agent/"
 }

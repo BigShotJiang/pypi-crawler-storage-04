@@ -1,11 +1,11 @@
 {
   "name": "cloudshell-tools",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "CLI para automatizar tareas en AWS CloudShell",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudshell_tools-0.1.3.tar.gz",
-  "download_time": "2025-09-04T05:42:49.561324",
+  "download_filename": "cloudshell_tools-0.1.4.tar.gz",
+  "download_time": "2025-09-04T05:54:08.038946",
   "package_url": "https://pypi.org/project/cloudshell-tools/"
 }
