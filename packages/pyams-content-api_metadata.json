@@ -1,11 +1,11 @@
 {
   "name": "pyams-content-api",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "PyAMS content REST API components",
   "author": "Thierry Florac",
   "license": "ZPL",
   "home_page": "https://pyams.readthedocs.io",
-  "download_filename": "pyams_content_api-2.2.0.tar.gz",
-  "download_time": "2025-09-04T21:41:36.217220",
+  "download_filename": "pyams_content_api-2.2.1.tar.gz",
+  "download_time": "2025-09-04T21:55:18.461546",
   "package_url": "https://pypi.org/project/pyams-content-api/"
 }
