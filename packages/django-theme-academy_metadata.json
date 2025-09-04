@@ -1,0 +1,11 @@
+{
+  "name": "django-theme-academy",
+  "version": "0.3.12",
+  "summary": "A Tabler-based, fixed left sidebar django theme.",
+  "author": "Caltech IMSS ADS",
+  "license": null,
+  "home_page": "https://github.com/caltechads/django-theme-academy",
+  "download_filename": "django_theme_academy-0.3.12.tar.gz",
+  "download_time": "2025-09-04T23:41:02.339926",
+  "package_url": "https://pypi.org/project/django-theme-academy/"
+}

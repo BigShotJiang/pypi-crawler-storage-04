@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-openai",
+  "version": "2.0.0b19",
+  "summary": "OpenAI plugin for flyte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_openai-2.0.0b19-py3-none-any.whl",
+  "download_time": "2025-09-04T23:41:20.390049",
+  "package_url": "https://pypi.org/project/flyteplugins-openai/"
+}
