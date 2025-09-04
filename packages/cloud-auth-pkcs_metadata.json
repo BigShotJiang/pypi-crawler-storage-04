@@ -1,0 +1,11 @@
+{
+  "name": "cloud-auth-pkcs",
+  "version": "0.0.21",
+  "summary": "Python PKCS-11 based Credentials provider for AWS, Azure and GCP",
+  "author": "Sal Rashid",
+  "license": null,
+  "home_page": "https://github.com/salrashid123/cloud_auth_pkcs",
+  "download_filename": "cloud_auth_pkcs-0.0.21.tar.gz",
+  "download_time": "2025-09-04T13:17:09.584920",
+  "package_url": "https://pypi.org/project/cloud-auth-pkcs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sbcli-vela",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI for managing SimplyBlock cluster",
   "author": "Hamdy",
   "license": null,
   "home_page": "https://www.simplyblock.io/",
-  "download_filename": "sbcli_vela-0.1.0.tar.gz",
-  "download_time": "2025-09-04T09:55:50.089533",
+  "download_filename": "sbcli_vela-0.1.1.tar.gz",
+  "download_time": "2025-09-04T13:16:58.010494",
   "package_url": "https://pypi.org/project/sbcli-vela/"
 }

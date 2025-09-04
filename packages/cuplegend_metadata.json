@@ -1,11 +1,11 @@
 {
   "name": "cuplegend",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "Библиотека для упрощённой работы с Cup Legend API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cuplegend-0.1.1.tar.gz",
-  "download_time": "2025-09-03T19:18:43.565864",
+  "download_filename": "cuplegend-1.0.0.tar.gz",
+  "download_time": "2025-09-04T13:16:44.807361",
   "package_url": "https://pypi.org/project/cuplegend/"
 }

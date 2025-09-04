@@ -1,0 +1,11 @@
+{
+  "name": "eventio",
+  "version": "1.16.1",
+  "summary": "Python read-only implementation of the EventIO file format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eventio-1.16.1.tar.gz",
+  "download_time": "2025-09-04T13:17:21.134475",
+  "package_url": "https://pypi.org/project/eventio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xomateai",
+  "version": "0.0.7",
+  "summary": "AgentMake AI MCP Servers - Easy setup of MCP servers running AgentMake AI agentic components.",
+  "author": "Eliran Wong",
+  "license": "GNU General Public License (GPL)",
+  "home_page": "https://toolmate.ai",
+  "download_filename": "xomateai-0.0.7.tar.gz",
+  "download_time": "2025-09-04T13:17:20.616701",
+  "package_url": "https://pypi.org/project/xomateai/"
+}

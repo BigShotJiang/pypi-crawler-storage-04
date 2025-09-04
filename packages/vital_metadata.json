@@ -1,11 +1,11 @@
 {
   "name": "vital",
-  "version": "2.1.372",
+  "version": "2.1.374",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vital-2.1.372.tar.gz",
-  "download_time": "2025-09-02T18:49:52.843345",
+  "download_filename": "vital-2.1.374.tar.gz",
+  "download_time": "2025-09-04T13:17:18.049971",
   "package_url": "https://pypi.org/project/vital/"
 }
