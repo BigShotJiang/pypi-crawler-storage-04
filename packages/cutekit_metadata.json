@@ -1,0 +1,11 @@
+{
+  "name": "cutekit",
+  "version": "0.9.3",
+  "summary": "The magical build system and package manager",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cutekit-0.9.3.tar.gz",
+  "download_time": "2025-09-04T09:43:23.393175",
+  "package_url": "https://pypi.org/project/cutekit/"
+}

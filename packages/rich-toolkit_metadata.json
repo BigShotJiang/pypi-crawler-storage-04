@@ -1,0 +1,11 @@
+{
+  "name": "rich-toolkit",
+  "version": "0.15.1",
+  "summary": "Rich toolkit for building command-line applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rich_toolkit-0.15.1.tar.gz",
+  "download_time": "2025-09-04T09:43:34.478816",
+  "package_url": "https://pypi.org/project/rich-toolkit/"
+}

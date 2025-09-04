@@ -1,11 +1,11 @@
 {
   "name": "rips",
-  "version": "2025.9.0.1",
+  "version": "2025.9.1.1",
   "summary": "Python Interface for ResInsight",
   "author": "Ceetron Solutions",
   "license": "Copyright (C) 2019-     Equinor ASA\r\n        \r\n        ResInsight is free software: you can redistribute it andor modify\r\n        it under the terms of the GNU General Public License as published by\r\n        the Free Software Foundation, either version 3 of the License, or\r\n        (at your option) any later version.\r\n        \r\n        ResInsight is distributed in the hope that it will be useful, but WITHOUT ANY\r\n        WARRANTY; without even the implied warranty of MERCHANTABILITY or\r\n        FITNESS FOR A PARTICULAR PURPOSE.\r\n        \r\n        See the GNU General Public License at <http:www.gnu.orglicensesgpl.html>\r\n        for more details.\r\n        \r\n        ",
   "home_page": "http://www.resinsight.org",
-  "download_filename": "rips-2025.9.0.1.tar.gz",
-  "download_time": "2025-09-01T13:21:02.782570",
+  "download_filename": "rips-2025.9.1.1.tar.gz",
+  "download_time": "2025-09-04T09:43:35.527228",
   "package_url": "https://pypi.org/project/rips/"
 }

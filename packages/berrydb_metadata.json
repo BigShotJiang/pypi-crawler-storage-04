@@ -1,0 +1,11 @@
+{
+  "name": "berrydb",
+  "version": "1.6.8",
+  "summary": "The database for unstructured data and AI apps",
+  "author": "BerryDB",
+  "license": "Proprietary",
+  "home_page": "https://berrydb.io",
+  "download_filename": "berrydb-1.6.8.tar.gz",
+  "download_time": "2025-09-04T09:43:39.167357",
+  "package_url": "https://pypi.org/project/berrydb/"
+}
