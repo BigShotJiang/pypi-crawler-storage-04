@@ -1,11 +1,11 @@
 {
   "name": "mcp-run-python",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Model Context Protocol server to run Python code in a sandbox.",
   "author": "Samuel Colvin",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_run_python-0.0.20.tar.gz",
-  "download_time": "2025-09-02T21:40:03.079053",
+  "download_filename": "mcp_run_python-0.0.21.tar.gz",
+  "download_time": "2025-09-04T02:46:53.891406",
   "package_url": "https://pypi.org/project/mcp-run-python/"
 }

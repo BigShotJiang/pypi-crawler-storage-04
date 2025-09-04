@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ebook-mcp",
+  "version": "0.1.11",
+  "summary": "An MCP server for chatting with ebooks (PDF/EPUB).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_ebook_mcp-0.1.11.tar.gz",
+  "download_time": "2025-09-04T02:46:53.372901",
+  "package_url": "https://pypi.org/project/iflow-mcp_ebook-mcp/"
+}

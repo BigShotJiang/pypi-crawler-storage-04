@@ -1,11 +1,11 @@
 {
   "name": "pysvgchart",
-  "version": "0.5.4",
+  "version": "0.5.6",
   "summary": "Creates svg based charts in python",
   "author": "Alex Rowley",
   "license": "MIT license",
   "home_page": "https://github.com/arowley-ai/py-svg-chart",
-  "download_filename": "pysvgchart-0.5.4.tar.gz",
-  "download_time": "2025-09-03T07:22:17.592595",
+  "download_filename": "pysvgchart-0.5.6.tar.gz",
+  "download_time": "2025-09-04T02:46:30.584292",
   "package_url": "https://pypi.org/project/pysvgchart/"
 }

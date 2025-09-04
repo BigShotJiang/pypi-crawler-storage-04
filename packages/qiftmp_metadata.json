@@ -1,0 +1,11 @@
+{
+  "name": "qiftmp",
+  "version": "1.2.3",
+  "summary": "Quantitative Information Flow library",
+  "author": "Kostas Chatzikokolakis",
+  "license": null,
+  "home_page": "https://github.com/chatziko/libqif",
+  "download_filename": "qiftmp-1.2.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-04T02:46:47.620270",
+  "package_url": "https://pypi.org/project/qiftmp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bge-python-sdk",
+  "version": "1.0.0",
+  "summary": "可用于调用 BGE 开放平台的相关接口。",
+  "author": "leafcoder,xiangji1204",
+  "license": "MIT",
+  "home_page": "https://github.com/teambge/bge-python-sdk",
+  "download_filename": "bge-python-sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-04T02:46:50.726849",
+  "package_url": "https://pypi.org/project/bge-python-sdk/"
+}

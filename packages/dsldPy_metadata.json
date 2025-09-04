@@ -1,0 +1,11 @@
+{
+  "name": "dsldPy",
+  "version": "0.0.3",
+  "summary": "Python wrappers around the R 'dsld' package via rpy2",
+  "author": "A. Mittal, T. Abdullah, A. Ashok, B. Zarate Estrada, S. Martha, B. Ouattara, J. Tran, and N. Matloff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsldpy-0.0.3.tar.gz",
+  "download_time": "2025-09-04T02:46:20.109246",
+  "package_url": "https://pypi.org/project/dsldPy/"
+}
