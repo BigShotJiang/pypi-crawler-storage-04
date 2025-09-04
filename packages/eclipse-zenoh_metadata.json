@@ -1,0 +1,11 @@
+{
+  "name": "eclipse-zenoh",
+  "version": "1.5.1",
+  "summary": "The python API for Eclipse zenoh",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eclipse_zenoh-1.5.1.tar.gz",
+  "download_time": "2025-09-04T13:54:23.469961",
+  "package_url": "https://pypi.org/project/eclipse-zenoh/"
+}

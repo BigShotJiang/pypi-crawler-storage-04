@@ -1,0 +1,11 @@
+{
+  "name": "ibasis",
+  "version": "0.0.5",
+  "summary": "basic functions in coding, include fio, image processing, profile, etc.",
+  "author": "Avins Wang",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/AvinsWang/ibasis",
+  "download_filename": "ibasis-0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-04T13:54:53.239351",
+  "package_url": "https://pypi.org/project/ibasis/"
+}

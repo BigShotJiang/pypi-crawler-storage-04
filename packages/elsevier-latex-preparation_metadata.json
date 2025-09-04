@@ -1,11 +1,11 @@
 {
   "name": "elsevier-latex-preparation",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "Merge LaTeX files and resources for Elsevier Editorial Manager submission",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elsevier_latex_preparation-0.1.8.tar.gz",
-  "download_time": "2025-09-04T13:42:19.757813",
+  "download_filename": "elsevier_latex_preparation-0.2.0.tar.gz",
+  "download_time": "2025-09-04T13:54:32.389696",
   "package_url": "https://pypi.org/project/elsevier-latex-preparation/"
 }

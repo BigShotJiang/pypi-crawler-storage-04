@@ -1,0 +1,11 @@
+{
+  "name": "asyauth-bAD",
+  "version": "0.0.29",
+  "summary": "Unified authentication library",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/CravateRouge/asyauth-bAD",
+  "download_filename": "asyauth_bad-0.0.29.tar.gz",
+  "download_time": "2025-09-04T13:54:56.875329",
+  "package_url": "https://pypi.org/project/asyauth-bAD/"
+}

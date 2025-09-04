@@ -1,0 +1,11 @@
+{
+  "name": "msldap-bAD",
+  "version": "0.5.26",
+  "summary": "Python library to play with MS LDAP",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/CravateRouge/msldap-bAD",
+  "download_filename": "msldap_bad-0.5.26.tar.gz",
+  "download_time": "2025-09-04T13:54:53.758575",
+  "package_url": "https://pypi.org/project/msldap-bAD/"
+}
