@@ -1,0 +1,11 @@
+{
+  "name": "anti-clustering",
+  "version": "0.4.1",
+  "summary": "Generic Anti-Clustering Algorithm for Creating Maximally Diverse Clusters",
+  "author": "Matthias Als",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SneaksAndData/anti-clustering",
+  "download_filename": "anti_clustering-0.4.1.tar.gz",
+  "download_time": "2025-09-04T06:53:05.908849",
+  "package_url": "https://pypi.org/project/anti-clustering/"
+}

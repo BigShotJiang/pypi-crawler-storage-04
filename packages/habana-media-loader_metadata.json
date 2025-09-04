@@ -1,0 +1,11 @@
+{
+  "name": "habana-media-loader",
+  "version": "1.22.0.740",
+  "summary": "Dataloader using Habana hardware media pipeline",
+  "author": "Habana Labs Ltd., an Intel Company",
+  "license": "See LICENSE.txt",
+  "home_page": "https://habana.ai/",
+  "download_filename": "habana_media_loader-1.22.0.740-py3-none-any.whl",
+  "download_time": "2025-09-04T06:53:18.607676",
+  "package_url": "https://pypi.org/project/habana-media-loader/"
+}
