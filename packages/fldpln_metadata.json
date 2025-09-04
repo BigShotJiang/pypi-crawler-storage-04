@@ -1,0 +1,11 @@
+{
+  "name": "fldpln",
+  "version": "0.0.15",
+  "summary": "Flood inundation modeling and mapping using the FLDPLN model",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "fldpln-0.0.15-py2.py3-none-any.whl",
+  "download_time": "2025-09-04T04:26:28.193812",
+  "package_url": "https://pypi.org/project/fldpln/"
+}

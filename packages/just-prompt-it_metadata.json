@@ -1,11 +1,11 @@
 {
   "name": "just-prompt-it",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "A Python SDK for fetching and rendering prompts from Prompt Studio API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "just_prompt_it-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-03T10:24:15.709563",
+  "download_filename": "just_prompt_it-1.0.1.tar.gz",
+  "download_time": "2025-09-04T04:26:10.067693",
   "package_url": "https://pypi.org/project/just-prompt-it/"
 }

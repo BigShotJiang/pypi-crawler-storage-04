@@ -1,11 +1,11 @@
 {
   "name": "nacos-serving-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Nacos 2.x async serving & config SDK with auto registration and discovery extensions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nacos_serving_python-0.1.1.tar.gz",
-  "download_time": "2025-09-03T13:46:10.458759",
+  "download_filename": "nacos_serving_python-0.1.2.tar.gz",
+  "download_time": "2025-09-04T04:26:29.240674",
   "package_url": "https://pypi.org/project/nacos-serving-python/"
 }

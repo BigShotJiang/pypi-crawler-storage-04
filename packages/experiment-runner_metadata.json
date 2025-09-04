@@ -1,11 +1,11 @@
 {
   "name": "experiment-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A tool to orchestrate branch-based workflows and automate job submission for ACCESS experiments.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "experiment_runner-0.1.0.tar.gz",
-  "download_time": "2025-08-28T22:19:29.808124",
+  "download_filename": "experiment_runner-0.1.1.tar.gz",
+  "download_time": "2025-09-04T04:26:30.296266",
   "package_url": "https://pypi.org/project/experiment-runner/"
 }

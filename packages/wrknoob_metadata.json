@@ -1,11 +1,11 @@
 {
   "name": "wrknoob",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "A simple CLI tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wrknoob-1.0.10.tar.gz",
-  "download_time": "2025-09-04T03:49:29.066766",
+  "download_filename": "wrknoob-1.0.11.tar.gz",
+  "download_time": "2025-09-04T04:26:32.851074",
   "package_url": "https://pypi.org/project/wrknoob/"
 }

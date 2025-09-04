@@ -1,0 +1,11 @@
+{
+  "name": "deep-apply",
+  "version": "1.0.5",
+  "summary": "Deep traverse through an object and apply a function on its values.",
+  "author": "Zairon Jacobs",
+  "license": "MIT",
+  "home_page": "https://github.com/zaironjacobs/deep-apply",
+  "download_filename": "deep_apply-1.0.5.tar.gz",
+  "download_time": "2025-09-04T04:26:26.131162",
+  "package_url": "https://pypi.org/project/deep-apply/"
+}

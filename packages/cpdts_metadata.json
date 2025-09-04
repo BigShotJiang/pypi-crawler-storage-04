@@ -1,11 +1,11 @@
 {
   "name": "cpdts",
-  "version": "0.1.4",
-  "summary": "Add your description here",
+  "version": "0.1.9",
+  "summary": "这个一个AI项目脚手架工具",
   "author": "lipanpan-hub",
   "license": null,
   "home_page": null,
-  "download_filename": "cpdts-0.1.4-py3-none-any.whl",
-  "download_time": "2025-09-04T03:49:12.976624",
+  "download_filename": "cpdts-0.1.9-py3-none-any.whl",
+  "download_time": "2025-09-04T04:26:42.606254",
   "package_url": "https://pypi.org/project/cpdts/"
 }

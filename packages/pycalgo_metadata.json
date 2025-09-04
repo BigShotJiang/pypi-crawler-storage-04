@@ -1,11 +1,11 @@
 {
   "name": "pycalgo",
-  "version": "0.1.8",
-  "summary": "A Python calculator library using Go-based DLL implementation",
+  "version": "0.3.0",
+  "summary": "A cross-platform Python calculator library using Go-based native implementations",
   "author": "Pranesh",
   "license": null,
-  "home_page": null,
-  "download_filename": "pycalgo-0.1.8.tar.gz",
-  "download_time": "2025-09-03T14:45:12.217555",
+  "home_page": "https://github.com/Pranesh-2005/Go_plus_python_simple_calculator_package",
+  "download_filename": "pycalgo-0.3.0.tar.gz",
+  "download_time": "2025-09-04T04:26:14.196611",
   "package_url": "https://pypi.org/project/pycalgo/"
 }
