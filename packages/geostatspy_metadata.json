@@ -1,0 +1,11 @@
+{
+  "name": "geostatspy",
+  "version": "0.0.76",
+  "summary": "Open-source spatial data analytics and geostatistics methods in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geostatspy-0.0.76.tar.gz",
+  "download_time": "2025-09-04T23:21:07.610292",
+  "package_url": "https://pypi.org/project/geostatspy/"
+}
