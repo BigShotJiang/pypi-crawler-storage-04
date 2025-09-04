@@ -1,11 +1,11 @@
 {
   "name": "pmcc-quantitative-strategy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "PMCC quantitative strategy prototype (dry-run)",
   "author": "PMCC Team",
   "license": null,
   "home_page": null,
-  "download_filename": "pmcc_quantitative_strategy-1.0.3.tar.gz",
-  "download_time": "2025-09-04T02:46:40.316230",
+  "download_filename": "pmcc_quantitative_strategy-1.0.4.tar.gz",
+  "download_time": "2025-09-04T03:49:37.543915",
   "package_url": "https://pypi.org/project/pmcc-quantitative-strategy/"
 }

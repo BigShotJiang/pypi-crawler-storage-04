@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-duckdb",
+  "version": "0.1.0",
+  "summary": "Custom Airflow provider for DuckDB connection type",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_duckdb-0.1.0.tar.gz",
+  "download_time": "2025-09-04T03:49:43.806202",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-duckdb/"
+}

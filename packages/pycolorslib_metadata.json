@@ -1,0 +1,11 @@
+{
+  "name": "pycolorslib",
+  "version": "0.1.1",
+  "summary": "A library that adds colour variables",
+  "author": "kovu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycolorslib-0.1.1.tar.gz",
+  "download_time": "2025-09-04T03:49:28.436081",
+  "package_url": "https://pypi.org/project/pycolorslib/"
+}

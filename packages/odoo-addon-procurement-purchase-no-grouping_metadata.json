@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-procurement-purchase-no-grouping",
+  "version": "18.0.1.0.0.3",
+  "summary": "Procurement Purchase No Grouping",
+  "author": "AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_procurement_purchase_no_grouping-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-04T03:49:33.055149",
+  "package_url": "https://pypi.org/project/odoo-addon-procurement-purchase-no-grouping/"
+}
