@@ -1,11 +1,11 @@
 {
   "name": "semantix-agentix",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "ML Flow interceptor for Semantix AI Governance",
   "author": "Artur Rodrigues",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "semantix_agentix-0.1.3.tar.gz",
-  "download_time": "2025-09-04T18:31:51.861164",
+  "download_filename": "semantix_agentix-0.1.4.tar.gz",
+  "download_time": "2025-09-04T19:41:11.743958",
   "package_url": "https://pypi.org/project/semantix-agentix/"
 }

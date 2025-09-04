@@ -1,0 +1,11 @@
+{
+  "name": "envoxyd",
+  "version": "0.3.0",
+  "summary": "Envoxyd",
+  "author": "Matheus Santos",
+  "license": null,
+  "home_page": "https://github.com/muzzley/envoxy",
+  "download_filename": "envoxyd-0.3.0.tar.gz",
+  "download_time": "2025-09-04T19:41:43.454549",
+  "package_url": "https://pypi.org/project/envoxyd/"
+}

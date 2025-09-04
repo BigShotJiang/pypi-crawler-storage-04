@@ -1,0 +1,11 @@
+{
+  "name": "pybeepop-plus",
+  "version": "0.1.4",
+  "summary": "EPA's Python interface for the EPA/USDA honey bee colony model BeePop+",
+  "author": "Jeffrey Minucci",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybeepop_plus-0.1.4.tar.gz",
+  "download_time": "2025-09-04T19:41:37.585637",
+  "package_url": "https://pypi.org/project/pybeepop-plus/"
+}

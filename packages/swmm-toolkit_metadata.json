@@ -1,0 +1,11 @@
+{
+  "name": "swmm-toolkit",
+  "version": "0.16.0",
+  "summary": "PySWMM SWMM Python Toolkit",
+  "author": "See AUTHORS",
+  "license": "CC0",
+  "home_page": "https://github.com/pyswmm/swmm-python",
+  "download_filename": "swmm_toolkit-0.16.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-04T19:41:47.112493",
+  "package_url": "https://pypi.org/project/swmm-toolkit/"
+}

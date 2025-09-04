@@ -1,0 +1,11 @@
+{
+  "name": "sourcepatterndata",
+  "version": "1.0",
+  "summary": "This is to find the errors in IICS session logs. I have took some patterns to identify the errors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sourcepatterndata-1.0.tar.gz",
+  "download_time": "2025-09-04T19:41:13.849867",
+  "package_url": "https://pypi.org/project/sourcepatterndata/"
+}

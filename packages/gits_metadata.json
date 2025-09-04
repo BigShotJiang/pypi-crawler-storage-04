@@ -1,0 +1,11 @@
+{
+  "name": "gits",
+  "version": "1.0.5",
+  "summary": "Gits is a Python command-line application designed to help you to handle multiple GitHub and GitLab repositories on your machine. With using Gits, you can start cloning from and pushing to multiple GitHub and GitLab accounts without any additional configurations - It automatically sets up everything needed to prevent conflicts between your accounts.",
+  "author": "Irakli Gzirishvili",
+  "license": null,
+  "home_page": "https://github.com/IG-onGit/Gits",
+  "download_filename": "gits-1.0.5.tar.gz",
+  "download_time": "2025-09-04T19:41:40.773828",
+  "package_url": "https://pypi.org/project/gits/"
+}
