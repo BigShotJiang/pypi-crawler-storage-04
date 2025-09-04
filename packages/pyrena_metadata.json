@@ -1,0 +1,11 @@
+{
+  "name": "pyrena",
+  "version": "1.4.3",
+  "summary": "Python wrapper for Arena QMS API.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/thecodeforge/pyrena",
+  "download_filename": "pyrena-1.4.3.tar.gz",
+  "download_time": "2025-09-04T19:54:44.799247",
+  "package_url": "https://pypi.org/project/pyrena/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rxnextract",
+  "version": "1.2.0",
+  "summary": "Professional chemistry reaction extraction using fine-tuned LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rxnextract-1.2.0.tar.gz",
+  "download_time": "2025-09-04T19:54:38.708869",
+  "package_url": "https://pypi.org/project/rxnextract/"
+}

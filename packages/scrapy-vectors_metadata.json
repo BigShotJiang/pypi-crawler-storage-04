@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-vectors",
+  "version": "0.2.1",
+  "summary": "Vector embeddings generation and storage for Scrapy",
+  "author": "Kyle Kai Hang Tan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_vectors-0.2.1.tar.gz",
+  "download_time": "2025-09-04T19:54:39.262573",
+  "package_url": "https://pypi.org/project/scrapy-vectors/"
+}

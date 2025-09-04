@@ -1,27 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T19:41:52.233792
-- **Total Packages**: 89
-- **Total Size**: 33.64 MB
+- **Download Time**: 2025-09-04T19:55:21.313532
+- **Total Packages**: 86
+- **Total Size**: 14.46 MB
 
 ## Packages List
+- mabel
+- here-search-demo
+- mc-netease-sdk-nyrev
+- txgraffiti
+- langgraph-runtime-inmem
+- fsai-proto-specs
+- PETINA
+- llm4time
+- django-podcast-analyzer
+- qawolf-socket-pypi
+- authentik-client
+- rxnextract
+- scrapy-vectors
+- careless
+- chython
+- terra-scientific-pipelines-service-api-client
+- semantix-agentix
+- cuenca-validations
+- pr-arena
+- mcp-foxxy-bridge
+- awslabs.aws-appsync-mcp-server
+- tap-readthedocs
+- pyrena
+- mcp-client-capabilities
+- agilicus
+- hdn-research-environment
+- lollms-client
+- drf-nested-model-serializer
+- pgai
+- increase
 - neurohub
 - weave
 - SwiftGUI
 - tap-pypistats
 - svc-infra
 - airbyte-source-shopify
-- txgraffiti
 - filoma
 - eyepop
 - openlayer
-- llm4time
 - bingo-nasa
-- authentik-client
 - caption-flow
-- fsai-proto-specs
-- semantix-agentix
 - simple-aws-lambda
 - cetus-tools
 - sourcepatterndata
@@ -67,31 +92,3 @@
 - types-boto3-cloudformation
 - mypy-boto3-ec2
 - mypy-boto3-cloudformation
-- mypy-boto3-cleanrooms
-- pybeepop-plus
-- spyctl
-- mujoco-usd-converter
-- boto3
-- lumibot
-- awscli
-- gits
-- kopipasta
-- biosteam
-- rasa-pro
-- envoxyd
-- rt-generic
-- envoxy
-- drycli
-- dockerfile-analyzer
-- arpakitlib
-- netbox-plugin-dhcp
-- swmm-toolkit
-- chaogates
-- mcp-nano-banana
-- truss
-- sentry-streams
-- modal
-- tty-egpf-monitor
-- ehrdata
-- xwr
-- chatnificent
