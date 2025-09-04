@@ -1,0 +1,11 @@
+{
+  "name": "scbsp",
+  "version": "0.3.1",
+  "summary": "A package that efficiently computes p-values for a given set of genes based on input matrices representing cell coordinates and gene expression data",
+  "author": "Yiqing Wang, Jinpu Li",
+  "license": "GPLv3",
+  "home_page": "https://github.com/YQ-Wang/scBSP",
+  "download_filename": "scbsp-0.3.1.tar.gz",
+  "download_time": "2025-09-04T04:55:55.853950",
+  "package_url": "https://pypi.org/project/scbsp/"
+}
