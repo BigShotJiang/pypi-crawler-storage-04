@@ -1,0 +1,11 @@
+{
+  "name": "pybugmate",
+  "version": "0.1.0",
+  "summary": "Effortless debugging, error hints, profiling, and postmortem REPL for Python",
+  "author": "ANU SONI",
+  "license": null,
+  "home_page": "https://github.com/ANU-2524/pybugmate",
+  "download_filename": "pybugmate-0.1.0.tar.gz",
+  "download_time": "2025-09-04T11:54:14.670236",
+  "package_url": "https://pypi.org/project/pybugmate/"
+}

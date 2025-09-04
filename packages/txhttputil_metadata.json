@@ -1,0 +1,11 @@
+{
+  "name": "txhttputil",
+  "version": "1.4.7",
+  "summary": "Synerty utility classes for serving a static site with twisted.web with user permissions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txhttputil-1.4.7.tar.gz",
+  "download_time": "2025-09-04T11:54:13.130713",
+  "package_url": "https://pypi.org/project/txhttputil/"
+}

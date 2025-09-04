@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T11:41:09.359100
-- **Total Packages**: 83
-- **Total Size**: 22.47 MB
+- **Download Time**: 2025-09-04T11:54:53.217731
+- **Total Packages**: 82
+- **Total Size**: 30.89 MB
 
 ## Packages List
+- speculos
+- cognite-toolkit
+- brainles-preprocessing
+- ultralytics
+- legit-api-client
+- delpha-mcp
+- txhttputil
+- rcabench-platform
+- jaf-py
+- pybugmate
+- weblib-py
+- exsited
+- xsuite
+- rayml
+- promptlifter
+- authentik-client
+- methylome-miner
+- unique_sdk
+- osfexport
+- llm-api-access
+- odoo-addon-fieldservice-sale-agreement-equipment-stock
+- pocketlint
+- prometrix
+- intentkit
+- k2vault
+- ohtell
+- dnora
+- kleinkram
+- aiola
+- django-glide
+- ecodev-core
+- crypto-pandas
+- django-bulk-hooks
+- simpleconverts
+- stigg-api-client-v2
+- comrak-ext
+- primalbedtools
+- py-replay-bg
+- langchain-timbr
+- stooqpy
+- stigg-api-client
+- flowpaths
+- exact-clustering
+- scapi-py
+- reposmith-tol
 - pyodys
 - ts-ml-bundle
 - entity-query-language
@@ -23,7 +68,6 @@
 - cybertemp
 - Products.PloneMeeting
 - odoo-addon-fieldservice-sale-agreement
-- authentik-client
 - matrice
 - linregmc
 - fiuai-sdk-python
@@ -35,10 +79,8 @@
 - dwarp
 - torchx-nightly
 - optics-framework
-- intentkit
 - tesseract-jax
 - mxcubeweb
-- django-bulk-hooks
 - smithery
 - hyperchoron
 - wela-agents
@@ -46,46 +88,3 @@
 - asyncly
 - arpakitlib
 - jam.py-v7
-- weblib-py
-- kreuzberg
-- pyptrs
-- Fr1997v011
-- esiaccel
-- zimagi
-- yta-video-pyav
-- pypipr
-- lf-crlf
-- cpcv
-- django-hls
-- xtrack
-- unquotemail
-- HyFetch
-- PVNet_summation
-- dnora
-- attoworld
-- netbox-network-canvas-plugin
-- tb-nightly
-- mcp-ambari-api
-- cpz-ai
-- looker_loader
-- nanobind
-- yta-video-opengl
-- x-tools-pylint
-- ime-utils
-- rayml
-- nesso_cli
-- alpss-processor
-- deribit-trading-sdk
-- vcspull
-- unicorn-eval
-- morphopy
-- dependamerge
-- pineboo
-- fastcs
-- langchain-modelscope-integration
-- planqk-commons
-- marlo-mcp
-- aiorisk
-- semantics.py3
-- relkit
-- mailerlite-wrapper

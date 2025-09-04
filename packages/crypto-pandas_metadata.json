@@ -1,11 +1,11 @@
 {
   "name": "crypto-pandas",
-  "version": "0.12.2",
+  "version": "0.12.4",
   "summary": "Library combining the power of CCXT with Pandas.",
   "author": "Sigma Quantiphi",
   "license": "Apache-2.0",
   "home_page": "https://github.com/sigma-quantiphi/crypto-pandas",
-  "download_filename": "crypto_pandas-0.12.2.tar.gz",
-  "download_time": "2025-09-03T12:43:18.352706",
+  "download_filename": "crypto_pandas-0.12.4.tar.gz",
+  "download_time": "2025-09-04T11:54:26.092272",
   "package_url": "https://pypi.org/project/crypto-pandas/"
 }

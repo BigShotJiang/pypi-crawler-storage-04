@@ -1,0 +1,11 @@
+{
+  "name": "primalbedtools",
+  "version": "1.0.0",
+  "summary": "A collection of tools for working with primer.bed files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "primalbedtools-1.0.0.tar.gz",
+  "download_time": "2025-09-04T11:54:28.676271",
+  "package_url": "https://pypi.org/project/primalbedtools/"
+}
