@@ -1,0 +1,11 @@
+{
+  "name": "pikoro",
+  "version": "1.0.0",
+  "summary": "Smart pip requirements installer - Pikori manages your installations",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pikoro-1.0.0.tar.gz",
+  "download_time": "2025-09-04T09:55:51.853214",
+  "package_url": "https://pypi.org/project/pikoro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-moses",
-  "version": "0.12.6",
+  "version": "0.12.7",
   "summary": "Advanced authentication with OTP and phone number verification",
   "author": "Vassily Vorobyov",
   "license": null,
   "home_page": null,
-  "download_filename": "django_moses-0.12.6.tar.gz",
-  "download_time": "2025-09-01T11:21:09.987223",
+  "download_filename": "django_moses-0.12.7.tar.gz",
+  "download_time": "2025-09-04T09:55:45.489939",
   "package_url": "https://pypi.org/project/django-moses/"
 }

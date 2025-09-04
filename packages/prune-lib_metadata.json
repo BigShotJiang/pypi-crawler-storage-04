@@ -1,11 +1,11 @@
 {
   "name": "prune-lib",
-  "version": "1.21.6",
+  "version": "1.22.2",
   "summary": "Internal library for prune.sh",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prune_lib-1.21.6.tar.gz",
-  "download_time": "2025-09-03T07:21:48.565587",
+  "download_filename": "prune_lib-1.22.2.tar.gz",
+  "download_time": "2025-09-04T09:55:53.601602",
   "package_url": "https://pypi.org/project/prune-lib/"
 }

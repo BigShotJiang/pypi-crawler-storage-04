@@ -1,0 +1,11 @@
+{
+  "name": "jhub-authenticators",
+  "version": "0.6.0",
+  "summary": "A collection of HTTP(s) JupyterHub Header Authenticators,including a Header, and Dummy authenticator",
+  "author": "Rasmus Munk",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/ucphhpc/jhub-authenticators",
+  "download_filename": "jhub_authenticators-0.6.0.tar.gz",
+  "download_time": "2025-09-04T09:55:58.315597",
+  "package_url": "https://pypi.org/project/jhub-authenticators/"
+}
