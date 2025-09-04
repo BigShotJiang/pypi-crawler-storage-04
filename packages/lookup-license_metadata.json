@@ -1,11 +1,11 @@
 {
   "name": "lookup-license",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "NAME",
   "author": "Henrik Sanklef",
   "license": null,
   "home_page": "https://github.com/hesa/lookup-license",
-  "download_filename": "lookup_license-0.1.20.tar.gz",
-  "download_time": "2025-09-02T20:41:07.319746",
+  "download_filename": "lookup_license-0.1.21.tar.gz",
+  "download_time": "2025-09-04T20:25:08.315684",
   "package_url": "https://pypi.org/project/lookup-license/"
 }

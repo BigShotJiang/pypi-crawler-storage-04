@@ -1,0 +1,11 @@
+{
+  "name": "bayes-traj",
+  "version": "1.0.7",
+  "summary": "bayes_traj",
+  "author": "James Ross",
+  "license": null,
+  "home_page": "https://github.com/acil-bwh/bayes_traj",
+  "download_filename": "bayes_traj-1.0.7.tar.gz",
+  "download_time": "2025-09-04T20:25:18.522003",
+  "package_url": "https://pypi.org/project/bayes-traj/"
+}

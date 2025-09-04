@@ -1,11 +1,11 @@
 {
   "name": "trulens-providers-langchain",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Library to systematically track and evaluate LLM based applications.",
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_providers_langchain-2.3.0.tar.gz",
-  "download_time": "2025-08-28T20:22:40.406074",
+  "download_filename": "trulens_providers_langchain-2.3.1-py3-none-any.whl",
+  "download_time": "2025-09-04T20:24:38.712840",
   "package_url": "https://pypi.org/project/trulens-providers-langchain/"
 }

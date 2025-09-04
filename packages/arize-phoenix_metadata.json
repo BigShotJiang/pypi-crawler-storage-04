@@ -1,11 +1,11 @@
 {
   "name": "arize-phoenix",
-  "version": "11.31.0",
+  "version": "11.32.0",
   "summary": "AI Observability and Evaluation",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "arize_phoenix-11.31.0.tar.gz",
-  "download_time": "2025-09-03T19:54:56.540321",
+  "download_filename": "arize_phoenix-11.32.0.tar.gz",
+  "download_time": "2025-09-04T20:25:01.813249",
   "package_url": "https://pypi.org/project/arize-phoenix/"
 }

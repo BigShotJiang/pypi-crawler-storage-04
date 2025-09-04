@@ -1,11 +1,11 @@
 {
   "name": "imageterminal",
-  "version": "0.2.0",
+  "version": "2.0.0",
   "summary": "A  terminal tool for advanced image manipulation including a filetype converter, background remover, and blazing fast image upscaling!",
   "author": "Ian Tawileh",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "imageterminal-0.2.0.tar.gz",
-  "download_time": "2025-09-04T01:29:11.316166",
+  "download_filename": "imageterminal-2.0.0.tar.gz",
+  "download_time": "2025-09-04T20:24:59.006455",
   "package_url": "https://pypi.org/project/imageterminal/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyhkc",
+  "version": "0.5.0",
+  "summary": "A Python client for HKC SecureComm API",
+  "author": "Jason Madigan",
+  "license": null,
+  "home_page": "https://github.com/jasonmadigan/pyhkc",
+  "download_filename": "pyhkc-0.5.0.tar.gz",
+  "download_time": "2025-09-04T20:24:58.477378",
+  "package_url": "https://pypi.org/project/pyhkc/"
+}

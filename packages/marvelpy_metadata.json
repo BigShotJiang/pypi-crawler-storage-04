@@ -1,0 +1,11 @@
+{
+  "name": "marvelpy",
+  "version": "0.1.0",
+  "summary": "A fully-typed Python client for the Marvel Comics API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "marvelpy-0.1.0.tar.gz",
+  "download_time": "2025-09-04T20:25:16.352212",
+  "package_url": "https://pypi.org/project/marvelpy/"
+}
