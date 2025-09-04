@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T22:22:45.256889
-- **Total Packages**: 86
-- **Total Size**: 39.37 MB
+- **Download Time**: 2025-09-04T22:43:37.413411
+- **Total Packages**: 83
+- **Total Size**: 28.89 MB
 
 ## Packages List
+- pywiner
+- satori-ci
+- dire-rapids
+- mlflow-mltf
+- mlflow-mltf-gateway
+- smpl
+- radboy
+- wrap-docstrings
+- dart-tools
+- banana-straightener
+- Mathics3-Module-trepan
+- tensorlake
+- authentik-client
+- WikibaseIntegrator
+- nsj-rest-lib
+- setch-py
+- PottsPlayground
+- todoforai-edge-cli
+- tcdo-pg-tools
+- aind-dynamic-foraging-basic-analysis
+- layclt
+- aind-dynamic-foraging-data-utils
+- fenic
+- fastapi-qengine
+- ml-inspector
+- alfacrm
+- iree-tools-tflite
+- iree-tools-tf
+- iree-base-runtime
+- tty-egpf-monitor
+- dibisoreporting
+- marimo-functions
 - databricks-feature-lookup
 - ai-text-utils
 - pybrowsers
@@ -16,7 +48,6 @@
 - scrapy-vectors
 - dibisoplot
 - lbt-dragonfly
-- satori-ci
 - opentaskpy
 - anatools
 - liron-utils
@@ -36,13 +67,11 @@
 - llm-ci-runner
 - afpdb
 - newrelic
-- todoforai-edge-cli
 - codearkt
 - dragonfly-energy
 - pymrs
 - mem8
 - FDMTools
-- layclt
 - lt-utils
 - regula-documentreader-webclient
 - ivoryos
@@ -56,39 +85,7 @@
 - honeybee-radiance-postprocess
 - neonunicorn
 - HoloEcho
-- authentik-client
 - pyoso
 - unergy-logger-django
 - pytdi
 - pyams-content-themes
-- pytannic
-- terra-scientific-pipelines-service-api-client
-- cac-jira
-- fastapi-users-db-dynamodb
-- robutler
-- drycli
-- pynini
-- cuequivariance-torch
-- cuequivariance-jax
-- cuequivariance
-- grayscale-py
-- d4rktg
-- increase
-- moose-lib
-- signalwire-agents
-- cuequivariance-ops-torch-cu12
-- cuequivariance-ops-jax-cu12
-- oldaplib
-- dictutils
-- arklex
-- dragonfly-core
-- honeybee-energy
-- lbt-ladybug
-- lexe-wrapper
-- dkist-service-configuration
-- honeybee-radiance
-- lmxy
-- mw75-streamer
-- llama-index-llms-bedrock-converse
-- pfns
-- assisted-service-client
