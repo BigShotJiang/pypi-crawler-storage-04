@@ -1,11 +1,11 @@
 {
   "name": "pydantic-cacheable-model",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Small Pydantic helpers for cacheable models",
   "author": "J.I. Cruz",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_cacheable_model-1.0.0.tar.gz",
-  "download_time": "2025-09-04T13:54:45.448395",
+  "download_filename": "pydantic_cacheable_model-1.0.2.tar.gz",
+  "download_time": "2025-09-04T18:51:44.277380",
   "package_url": "https://pypi.org/project/pydantic-cacheable-model/"
 }

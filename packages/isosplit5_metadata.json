@@ -1,0 +1,11 @@
+{
+  "name": "isosplit5",
+  "version": "0.2.3",
+  "summary": "Efficient clustering algorithm for unknown number of unimodal clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isosplit5-0.2.3.tar.gz",
+  "download_time": "2025-09-04T18:51:47.557226",
+  "package_url": "https://pypi.org/project/isosplit5/"
+}

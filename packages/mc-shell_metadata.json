@@ -1,11 +1,11 @@
 {
   "name": "mc-shell",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "An interactive shell and editor for controlling Minecraft servers and creating powers.",
   "author": "jeff@thinkae.org",
   "license": null,
   "home_page": null,
-  "download_filename": "mc_shell-0.1.8.tar.gz",
-  "download_time": "2025-09-03T18:50:48.050116",
+  "download_filename": "mc_shell-0.2.0.tar.gz",
+  "download_time": "2025-09-04T18:51:49.259162",
   "package_url": "https://pypi.org/project/mc-shell/"
 }

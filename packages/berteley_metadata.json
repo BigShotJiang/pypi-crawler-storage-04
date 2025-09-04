@@ -1,0 +1,11 @@
+{
+  "name": "berteley",
+  "version": "0.1.3",
+  "summary": "Topic modeling for scientific articles",
+  "author": "Eric Chagnon, Ronald J. Pandolfi, Daniela Ushizima",
+  "license": "BSD license",
+  "home_page": "https://github.com/lbl-camera/berteley",
+  "download_filename": "berteley-0.1.3.tar.gz",
+  "download_time": "2025-09-04T18:51:56.821839",
+  "package_url": "https://pypi.org/project/berteley/"
+}
