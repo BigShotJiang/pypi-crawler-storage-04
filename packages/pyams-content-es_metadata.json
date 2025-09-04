@@ -1,0 +1,11 @@
+{
+  "name": "pyams-content-es",
+  "version": "2.3.0",
+  "summary": "Elasticsearch integration package for PyAMS content",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_content_es-2.3.0.tar.gz",
+  "download_time": "2025-09-04T21:41:56.367370",
+  "package_url": "https://pypi.org/project/pyams-content-es/"
+}

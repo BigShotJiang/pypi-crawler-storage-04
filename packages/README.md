@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T21:25:16.986476
-- **Total Packages**: 86
-- **Total Size**: 45.72 MB
+- **Download Time**: 2025-09-04T21:42:26.059753
+- **Total Packages**: 83
+- **Total Size**: 24.87 MB
 
 ## Packages List
+- pymammotion
+- drycli
+- rxnextract
+- pyams-content-api
+- d4rktg
+- dfpeek
+- svc-infra
+- llama-index-core
+- tiled
+- mrx-runway
+- authentik-client
+- sumit-sdk
+- life123
+- django-extra-settings
+- floss
+- fluidattacks-tracks
+- cuenca
+- finch-tensor-lite
+- tinyagent-py
+- ladybug-core
+- tobiko-cloud-helpers
+- tobiko-cloud-pydantic
+- caption-flow
+- tobiko-cloud-api-client
+- runai-model-streamer-gcs
+- runai-model-streamer-s3
+- runai-model-streamer
+- faststream
+- astro-otter
+- metrics_layer
+- praetorian-cli
+- transformerlab-inference
+- sunshine-conversations-client
+- stateset-agents
+- pyams-content-es
+- jjrawlins-cdk-git-tagger
+- ledger2bql
+- arize-phoenix
+- cuenca-validations
+- legit-api-client
 - v440
 - memium
 - django-logger-unergyy
@@ -42,7 +82,6 @@
 - pyhmmsearch
 - arthur-client
 - azure-mgmt-iotfirmwaredefense
-- svc-infra
 - pyams-content
 - orionapi
 - tap-readthedocs
@@ -50,45 +89,3 @@
 - mc-netease-sdk-nyrev
 - dist-s1
 - sage-agent-internal
-- tobiko-cloud-pydantic
-- tobiko-cloud-helpers
-- quantik-core
-- Habiticalib
-- authentik-client
-- pfns
-- exceptors
-- tobiko-cloud-api-client
-- pyriemann-qiskit
-- sws-config
-- pykofamsearch
-- lexe-wrapper
-- pulumi-alicloud
-- pypp-python
-- leaf-common
-- ansys-turbogrid-api
-- platypush
-- compoconf
-- pyiron-workflow
-- qiskit
-- cocobolo
-- databricks-feature-engineering
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.core
-- thds.adls
-- fmdtools
-- matrix-cli
-- stateset-agents
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- pytest-mock
-- ephios
-- tussh
-- dool
-- brainannex-neo4jv5
-- brainannex-neo4jv4
-- radboy
-- chalkpy
-- mem8
-- mowidgets
