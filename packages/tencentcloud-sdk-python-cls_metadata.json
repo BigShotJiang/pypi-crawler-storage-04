@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-cls",
-  "version": "3.0.1454",
+  "version": "3.0.1456",
   "summary": "Tencent Cloud Cls SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-cls-3.0.1454.tar.gz",
-  "download_time": "2025-09-01T20:53:03.331673",
+  "download_filename": "tencentcloud-sdk-python-cls-3.0.1456.tar.gz",
+  "download_time": "2025-09-04T20:54:50.988336",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cls/"
 }
