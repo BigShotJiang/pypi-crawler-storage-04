@@ -1,0 +1,11 @@
+{
+  "name": "catalystwan",
+  "version": "0.41.1",
+  "summary": "Cisco Catalyst WAN SDK for Python",
+  "author": "kagorski",
+  "license": null,
+  "home_page": "https://github.com/cisco-en-programmability/catalystwan-sdk",
+  "download_filename": "catalystwan-0.41.1.tar.gz",
+  "download_time": "2025-09-04T07:54:31.313297",
+  "package_url": "https://pypi.org/project/catalystwan/"
+}

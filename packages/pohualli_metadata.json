@@ -1,0 +1,11 @@
+{
+  "name": "pohualli",
+  "version": "0.2.1",
+  "summary": "Python port (in progress) of the Turbo Pascal Pohualli calendrical utility",
+  "author": "Port Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pohualli-0.2.1.tar.gz",
+  "download_time": "2025-09-04T07:54:28.716196",
+  "package_url": "https://pypi.org/project/pohualli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-baidu",
+  "version": "1.2.8",
+  "summary": "LiveKit Agent Plugins for Xunfei",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_baidu-1.2.8.tar.gz",
+  "download_time": "2025-09-04T07:54:37.017263",
+  "package_url": "https://pypi.org/project/livekit-plugins-baidu/"
+}
