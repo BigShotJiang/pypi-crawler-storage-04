@@ -1,0 +1,11 @@
+{
+  "name": "charsi",
+  "version": "2.2.0",
+  "summary": "A command-line tool to help game modders build string resources for Diablo II: Resurrected.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "charsi-2.2.0.tar.gz",
+  "download_time": "2025-09-04T05:21:35.195360",
+  "package_url": "https://pypi.org/project/charsi/"
+}

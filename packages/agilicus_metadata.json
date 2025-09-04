@@ -1,11 +1,11 @@
 {
   "name": "agilicus",
-  "version": "1.299.5",
+  "version": "1.299.8",
   "summary": "Agilicus SDK",
   "author": "Agilicus Devs",
   "license": "MIT",
   "home_page": "https://www.agilicus.com/",
-  "download_filename": "agilicus-1.299.5.tar.gz",
-  "download_time": "2025-09-02T05:55:56.161403",
+  "download_filename": "agilicus-1.299.8.tar.gz",
+  "download_time": "2025-09-04T05:21:21.758643",
   "package_url": "https://pypi.org/project/agilicus/"
 }

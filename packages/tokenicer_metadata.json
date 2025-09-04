@@ -1,0 +1,11 @@
+{
+  "name": "tokenicer",
+  "version": "0.0.5",
+  "summary": "A (nicer) tokenizer you want to use for model `inference` and `training`: with all known peventable `gotchas` normalized or auto-fixed.",
+  "author": "ModelCloud",
+  "license": null,
+  "home_page": "https://github.com/ModelCloud/Tokenicer",
+  "download_filename": "tokenicer-0.0.5.tar.gz",
+  "download_time": "2025-09-04T05:21:23.295516",
+  "package_url": "https://pypi.org/project/tokenicer/"
+}

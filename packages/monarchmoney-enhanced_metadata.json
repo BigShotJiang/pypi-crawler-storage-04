@@ -1,11 +1,11 @@
 {
   "name": "monarchmoney-enhanced",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Enhanced Monarch Money API with service-oriented architecture, performance optimizations, and advanced error recovery",
   "author": "keithah",
   "license": "MIT",
   "home_page": "https://github.com/keithah/monarchmoney-enhanced",
-  "download_filename": "monarchmoney_enhanced-0.5.0.tar.gz",
-  "download_time": "2025-09-04T03:49:26.692523",
+  "download_filename": "monarchmoney_enhanced-0.6.0.tar.gz",
+  "download_time": "2025-09-04T05:21:29.984855",
   "package_url": "https://pypi.org/project/monarchmoney-enhanced/"
 }

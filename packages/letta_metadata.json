@@ -1,0 +1,11 @@
+{
+  "name": "letta",
+  "version": "0.11.7",
+  "summary": "Create LLM agents with long-term memory and custom tools",
+  "author": null,
+  "license": "Apache License",
+  "home_page": null,
+  "download_filename": "letta-0.11.7-py3-none-any.whl",
+  "download_time": "2025-09-04T05:21:38.841756",
+  "package_url": "https://pypi.org/project/letta/"
+}
