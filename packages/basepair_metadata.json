@@ -1,0 +1,11 @@
+{
+  "name": "basepair",
+  "version": "2.4.0",
+  "summary": "Python client for Basepair's API",
+  "author": "Basepair",
+  "license": null,
+  "home_page": "https://bitbucket.org/basepair/basepair",
+  "download_filename": "basepair-2.4.0.tar.gz",
+  "download_time": "2025-09-04T07:41:04.681926",
+  "package_url": "https://pypi.org/project/basepair/"
+}

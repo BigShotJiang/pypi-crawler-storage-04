@@ -1,0 +1,11 @@
+{
+  "name": "fps-webdav",
+  "version": "0.9.2",
+  "summary": "An FPS plugin for the WebDAV API",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "fps_webdav-0.9.2.tar.gz",
+  "download_time": "2025-09-04T07:40:42.818817",
+  "package_url": "https://pypi.org/project/fps-webdav/"
+}

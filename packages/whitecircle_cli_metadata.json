@@ -1,0 +1,11 @@
+{
+  "name": "whitecircle_cli",
+  "version": "0.1.0",
+  "summary": "White Circle CLI - thin wrapper over White Circle API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "whitecircle_cli-0.1.0.tar.gz",
+  "download_time": "2025-09-04T07:40:29.688622",
+  "package_url": "https://pypi.org/project/whitecircle_cli/"
+}

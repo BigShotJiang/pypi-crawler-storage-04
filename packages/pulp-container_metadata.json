@@ -1,0 +1,11 @@
+{
+  "name": "pulp-container",
+  "version": "2.26.1",
+  "summary": "Container plugin for the Pulp Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_container-2.26.1.tar.gz",
+  "download_time": "2025-09-04T07:40:46.468050",
+  "package_url": "https://pypi.org/project/pulp-container/"
+}

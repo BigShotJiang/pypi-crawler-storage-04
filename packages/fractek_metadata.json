@@ -1,11 +1,11 @@
 {
   "name": "fractek",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A world-class modular fractal mathematics, visualization, and analysis library",
   "author": "Nityansh Pant",
   "license": "MIT",
   "home_page": "https://github.com/thynash/fractek",
-  "download_filename": "fractek-0.1.0.tar.gz",
-  "download_time": "2025-09-02T13:21:56.934872",
+  "download_filename": "fractek-0.1.1.tar.gz",
+  "download_time": "2025-09-04T07:41:04.160217",
   "package_url": "https://pypi.org/project/fractek/"
 }

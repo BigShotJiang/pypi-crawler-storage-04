@@ -1,0 +1,11 @@
+{
+  "name": "mstock-interface",
+  "version": "0.1.0",
+  "summary": "A Python interface for m.Stock.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mstock_interface-0.1.0.tar.gz",
+  "download_time": "2025-09-04T07:40:33.872689",
+  "package_url": "https://pypi.org/project/mstock-interface/"
+}

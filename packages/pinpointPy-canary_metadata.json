@@ -1,0 +1,11 @@
+{
+  "name": "pinpointPy-canary",
+  "version": "1.3.3.3",
+  "summary": null,
+  "author": "cd_pinpoint members",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pinpoint-apm/pinpoint-c-agent",
+  "download_filename": "pinpointpy_canary-1.3.3.3-cp313-cp313-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-09-04T07:40:27.576934",
+  "package_url": "https://pypi.org/project/pinpointPy-canary/"
+}

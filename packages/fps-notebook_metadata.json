@@ -1,0 +1,11 @@
+{
+  "name": "fps-notebook",
+  "version": "0.9.2",
+  "summary": "An FPS plugin for the Notebook API",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "fps_notebook-0.9.2.tar.gz",
+  "download_time": "2025-09-04T07:40:45.421034",
+  "package_url": "https://pypi.org/project/fps-notebook/"
+}
