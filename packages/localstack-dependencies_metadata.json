@@ -1,0 +1,11 @@
+{
+  "name": "localstack-dependencies",
+  "version": "1.5",
+  "summary": "dependencies for endpointer localstack-node",
+  "author": "endpointer",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "localstack_dependencies-1.5.tar.gz",
+  "download_time": "2025-09-04T16:28:22.226798",
+  "package_url": "https://pypi.org/project/localstack-dependencies/"
+}

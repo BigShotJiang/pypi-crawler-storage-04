@@ -1,0 +1,11 @@
+{
+  "name": "magma-var",
+  "version": "0.1.0",
+  "summary": "MAGMA Volcanic Activity Report (VAR)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magma_var-0.1.0.tar.gz",
+  "download_time": "2025-09-04T16:28:41.421465",
+  "package_url": "https://pypi.org/project/magma-var/"
+}
