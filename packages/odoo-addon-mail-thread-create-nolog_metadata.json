@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-thread-create-nolog",
+  "version": "18.0.1.0.2",
+  "summary": "Display a fake (non-stored) create log in the chatter.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_mail_thread_create_nolog-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-04T07:22:22.483498",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-thread-create-nolog/"
+}

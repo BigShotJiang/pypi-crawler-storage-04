@@ -1,11 +1,11 @@
 {
   "name": "dsw-database",
-  "version": "4.22.0",
+  "version": "4.22.1",
   "summary": "Library for managing DSW database",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "dsw_database-4.22.0.tar.gz",
-  "download_time": "2025-09-02T13:22:25.459231",
+  "download_filename": "dsw_database-4.22.1.tar.gz",
+  "download_time": "2025-09-04T07:22:48.338083",
   "package_url": "https://pypi.org/project/dsw-database/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ctfcli",
+  "version": "0.1.5",
+  "summary": "ctfcli is a tool to manage Capture The Flag events and challenges",
+  "author": "Kevin Chung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctfcli-0.1.5.tar.gz",
+  "download_time": "2025-09-04T07:22:26.133069",
+  "package_url": "https://pypi.org/project/ctfcli/"
+}

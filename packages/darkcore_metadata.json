@@ -1,0 +1,11 @@
+{
+  "name": "darkcore",
+  "version": "0.5.1",
+  "summary": "Practical functional programming primitives for Python: Monads, Transformers, and DSL operators for safe business logic",
+  "author": "minamorl",
+  "license": "MIT",
+  "home_page": "https://github.com/minamorl/darkcore",
+  "download_filename": "darkcore-0.5.1.tar.gz",
+  "download_time": "2025-09-04T07:22:12.656653",
+  "package_url": "https://pypi.org/project/darkcore/"
+}

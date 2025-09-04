@@ -1,0 +1,11 @@
+{
+  "name": "devicecloud",
+  "version": "0.5.10",
+  "summary": "Python API to the Digi Device Cloud",
+  "author": "Digi International Inc.",
+  "license": null,
+  "home_page": "https://github.com/digidotcom/python-devicecloud",
+  "download_filename": "devicecloud-0.5.10.tar.gz",
+  "download_time": "2025-09-04T07:22:37.558040",
+  "package_url": "https://pypi.org/project/devicecloud/"
+}

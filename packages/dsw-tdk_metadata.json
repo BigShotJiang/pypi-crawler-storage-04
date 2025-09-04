@@ -1,11 +1,11 @@
 {
   "name": "dsw-tdk",
-  "version": "4.22.0",
+  "version": "4.22.1",
   "summary": "Data Stewardship Wizard Template Development Toolkit",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "dsw_tdk-4.22.0.tar.gz",
-  "download_time": "2025-09-02T13:22:29.071499",
+  "download_filename": "dsw_tdk-4.22.1.tar.gz",
+  "download_time": "2025-09-04T07:22:47.321663",
   "package_url": "https://pypi.org/project/dsw-tdk/"
 }

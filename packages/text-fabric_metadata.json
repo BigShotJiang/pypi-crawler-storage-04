@@ -1,11 +1,11 @@
 {
   "name": "text-fabric",
-  "version": "13.0.12",
+  "version": "13.0.13",
   "summary": "Processor and browser for annotated text corpora",
   "author": "Dirk Roorda",
   "license": "MIT",
-  "home_page": "https://gitlab.huc.knaw.nl/tt/text-fabric",
-  "download_filename": "text_fabric-13.0.12-py3-none-any.whl",
-  "download_time": "2025-09-01T15:42:24.804064",
+  "home_page": "https://github.com/annotation/text-fabric",
+  "download_filename": "text_fabric-13.0.13-py3-none-any.whl",
+  "download_time": "2025-09-04T07:22:45.277663",
   "package_url": "https://pypi.org/project/text-fabric/"
 }

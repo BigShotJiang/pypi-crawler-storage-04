@@ -1,11 +1,11 @@
 {
   "name": "kimmdy-hat",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Hydrogen Atom Transfer Plugin for KIMMDY",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kimmdy_hat-1.1.0.tar.gz",
-  "download_time": "2025-09-02T10:46:10.355483",
+  "download_filename": "kimmdy_hat-1.2.0.tar.gz",
+  "download_time": "2025-09-04T07:22:04.913569",
   "package_url": "https://pypi.org/project/kimmdy-hat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "youtube-clippy",
+  "version": "1.0.0",
+  "summary": "A fast YouTube video clip downloader with timestamp support",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ytclip",
+  "download_filename": "youtube_clippy-1.0.0.tar.gz",
+  "download_time": "2025-09-04T07:22:15.809627",
+  "package_url": "https://pypi.org/project/youtube-clippy/"
+}

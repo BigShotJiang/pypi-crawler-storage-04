@@ -1,0 +1,11 @@
+{
+  "name": "realtime-accompaniment",
+  "version": "1.0.0",
+  "summary": "A real-time musical accompaniment system that dynamically adjusts orchestral playback speed",
+  "author": "RealtimeAccompaniment Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/RealtimeAccompaniment",
+  "download_filename": "realtime_accompaniment-1.0.0.tar.gz",
+  "download_time": "2025-09-04T07:22:10.080647",
+  "package_url": "https://pypi.org/project/realtime-accompaniment/"
+}
