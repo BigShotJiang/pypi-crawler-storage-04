@@ -1,0 +1,11 @@
+{
+  "name": "sregion",
+  "version": "1.6",
+  "summary": "Parsing of IVOA S_REGION strings",
+  "author": "G. Brammer",
+  "license": "MIT",
+  "home_page": "http://github.com/gbrammer/sregion",
+  "download_filename": "sregion-1.6.tar.gz",
+  "download_time": "2025-09-04T10:55:07.686382",
+  "package_url": "https://pypi.org/project/sregion/"
+}

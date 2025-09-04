@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T10:44:49.148768
-- **Total Packages**: 80
-- **Total Size**: 38.07 MB
+- **Download Time**: 2025-09-04T10:55:50.646357
+- **Total Packages**: 82
+- **Total Size**: 24.3 MB
 
 ## Packages List
+- codemie-mcp-assistants
+- ckzg
+- sregion
+- data-science-document-ai
+- pymosquitto
+- omniadapters
+- python-osw-validation
+- rbx
+- cpz-ai
+- justoneapi
+- umbi
+- aurelia
+- port-pulumi
+- nvidia-vlmeval
+- nvidia-safety-harness
+- nvidia-mtbench-evaluator
+- nvidia-simple-evals
+- nvidia-tooltalk
+- authentik-client
+- nvidia-crfm-helm
+- nvidia-livecodebench
+- vstt
+- nvidia-bigcode-eval
+- cogents-core
+- nvidia-lm-eval
+- splitgill
+- pytest-b-logger
+- core-system-grpc
+- mediacrop
+- momentpy
+- pytorch-training-template
+- arpakitlib
+- regula-facesdk-webclient
+- django-bulk-hooks
+- sp-obs
+- konduktor-nightly
+- neops_graphql
+- pdbeccdutils
+- cntc260
+- ohtell
 - databaseautomationhuz
 - applications-download
 - video-quick-editor-mcp
@@ -15,13 +55,10 @@
 - yta-video-opengl
 - codemie-sdk-python
 - wakeblaster-sdk
-- core-system-grpc
 - kst-instruct-following
 - nvidia-mmath
 - letta-nightly
 - aiko-monitor
-- pytorch-training-template
-- authentik-client
 - FISHPainter
 - opentaskpy
 - aiagents4pharma
@@ -44,45 +81,10 @@
 - unitlab
 - nvidia-eval-commons
 - matrice
-- django-bulk-hooks
 - mcpm
 - none-shall-parse
 - pyvisco
 - pypackx
 - tfmindi
 - bimdata-api-client
-- arpakitlib
 - kxy-framework
-- stigg-api-client-v2
-- localstack-core
-- constrained-diffusion
-- human-protocol-sdk
-- openpecha
-- stroke-segmentor
-- odoo-addon-ladirecta-odoo-keycloak-connector
-- cpz-ai
-- sardana
-- stigg-api-client
-- supervisely
-- rds-proxy-password-rotation
-- es2
-- gov-uk-dashboards
-- maximum-independent-set
-- openmetadata-managed-apis
-- pyodys
-- batchdownload
-- formiq
-- bf-scrapy-tools
-- django-ensuresuperuser
-- api-linter-101
-- ohtell
-- odoo-addon-ladirecta-res-partner-api
-- xlpkg
-- tt-badger
-- sast-fixer-mcp
-- codemie-tools
-- twilio
-- autowebx
-- ai-edge-torch-nightly
-- ecss-allure-report
-- specklia
