@@ -1,11 +1,11 @@
 {
   "name": "rocketrag",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Fast, efficient, minimal, extendible and elegant RAG system",
   "author": null,
   "license": "CC-BY-4.0",
   "home_page": null,
-  "download_filename": "rocketrag-0.1.4.tar.gz",
-  "download_time": "2025-09-01T12:44:55.885942",
+  "download_filename": "rocketrag-0.1.5.tar.gz",
+  "download_time": "2025-09-04T14:46:04.815929",
   "package_url": "https://pypi.org/project/rocketrag/"
 }

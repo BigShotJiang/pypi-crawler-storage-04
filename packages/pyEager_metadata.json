@@ -1,0 +1,11 @@
+{
+  "name": "pyEager",
+  "version": "1.6.1",
+  "summary": "A simple package to read in eager results.",
+  "author": "Thiseas C. Lamnidis",
+  "license": "MIT",
+  "home_page": "https://github.com/TCLamnidis/pyEager",
+  "download_filename": "pyEager-1.6.1.tar.gz",
+  "download_time": "2025-09-04T14:45:32.141446",
+  "package_url": "https://pypi.org/project/pyEager/"
+}

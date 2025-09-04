@@ -1,11 +1,11 @@
 {
   "name": "ease-tts",
-  "version": "1.1.0",
-  "summary": "A simple Python text-to-speech module!",
-  "author": null,
+  "version": "3.1.0",
+  "summary": "Lightweight Python module for converting text into natural-sounding speech on Windows, macOS and Linux.",
+  "author": "Madhav",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ease_tts-1.1.0.tar.gz",
-  "download_time": "2025-08-28T11:39:09.300849",
+  "download_filename": "ease_tts-3.1.0.tar.gz",
+  "download_time": "2025-09-04T14:45:26.885620",
   "package_url": "https://pypi.org/project/ease-tts/"
 }

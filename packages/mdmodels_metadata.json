@@ -1,0 +1,11 @@
+{
+  "name": "mdmodels",
+  "version": "0.2.2",
+  "summary": "Python package for the MDModels Rust crate",
+  "author": "Jan Range",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdmodels-0.2.2.tar.gz",
+  "download_time": "2025-09-04T14:45:51.382954",
+  "package_url": "https://pypi.org/project/mdmodels/"
+}

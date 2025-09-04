@@ -1,0 +1,11 @@
+{
+  "name": "pyveb",
+  "version": "0.3.63",
+  "summary": "Package containing common code and reusable components for pipelines and dags",
+  "author": "pieter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyveb-0.3.63.tar.gz",
+  "download_time": "2025-09-04T14:45:51.898358",
+  "package_url": "https://pypi.org/project/pyveb/"
+}
