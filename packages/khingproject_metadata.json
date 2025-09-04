@@ -1,0 +1,11 @@
+{
+  "name": "khingproject",
+  "version": "0.1.0",
+  "summary": "This is my first project.Use to calculate dot product,cross product, and magnitude of vector.",
+  "author": "khing",
+  "license": null,
+  "home_page": "https://github.com/khing2005/khingproject",
+  "download_filename": "khingproject-0.1.0.tar.gz",
+  "download_time": "2025-09-04T05:42:55.386919",
+  "package_url": "https://pypi.org/project/khingproject/"
+}

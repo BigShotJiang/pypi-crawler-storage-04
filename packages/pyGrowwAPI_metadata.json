@@ -1,11 +1,11 @@
 {
   "name": "pyGrowwAPI",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Unofficial Python SDK for Groww APIs (sync + async), with typed models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygrowwapi-0.2.0.tar.gz",
-  "download_time": "2025-09-04T04:55:55.310876",
+  "download_filename": "pygrowwapi-0.3.1.tar.gz",
+  "download_time": "2025-09-04T05:42:53.276092",
   "package_url": "https://pypi.org/project/pyGrowwAPI/"
 }

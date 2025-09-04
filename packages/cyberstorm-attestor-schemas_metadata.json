@@ -1,11 +1,11 @@
 {
   "name": "cyberstorm-attestor-schemas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Protocol Buffer schemas and generated clients for Cyberstorm Attestor service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyberstorm_attestor_schemas-1.0.0.tar.gz",
-  "download_time": "2025-09-03T08:49:17.179264",
+  "download_filename": "cyberstorm_attestor_schemas-1.0.1.tar.gz",
+  "download_time": "2025-09-04T05:42:52.210898",
   "package_url": "https://pypi.org/project/cyberstorm-attestor-schemas/"
 }

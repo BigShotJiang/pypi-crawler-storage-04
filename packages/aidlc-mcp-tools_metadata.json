@@ -1,11 +1,11 @@
 {
   "name": "aidlc-mcp-tools",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "AIDLC Dashboard MCP Tools for Amazon Q integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aidlc_mcp_tools-1.0.6.tar.gz",
-  "download_time": "2025-09-04T04:26:30.807173",
+  "download_filename": "aidlc_mcp_tools-1.0.7.tar.gz",
+  "download_time": "2025-09-04T05:43:01.230750",
   "package_url": "https://pypi.org/project/aidlc-mcp-tools/"
 }
