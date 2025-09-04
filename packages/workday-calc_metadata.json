@@ -1,0 +1,11 @@
+{
+  "name": "workday-calc",
+  "version": "1.0.8",
+  "summary": "pyproject.tomlのテスト",
+  "author": "kon0n0",
+  "license": "MIT",
+  "home_page": "https://github.com/konono/workday-calc",
+  "download_filename": "workday_calc-1.0.8.tar.gz",
+  "download_time": "2025-09-04T03:22:08.954512",
+  "package_url": "https://pypi.org/project/workday-calc/"
+}

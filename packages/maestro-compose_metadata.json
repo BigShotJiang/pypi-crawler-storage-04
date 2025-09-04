@@ -1,0 +1,11 @@
+{
+  "name": "maestro-compose",
+  "version": "0.3.9",
+  "summary": "A simple command line tool for managing Docker Compose stacks using tags and other metadata.",
+  "author": "Nick Schenone",
+  "license": "MIT",
+  "home_page": "https://github.com/nschenone/maestro-compose",
+  "download_filename": "maestro_compose-0.3.9.tar.gz",
+  "download_time": "2025-09-04T03:22:06.020293",
+  "package_url": "https://pypi.org/project/maestro-compose/"
+}

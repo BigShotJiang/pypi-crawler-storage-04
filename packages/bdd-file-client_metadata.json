@@ -1,0 +1,11 @@
+{
+  "name": "bdd-file-client",
+  "version": "0.7.5",
+  "summary": "BDD 平台文件服务客户端",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bdd_file_client-0.7.5.tar.gz",
+  "download_time": "2025-09-04T03:21:49.423691",
+  "package_url": "https://pypi.org/project/bdd-file-client/"
+}
