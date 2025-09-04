@@ -1,0 +1,11 @@
+{
+  "name": "gpu-benchmark-tool",
+  "version": "0.5.5",
+  "summary": "Multi-vendor GPU health monitoring supporting old GPUs for e-waste reduction",
+  "author": "Yousuf Rajput",
+  "license": null,
+  "home_page": "https://github.com/yourusername/gpu-benchmark-tool",
+  "download_filename": "gpu_benchmark_tool-0.5.5.tar.gz",
+  "download_time": "2025-09-04T01:29:25.599757",
+  "package_url": "https://pypi.org/project/gpu-benchmark-tool/"
+}

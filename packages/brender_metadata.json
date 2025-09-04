@@ -1,11 +1,11 @@
 {
   "name": "brender",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Blender render helper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brender-0.1.0.tar.gz",
-  "download_time": "2025-09-03T22:54:29.983134",
+  "download_filename": "brender-0.1.1.tar.gz",
+  "download_time": "2025-09-04T01:29:27.173931",
   "package_url": "https://pypi.org/project/brender/"
 }

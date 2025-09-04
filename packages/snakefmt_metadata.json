@@ -1,11 +1,11 @@
 {
   "name": "snakefmt",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "The uncompromising Snakemake code formatter",
-  "author": "Michael Hall",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "snakefmt-0.11.1.tar.gz",
-  "download_time": "2025-08-31T23:19:35.138062",
+  "download_filename": "snakefmt-0.11.2.tar.gz",
+  "download_time": "2025-09-04T01:29:36.744361",
   "package_url": "https://pypi.org/project/snakefmt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tfswitch",
+  "version": "0.0.0",
+  "summary": "Python CLI Utility to switch between various versions of Terraform seamlessly",
+  "author": "Chowdhury Faizal Ahammed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tfswitch-0.0.0.tar.gz",
+  "download_time": "2025-09-04T01:29:25.080096",
+  "package_url": "https://pypi.org/project/tfswitch/"
+}

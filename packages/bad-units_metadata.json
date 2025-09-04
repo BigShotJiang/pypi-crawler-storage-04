@@ -1,11 +1,11 @@
 {
   "name": "bad-units",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Very, very bad unit system for Python",
   "author": "jacklak",
   "license": null,
   "home_page": "https://github.com/jacklaktimeishere/bad-units",
-  "download_filename": "bad_units-0.3.0.tar.gz",
-  "download_time": "2025-09-03T22:20:40.188391",
+  "download_filename": "bad_units-0.3.1.tar.gz",
+  "download_time": "2025-09-04T01:29:16.026077",
   "package_url": "https://pypi.org/project/bad-units/"
 }

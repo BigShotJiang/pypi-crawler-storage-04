@@ -1,11 +1,11 @@
 {
   "name": "tps-agent",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Lightweight TPS monitoring agent with PostgreSQL Direct Strategy",
   "author": "Earlypay",
   "license": "MIT",
   "home_page": "https://github.com/Earlypay/tps-manager",
-  "download_filename": "tps_agent-2.1.0.tar.gz",
-  "download_time": "2025-09-03T03:57:21.907062",
+  "download_filename": "tps_agent-2.1.1.tar.gz",
+  "download_time": "2025-09-04T01:29:13.409089",
   "package_url": "https://pypi.org/project/tps-agent/"
 }
