@@ -1,0 +1,11 @@
+{
+  "name": "python-fast-grpc",
+  "version": "0.3.4",
+  "summary": "Fast to Code gRPC in Python",
+  "author": "taogeYT",
+  "license": null,
+  "home_page": "https://github.com/taogeYT/fast-grpc",
+  "download_filename": "python_fast_grpc-0.3.4.tar.gz",
+  "download_time": "2025-09-04T17:20:52.705685",
+  "package_url": "https://pypi.org/project/python-fast-grpc/"
+}

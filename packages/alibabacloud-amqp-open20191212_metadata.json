@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-amqp-open20191212",
+  "version": "1.4.4",
+  "summary": "Alibaba Cloud amqp-open (20191212) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_amqp-open20191212-1.4.4.tar.gz",
+  "download_time": "2025-09-04T17:20:29.988477",
+  "package_url": "https://pypi.org/project/alibabacloud-amqp-open20191212/"
+}
