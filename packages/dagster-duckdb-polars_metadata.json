@@ -1,11 +1,11 @@
 {
   "name": "dagster-duckdb-polars",
-  "version": "0.27.8",
+  "version": "0.27.9",
   "summary": "Package for storing Polars DataFrames in DuckDB.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-duckdb-polars",
-  "download_filename": "dagster_duckdb_polars-0.27.8.tar.gz",
-  "download_time": "2025-08-28T19:38:27.624424",
+  "download_filename": "dagster_duckdb_polars-0.27.9.tar.gz",
+  "download_time": "2025-09-04T22:54:56.605941",
   "package_url": "https://pypi.org/project/dagster-duckdb-polars/"
 }

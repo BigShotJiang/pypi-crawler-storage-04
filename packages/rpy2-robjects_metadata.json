@@ -1,0 +1,11 @@
+{
+  "name": "rpy2-robjects",
+  "version": "3.6.2",
+  "summary": "Python interface to the R language (embedded R)",
+  "author": null,
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "rpy2_robjects-3.6.2.tar.gz",
+  "download_time": "2025-09-04T22:55:27.403757",
+  "package_url": "https://pypi.org/project/rpy2-robjects/"
+}

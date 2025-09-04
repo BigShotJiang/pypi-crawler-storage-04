@@ -1,0 +1,11 @@
+{
+  "name": "rpy2-rinterface",
+  "version": "3.6.3",
+  "summary": "Low-level interface from Python to the R.",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "rpy2_rinterface-3.6.3.tar.gz",
+  "download_time": "2025-09-04T22:54:53.378539",
+  "package_url": "https://pypi.org/project/rpy2-rinterface/"
+}
