@@ -1,11 +1,11 @@
 {
   "name": "pyptrs",
-  "version": "1.0.0.post4",
+  "version": "1.0.0.post5",
   "summary": "Real pointers and some memory utilities for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyptrs-1.0.0.post4.tar.gz",
-  "download_time": "2025-09-04T11:19:57.001191",
+  "download_filename": "pyptrs-1.0.0.post5.tar.gz",
+  "download_time": "2025-09-04T11:40:48.022501",
   "package_url": "https://pypi.org/project/pyptrs/"
 }

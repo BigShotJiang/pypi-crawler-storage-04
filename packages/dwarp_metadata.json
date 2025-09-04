@@ -1,0 +1,11 @@
+{
+  "name": "dwarp",
+  "version": "0.1.7",
+  "summary": "Terminal assistant built as an open source minimal alternative to Warp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dwarp-0.1.7.tar.gz",
+  "download_time": "2025-09-04T11:40:39.699518",
+  "package_url": "https://pypi.org/project/dwarp/"
+}

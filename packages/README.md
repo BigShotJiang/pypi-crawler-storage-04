@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-04T11:20:15.016728
-- **Total Packages**: 85
-- **Total Size**: 25.91 MB
+- **Download Time**: 2025-09-04T11:41:09.359100
+- **Total Packages**: 83
+- **Total Size**: 22.47 MB
 
 ## Packages List
+- pyodys
+- ts-ml-bundle
+- entity-query-language
+- dapla-toolbelt-pseudo
+- wiener-netze-smart-meter
+- idegym-backend-utils
+- oceanprotocol-job-details
+- Products.MeetingLiege
+- florestbotfunctions
+- cache-dit
+- pydantic-settings-manager
+- pyCacheSimulator
+- prediction-market-agent-tooling
+- datatailr
+- cybertemp
+- Products.PloneMeeting
+- odoo-addon-fieldservice-sale-agreement
+- authentik-client
+- matrice
+- linregmc
+- fiuai-sdk-python
+- agora-python-server-sdk
+- jira-validator
+- kbase-mcp-server
+- django-ensuresuperuser
+- napalm-opengear-ng
+- dwarp
+- torchx-nightly
+- optics-framework
+- intentkit
+- tesseract-jax
+- mxcubeweb
+- django-bulk-hooks
+- smithery
+- hyperchoron
+- wela-agents
+- openfiles-ai
+- asyncly
+- arpakitlib
+- jam.py-v7
+- weblib-py
+- kreuzberg
+- pyptrs
+- Fr1997v011
+- esiaccel
+- zimagi
 - yta-video-pyav
 - pypipr
 - lf-crlf
@@ -27,7 +73,6 @@
 - x-tools-pylint
 - ime-utils
 - rayml
-- django-bulk-hooks
 - nesso_cli
 - alpss-processor
 - deribit-trading-sdk
@@ -37,57 +82,10 @@
 - dependamerge
 - pineboo
 - fastcs
-- authentik-client
-- smithery
 - langchain-modelscope-integration
 - planqk-commons
 - marlo-mcp
-- optics-framework
 - aiorisk
 - semantics.py3
-- napalm-opengear-ng
 - relkit
 - mailerlite-wrapper
-- orpheus-r
-- olas-operate-middleware
-- pybiwenger
-- qecore
-- safe-cli
-- geotribu
-- vgis-ai
-- mcp-postgresql-ops
-- midna
-- pyptrs
-- mcp-airflow-api
-- zeblok-ai
-- qwak-core
-- inceptum
-- aiko-monitor
-- user-simulator
-- codemie-mcp-datasources
-- clear-skies-akeyless-custom-openapi
-- codemie-mcp-assistants
-- ckzg
-- sregion
-- data-science-document-ai
-- pymosquitto
-- omniadapters
-- python-osw-validation
-- rbx
-- justoneapi
-- umbi
-- aurelia
-- port-pulumi
-- nvidia-vlmeval
-- nvidia-safety-harness
-- nvidia-mtbench-evaluator
-- nvidia-simple-evals
-- nvidia-tooltalk
-- nvidia-crfm-helm
-- nvidia-livecodebench
-- vstt
-- nvidia-bigcode-eval
-- cogents-core
-- nvidia-lm-eval
-- splitgill
-- pytest-b-logger

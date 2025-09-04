@@ -1,11 +1,11 @@
 {
   "name": "django-ensuresuperuser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Create a superuser if it doesn't exist, in the non interactive mode, using environment variables to set the email and password",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_ensuresuperuser-0.1.0.tar.gz",
-  "download_time": "2025-09-04T10:44:41.340474",
+  "download_filename": "django_ensuresuperuser-0.1.1.tar.gz",
+  "download_time": "2025-09-04T11:40:38.676817",
   "package_url": "https://pypi.org/project/django-ensuresuperuser/"
 }
