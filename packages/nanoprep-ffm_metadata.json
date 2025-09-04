@@ -1,0 +1,11 @@
+{
+  "name": "nanoprep-ffm",
+  "version": "0.0.20",
+  "summary": "A fully-equipped, fast, and memory-efficient pre-processor for ONT transcriptomic data",
+  "author": "Chia-Chen Chu",
+  "license": null,
+  "home_page": "https://github.com/Woodformation1136/NanoPreP",
+  "download_filename": "nanoprep_ffm-0.0.20.tar.gz",
+  "download_time": "2025-09-04T10:24:37.016652",
+  "package_url": "https://pypi.org/project/nanoprep-ffm/"
+}

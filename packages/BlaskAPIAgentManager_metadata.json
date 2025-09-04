@@ -1,0 +1,11 @@
+{
+  "name": "BlaskAPIAgentManager",
+  "version": "0.1.22",
+  "summary": "An agent for interacting with Blask API based on Swagger spec",
+  "author": "Blask RnD Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.private.blask.com/blask/ml-ai/blaskapiagentmanager/-/tree/v1.22",
+  "download_filename": "blaskapiagentmanager-0.1.22.tar.gz",
+  "download_time": "2025-09-04T10:24:29.193930",
+  "package_url": "https://pypi.org/project/BlaskAPIAgentManager/"
+}

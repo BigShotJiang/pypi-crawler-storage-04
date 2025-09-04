@@ -1,0 +1,11 @@
+{
+  "name": "signal-ocean",
+  "version": "13.7.0",
+  "summary": "Access Signal Ocean Platform data using Python.",
+  "author": "Signal Ocean Developers",
+  "license": "Apache 2.0",
+  "home_page": "https://apis.signalocean.com/",
+  "download_filename": "signal-ocean-13.7.0.tar.gz",
+  "download_time": "2025-09-04T10:24:27.472177",
+  "package_url": "https://pypi.org/project/signal-ocean/"
+}

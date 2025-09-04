@@ -1,11 +1,11 @@
 {
   "name": "dcat-ms-ap",
-  "version": "0.0.1",
-  "summary": "A dcat ap implementing the recommondations fo the MS MIChI.",
+  "version": "0.0.2",
+  "summary": "A dcat ap implementing the recommendations fo the MS MIChI.",
   "author": "René Meier",
   "license": "CC0",
   "home_page": null,
-  "download_filename": "dcat_ms_ap-0.0.1.tar.gz",
-  "download_time": "2025-09-02T14:23:00.638593",
+  "download_filename": "dcat_ms_ap-0.0.2.tar.gz",
+  "download_time": "2025-09-04T10:24:45.021164",
   "package_url": "https://pypi.org/project/dcat-ms-ap/"
 }
