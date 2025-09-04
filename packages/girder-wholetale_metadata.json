@@ -1,0 +1,11 @@
+{
+  "name": "girder-wholetale",
+  "version": "2.0.10",
+  "summary": "Girder plugin implementing Whole Tale core functionality.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_wholetale-2.0.10.tar.gz",
+  "download_time": "2025-09-04T23:54:54.683402",
+  "package_url": "https://pypi.org/project/girder-wholetale/"
+}

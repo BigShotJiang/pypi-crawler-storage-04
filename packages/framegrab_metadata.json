@@ -1,11 +1,11 @@
 {
   "name": "framegrab",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "Easily grab frames from cameras or streams",
   "author": "Groundlight",
   "license": "MIT",
   "home_page": "https://www.groundlight.ai/",
-  "download_filename": "framegrab-0.12.0.tar.gz",
-  "download_time": "2025-09-01T23:20:32.573584",
+  "download_filename": "framegrab-0.12.1.tar.gz",
+  "download_time": "2025-09-04T23:54:53.116262",
   "package_url": "https://pypi.org/project/framegrab/"
 }
