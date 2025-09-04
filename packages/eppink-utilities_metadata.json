@@ -1,11 +1,11 @@
 {
   "name": "eppink-utilities",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "summary": "Useful utilities for data processing, plotting, and file handling",
   "author": "Wouter Rens Eppink",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eppink_utilities-0.15.1.tar.gz",
-  "download_time": "2025-09-04T13:54:37.611375",
+  "download_filename": "eppink_utilities-0.15.2.tar.gz",
+  "download_time": "2025-09-04T14:22:55.876953",
   "package_url": "https://pypi.org/project/eppink-utilities/"
 }

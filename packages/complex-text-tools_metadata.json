@@ -1,11 +1,11 @@
 {
   "name": "complex-text-tools",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "A package for processing complex text with mixed Chinese and English characters",
-  "author": "Your Name",
+  "author": "mooremok",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/complex-text-tools",
-  "download_filename": "complex_text_tools-0.1.0.tar.gz",
-  "download_time": "2025-09-04T10:24:31.545563",
+  "home_page": "https://github.com/mooremok/complex-text-tools",
+  "download_filename": "complex_text_tools-0.2.1.tar.gz",
+  "download_time": "2025-09-04T14:23:03.611470",
   "package_url": "https://pypi.org/project/complex-text-tools/"
 }

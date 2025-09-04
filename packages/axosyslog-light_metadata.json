@@ -1,11 +1,11 @@
 {
   "name": "axosyslog-light",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "summary": "Lightweight End-to-End Test Framework for AxoSyslog.",
   "author": "Andras Mitzki",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "axosyslog_light-1.12.0.tar.gz",
-  "download_time": "2025-09-03T13:18:50.010097",
+  "download_filename": "axosyslog_light-1.13.0.tar.gz",
+  "download_time": "2025-09-04T14:22:45.480070",
   "package_url": "https://pypi.org/project/axosyslog-light/"
 }

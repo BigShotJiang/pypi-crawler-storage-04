@@ -1,11 +1,11 @@
 {
   "name": "speaking-clock-detection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speaking_clock_detection-1.0.2.tar.gz",
-  "download_time": "2025-09-01T13:21:12.952578",
+  "download_filename": "speaking_clock_detection-1.0.3.tar.gz",
+  "download_time": "2025-09-04T14:22:48.095083",
   "package_url": "https://pypi.org/project/speaking-clock-detection/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "orpheus-r",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orpheus_r-0.1.0.tar.gz",
-  "download_time": "2025-09-04T11:19:51.814152",
+  "download_filename": "orpheus_r-0.1.2.tar.gz",
+  "download_time": "2025-09-04T14:22:24.232904",
   "package_url": "https://pypi.org/project/orpheus-r/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gooddata-dbt",
-  "version": "1.49.0",
+  "version": "1.50.0",
   "summary": "dbt plugin for GoodData",
   "author": "GoodData",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gooddata_dbt-1.49.0.tar.gz",
-  "download_time": "2025-09-03T13:59:02.367456",
+  "download_filename": "gooddata_dbt-1.50.0.tar.gz",
+  "download_time": "2025-09-04T14:22:37.756526",
   "package_url": "https://pypi.org/project/gooddata-dbt/"
 }

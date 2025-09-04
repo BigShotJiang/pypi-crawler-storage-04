@@ -1,0 +1,11 @@
+{
+  "name": "jcamp",
+  "version": "1.3.0",
+  "summary": "A set of Python utilities for reading JCAMP-DX files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jcamp-1.3.0.tar.gz",
+  "download_time": "2025-09-04T14:22:28.433553",
+  "package_url": "https://pypi.org/project/jcamp/"
+}
