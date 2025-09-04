@@ -1,0 +1,11 @@
+{
+  "name": "Quantum-Tomography",
+  "version": "1.0.8.0",
+  "summary": "A python library to help perform tomography on a quantum state.",
+  "author": "University of Illinois",
+  "license": "MIT",
+  "home_page": "https://github.com/KwiatQIM/Quantum-Tomography",
+  "download_filename": "quantum_tomography-1.0.8.0.tar.gz",
+  "download_time": "2025-09-04T18:31:49.795100",
+  "package_url": "https://pypi.org/project/Quantum-Tomography/"
+}

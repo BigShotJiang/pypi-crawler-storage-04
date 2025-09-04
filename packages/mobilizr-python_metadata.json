@@ -1,0 +1,11 @@
+{
+  "name": "mobilizr-python",
+  "version": "1.0",
+  "summary": "A library of custom datasets.",
+  "author": "Emilio Dulay",
+  "license": null,
+  "home_page": "https://github.com/EmilioD19/mobilizr-python",
+  "download_filename": "mobilizr_python-1.0.tar.gz",
+  "download_time": "2025-09-04T18:31:36.917932",
+  "package_url": "https://pypi.org/project/mobilizr-python/"
+}

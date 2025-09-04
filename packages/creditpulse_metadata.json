@@ -1,0 +1,11 @@
+{
+  "name": "creditpulse",
+  "version": "0.0.35",
+  "summary": "A pyhton library for financial analysis with external databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "creditpulse-0.0.35.tar.gz",
+  "download_time": "2025-09-04T18:31:30.727389",
+  "package_url": "https://pypi.org/project/creditpulse/"
+}

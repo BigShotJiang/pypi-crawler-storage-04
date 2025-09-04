@@ -1,0 +1,11 @@
+{
+  "name": "sibi-dst",
+  "version": "2025.9.1",
+  "summary": "Data Science Toolkit",
+  "author": "Luis Valverde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sibi_dst-2025.9.1.tar.gz",
+  "download_time": "2025-09-04T18:31:34.344782",
+  "package_url": "https://pypi.org/project/sibi-dst/"
+}

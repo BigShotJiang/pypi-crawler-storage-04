@@ -1,11 +1,11 @@
 {
   "name": "onedevcommongoogleservices",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Ferramenta para integração com o Google Services",
   "author": "renan.cardeal@ufly.com.br",
   "license": null,
   "home_page": null,
-  "download_filename": "onedevcommongoogleservices-0.1.1.tar.gz",
-  "download_time": "2025-09-03T20:24:29.418266",
+  "download_filename": "onedevcommongoogleservices-0.1.2.tar.gz",
+  "download_time": "2025-09-04T18:31:50.823302",
   "package_url": "https://pypi.org/project/onedevcommongoogleservices/"
 }

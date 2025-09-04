@@ -1,0 +1,11 @@
+{
+  "name": "python-chrisclient",
+  "version": "2.13.0",
+  "summary": "(Python) client for the ChRIS API",
+  "author": "FNNDSC",
+  "license": "MIT",
+  "home_page": "https://github.com/FNNDSC/python-chrisclient",
+  "download_filename": "python_chrisclient-2.13.0.tar.gz",
+  "download_time": "2025-09-04T18:31:34.855315",
+  "package_url": "https://pypi.org/project/python-chrisclient/"
+}

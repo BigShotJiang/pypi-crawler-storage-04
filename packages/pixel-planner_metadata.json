@@ -1,11 +1,11 @@
 {
   "name": "pixel-planner",
-  "version": "0.2.0",
-  "summary": "Automate project plans written in Markdown. Generate clean, gantt-like timelines from your phases and milestones.",
+  "version": "0.2.2",
+  "summary": "Automate project plans written in Markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixel_planner-0.2.0.tar.gz",
-  "download_time": "2025-09-04T17:20:29.468861",
+  "download_filename": "pixel_planner-0.2.2.tar.gz",
+  "download_time": "2025-09-04T18:31:36.401660",
   "package_url": "https://pypi.org/project/pixel-planner/"
 }
