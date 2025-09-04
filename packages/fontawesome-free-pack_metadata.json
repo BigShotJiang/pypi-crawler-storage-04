@@ -1,11 +1,11 @@
 {
   "name": "fontawesome-free-pack",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "summary": "A redistribution of @fortawesome/fontawesome-free npm package's SVG and metadata.",
   "author": null,
   "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
   "home_page": null,
-  "download_filename": "fontawesome_free_pack-7.0.0.tar.gz",
-  "download_time": "2025-09-01T12:44:54.291564",
+  "download_filename": "fontawesome_free_pack-7.0.1.tar.gz",
+  "download_time": "2025-09-04T13:42:12.777155",
   "package_url": "https://pypi.org/project/fontawesome-free-pack/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llm-api-access",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "A package to query popular LLMs",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "llm_api_access-0.1.22-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-09-04T11:54:19.916385",
+  "download_filename": "llm_api_access-0.1.23-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-09-04T13:42:16.852203",
   "package_url": "https://pypi.org/project/llm-api-access/"
 }

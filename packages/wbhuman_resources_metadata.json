@@ -1,11 +1,11 @@
 {
   "name": "wbhuman_resources",
-  "version": "1.55.5",
+  "version": "1.55.6",
   "summary": "A workbench module for managing human resources.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbhuman_resources-1.55.5.tar.gz",
-  "download_time": "2025-09-03T15:24:14.289910",
+  "download_filename": "wbhuman_resources-1.55.6.tar.gz",
+  "download_time": "2025-09-04T13:42:29.735131",
   "package_url": "https://pypi.org/project/wbhuman_resources/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "monet-bundle",
+  "version": "1.2",
+  "summary": "A Python package providing the MONet Bundle for nnUNet, extending it with MONAI functionalities and access to the MAIA Segmentation Portal.",
+  "author": "Bendazzoli Simone",
+  "license": "GPLv3",
+  "home_page": "https://github.com/SimoneBendazzoli93/MONet-Bundle.git",
+  "download_filename": "monet_bundle-1.2.tar.gz",
+  "download_time": "2025-09-04T13:42:08.580253",
+  "package_url": "https://pypi.org/project/monet-bundle/"
+}
