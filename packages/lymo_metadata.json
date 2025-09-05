@@ -1,0 +1,11 @@
+{
+  "name": "lymo",
+  "version": "0.5",
+  "summary": "Python HTTP micro-framework for AWS Lambda.",
+  "author": "Hut Forty Two",
+  "license": null,
+  "home_page": "https://github.com/hut42/lymo",
+  "download_filename": "lymo-0.5.tar.gz",
+  "download_time": "2025-09-05T05:22:33.324588",
+  "package_url": "https://pypi.org/project/lymo/"
+}
