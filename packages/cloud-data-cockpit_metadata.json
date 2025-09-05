@@ -1,11 +1,11 @@
 {
   "name": "cloud-data-cockpit",
-  "version": "0.2.2",
+  "version": "1.0.3",
   "summary": "An IPython widget for browsing, benchmarking, and processing S3 datasets.",
   "author": "Usama Benabdelkrim Zakan",
   "license": "MIT",
   "home_page": "https://github.com/ubenabdelkrim/data_cockpit",
-  "download_filename": "cloud_data_cockpit-0.2.2.tar.gz",
-  "download_time": "2025-09-05T09:31:11.300193",
+  "download_filename": "cloud_data_cockpit-1.0.3.tar.gz",
+  "download_time": "2025-09-05T09:55:07.294326",
   "package_url": "https://pypi.org/project/cloud-data-cockpit/"
 }

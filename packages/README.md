@@ -1,16 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T09:45:43.416475
-- **Total Packages**: 86
-- **Total Size**: 23.24 MB
+- **Download Time**: 2025-09-05T09:55:48.797046
+- **Total Packages**: 81
+- **Total Size**: 18.14 MB
 
 ## Packages List
-- tabpfn-common-utils
+- OpenGeodeWeb-Back
+- bayesvalidrox
+- orq-ai-sdk
+- pytexturepacker-xxl
 - OTAKUGIFS
+- stexus
+- cloud-data-cockpit
+- bmsdna-mailing
+- the37lab-ampa-sdk
+- none-shall-parse
+- storage-client
+- authentik-client
+- odoo-addon-account-invoice-overdue-reminder
+- listpick
+- pytest-gitscope
+- flotorch
+- firexapp
+- tabpfn-common-utils
+- strucgap
+- RubigramClient
+- huff
+- ustcjwxt
+- mascope-jupyter-widgets
+- anitya
+- pyproject-external
+- yoapi-cli
+- elysia-ai
+- xlpkg
+- rafay-workflow-sdk
+- rayml
+- vvdutils
+- AstrBot
+- iqm-qaoa
+- odoo-addon-l10n-it-fatturapa
+- odoo-addon-l10n-it-fiscal-document-type
+- podman
 - jidouqie-mcp-test
 - qdrant-loader
-- rayml
 - qdrant-loader-core
 - qdrant-loader-mcp-server
 - ledger2bql
@@ -20,7 +53,6 @@
 - catadjust
 - abcoder
 - nemdatatools
-- authentik-client
 - BoschMiniRpa
 - MetaRagTool
 - nekro-agent-toolkit
@@ -33,7 +65,6 @@
 - iflow-mcp-modelscope-mcp-server
 - fastapi-router-viz
 - SamsPrettyPrint
-- pytest-gitscope
 - vantivecommercesdk
 - adapta
 - superneuromat
@@ -56,39 +87,3 @@
 - smathbyviraj
 - pyglaze
 - cloud-dataplug
-- superu
-- da4ml
-- iqm-qaoa
-- cros-ec-python
-- vibeq
-- kiclearance
-- pytexturepacker-xxl
-- halib
-- merge-subtitles
-- alibabacloud-dingtalk
-- visier-platform-sdk
-- swh.model
-- astro-nest
-- xgboost
-- geoloop
-- graphsense-lib
-- airontools
-- freakrandomizer
-- antchain-realperson
-- mysharelib
-- xgboost-cpu
-- peakshaving-analyzer
-- pytoolbox
-- matrice
-- tbp-nightly
-- evalscope
-- naeural-core
-- pulumi-policy
-- alita-sdk
-- arthur-client
-- multisafepay
-- androtools
-- jupyverse
-- fps-auth-fief
-- compoconf
-- phylodata

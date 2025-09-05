@@ -1,0 +1,11 @@
+{
+  "name": "anitya",
+  "version": "2.0.3",
+  "summary": "A cross-distribution upstream release monitoring project",
+  "author": "Pierre-Yves Chibon",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://release-monitoring.org",
+  "download_filename": "anitya-2.0.3.tar.gz",
+  "download_time": "2025-09-05T09:55:16.625622",
+  "package_url": "https://pypi.org/project/anitya/"
+}
