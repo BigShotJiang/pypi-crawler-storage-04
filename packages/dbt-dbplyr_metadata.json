@@ -1,0 +1,11 @@
+{
+  "name": "dbt-dbplyr",
+  "version": "0.1.0.dev0",
+  "summary": null,
+  "author": "Leon Head",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_dbplyr-0.1.0.dev0.tar.gz",
+  "download_time": "2025-09-05T13:54:43.744678",
+  "package_url": "https://pypi.org/project/dbt-dbplyr/"
+}
