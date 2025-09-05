@@ -1,0 +1,11 @@
+{
+  "name": "web3py-ext",
+  "version": "2.0.9",
+  "summary": "kaia-sdk",
+  "author": "kaia Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/kaiachain/kaia-sdk",
+  "download_filename": "web3py_ext-2.0.9-py3-none-any.whl",
+  "download_time": "2025-09-05T05:56:12.547743",
+  "package_url": "https://pypi.org/project/web3py-ext/"
+}

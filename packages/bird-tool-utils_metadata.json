@@ -1,0 +1,11 @@
+{
+  "name": "bird-tool-utils",
+  "version": "0.6.0",
+  "summary": "Python utilities used as part of the bird suite of bioinformatic tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bird_tool_utils-0.6.0.tar.gz",
+  "download_time": "2025-09-05T05:56:22.735667",
+  "package_url": "https://pypi.org/project/bird-tool-utils/"
+}

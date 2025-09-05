@@ -1,11 +1,11 @@
 {
   "name": "pyspecan",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A spectrum analyzer library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyspecan-0.2.0.tar.gz",
-  "download_time": "2025-08-29T20:40:48.182738",
+  "download_filename": "pyspecan-0.2.1.tar.gz",
+  "download_time": "2025-09-05T05:56:15.666408",
   "package_url": "https://pypi.org/project/pyspecan/"
 }
