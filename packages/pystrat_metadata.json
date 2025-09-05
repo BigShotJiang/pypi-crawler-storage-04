@@ -1,0 +1,11 @@
+{
+  "name": "pystrat",
+  "version": "2.3.0",
+  "summary": "Stratigraphic plotting tools for Python",
+  "author": "[Adrian Tasistro-Hart, Yuem Park]",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/yuempark/pystrat",
+  "download_filename": "pystrat-2.3.0.tar.gz",
+  "download_time": "2025-09-05T18:49:31.166941",
+  "package_url": "https://pypi.org/project/pystrat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-checkly",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "A Pulumi package for creating and managing Checkly monitoring resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_checkly-2.3.0.tar.gz",
-  "download_time": "2025-09-05T14:45:07.365606",
+  "download_filename": "pulumi_checkly-2.4.0.tar.gz",
+  "download_time": "2025-09-05T18:49:14.519883",
   "package_url": "https://pypi.org/project/pulumi-checkly/"
 }

@@ -1,23 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T18:30:48.488206
-- **Total Packages**: 80
-- **Total Size**: 60.33 MB
+- **Download Time**: 2025-09-05T18:49:58.320130
+- **Total Packages**: 82
+- **Total Size**: 13.76 MB
 
 ## Packages List
+- citation-compass
+- werkflow-file
+- pulumi-checkly
+- echion
+- neptune-fetcher
+- tensorrt-lean-cu13
+- tensorrt-lean
+- mcp-cyoda-client
+- django-psa
+- shortfin
+- sharktuner
+- sharktank
+- shark-ai
+- splunk-soar-sdk
+- lb-tech-handler
+- aws-lambda-builders
+- ffiec-data-connect
+- tesseract-decoder
+- pretix-wallet
+- pulumi-xyz
+- atsphinx-typst
+- coiled
+- frida-fusion
+- verifiers
+- withpi
+- authentik-client
+- opentelemetry-instrumentation-django-outbox-pattern
+- rxfoundry.clients.swifty_api
+- opentelemetry-instrumentation-django-stomp
+- rxfoundry.clients.swifty_oauth_api
+- nominal-api-protos
+- nominal-api
+- pystrat
+- veris-ai
+- miqa-offline
+- pyramid-mcp
+- doc-tracker
+- ml-agents-reasoning
+- datadog-checks-base
+- oapi
+- pyinkr
+- neural-amp-modeler
+- confluence-markdown-exporter
+- djaodjin-saas
+- internetarchive
+- raylib-example-game
+- omnimodkit
+- fdq
+- tensorrt-cu12-bindings
+- py2dag
 - sf-quant
 - fmchisel
 - ji-async-http-utils
 - deepllm
 - streamsets
 - pipeline-eds
-- doc-tracker
 - tensorrt-dispatch-cu12-bindings
-- authentik-client
-- raylib-example-game
-- nominal-api-protos
-- nominal-api
 - ai2-scholar-qa
 - satya
 - mesh2traccar
@@ -43,46 +88,3 @@
 - tensorrt-cu13-bindings
 - deepsweepai
 - Tooldelta
-- lackey-mcp
-- universal-scraper
-- additive-manufacturing
-- tensorrt-dispatch-cu13-bindings
-- OpenEXR
-- grafi
-- piperf3
-- pygpt-net
-- kaqing
-- pysee-bio
-- ibm-watsonx-orchestrate
-- beekeeper-core
-- unique_toolkit
-- sentineliqsdk
-- pfns
-- typer-cli
-- typer
-- typer-slim
-- compas-rui
-- py2dag
-- funcsim
-- aws-cdk-cli
-- arthur-client
-- nzilbb-labbcat
-- prelude-cli-beta
-- tensorrt-lean-cu13-bindings
-- prelude-sdk-beta
-- ansys-turbogrid-core
-- thalas
-- dockvirt-libvirt
-- truffle-ai-music-creator-mcp
-- data-compute
-- go-bm25
-- repo2pdf
-- worker-automate-hub
-- warbler-adsonai
-- neptune-query
-- truffle-ai-image-editor-mcp
-- sap-bdc-connect-sdk
-- pulumi-aws
-- wfx
-- youtrack-rocket-mcp
-- tensorrt-cu12-libs

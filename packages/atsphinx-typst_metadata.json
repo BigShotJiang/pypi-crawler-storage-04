@@ -1,0 +1,11 @@
+{
+  "name": "atsphinx-typst",
+  "version": "0.0.4",
+  "summary": "Generate Typst sources and PDF from Sphinx document.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atsphinx_typst-0.0.4.tar.gz",
+  "download_time": "2025-09-05T18:49:24.360914",
+  "package_url": "https://pypi.org/project/atsphinx-typst/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oapi",
-  "version": "2.4.2",
+  "version": "2.4.4",
   "summary": "A library for generating web API clients from OpenAPI documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oapi-2.4.2.tar.gz",
-  "download_time": "2025-08-31T17:39:53.936911",
+  "download_filename": "oapi-2.4.4.tar.gz",
+  "download_time": "2025-09-05T18:49:35.298017",
   "package_url": "https://pypi.org/project/oapi/"
 }
