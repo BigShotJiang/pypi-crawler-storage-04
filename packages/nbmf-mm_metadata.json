@@ -1,0 +1,11 @@
+{
+  "name": "nbmf-mm",
+  "version": "0.1.4",
+  "summary": "Bernoulli (binary) mean-parameterized NMF (NBMF) w/ Majorization–Minimization (MM)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbmf_mm-0.1.4-py3-none-any.whl",
+  "download_time": "2025-09-05T04:57:48.634303",
+  "package_url": "https://pypi.org/project/nbmf-mm/"
+}

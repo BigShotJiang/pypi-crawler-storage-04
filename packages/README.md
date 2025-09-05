@@ -1,15 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T04:46:57.245413
-- **Total Packages**: 79
-- **Total Size**: 18.45 MB
+- **Download Time**: 2025-09-05T04:58:23.855100
+- **Total Packages**: 76
+- **Total Size**: 2.02 MB
 
 ## Packages List
+- jsonQ
+- lograder
+- arithmetic-mr-sagar
+- sendbird-platform-sdk
+- frida-fusion
+- pkbrokers
+- carnotpy
+- complete-numbers
+- niklibrary
+- authentik-client
+- py2dag
+- arithematic-niranjan
+- pulumi-oci
+- iamdata
+- pipeline-eds
+- nbmf-mm
 - robhan-cdk-lib.aws-aps
 - quapp-common
 - nvidia-cudnn-frontend
 - gassim
+- nonebot-plugin-quark-autosave
 - g4f
 - lynx-e2e-appium
 - svc-infra
@@ -21,15 +38,11 @@
 - memvideo
 - quapp-qiskit
 - meta-learning-toolkit
-- frida-fusion
-- lograder
 - fleet-python
-- authentik-client
 - cognix
 - dkist-processing-dlnirsp
 - msgflux
 - superb-ai-onprem
-- pipeline-eds
 - polymerist
 - dkist-processing-cryonirsp
 - pynetmito
@@ -41,8 +54,6 @@
 - anyon
 - isekai-django
 - agentmake
-- py2dag
-- complete-numbers
 - graphlit-client
 - qwark
 - dkist-processing-visp
@@ -55,7 +66,6 @@
 - aisuite4cn
 - hpfracc
 - sqlsaber
-- niklibrary
 - zrb-extras
 - nxsrecselector
 - execubot-py
@@ -72,16 +82,3 @@
 - alwayson-py
 - xlpkg
 - remoterunlib
-- recce
-- pyream
-- osbot-docker
-- zarrier-python
-- persishell
-- archaea-core
-- chittorgarh-client
-- cs-models
-- peak-sdk
-- framekit
-- memvision
-- robotframework-schemathesislibrary
-- chromedriver-binary

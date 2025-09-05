@@ -1,0 +1,11 @@
+{
+  "name": "carnotpy",
+  "version": "0.9.0",
+  "summary": "Carnot Connection as a Python Package",
+  "author": "Carnot Innovations",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carnotpy-0.9.0.tar.gz",
+  "download_time": "2025-09-05T04:57:43.830272",
+  "package_url": "https://pypi.org/project/carnotpy/"
+}
