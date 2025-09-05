@@ -1,0 +1,11 @@
+{
+  "name": "box-sdk-gen",
+  "version": "1.17.0",
+  "summary": "Official Box Python Generated SDK",
+  "author": "Box",
+  "license": "Apache-2.0, http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/box/box-python-sdk-gen.git",
+  "download_filename": "box_sdk_gen-1.17.0.tar.gz",
+  "download_time": "2025-09-05T12:44:02.383046",
+  "package_url": "https://pypi.org/project/box-sdk-gen/"
+}

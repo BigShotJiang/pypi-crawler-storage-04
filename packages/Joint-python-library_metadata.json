@@ -1,11 +1,11 @@
 {
   "name": "Joint-python-library",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python library for interfacing with Acrome Robotic Arm Joint BLDC Motor Controllers  ",
   "author": "BeratComputer",
   "license": null,
   "home_page": "https://github.com/Acrome-Smart-Motion-Devices/python-library-new",
-  "download_filename": "joint_python_library-0.0.3.tar.gz",
-  "download_time": "2025-09-05T11:55:18.607759",
+  "download_filename": "joint_python_library-0.0.4.tar.gz",
+  "download_time": "2025-09-05T12:43:42.570558",
   "package_url": "https://pypi.org/project/Joint-python-library/"
 }

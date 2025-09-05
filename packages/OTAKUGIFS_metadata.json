@@ -1,11 +1,11 @@
 {
   "name": "OTAKUGIFS",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "A Python wrapper for the OtakuGIFS API",
   "author": "INFINITE_.",
   "license": null,
   "home_page": "https://github.com/infinite31/OTAKUGIFS",
-  "download_filename": "otakugifs-1.0.1-py3-none-any.whl",
-  "download_time": "2025-09-05T09:55:06.197656",
+  "download_filename": "otakugifs-1.0.4.tar.gz",
+  "download_time": "2025-09-05T12:43:57.707444",
   "package_url": "https://pypi.org/project/OTAKUGIFS/"
 }

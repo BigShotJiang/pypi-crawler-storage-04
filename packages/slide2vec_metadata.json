@@ -1,0 +1,11 @@
+{
+  "name": "slide2vec",
+  "version": "1.2.3",
+  "summary": "Embedding of whole slide images with Foundation Models",
+  "author": "Clément Grisi",
+  "license": null,
+  "home_page": "https://github.com/clemsgrs/slide2vec",
+  "download_filename": "slide2vec-1.2.3.tar.gz",
+  "download_time": "2025-09-05T12:44:08.114539",
+  "package_url": "https://pypi.org/project/slide2vec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "confluent-kafka-helpers",
+  "version": "1.1.1",
+  "summary": "Helpers for Confluent's Kafka Python client",
+  "author": "Fyndiq AB",
+  "license": "MIT",
+  "home_page": "https://github.com/fyndiq/confluent_kafka_helpers",
+  "download_filename": "confluent_kafka_helpers-1.1.1-py3-none-any.whl",
+  "download_time": "2025-09-05T12:44:03.419990",
+  "package_url": "https://pypi.org/project/confluent-kafka-helpers/"
+}

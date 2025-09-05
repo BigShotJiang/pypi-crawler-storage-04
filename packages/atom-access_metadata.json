@@ -1,0 +1,11 @@
+{
+  "name": "atom-access",
+  "version": "2.7.1",
+  "summary": "atom_access is a ray tracing package for addressing the steric          hindrance of molecules",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/atomaccess/atomaccess",
+  "download_filename": "atom_access-2.7.1.tar.gz",
+  "download_time": "2025-09-05T12:43:35.188074",
+  "package_url": "https://pypi.org/project/atom-access/"
+}
