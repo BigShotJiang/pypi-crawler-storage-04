@@ -1,0 +1,11 @@
+{
+  "name": "vbi",
+  "version": "0.2.2",
+  "summary": "Virtual brain inference.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vbi-0.2.2.tar.gz",
+  "download_time": "2025-09-05T17:21:58.347740",
+  "package_url": "https://pypi.org/project/vbi/"
+}

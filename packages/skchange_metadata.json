@@ -1,0 +1,11 @@
+{
+  "name": "skchange",
+  "version": "0.14.1",
+  "summary": "Sktime-compatible change and anomaly detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skchange-0.14.1.tar.gz",
+  "download_time": "2025-09-05T17:22:03.621909",
+  "package_url": "https://pypi.org/project/skchange/"
+}

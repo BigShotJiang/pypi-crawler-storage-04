@@ -1,11 +1,11 @@
 {
   "name": "dsharp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A programming language made in python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dsharp-0.0.1.tar.gz",
-  "download_time": "2025-09-05T15:23:54.244901",
+  "download_filename": "dsharp-0.0.2.tar.gz",
+  "download_time": "2025-09-05T17:21:54.819086",
   "package_url": "https://pypi.org/project/dsharp/"
 }

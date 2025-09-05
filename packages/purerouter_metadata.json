@@ -1,0 +1,11 @@
+{
+  "name": "purerouter",
+  "version": "0.1.0",
+  "summary": "Python SDK for PureAI Router (sync + async)",
+  "author": "PureAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "purerouter-0.1.0.tar.gz",
+  "download_time": "2025-09-05T17:21:51.640768",
+  "package_url": "https://pypi.org/project/purerouter/"
+}

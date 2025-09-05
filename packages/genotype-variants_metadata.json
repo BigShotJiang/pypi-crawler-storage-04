@@ -1,0 +1,11 @@
+{
+  "name": "genotype-variants",
+  "version": "0.3.10",
+  "summary": "A tool for genotyping SNV, INDEL, and SV variants in genomic data.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "genotype_variants-0.3.10.tar.gz",
+  "download_time": "2025-09-05T17:21:32.909303",
+  "package_url": "https://pypi.org/project/genotype-variants/"
+}

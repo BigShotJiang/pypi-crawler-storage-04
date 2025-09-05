@@ -1,11 +1,11 @@
 {
   "name": "nixt",
-  "version": "410",
+  "version": "412",
   "summary": "NIXT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nixt-410.tar.gz",
-  "download_time": "2025-09-03T11:19:34.594668",
+  "download_filename": "nixt-412.tar.gz",
+  "download_time": "2025-09-05T17:21:47.257896",
   "package_url": "https://pypi.org/project/nixt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agent-compose-kit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Core library to compose, validate, and run ADK agent systems from YAML.",
   "author": "DeadMeme5441",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_compose_kit-0.1.2.tar.gz",
-  "download_time": "2025-09-05T17:00:18.327080",
+  "download_filename": "agent_compose_kit-0.1.3.tar.gz",
+  "download_time": "2025-09-05T17:21:24.179192",
   "package_url": "https://pypi.org/project/agent-compose-kit/"
 }
