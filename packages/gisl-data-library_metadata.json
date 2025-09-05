@@ -1,11 +1,11 @@
 {
   "name": "gisl-data-library",
-  "version": "0.0.5",
-  "summary": "A simple Python library for retrieving Genshin Impact character and material data from a JSON file. This is a work in progress.",
+  "version": "0.0.6",
+  "summary": "A static library of Genshin item/char info. (WIP) - Albedo added.",
   "author": "Imran Bin Gifary (System Delta or Imran Delta Online)",
   "license": null,
   "home_page": "https://github.com/Imran-Delta/GI-Static-Data-Library",
-  "download_filename": "gisl_data_library-0.0.5.tar.gz",
-  "download_time": "2025-09-04T15:56:44.090861",
+  "download_filename": "gisl_data_library-0.0.6.tar.gz",
+  "download_time": "2025-09-05T10:56:50.330495",
   "package_url": "https://pypi.org/project/gisl-data-library/"
 }
