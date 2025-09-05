@@ -1,0 +1,11 @@
+{
+  "name": "ardot-permit-officer",
+  "version": "1.0.0",
+  "summary": "Fetch ARDOT permit officer contact info from all 10 district pages.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ardot_permit_officer",
+  "download_filename": "ardot_permit_officer-1.0.0.tar.gz",
+  "download_time": "2025-09-05T23:55:05.989645",
+  "package_url": "https://pypi.org/project/ardot-permit-officer/"
+}

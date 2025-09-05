@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T23:42:16.816447
-- **Total Packages**: 81
-- **Total Size**: 24.93 MB
+- **Download Time**: 2025-09-05T23:55:42.311632
+- **Total Packages**: 77
+- **Total Size**: 9.26 MB
 
 ## Packages List
+- photomapai
+- centrodip
+- jupyter-deploy-tf-aws-ec2-base
+- anyconstraints
+- warn-transformer
+- core-mixins
+- authentik-client
+- bugbug
+- radboy
+- reflex-magic-link-auth
+- pymrm
+- styro
+- pyThermoDB
+- ardot-permit-officer
+- cinetica
+- sapiopycommons
+- cdk-cross-account-route53
+- chuk-mcp-server
+- alertswrkpi
+- agoraiot
+- agora-utils
+- agora-twin-property
+- agora-redis-client
+- agora-logging
+- agora-gps
+- agora-config
+- agora-busclient
+- popcornn
+- relenv
 - rgpycrumbs
 - animateplot
 - lt-tensor
@@ -16,8 +45,6 @@
 - kilm
 - tobiko-cloud-pydantic
 - shredderscales
-- authentik-client
-- reflex-magic-link-auth
 - datasurface
 - nv-ingest-client
 - listofdicts
@@ -26,17 +53,8 @@
 - statsig-python-core
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
-- epic-llm
 - mcp-feedback-hall
 - owasp-schema
-- agoraiot
-- agora-utils
-- agora-twin-property
-- agora-redis-client
-- agora-logging
-- agora-gps
-- agora-config
-- agora-busclient
 - PD-loss-balancing
 - core-tests
 - fastapi-qengine
@@ -65,25 +83,3 @@
 - fltools
 - InfluenceDiffusion
 - yt-dlp
-- pyTMD
-- koatl
-- flwr-nightly
-- pyrefly
-- werkflow-shell
-- odoo-addon-l10n-br-fiscal
-- cdk-factory
-- coqui-tts
-- hyrex
-- sqlmesh
-- codearkt
-- agent-memory-client
-- coiled
-- letta-client
-- urw-scroll-table
-- pyindicators
-- pulumi-vault
-- svc-infra
-- pyppbox
-- langgraph-cli
-- sinapsis-time-series
-- sinapsis-darts-forecasting

@@ -1,11 +1,11 @@
 {
   "name": "photomapai",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "AI-based image clustering and exploration tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "photomapai-0.8.0.tar.gz",
-  "download_time": "2025-09-04T13:54:29.216550",
+  "download_filename": "photomapai-0.8.1.tar.gz",
+  "download_time": "2025-09-05T23:54:57.618877",
   "package_url": "https://pypi.org/project/photomapai/"
 }
