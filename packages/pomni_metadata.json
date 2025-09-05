@@ -1,11 +1,11 @@
 {
   "name": "pomni",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "JAX Code assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pomni-0.1.4.tar.gz",
-  "download_time": "2025-09-05T17:21:27.671266",
+  "download_filename": "pomni-0.1.6.tar.gz",
+  "download_time": "2025-09-05T22:54:58.044275",
   "package_url": "https://pypi.org/project/pomni/"
 }

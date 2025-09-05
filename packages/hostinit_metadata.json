@@ -1,11 +1,11 @@
 {
   "name": "hostinit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Host Configuration Automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hostinit-1.0.0.tar.gz",
-  "download_time": "2025-09-05T21:42:12.948044",
+  "download_filename": "hostinit-1.0.1.tar.gz",
+  "download_time": "2025-09-05T22:54:56.483826",
   "package_url": "https://pypi.org/project/hostinit/"
 }

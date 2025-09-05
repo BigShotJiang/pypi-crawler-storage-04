@@ -1,0 +1,11 @@
+{
+  "name": "scribblehub-to-epub",
+  "version": "0.0.5",
+  "summary": "This scrapes books from https://www.scribblehub.com/ and  creates epub from them",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scribblehub_to_epub-0.0.5.tar.gz",
+  "download_time": "2025-09-05T22:54:55.444510",
+  "package_url": "https://pypi.org/project/scribblehub-to-epub/"
+}

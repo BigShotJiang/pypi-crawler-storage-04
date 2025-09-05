@@ -1,11 +1,11 @@
 {
   "name": "django-okta-client",
-  "version": "0.5.1",
+  "version": "0.5.1.post1",
   "summary": "Okta client Django app",
   "author": null,
   "license": "BSD 2-Clause \"Simplified\" License",
   "home_page": null,
-  "download_filename": "django_okta_client-0.5.1.tar.gz",
-  "download_time": "2025-09-04T15:45:19.185734",
+  "download_filename": "django_okta_client-0.5.1.post1.tar.gz",
+  "download_time": "2025-09-05T22:54:55.964011",
   "package_url": "https://pypi.org/project/django-okta-client/"
 }

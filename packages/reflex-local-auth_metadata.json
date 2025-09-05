@@ -1,0 +1,11 @@
+{
+  "name": "reflex-local-auth",
+  "version": "0.4.0",
+  "summary": "Local DB user authentication for Reflex apps",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "reflex_local_auth-0.4.0.tar.gz",
+  "download_time": "2025-09-05T22:54:57.523984",
+  "package_url": "https://pypi.org/project/reflex-local-auth/"
+}

@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T22:43:47.661190
-- **Total Packages**: 82
-- **Total Size**: 46.5 MB
+- **Download Time**: 2025-09-05T22:55:32.352320
+- **Total Packages**: 83
+- **Total Size**: 11.45 MB
 
 ## Packages List
+- sinapsis-time-series
+- sinapsis-darts-forecasting
+- bedrock-agentcore
+- yt-dlp
+- cocode
+- geoindex-rs
+- authentik-client
+- minecraft-datapack-language
+- d4rktg
+- lmnr
+- svc-infra
+- blocks-sdk
+- scribblehub-to-epub
+- django-okta-client
+- hostinit
+- servicex-local
+- reflex-local-auth
+- pomni
+- InfluenceDiffusion
+- icrn
+- llama-cloud
+- escobar
 - libdyson-rest
 - sigmaker
 - nado-protocol
@@ -14,14 +36,12 @@
 - pipelex
 - snaptrade-python-sdk
 - jaas-api
-- authentik-client
 - rapidfireai
 - xandai-cli
 - my-aws-helpers
 - portal-env
 - trame-dataclass
 - toy-glacier-project
-- minecraft-datapack-language
 - airulermcp
 - plantdb.server
 - blendsql
@@ -34,7 +54,6 @@
 - interview-generator
 - agent-framework-foundry
 - ardupilot-methodic-configurator
-- svc-infra
 - atopile
 - codearkt
 - wdadaptivepy
@@ -63,7 +82,6 @@
 - FinaleToolkit
 - werkflow-http
 - tessdb-api
-- personal-test-vllm-tpu
 - lht
 - SwiftGUI
 - arthur-client
@@ -71,20 +89,3 @@
 - deepsweepai
 - docviz-python
 - snputils
-- convocations
-- regula-documentreader-webclient
-- rxfoundry.clients.swifty_oauth_api
-- rxfoundry.clients.swifty_api
-- spark-analyzer
-- entity-query-language
-- odoo-addon-l10n-br-account
-- langroid
-- greeum
-- pyfusion
-- pretix-uic-barcode
-- vpp-vrouter
-- depthai-nodes
-- ok-logging-setup
-- sqlmesh
-- docker-compose-model
-- wvlet
