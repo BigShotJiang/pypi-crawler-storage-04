@@ -1,0 +1,11 @@
+{
+  "name": "composites",
+  "version": "0.8.4",
+  "summary": "Methods for analysis and design of composites",
+  "author": "Saullo G. P. Castro",
+  "license": "3-Clause BSD",
+  "home_page": "https://github.com/saullocastro/composites",
+  "download_filename": "composites-0.8.4.tar.gz",
+  "download_time": "2025-09-05T20:55:42.225124",
+  "package_url": "https://pypi.org/project/composites/"
+}

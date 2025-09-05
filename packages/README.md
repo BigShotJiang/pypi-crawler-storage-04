@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T20:44:47.463223
-- **Total Packages**: 87
-- **Total Size**: 16.98 MB
+- **Download Time**: 2025-09-05T20:56:16.352700
+- **Total Packages**: 86
+- **Total Size**: 20.84 MB
 
 ## Packages List
+- poemai-utils
+- wmcore
+- py2dag
+- kaqing
+- wmglobalqueue
+- semantic-pdf-search
+- msunmerged
+- bittensor
+- reqmon
+- msoutput
+- acdcserver
+- reqmgr2
+- msmonitor
+- wmagent
+- cinetica
+- pytopspeed-modernized
+- mspileup
+- mstransferor
+- yaml-for-humans
+- msrulecleaner
+- cdp-sdk
+- composites
+- athena-intelligence
+- gepa
+- authentik-client
+- ldata-fuse
+- pytest-html-nova-act
+- zoo-kcl
+- greeum
+- cli-encrypt-txt
+- geoVeRoPy
+- lockss-pybasic
 - fct-kiwi
 - dkist-processing-test
 - rds-proxy-password-rotation
@@ -19,8 +51,6 @@
 - unxt
 - cleanlab-codex
 - sentry-kafka-management
-- authentik-client
-- pytopspeed-modernized
 - policyengine-us
 - invenio-damap
 - bytex
@@ -35,7 +65,6 @@
 - mce-deepeval-adapter
 - BradleysStrings
 - cleands
-- kaqing
 - arraylake
 - klotho-cac
 - kp-ssf-tools
@@ -63,33 +92,3 @@
 - codex-sdk
 - chalkpy
 - crc-pulp-service-client
-- crc-pulp-file-client
-- crc-pulp-maven-client
-- crc-pulp-rpm-client
-- flex-evals
-- crc-pulp-gem-client
-- fontc
-- crc-pulp-npm-client
-- crc-pulp-python-client
-- crc-pulpcore-client
-- howso-engine
-- moose-lib
-- samcell
-- tm-profiler
-- prc.api
-- btgsolutions-dataservices-python-client
-- edrn.auth
-- r2r-ctd
-- orq-ai-sdk
-- ficus-pm
-- wnnet
-- pycarlo
-- semantix-agentix
-- astro-sedpy
-- seawolf
-- confixer
-- df_config
-- panelforecast
-- NEMO-CE
-- mlte
-- bbot

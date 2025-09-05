@@ -1,11 +1,11 @@
 {
   "name": "py2dag",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Convert Python function plans to DAG (JSON, pseudo, optional SVG).",
   "author": "rvergis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py2dag-0.2.2.tar.gz",
-  "download_time": "2025-09-05T18:30:34.891818",
+  "download_filename": "py2dag-0.2.3.tar.gz",
+  "download_time": "2025-09-05T20:55:31.488992",
   "package_url": "https://pypi.org/project/py2dag/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "semantic-pdf-search",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Search PDFs semantically",
   "author": "notjonathanlouis",
   "license": null,
   "home_page": null,
-  "download_filename": "semantic_pdf_search-0.8.1.tar.gz",
-  "download_time": "2025-09-05T19:42:52.471457",
+  "download_filename": "semantic_pdf_search-0.8.2.tar.gz",
+  "download_time": "2025-09-05T20:55:33.113459",
   "package_url": "https://pypi.org/project/semantic-pdf-search/"
 }
