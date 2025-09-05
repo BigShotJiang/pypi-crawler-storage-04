@@ -1,11 +1,11 @@
 {
   "name": "gentropy",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "Open Targets python framework for post-GWAS analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gentropy-2.4.0.tar.gz",
-  "download_time": "2025-09-02T16:26:21.946987",
+  "download_filename": "gentropy-2.4.1.tar.gz",
+  "download_time": "2025-09-05T19:42:21.558128",
   "package_url": "https://pypi.org/project/gentropy/"
 }

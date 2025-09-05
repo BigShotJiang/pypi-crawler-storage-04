@@ -1,0 +1,11 @@
+{
+  "name": "python-autofixture",
+  "version": "1.1.2",
+  "summary": "A Version of C#s AutoFixture but for python",
+  "author": "GanTheMan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python-autofixture-1.1.2.tar.gz",
+  "download_time": "2025-09-05T19:42:11.503146",
+  "package_url": "https://pypi.org/project/python-autofixture/"
+}

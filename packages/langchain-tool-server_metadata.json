@@ -1,11 +1,11 @@
 {
   "name": "langchain-tool-server",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "LangChain Tool Server (Python)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_tool_server-0.0.17.tar.gz",
-  "download_time": "2025-09-03T23:40:41.363117",
+  "download_filename": "langchain_tool_server-0.0.18.tar.gz",
+  "download_time": "2025-09-05T19:42:07.035963",
   "package_url": "https://pypi.org/project/langchain-tool-server/"
 }

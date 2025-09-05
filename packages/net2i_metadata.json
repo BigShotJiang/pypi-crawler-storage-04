@@ -1,0 +1,11 @@
+{
+  "name": "net2i",
+  "version": "2.6",
+  "summary": "NeT2i (Network to Image) converts network traffic data into RGB images suitable for CNN-based anomaly detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "net2i-2.6.tar.gz",
+  "download_time": "2025-09-05T19:42:44.967257",
+  "package_url": "https://pypi.org/project/net2i/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-api-desktop",
+  "version": "1.0.0",
+  "summary": "A modern desktop client for the Anthropic Claude API with streaming support and extended context capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_api_desktop-1.0.0.tar.gz",
+  "download_time": "2025-09-05T19:42:41.875793",
+  "package_url": "https://pypi.org/project/claude-api-desktop/"
+}

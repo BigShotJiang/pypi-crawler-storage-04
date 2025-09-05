@@ -1,0 +1,11 @@
+{
+  "name": "kryptools",
+  "version": "1.5.3",
+  "summary": "Implemenation of same basic algorithms used in cryptography.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kryptools-1.5.3.tar.gz",
+  "download_time": "2025-09-05T19:42:40.085475",
+  "package_url": "https://pypi.org/project/kryptools/"
+}
