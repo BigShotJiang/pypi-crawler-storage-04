@@ -1,11 +1,11 @@
 {
   "name": "jebasa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Japanese ebook audio subtitle aligner - Create synchronized subtitles from Japanese audiobooks and EPUB files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jebasa-0.1.0.tar.gz",
-  "download_time": "2025-09-05T06:33:49.314226",
+  "download_filename": "jebasa-0.1.1.tar.gz",
+  "download_time": "2025-09-05T06:54:11.176870",
   "package_url": "https://pypi.org/project/jebasa/"
 }

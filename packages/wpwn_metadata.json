@@ -1,11 +1,11 @@
 {
   "name": "wpwn",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "windows pwntools",
   "author": "qwerty",
   "license": "MIT",
   "home_page": "https://github.com/qwerty-po/winpwn",
-  "download_filename": "wpwn-0.3.1-py2.py3-none-any.whl",
-  "download_time": "2025-09-05T06:33:58.061742",
+  "download_filename": "wpwn-0.4.0-py2.py3-none-any.whl",
+  "download_time": "2025-09-05T06:54:10.651971",
   "package_url": "https://pypi.org/project/wpwn/"
 }
