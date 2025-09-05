@@ -1,0 +1,11 @@
+{
+  "name": "werkflow-http",
+  "version": "0.6.0",
+  "summary": "An HTTP module for Werkflow.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "werkflow_http-0.6.0.tar.gz",
+  "download_time": "2025-09-05T21:42:05.755399",
+  "package_url": "https://pypi.org/project/werkflow-http/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "khx-publish-pypi",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A friendly CLI tool to check and publish Python packages to TestPyPI/PyPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "khx_publish_pypi-0.1.5.tar.gz",
-  "download_time": "2025-09-05T20:44:04.257813",
+  "download_filename": "khx_publish_pypi-0.1.6.tar.gz",
+  "download_time": "2025-09-05T21:42:01.534338",
   "package_url": "https://pypi.org/project/khx-publish-pypi/"
 }

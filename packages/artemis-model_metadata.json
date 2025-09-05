@@ -1,11 +1,11 @@
 {
   "name": "artemis-model",
-  "version": "0.1.150",
+  "version": "0.1.152",
   "summary": null,
   "author": "Jukeboxy",
   "license": null,
   "home_page": null,
-  "download_filename": "artemis_model-0.1.150.tar.gz",
-  "download_time": "2025-09-05T21:21:14.878715",
+  "download_filename": "artemis_model-0.1.152.tar.gz",
+  "download_time": "2025-09-05T21:41:46.922568",
   "package_url": "https://pypi.org/project/artemis-model/"
 }

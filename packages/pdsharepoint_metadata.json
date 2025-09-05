@@ -1,0 +1,11 @@
+{
+  "name": "pdsharepoint",
+  "version": "2.0.0",
+  "summary": "Pacote para obter arquivos excel ou listas do Sharepoint em um DataFrame pandas",
+  "author": "Daniel Oliveira",
+  "license": null,
+  "home_page": "https://github.com/danielsioli/pdSharepoint",
+  "download_filename": "pdsharepoint-2.0.0.tar.gz",
+  "download_time": "2025-09-05T21:42:08.323400",
+  "package_url": "https://pypi.org/project/pdsharepoint/"
+}
