@@ -1,0 +1,11 @@
+{
+  "name": "docchunker",
+  "version": "0.3.0",
+  "summary": "A specialized document chunking library for complex DOCX and PDF document structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docchunker-0.3.0.tar.gz",
+  "download_time": "2025-09-05T06:33:42.099967",
+  "package_url": "https://pypi.org/project/docchunker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "canonical-sphinx-extensions",
+  "version": "0.0.34",
+  "summary": "A collection of Sphinx extensions used by Canonical documentation",
+  "author": "Michael Park",
+  "license": null,
+  "home_page": "https://github.com/canonical/canonical-sphinx-extensions",
+  "download_filename": "canonical_sphinx_extensions-0.0.34.tar.gz",
+  "download_time": "2025-09-05T06:33:40.047199",
+  "package_url": "https://pypi.org/project/canonical-sphinx-extensions/"
+}

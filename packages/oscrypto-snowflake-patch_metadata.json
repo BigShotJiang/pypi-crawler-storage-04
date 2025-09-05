@@ -1,11 +1,11 @@
 {
   "name": "oscrypto-snowflake-patch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "TLS (SSL) sockets, key generation, encryption, decryption, signing, verification and KDFs using the OS crypto libraries. Does not require a compiler, and relies on the OS for patching. Works on Windows, OS X and Linux/BSD.",
   "author": "wbond",
   "license": "MIT",
   "home_page": "https://github.com/wbond/oscrypto",
-  "download_filename": "oscrypto-snowflake-patch-1.0.2.tar.gz",
-  "download_time": "2025-09-04T16:55:02.236743",
+  "download_filename": "oscrypto-snowflake-patch-1.0.3.tar.gz",
+  "download_time": "2025-09-05T06:33:29.694855",
   "package_url": "https://pypi.org/project/oscrypto-snowflake-patch/"
 }

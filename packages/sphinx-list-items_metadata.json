@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-list-items",
+  "version": "1.0.0",
+  "summary": "A Sphinx extension to list items such as figures, tables, versionadded, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_list_items-1.0.0.tar.gz",
+  "download_time": "2025-09-05T06:33:28.151420",
+  "package_url": "https://pypi.org/project/sphinx-list-items/"
+}
