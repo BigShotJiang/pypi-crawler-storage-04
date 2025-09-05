@@ -1,0 +1,11 @@
+{
+  "name": "DecoderBot",
+  "version": "1.2.1",
+  "summary": "A simple trainable chatbot using OOP in Python",
+  "author": "Unknown Decoder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decoderbot-1.2.1.tar.gz",
+  "download_time": "2025-09-05T11:19:41.140123",
+  "package_url": "https://pypi.org/project/DecoderBot/"
+}

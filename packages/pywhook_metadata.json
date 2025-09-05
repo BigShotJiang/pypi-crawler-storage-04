@@ -1,0 +1,11 @@
+{
+  "name": "pywhook",
+  "version": "1.1.5",
+  "summary": "Python wrapper for webhook.site API",
+  "author": "Ulus Vatansever",
+  "license": null,
+  "home_page": "https://github.com/cvcvka5/pywhook",
+  "download_filename": "pywhook-1.1.5.tar.gz",
+  "download_time": "2025-09-05T11:19:52.200215",
+  "package_url": "https://pypi.org/project/pywhook/"
+}

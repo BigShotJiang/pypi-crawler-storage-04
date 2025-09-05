@@ -1,11 +1,11 @@
 {
   "name": "aduib-mcp-router",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "summary": "A Router service for MCP service discovery and routing.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aduib_mcp_router-1.1.9.tar.gz",
-  "download_time": "2025-09-05T10:56:56.298731",
+  "download_filename": "aduib_mcp_router-1.1.10.tar.gz",
+  "download_time": "2025-09-05T11:19:30.055318",
   "package_url": "https://pypi.org/project/aduib-mcp-router/"
 }

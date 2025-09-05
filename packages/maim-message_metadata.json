@@ -1,11 +1,11 @@
 {
   "name": "maim-message",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A message handling library",
   "author": "tcmofashi",
   "license": null,
   "home_page": "https://github.com/MaiM-with-u/maim_message",
-  "download_filename": "maim_message-0.5.0.tar.gz",
-  "download_time": "2025-09-04T10:24:10.144485",
+  "download_filename": "maim_message-0.5.1.tar.gz",
+  "download_time": "2025-09-05T11:19:38.284263",
   "package_url": "https://pypi.org/project/maim-message/"
 }

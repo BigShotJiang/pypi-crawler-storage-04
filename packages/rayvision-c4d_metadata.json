@@ -1,0 +1,11 @@
+{
+  "name": "rayvision-c4d",
+  "version": "1.1.1",
+  "summary": "A Python-based API for Using Renderbus cloud rendering service.",
+  "author": "Shenzhen Rayvision Technology Co., Ltd",
+  "license": null,
+  "home_page": "https://github.com/renderbus/rayvision_c4d",
+  "download_filename": "rayvision_c4d-1.1.1.tar.gz",
+  "download_time": "2025-09-05T11:19:45.994426",
+  "package_url": "https://pypi.org/project/rayvision-c4d/"
+}

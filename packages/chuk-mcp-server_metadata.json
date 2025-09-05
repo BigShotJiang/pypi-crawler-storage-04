@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp-server",
-  "version": "0.2",
+  "version": "0.2.2",
   "summary": "A developer-friendly MCP framework powered by chuk_mcp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_mcp_server-0.2.tar.gz",
-  "download_time": "2025-09-05T10:56:48.157516",
+  "download_filename": "chuk_mcp_server-0.2.2.tar.gz",
+  "download_time": "2025-09-05T11:19:52.781398",
   "package_url": "https://pypi.org/project/chuk-mcp-server/"
 }
