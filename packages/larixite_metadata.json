@@ -1,0 +1,11 @@
+{
+  "name": "larixite",
+  "version": "2025.5.1",
+  "summary": "convert CIF data to inputs for XAS calculations Feff, FDMNES, etc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "larixite-2025.5.1.tar.gz",
+  "download_time": "2025-09-05T03:35:02.265130",
+  "package_url": "https://pypi.org/project/larixite/"
+}

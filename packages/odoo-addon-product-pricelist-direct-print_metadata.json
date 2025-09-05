@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-product-pricelist-direct-print",
-  "version": "18.0.1.0.0.3",
+  "version": "18.0.1.0.0.6",
   "summary": "Print price list from menu option, product templates, products variants or price lists",
   "author": "Tecnativa, GRAP, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/product-attribute",
-  "download_filename": "odoo_addon_product_pricelist_direct_print-18.0.1.0.0.3-py3-none-any.whl",
-  "download_time": "2025-09-02T03:43:01.021394",
+  "download_filename": "odoo_addon_product_pricelist_direct_print-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-09-05T03:34:55.001670",
   "package_url": "https://pypi.org/project/odoo-addon-product-pricelist-direct-print/"
 }
