@@ -1,0 +1,11 @@
+{
+  "name": "agent-sandbox",
+  "version": "0.0.1",
+  "summary": "Python SDK for the All-in-One Sandbox API",
+  "author": "Agent Infra Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_sandbox-0.0.1.tar.gz",
+  "download_time": "2025-09-05T10:25:02.908262",
+  "package_url": "https://pypi.org/project/agent-sandbox/"
+}

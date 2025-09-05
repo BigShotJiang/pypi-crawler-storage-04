@@ -1,0 +1,11 @@
+{
+  "name": "ptpimg-uploader",
+  "version": "0.13",
+  "summary": "PTPImg uploader, handles local files and URLs, from the commandline",
+  "author": "theirix",
+  "license": "BSD",
+  "home_page": "https://github.com/theirix/ptpimg-uploader",
+  "download_filename": "ptpimg_uploader-0.13.tar.gz",
+  "download_time": "2025-09-05T10:25:06.117831",
+  "package_url": "https://pypi.org/project/ptpimg-uploader/"
+}

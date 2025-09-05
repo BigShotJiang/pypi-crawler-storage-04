@@ -1,0 +1,11 @@
+{
+  "name": "simplex-noise",
+  "version": "1.0.0",
+  "summary": "Python wrapper for Pure C Simplex Noise library",
+  "author": "Adrian Paredez",
+  "license": "MIT",
+  "home_page": "https://github.com/paredezadrian/simplex-noise",
+  "download_filename": "simplex_noise-1.0.0.tar.gz",
+  "download_time": "2025-09-05T10:24:43.913708",
+  "package_url": "https://pypi.org/project/simplex-noise/"
+}

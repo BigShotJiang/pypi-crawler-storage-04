@@ -1,0 +1,11 @@
+{
+  "name": "rich-gradient",
+  "version": "0.3.4",
+  "summary": "A gradient generator for the Rich library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rich_gradient-0.3.4-py3-none-any.whl",
+  "download_time": "2025-09-05T10:24:57.175963",
+  "package_url": "https://pypi.org/project/rich-gradient/"
+}

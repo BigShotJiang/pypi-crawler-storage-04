@@ -1,11 +1,11 @@
 {
   "name": "none-shall-parse",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Trinity Shared Python utilities.",
   "author": "Andries Niemandt, Jan Badenhorst",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "none_shall_parse-0.4.1-py3-none-any.whl",
-  "download_time": "2025-09-05T09:55:08.923342",
+  "download_filename": "none_shall_parse-0.4.2.tar.gz",
+  "download_time": "2025-09-05T10:24:53.485195",
   "package_url": "https://pypi.org/project/none-shall-parse/"
 }

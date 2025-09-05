@@ -1,0 +1,11 @@
+{
+  "name": "django-paddle-billing",
+  "version": "0.1.13",
+  "summary": "Django + Paddle Billing Integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_paddle_billing-0.1.13.tar.gz",
+  "download_time": "2025-09-05T10:24:46.018752",
+  "package_url": "https://pypi.org/project/django-paddle-billing/"
+}

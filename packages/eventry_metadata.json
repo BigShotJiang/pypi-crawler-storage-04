@@ -1,0 +1,11 @@
+{
+  "name": "eventry",
+  "version": "0.0.2",
+  "summary": "sync/async event bus implementation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eventry-0.0.2.tar.gz",
+  "download_time": "2025-09-05T10:24:58.230097",
+  "package_url": "https://pypi.org/project/eventry/"
+}
