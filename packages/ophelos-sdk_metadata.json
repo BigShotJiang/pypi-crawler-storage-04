@@ -1,0 +1,11 @@
+{
+  "name": "ophelos-sdk",
+  "version": "1.6.0",
+  "summary": "Python SDK for the Ophelos API",
+  "author": "Ophelos",
+  "license": "MIT",
+  "home_page": "https://github.com/tomasz-oph/ophelos_python_sdk",
+  "download_filename": "ophelos_sdk-1.6.0.tar.gz",
+  "download_time": "2025-09-05T11:55:04.830355",
+  "package_url": "https://pypi.org/project/ophelos-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isoxmlviz",
+  "version": "1.4.13",
+  "summary": "A utility to show basic ISO 1178-10 XML data",
+  "author": "Kenneth Lausdahl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isoxmlviz-1.4.13.tar.gz",
+  "download_time": "2025-09-05T11:55:16.519417",
+  "package_url": "https://pypi.org/project/isoxmlviz/"
+}

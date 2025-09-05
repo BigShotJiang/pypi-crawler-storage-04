@@ -1,11 +1,11 @@
 {
   "name": "midr",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Compute the irreproducible discovery rate (IDR) for a given dataset.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "midr-2.0.0.tar.gz",
-  "download_time": "2025-08-29T14:54:44.244279",
+  "download_filename": "midr-2.0.1.tar.gz",
+  "download_time": "2025-09-05T11:55:09.589408",
   "package_url": "https://pypi.org/project/midr/"
 }
