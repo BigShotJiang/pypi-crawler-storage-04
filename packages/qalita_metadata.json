@@ -1,11 +1,11 @@
 {
   "name": "qalita",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "QALITA Platform Command Line Interface",
   "author": "QALITA SAS",
   "license": null,
   "home_page": null,
-  "download_filename": "qalita-2.2.1.tar.gz",
-  "download_time": "2025-08-28T11:51:44.001143",
+  "download_filename": "qalita-2.2.3.tar.gz",
+  "download_time": "2025-09-05T15:23:49.434006",
   "package_url": "https://pypi.org/project/qalita/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcp-business-central",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "MCP Server for Microsoft Dynamics 365 Business Central",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_business_central-1.0.9.tar.gz",
-  "download_time": "2025-09-05T14:45:36.316407",
+  "download_filename": "mcp_business_central-1.0.10.tar.gz",
+  "download_time": "2025-09-05T15:24:07.400730",
   "package_url": "https://pypi.org/project/mcp-business-central/"
 }

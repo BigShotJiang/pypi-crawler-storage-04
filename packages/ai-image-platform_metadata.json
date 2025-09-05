@@ -1,0 +1,11 @@
+{
+  "name": "ai-image-platform",
+  "version": "1.0.0",
+  "summary": "Comprehensive Python library for AI-powered image processing and multimodal chat",
+  "author": "AI Image Platform Team",
+  "license": null,
+  "home_page": "https://github.com/your-username/ai-image-platform",
+  "download_filename": "ai_image_platform-1.0.0.tar.gz",
+  "download_time": "2025-09-05T15:24:22.585894",
+  "package_url": "https://pypi.org/project/ai-image-platform/"
+}

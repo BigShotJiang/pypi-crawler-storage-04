@@ -1,0 +1,11 @@
+{
+  "name": "griffe-inherited-docstrings",
+  "version": "1.1.2",
+  "summary": "Griffe extension for inheriting docstrings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "griffe_inherited_docstrings-1.1.2.tar.gz",
+  "download_time": "2025-09-05T15:23:56.363278",
+  "package_url": "https://pypi.org/project/griffe-inherited-docstrings/"
+}

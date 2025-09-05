@@ -1,11 +1,11 @@
 {
   "name": "umap-project",
-  "version": "3.3.4",
+  "version": "3.3.5",
   "summary": "Create maps with OpenStreetMap layers in a minute and embed them in your site.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "umap_project-3.3.4.tar.gz",
-  "download_time": "2025-09-02T08:30:46.608127",
+  "download_filename": "umap_project-3.3.5.tar.gz",
+  "download_time": "2025-09-05T15:23:52.626684",
   "package_url": "https://pypi.org/project/umap-project/"
 }

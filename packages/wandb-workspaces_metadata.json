@@ -1,0 +1,11 @@
+{
+  "name": "wandb-workspaces",
+  "version": "0.1.18",
+  "summary": "A library for programatically working with the Weights & Biases UI.",
+  "author": "Weights & Biases",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/wandb/wandb-workspaces",
+  "download_filename": "wandb_workspaces-0.1.18.tar.gz",
+  "download_time": "2025-09-05T15:23:51.562376",
+  "package_url": "https://pypi.org/project/wandb-workspaces/"
+}

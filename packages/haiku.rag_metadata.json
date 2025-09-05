@@ -1,11 +1,11 @@
 {
   "name": "haiku.rag",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Retrieval Augmented Generation (RAG) with LanceDB",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "haiku_rag-0.7.4.tar.gz",
-  "download_time": "2025-09-05T09:30:58.191146",
+  "download_filename": "haiku_rag-0.7.5.tar.gz",
+  "download_time": "2025-09-05T15:24:26.226023",
   "package_url": "https://pypi.org/project/haiku.rag/"
 }

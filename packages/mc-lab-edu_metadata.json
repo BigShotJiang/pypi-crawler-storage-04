@@ -1,11 +1,11 @@
 {
   "name": "mc-lab-edu",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Educational implementations of core Monte Carlo method algorithms",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mc_lab_edu-0.2.5.tar.gz",
-  "download_time": "2025-09-04T14:45:27.988117",
+  "download_filename": "mc_lab_edu-0.2.7.tar.gz",
+  "download_time": "2025-09-05T15:23:59.023255",
   "package_url": "https://pypi.org/project/mc-lab-edu/"
 }
