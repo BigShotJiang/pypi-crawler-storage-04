@@ -1,11 +1,11 @@
 {
   "name": "aider-lint-fixer",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "AI-powered lint error detection and fixing using aider.chat",
   "author": "Tosin Akinosho",
   "license": "MIT",
   "home_page": "https://github.com/tosin2023/aider-lint-fixer",
-  "download_filename": "aider_lint_fixer-2.0.2.tar.gz",
-  "download_time": "2025-09-03T15:43:36.156316",
+  "download_filename": "aider_lint_fixer-2.0.3.tar.gz",
+  "download_time": "2025-09-05T16:28:35.643796",
   "package_url": "https://pypi.org/project/aider-lint-fixer/"
 }

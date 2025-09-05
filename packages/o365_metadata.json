@@ -1,11 +1,11 @@
 {
   "name": "o365",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "O365 - Microsoft Graph and Office 365 API made easy",
   "author": "Alejcas, Narcolapser, Roycem90",
   "license": null,
   "home_page": null,
-  "download_filename": "o365-2.1.6.tar.gz",
-  "download_time": "2025-09-05T12:44:10.187644",
+  "download_filename": "o365-2.1.7.tar.gz",
+  "download_time": "2025-09-05T16:28:44.882844",
   "package_url": "https://pypi.org/project/o365/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-4dn",
+  "version": "0.5.28",
+  "summary": "Benchmark functions that returns total space, mem, cpu given input size and parameters for the CWL workflows",
+  "author": "Alexander Veit",
+  "license": "MIT",
+  "home_page": "https://github.com/4dn-dcic/Benchmark",
+  "download_filename": "benchmark_4dn-0.5.28.tar.gz",
+  "download_time": "2025-09-05T16:28:46.591032",
+  "package_url": "https://pypi.org/project/benchmark-4dn/"
+}

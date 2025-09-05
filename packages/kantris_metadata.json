@@ -1,11 +1,11 @@
 {
   "name": "kantris",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Kantris Framework",
   "author": "Teryces",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kantris-0.2.2.tar.gz",
-  "download_time": "2025-09-05T15:55:29.066973",
+  "download_filename": "kantris-0.2.3.tar.gz",
+  "download_time": "2025-09-05T16:28:41.479735",
   "package_url": "https://pypi.org/project/kantris/"
 }

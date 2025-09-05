@@ -1,0 +1,11 @@
+{
+  "name": "canva-connect-api",
+  "version": "1.0.0",
+  "summary": "Unofficial Python client for Canva Connect API",
+  "author": "Canva Connect API Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/canva-connect-api-python",
+  "download_filename": "canva_connect_api-1.0.0.tar.gz",
+  "download_time": "2025-09-05T16:28:53.033700",
+  "package_url": "https://pypi.org/project/canva-connect-api/"
+}

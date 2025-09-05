@@ -1,16 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T15:55:52.764951
-- **Total Packages**: 73
-- **Total Size**: 22.9 MB
+- **Download Time**: 2025-09-05T16:29:15.792652
+- **Total Packages**: 75
+- **Total Size**: 21.03 MB
 
 ## Packages List
+- abyz
+- pycrdt
+- kaqing
+- naneos-devices
+- typemaster-pro
+- cloudos-cli
+- hlit-dev
+- aider-lint-fixer
+- manipy
+- plotjs
+- openscenesense
+- anc
+- pl-horizontal
+- rayml
+- amonite
+- pipeline-eds
+- kantris
+- halox
+- omnipkg
+- wimsey
+- lightning-fabric
+- lightning
+- o365
+- pytorch-lightning
+- vital
+- benchmark-4dn
+- pywiner
+- rowan-python
+- moose-lib
+- alita-sdk
+- nonebot-plugin-marshoai
+- meta-learning-toolkit
+- io4it
+- engrate-sdk
+- architext
+- doc-tracker
+- canva-connect-api
+- pytrec-eval-terrier
+- ai-rulez
+- esrf-pathlib
+- locust
+- fabric-cicd
+- claude-mpm
+- clselove
+- sed-extractor
+- unrealon
+- kodexa
+- eso
 - ni.measurementlink.pinmap.v1.client
 - orq-ai-sdk
 - Promium
 - antonnia-conversations
-- querybuilder-llm
 - glassflow
 - acryl-datahub-actions
 - jiboia
@@ -34,48 +81,3 @@
 - vinormx
 - withpi
 - policyengine-us
-- kantris
-- mythic-lite
-- onnx-ir
-- griffe-typingdoc
-- fastapi-rtk
-- naneos-devices
-- sherpa-ncnn-core
-- sherpa-ncnn-bin
-- zampie_utils
-- dev-agents
-- sherpa-ncnn
-- gradboard
-- redgtech-api
-- qalita
-- autocrud
-- cronk
-- returnn
-- zhmc-prometheus-exporter
-- radar-data
-- airulermcp
-- google-adk-extras
-- clselove
-- qalita_core
-- sparkden
-- ilamb3
-- fastworkflow
-- img4it
-- vibesurf
-- plotly-cloud
-- mlx.jira-juggler
-- polars-deunicode-string
-- pyya
-- aait
-- qnty
-- vspreview
-- flowcept
-- warranty-claim-ai-engine
-- phu
-- scruby
-- locust
-- chia-blockchain
-- trepan3k-mathics3
-- synqly
-- ResSimpy
-- formant
