@@ -1,11 +1,11 @@
 {
   "name": "InfluenceDiffusion",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "InfluenceDiffusion package",
   "author": "Alexander Kagan",
   "license": null,
   "home_page": null,
-  "download_filename": "influencediffusion-0.0.14.tar.gz",
-  "download_time": "2025-09-05T22:54:58.566023",
+  "download_filename": "influencediffusion-0.0.15.tar.gz",
+  "download_time": "2025-09-05T23:21:48.811843",
   "package_url": "https://pypi.org/project/InfluenceDiffusion/"
 }

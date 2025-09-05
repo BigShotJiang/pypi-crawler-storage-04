@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T22:55:32.352320
-- **Total Packages**: 83
-- **Total Size**: 11.45 MB
+- **Download Time**: 2025-09-05T23:22:13.751088
+- **Total Packages**: 79
+- **Total Size**: 14.32 MB
 
 ## Packages List
+- werkflow-shell
+- odoo-addon-l10n-br-fiscal
+- cdk-factory
+- coqui-tts
+- hyrex
+- sqlmesh
+- codearkt
+- agent-memory-client
+- coiled
+- khx-publish-pypi
+- letta-client
+- urw-scroll-table
+- pyindicators
+- minecraft-datapack-language
+- pulumi-vault
+- svc-infra
+- prime
+- pyppbox
+- langgraph-cli
 - sinapsis-time-series
 - sinapsis-darts-forecasting
 - bedrock-agentcore
@@ -13,10 +32,8 @@
 - cocode
 - geoindex-rs
 - authentik-client
-- minecraft-datapack-language
 - d4rktg
 - lmnr
-- svc-infra
 - blocks-sdk
 - scribblehub-to-epub
 - django-okta-client
@@ -48,14 +65,12 @@
 - plantdb.commons
 - plantdb.client
 - gh-analysis
-- khx-publish-pypi
 - empowernow-common
 - mtcli-volume
 - interview-generator
 - agent-framework-foundry
 - ardupilot-methodic-configurator
 - atopile
-- codearkt
 - wdadaptivepy
 - mira
 - pdd-cli
@@ -70,22 +85,3 @@
 - increase
 - agent-framework-workflow
 - vsjetpack
-- cripto-ade2583b6b098c2208b8c9293402a29c431831b8
-- omserv
-- ommlds
-- omlish
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- FinaleToolkit
-- werkflow-http
-- tessdb-api
-- lht
-- SwiftGUI
-- arthur-client
-- pulumi-docker-build
-- deepsweepai
-- docviz-python
-- snputils
