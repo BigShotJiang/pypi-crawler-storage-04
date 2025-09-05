@@ -1,0 +1,11 @@
+{
+  "name": "alyx-connector",
+  "version": "2.1.43",
+  "summary": "Alyx Connector, based on the Open Neurophysiology Environment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alyx_connector-2.1.43.tar.gz",
+  "download_time": "2025-09-05T17:43:28.783400",
+  "package_url": "https://pypi.org/project/alyx-connector/"
+}

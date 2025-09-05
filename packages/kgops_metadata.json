@@ -1,11 +1,11 @@
 {
   "name": "kgops",
-  "version": "0.1.0",
-  "summary": "End-to-End Knowledge Graph Builder for RAG & Sharing",
-  "author": "KGForge Team",
+  "version": "0.1.2",
+  "summary": "KGOps - End-to-End Knowledge Graph Operations for RAG & Data Integration",
+  "author": "KGOps Team",
   "license": "MIT",
-  "home_page": "https://github.com/kgforge/kgforge",
-  "download_filename": "kgops-0.1.0.tar.gz",
-  "download_time": "2025-09-04T15:15:58.902298",
+  "home_page": "https://github.com/SohamChaudhari2004/kgops",
+  "download_filename": "kgops-0.1.2.tar.gz",
+  "download_time": "2025-09-05T17:43:06.504094",
   "package_url": "https://pypi.org/project/kgops/"
 }

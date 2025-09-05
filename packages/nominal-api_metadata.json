@@ -1,11 +1,11 @@
 {
   "name": "nominal-api",
-  "version": "0.880.1",
+  "version": "0.881.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nominal_api-0.880.1.tar.gz",
-  "download_time": "2025-09-04T23:54:46.646969",
+  "download_filename": "nominal_api-0.881.0.tar.gz",
+  "download_time": "2025-09-05T17:42:56.452674",
   "package_url": "https://pypi.org/project/nominal-api/"
 }

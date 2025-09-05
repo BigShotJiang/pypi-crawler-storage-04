@@ -1,11 +1,11 @@
 {
   "name": "brain-observatory-utilities",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Utilities for analyzing, manipulating and visualizing data for Brain Observatory projects",
   "author": "Allen Institute",
   "license": "Allen Institute",
   "home_page": "https://github.com/AllenInstitute/mindscope_utilities",
-  "download_filename": "brain_observatory_utilities-0.5.0.tar.gz",
-  "download_time": "2025-09-05T17:21:15.818602",
+  "download_filename": "brain_observatory_utilities-0.5.1.tar.gz",
+  "download_time": "2025-09-05T17:43:10.667195",
   "package_url": "https://pypi.org/project/brain-observatory-utilities/"
 }

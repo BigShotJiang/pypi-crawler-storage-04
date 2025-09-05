@@ -1,0 +1,11 @@
+{
+  "name": "gdbstub",
+  "version": "0.2.2",
+  "summary": "Python type stubs for GDB's internal `_gdb` package.",
+  "author": "Anson Mansfield",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/AJMansfield/gdbstub",
+  "download_filename": "gdbstub-0.2.2.tar.gz",
+  "download_time": "2025-09-05T17:42:53.762517",
+  "package_url": "https://pypi.org/project/gdbstub/"
+}

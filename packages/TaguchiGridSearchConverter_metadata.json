@@ -1,0 +1,11 @@
+{
+  "name": "TaguchiGridSearchConverter",
+  "version": "0.2.6",
+  "summary": "Optimize hyperparameter search using Taguchi array principles",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/thiswillbeyourgithub/TaguchiGridSearchConverter.git",
+  "download_filename": "taguchigridsearchconverter-0.2.6.tar.gz",
+  "download_time": "2025-09-05T17:43:28.270323",
+  "package_url": "https://pypi.org/project/TaguchiGridSearchConverter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyhmmsearch",
-  "version": "2025.9.4.post1",
+  "version": "2025.9.5",
   "summary": "Fast implementation of HMMSEARCH optimized for high-memory systems using PyHmmer",
   "author": "Josh L. Espinoza",
   "license": "MIT License",
   "home_page": "https://github.com/jolespin/pyhmmsearch",
-  "download_filename": "pyhmmsearch-2025.9.4.post1.tar.gz",
-  "download_time": "2025-09-04T21:24:44.694908",
+  "download_filename": "pyhmmsearch-2025.9.5.tar.gz",
+  "download_time": "2025-09-05T17:43:13.247963",
   "package_url": "https://pypi.org/project/pyhmmsearch/"
 }

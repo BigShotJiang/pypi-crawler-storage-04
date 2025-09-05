@@ -1,0 +1,11 @@
+{
+  "name": "packetdiagram",
+  "version": "0.0.1",
+  "summary": "A tool to generate packet diagrams and save them as png or svg.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "packetdiagram-0.0.1.tar.gz",
+  "download_time": "2025-09-05T17:43:27.219069",
+  "package_url": "https://pypi.org/project/packetdiagram/"
+}

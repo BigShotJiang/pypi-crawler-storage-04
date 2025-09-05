@@ -1,0 +1,11 @@
+{
+  "name": "ai-text-humanizer",
+  "version": "1.0.0",
+  "summary": "AI-powered text humanizer for English and Persian (فارسی)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/mohammadham/AI-Text-Humanizer",
+  "download_filename": "ai-text-humanizer-1.0.0.tar.gz",
+  "download_time": "2025-09-05T17:43:17.352572",
+  "package_url": "https://pypi.org/project/ai-text-humanizer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "migrate-anything",
+  "version": "0.2.0",
+  "summary": "Helps manage migrations for databases and anything else",
+  "author": "Cocreators OÜ",
+  "license": null,
+  "home_page": "https://github.com/cocreators-ee/migrate-anything",
+  "download_filename": "migrate_anything-0.2.0.tar.gz",
+  "download_time": "2025-09-05T17:43:29.296258",
+  "package_url": "https://pypi.org/project/migrate-anything/"
+}
