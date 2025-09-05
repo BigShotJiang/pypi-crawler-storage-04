@@ -1,0 +1,11 @@
+{
+  "name": "opensesame-plugin-experiment-manager",
+  "version": "3.2.0",
+  "summary": "An OpenSesame Plug-in for managing/executing multiple OpenSesame experiments.",
+  "author": "Bob Rosbag",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "opensesame_plugin_experiment_manager-3.2.0.tar.gz",
+  "download_time": "2025-09-05T08:50:21.027253",
+  "package_url": "https://pypi.org/project/opensesame-plugin-experiment-manager/"
+}

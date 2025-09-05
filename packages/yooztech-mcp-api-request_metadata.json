@@ -1,0 +1,11 @@
+{
+  "name": "yooztech-mcp-api-request",
+  "version": "0.0.1",
+  "summary": "MCP server template for generic API requests",
+  "author": "yooztech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yooztech_mcp_api_request-0.0.1.tar.gz",
+  "download_time": "2025-09-05T08:50:37.174238",
+  "package_url": "https://pypi.org/project/yooztech-mcp-api-request/"
+}

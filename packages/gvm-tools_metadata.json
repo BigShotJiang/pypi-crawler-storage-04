@@ -1,0 +1,11 @@
+{
+  "name": "gvm-tools",
+  "version": "25.4.0",
+  "summary": "Tools to control a GSM/GVM over GMP or OSP",
+  "author": "Greenbone AG",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gvm_tools-25.4.0.tar.gz",
+  "download_time": "2025-09-05T08:50:05.629807",
+  "package_url": "https://pypi.org/project/gvm-tools/"
+}

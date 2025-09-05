@@ -1,11 +1,11 @@
 {
   "name": "django-hlsfield",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Django VideoField + HLSVideoField: metadata, preview frame, automatic HLS/DASH, Celery optional.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_hlsfield-1.0.4.tar.gz",
-  "download_time": "2025-09-01T07:53:32.503317",
+  "download_filename": "django_hlsfield-1.0.6.tar.gz",
+  "download_time": "2025-09-05T08:50:15.728564",
   "package_url": "https://pypi.org/project/django-hlsfield/"
 }

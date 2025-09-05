@@ -1,11 +1,11 @@
 {
   "name": "idds-server",
-  "version": "2.2.48",
+  "version": "2.2.49",
   "summary": "intelligent Data Delivery Service(iDDS) Package",
   "author": "IRIS-HEP Team",
   "license": "GPL",
   "home_page": null,
-  "download_filename": "idds_server-2.2.48.tar.gz",
-  "download_time": "2025-08-28T08:27:37.449282",
+  "download_filename": "idds_server-2.2.49.tar.gz",
+  "download_time": "2025-09-05T08:50:27.847220",
   "package_url": "https://pypi.org/project/idds-server/"
 }

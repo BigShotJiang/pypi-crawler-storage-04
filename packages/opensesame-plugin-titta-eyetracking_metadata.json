@@ -1,0 +1,11 @@
+{
+  "name": "opensesame-plugin-titta-eyetracking",
+  "version": "4.2.0",
+  "summary": "Titta Eye Tracking plugin for OpenSesame",
+  "author": "Bob Rosbag",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "opensesame_plugin_titta_eyetracking-4.2.0.tar.gz",
+  "download_time": "2025-09-05T08:50:18.948317",
+  "package_url": "https://pypi.org/project/opensesame-plugin-titta-eyetracking/"
+}
