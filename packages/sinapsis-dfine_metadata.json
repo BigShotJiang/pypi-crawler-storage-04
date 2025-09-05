@@ -1,11 +1,11 @@
 {
   "name": "sinapsis-dfine",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Training and inference templates based on the D-FINE architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sinapsis_dfine-0.1.10.tar.gz",
-  "download_time": "2025-08-29T14:43:30.411649",
+  "download_filename": "sinapsis_dfine-0.1.11.tar.gz",
+  "download_time": "2025-09-05T14:56:26.795680",
   "package_url": "https://pypi.org/project/sinapsis-dfine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fine-python-lint",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fine_python_lint-0.3.0.tar.gz",
-  "download_time": "2025-09-04T19:18:29.639981",
+  "download_filename": "fine_python_lint-0.4.0.tar.gz",
+  "download_time": "2025-09-05T14:56:41.844686",
   "package_url": "https://pypi.org/project/fine-python-lint/"
 }

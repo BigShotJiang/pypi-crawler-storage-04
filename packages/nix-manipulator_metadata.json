@@ -1,0 +1,11 @@
+{
+  "name": "nix-manipulator",
+  "version": "0.1.2",
+  "summary": "A Python library for parsing, manipulating, and reconstructing Nix source code with high-level abstractions while preserving formatting and comments in RFC-formatted code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nix_manipulator-0.1.2.tar.gz",
+  "download_time": "2025-09-05T14:56:33.992847",
+  "package_url": "https://pypi.org/project/nix-manipulator/"
+}

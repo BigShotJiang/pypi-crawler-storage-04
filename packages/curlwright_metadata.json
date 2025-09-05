@@ -1,0 +1,11 @@
+{
+  "name": "curlwright",
+  "version": "1.0.0",
+  "summary": "Cloudflare bypass tool using Playwright for curl requests",
+  "author": "Marc Rivero",
+  "license": "MIT",
+  "home_page": "https://github.com/seifreed/Curlwright",
+  "download_filename": "curlwright-1.0.0.tar.gz",
+  "download_time": "2025-09-05T14:56:23.927007",
+  "package_url": "https://pypi.org/project/curlwright/"
+}

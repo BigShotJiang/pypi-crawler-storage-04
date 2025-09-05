@@ -1,0 +1,11 @@
+{
+  "name": "jyutping2characters",
+  "version": "0.1.0",
+  "summary": "Convert Jyutping romanization to Traditional Chinese characters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jyutping2characters-0.1.0.tar.gz",
+  "download_time": "2025-09-05T14:56:35.277776",
+  "package_url": "https://pypi.org/project/jyutping2characters/"
+}
