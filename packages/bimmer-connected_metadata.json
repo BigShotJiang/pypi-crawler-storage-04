@@ -1,0 +1,11 @@
+{
+  "name": "bimmer-connected",
+  "version": "0.17.3",
+  "summary": "Library to read data from the BMW Connected Drive portal",
+  "author": "gerard33, rikroe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bimmerconnected/bimmer_connected",
+  "download_filename": "bimmer_connected-0.17.3.tar.gz",
+  "download_time": "2025-09-05T07:55:07.790346",
+  "package_url": "https://pypi.org/project/bimmer-connected/"
+}

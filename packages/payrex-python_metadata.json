@@ -1,0 +1,11 @@
+{
+  "name": "payrex-python",
+  "version": "1.7.3",
+  "summary": "PayRex Python Library",
+  "author": "PayRex",
+  "license": "MIT",
+  "home_page": "https://github.com/payrexhq/payrex-python",
+  "download_filename": "payrex_python-1.7.3.tar.gz",
+  "download_time": "2025-09-05T07:55:31.722767",
+  "package_url": "https://pypi.org/project/payrex-python/"
+}

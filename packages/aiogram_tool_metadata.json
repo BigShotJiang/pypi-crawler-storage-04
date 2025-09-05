@@ -1,11 +1,11 @@
 {
   "name": "aiogram_tool",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Tools which doing work with aiogram simple",
   "author": "Vlad_shayzi1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiogram_tool-1.1.0.tar.gz",
-  "download_time": "2025-09-02T11:53:40.298330",
+  "download_filename": "aiogram_tool-1.2.0.tar.gz",
+  "download_time": "2025-09-05T07:55:28.148756",
   "package_url": "https://pypi.org/project/aiogram_tool/"
 }

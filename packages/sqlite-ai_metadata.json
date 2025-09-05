@@ -1,11 +1,11 @@
 {
   "name": "sqlite-ai",
-  "version": "0.6.2",
+  "version": "0.6.7",
   "summary": "Python prebuilt binaries for SQLite AI extension for all supported platforms and architectures.",
   "author": "SQLite AI Team",
   "license": null,
   "home_page": "https://sqlite.ai",
-  "download_filename": "sqlite_ai-0.6.2-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2025-09-02T13:49:20.180752",
+  "download_filename": "sqlite_ai-0.6.7-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-05T07:55:21.598373",
   "package_url": "https://pypi.org/project/sqlite-ai/"
 }

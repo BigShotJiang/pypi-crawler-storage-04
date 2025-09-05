@@ -1,15 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T07:42:00.834038
-- **Total Packages**: 86
-- **Total Size**: 20.16 MB
+- **Download Time**: 2025-09-05T07:56:01.236899
+- **Total Packages**: 92
+- **Total Size**: 50.59 MB
 
 ## Packages List
+- haiku.rag
+- smithery
+- bimmer-connected
+- iqm-benchmarks
+- xlpkg
+- mapentity
+- psa-utils
+- bash-script-maker
+- vectordb-bench
+- FourCIPP
+- coeai
+- crdp-gcr
+- MetaRagTool
+- djresttoolkit
+- authentik-client
+- mcp-postgresql-server
+- django-bulk-drf
+- pingera-mcp-server
+- pulumi-gcp
+- jhub-swarmspawner
+- utilskit
+- accusleepy
+- Xdcheckin
+- pulumi-azure
+- pqsdk
+- sqlite-ai
+- gvasp
+- bizyui
+- autoclean-icvision
+- bizydraft
+- lims2-sdk
+- rafay-workflow-sdk
+- hardpy
+- datasense-eda
+- lue-reader
+- dashscope
+- aiogram_tool
+- powerfit-em
+- binary-refinery
+- omnidimension
+- pypackage-example
+- aiagents4pharma
+- payrex-python
 - feldera
 - beeai-sdk
 - dbgone
-- autoclean-icvision
 - beeai-cli
 - figaroh
 - odoo-addon-l10n-de-location-nuts
@@ -41,17 +83,14 @@
 - rimetool
 - wbaccounting
 - deltafq
-- utilskit
 - libdata
 - django-bulk-hooks
 - cuteagent
 - Tonviewer
 - bespokelang
-- authentik-client
 - pyaescbc
 - ml-profiler
 - yara-x
-- Xdcheckin
 - dungngo-serena-agent
 - chempy
 - dungngo-upsonic
@@ -59,36 +98,3 @@
 - dungngo-awslabs.core-mcp-server
 - dungngo-mcp-obsidian
 - causalmatch
-- netbox-scion
-- ida-hcli
-- MetaRagTool
-- electriflux
-- polar-sdk
-- paddle-onnxocr
-- talktollm
-- jupytergis-lite
-- jupytergis-qgis
-- jupytergis-lab
-- gardener-ocm
-- gardener-oci
-- gardener-gha-libs
-- gardener-cicd-whd
-- gardener-cicd-libs
-- gardener-cicd-cli
-- aigency
-- jupytergis
-- nus-logger
-- odoo-addon-l10n-de-mis-reports
-- aspose-total-java
-- codestripper
-- zenllm
-- ssb-befolkning-fagfunksjoner
-- coeai
-- physox
-- onnxscript
-- fastcodedog
-- hvac-did-flash
-- Qwael
-- xga-agent-tool
-- dbcrust
-- mxcubeweb
