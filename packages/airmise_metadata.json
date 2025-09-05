@@ -1,0 +1,11 @@
+{
+  "name": "airmise",
+  "version": "0.4.1",
+  "summary": "The native experience of calling remote functions, like local ones.",
+  "author": "Likianta",
+  "license": null,
+  "home_page": "https://github.com/likianta/airmise",
+  "download_filename": "airmise-0.4.1-py3-none-any.whl",
+  "download_time": "2025-09-05T02:52:48.729075",
+  "package_url": "https://pypi.org/project/airmise/"
+}

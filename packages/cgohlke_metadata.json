@@ -1,0 +1,11 @@
+{
+  "name": "cgohlke",
+  "version": "2025.9.1",
+  "summary": "Install all packages by cgohlke",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "cgohlke-2025.9.1-py3-none-any.whl",
+  "download_time": "2025-09-05T02:52:19.076500",
+  "package_url": "https://pypi.org/project/cgohlke/"
+}

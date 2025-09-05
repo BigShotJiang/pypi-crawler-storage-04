@@ -1,11 +1,11 @@
 {
   "name": "sq3m",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Interactive CLI DB AI Agent for natural language to SQL conversion",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sq3m-0.1.1.tar.gz",
-  "download_time": "2025-09-04T05:54:10.106608",
+  "download_filename": "sq3m-0.2.0.tar.gz",
+  "download_time": "2025-09-05T02:52:26.882682",
   "package_url": "https://pypi.org/project/sq3m/"
 }

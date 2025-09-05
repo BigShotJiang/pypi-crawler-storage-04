@@ -1,0 +1,11 @@
+{
+  "name": "objnormals",
+  "version": "0.1.1",
+  "summary": "Generate vertex normal data from wavefront .obj files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "objnormals-0.1.1.tar.gz",
+  "download_time": "2025-09-05T02:52:14.172254",
+  "package_url": "https://pypi.org/project/objnormals/"
+}

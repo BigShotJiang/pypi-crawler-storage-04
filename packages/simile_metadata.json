@@ -1,11 +1,11 @@
 {
   "name": "simile",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "summary": "Package for interfacing with Simile AI agents for simulation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simile-0.4.10.tar.gz",
-  "download_time": "2025-08-30T03:21:26.385979",
+  "download_filename": "simile-0.4.11.tar.gz",
+  "download_time": "2025-09-05T02:52:27.461127",
   "package_url": "https://pypi.org/project/simile/"
 }

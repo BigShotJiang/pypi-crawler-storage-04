@@ -1,0 +1,11 @@
+{
+  "name": "rtcclient",
+  "version": "0.10.0",
+  "summary": "RTCClient for Rational Team Concert",
+  "author": "Di Xu",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/dixudx/rtcclient",
+  "download_filename": "rtcclient-0.10.0.tar.gz",
+  "download_time": "2025-09-05T02:52:31.004920",
+  "package_url": "https://pypi.org/project/rtcclient/"
+}

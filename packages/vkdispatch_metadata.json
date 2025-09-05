@@ -1,0 +1,11 @@
+{
+  "name": "vkdispatch",
+  "version": "0.0.30",
+  "summary": "A Python module for orchestrating and dispatching large computations across multi-GPU systems using Vulkan.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vkdispatch-0.0.30.tar.gz",
+  "download_time": "2025-09-05T02:53:04.623995",
+  "package_url": "https://pypi.org/project/vkdispatch/"
+}
