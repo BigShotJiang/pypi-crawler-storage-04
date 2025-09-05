@@ -1,11 +1,11 @@
 {
   "name": "chittorgarh-client",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "summary": "Unofficial chittorgarh.com client",
   "author": "Dhaval Mehta",
   "license": null,
   "home_page": "https://github.com/dhaval-mehta/chittorgarh-client",
-  "download_filename": "chittorgarh_client-1.0.34.tar.gz",
-  "download_time": "2025-09-05T03:58:02.276455",
+  "download_filename": "chittorgarh_client-1.0.35.tar.gz",
+  "download_time": "2025-09-05T04:28:09.411107",
   "package_url": "https://pypi.org/project/chittorgarh-client/"
 }

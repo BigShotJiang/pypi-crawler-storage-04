@@ -1,11 +1,11 @@
 {
   "name": "pivotalpath",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "The industry standard for hedge fund index analytics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pivotalpath-1.0.1.tar.gz",
-  "download_time": "2025-09-05T03:35:32.872330",
+  "download_filename": "pivotalpath-1.0.2.tar.gz",
+  "download_time": "2025-09-05T04:28:23.831540",
   "package_url": "https://pypi.org/project/pivotalpath/"
 }

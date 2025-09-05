@@ -1,0 +1,11 @@
+{
+  "name": "pcapana",
+  "version": "0.1.4",
+  "summary": "A command-line tool to analyze PCAP files for Protocol Statistics, Visited Domains, OSI Layer Analysis, Bandwidth Analysis & Port Analysis with the option to export it as a HTML report",
+  "author": "Harsh M Shah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcapana-0.1.4.tar.gz",
+  "download_time": "2025-09-05T04:27:57.572303",
+  "package_url": "https://pypi.org/project/pcapana/"
+}

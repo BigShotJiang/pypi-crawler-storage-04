@@ -1,0 +1,11 @@
+{
+  "name": "osbot-docker",
+  "version": "0.6.0",
+  "summary": "OWASP Security Bot - Docker",
+  "author": "Dinis Cruz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "osbot_docker-0.6.0.tar.gz",
+  "download_time": "2025-09-05T04:28:07.008937",
+  "package_url": "https://pypi.org/project/osbot-docker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coyaml",
+  "version": "0.11.0",
+  "summary": "Yaml configuration library for python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "coyaml-0.11.0.tar.gz",
+  "download_time": "2025-09-05T04:28:00.577756",
+  "package_url": "https://pypi.org/project/coyaml/"
+}
