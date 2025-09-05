@@ -1,11 +1,11 @@
 {
   "name": "qdrant-loader-mcp-server",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "A Model Context Protocol (MCP) server that provides RAG capabilities to Cursor using Qdrant.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qdrant_loader_mcp_server-0.7.1.tar.gz",
-  "download_time": "2025-09-04T15:45:26.545202",
+  "download_filename": "qdrant_loader_mcp_server-0.7.2.tar.gz",
+  "download_time": "2025-09-05T09:44:53.408056",
   "package_url": "https://pypi.org/project/qdrant-loader-mcp-server/"
 }

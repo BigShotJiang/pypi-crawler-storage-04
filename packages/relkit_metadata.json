@@ -1,11 +1,11 @@
 {
   "name": "relkit",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Opinionated release toolkit for modern Python projects",
   "author": "Fredrik Angelsen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "relkit-1.5.3.tar.gz",
-  "download_time": "2025-09-05T08:50:24.153706",
+  "download_filename": "relkit-1.5.4.tar.gz",
+  "download_time": "2025-09-05T09:45:15.386023",
   "package_url": "https://pypi.org/project/relkit/"
 }

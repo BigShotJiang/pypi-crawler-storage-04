@@ -1,0 +1,11 @@
+{
+  "name": "vantivecommercesdk",
+  "version": "12.47.0",
+  "summary": "Vantiv eCommerce Python SDK",
+  "author": "Vantiv eCommerce",
+  "license": "MIT",
+  "home_page": "https://vantiv.github.io/python/",
+  "download_filename": "vantivecommercesdk-12.47.0.tar.gz",
+  "download_time": "2025-09-05T09:45:08.151763",
+  "package_url": "https://pypi.org/project/vantivecommercesdk/"
+}

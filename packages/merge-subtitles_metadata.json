@@ -1,0 +1,11 @@
+{
+  "name": "merge-subtitles",
+  "version": "1.0.0",
+  "summary": "A tool for merging MP4 video files with SRT subtitle files into MKV format",
+  "author": "Lorenzo Wood",
+  "license": null,
+  "home_page": "https://github.com/lorenzowood/merge-subtitles",
+  "download_filename": "merge_subtitles-1.0.0.tar.gz",
+  "download_time": "2025-09-05T09:45:27.076657",
+  "package_url": "https://pypi.org/project/merge-subtitles/"
+}
