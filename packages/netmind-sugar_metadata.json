@@ -1,11 +1,11 @@
 {
   "name": "netmind-sugar",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Sugar SDK",
   "author": "Velodrome Finance",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/protagolabs/sugar-sdk/",
-  "download_filename": "netmind_sugar-0.3.3.tar.gz",
-  "download_time": "2025-09-04T13:17:24.736715",
+  "download_filename": "netmind_sugar-0.3.4.tar.gz",
+  "download_time": "2025-09-05T04:46:35.763800",
   "package_url": "https://pypi.org/project/netmind-sugar/"
 }
