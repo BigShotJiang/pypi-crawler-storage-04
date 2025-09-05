@@ -1,0 +1,11 @@
+{
+  "name": "skello",
+  "version": "2.1.4",
+  "summary": "The friendliest way to bootstrap modern Python projects — from zero to fully-structured, ready-to-code skeleton in seconds! 🚀",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skello-2.1.4.tar.gz",
+  "download_time": "2025-09-05T19:20:46.782016",
+  "package_url": "https://pypi.org/project/skello/"
+}

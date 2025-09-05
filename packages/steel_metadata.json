@@ -1,0 +1,11 @@
+{
+  "name": "steel",
+  "version": "0.5",
+  "summary": "A Python framework for describing, reading and writing binary file formats",
+  "author": "Ginger Hawthorne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "steel-0.5.tar.gz",
+  "download_time": "2025-09-05T19:20:41.471841",
+  "package_url": "https://pypi.org/project/steel/"
+}

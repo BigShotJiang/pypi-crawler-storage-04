@@ -1,11 +1,11 @@
 {
   "name": "txttoqti",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Universal converter that transforms text-based question banks into QTI packages compatible with Canvas LMS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "txttoqti-0.3.0.tar.gz",
-  "download_time": "2025-09-03T19:41:04.915252",
+  "download_filename": "txttoqti-0.5.0.tar.gz",
+  "download_time": "2025-09-05T19:20:55.606599",
   "package_url": "https://pypi.org/project/txttoqti/"
 }

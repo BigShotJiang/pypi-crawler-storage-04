@@ -1,11 +1,11 @@
 {
   "name": "wt-blk-pybindings",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wt_blk_pybindings-0.2.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-09-03T22:20:43.428453",
+  "download_filename": "wt_blk_pybindings-0.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-05T19:20:32.342915",
   "package_url": "https://pypi.org/project/wt-blk-pybindings/"
 }
