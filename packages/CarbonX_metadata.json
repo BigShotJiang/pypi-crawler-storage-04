@@ -1,0 +1,11 @@
+{
+  "name": "CarbonX",
+  "version": "1.0.6",
+  "summary": "Process Design Tool for Gas-Phase Synthesis of Nanomaterials and Carbon Nanotubes",
+  "author": "Hossein Rahbar",
+  "license": null,
+  "home_page": "https://github.com/yourusername/CarbonX",
+  "download_filename": "carbonx-1.0.6.tar.gz",
+  "download_time": "2025-09-05T21:21:11.764472",
+  "package_url": "https://pypi.org/project/CarbonX/"
+}

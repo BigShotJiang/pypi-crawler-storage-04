@@ -1,0 +1,11 @@
+{
+  "name": "cognize",
+  "version": "0.1.8",
+  "summary": "Programmable cognition for Python systems.",
+  "author": "Pulikanti Sashi Bharadwaj",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/heraclitus0/cognize",
+  "download_filename": "cognize-0.1.8.tar.gz",
+  "download_time": "2025-09-05T21:21:04.033383",
+  "package_url": "https://pypi.org/project/cognize/"
+}

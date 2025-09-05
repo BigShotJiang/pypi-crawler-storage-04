@@ -1,11 +1,11 @@
 {
   "name": "tm-profiler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Time profiler",
   "author": "NorchaHack (Normunds Pureklis)",
   "license": null,
   "home_page": null,
-  "download_filename": "tm_profiler-0.0.1.tar.gz",
-  "download_time": "2025-09-05T20:28:31.539206",
+  "download_filename": "tm_profiler-0.0.2.tar.gz",
+  "download_time": "2025-09-05T21:21:15.904022",
   "package_url": "https://pypi.org/project/tm-profiler/"
 }
