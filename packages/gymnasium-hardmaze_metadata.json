@@ -1,0 +1,11 @@
+{
+  "name": "gymnasium-hardmaze",
+  "version": "0.1.1",
+  "summary": "A Gymnasium-compatible implementation of hardmaze environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gymnasium_hardmaze-0.1.1.tar.gz",
+  "download_time": "2025-09-05T03:57:53.906859",
+  "package_url": "https://pypi.org/project/gymnasium-hardmaze/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sparse-coding",
-  "version": "2.2.0",
-  "summary": "Biological vision principles for efficient representation learning from natural images",
-  "author": null,
-  "license": "Custom Non-Commercial License with Donation Requirements",
+  "version": "2.4.0",
+  "summary": "Research-faithful sparse coding with Olshausen-Field paper-exact mode and modern L1/FISTA.",
+  "author": "Research Implementation",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "sparse_coding-2.2.0.tar.gz",
-  "download_time": "2025-09-02T07:25:57.056992",
+  "download_filename": "sparse_coding-2.4.0.tar.gz",
+  "download_time": "2025-09-05T03:57:39.576019",
   "package_url": "https://pypi.org/project/sparse-coding/"
 }
