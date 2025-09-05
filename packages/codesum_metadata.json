@@ -1,11 +1,11 @@
 {
   "name": "codesum",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "summary": "Interactive code summarizer using AI and TUI",
   "author": "Sam G",
   "license": null,
   "home_page": null,
-  "download_filename": "codesum-0.2.11.tar.gz",
-  "download_time": "2025-09-05T19:20:20.955486",
+  "download_filename": "codesum-0.2.12.tar.gz",
+  "download_time": "2025-09-05T21:55:12.292224",
   "package_url": "https://pypi.org/project/codesum/"
 }

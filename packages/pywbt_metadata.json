@@ -1,0 +1,11 @@
+{
+  "name": "pywbt",
+  "version": "0.3.0",
+  "summary": "A lightweight Python wrapper for WhiteboxTools command-line interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywbt-0.3.0.tar.gz",
+  "download_time": "2025-09-05T21:55:08.165691",
+  "package_url": "https://pypi.org/project/pywbt/"
+}
