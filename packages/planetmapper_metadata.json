@@ -1,0 +1,11 @@
+{
+  "name": "planetmapper",
+  "version": "1.13.4",
+  "summary": "PlanetMapper: A Python package for visualising, navigating and mapping Solar System observations",
+  "author": "Oliver King",
+  "license": "MIT",
+  "home_page": "https://github.com/ortk95/planetmapper",
+  "download_filename": "planetmapper-1.13.4.tar.gz",
+  "download_time": "2025-09-05T14:22:25.037058",
+  "package_url": "https://pypi.org/project/planetmapper/"
+}

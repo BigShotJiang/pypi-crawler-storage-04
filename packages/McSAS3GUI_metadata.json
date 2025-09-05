@@ -1,0 +1,11 @@
+{
+  "name": "McSAS3GUI",
+  "version": "0.1.6",
+  "summary": "A graphical user interface for the McSAS3 software.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcsas3gui-0.1.6.tar.gz",
+  "download_time": "2025-09-05T14:22:43.469189",
+  "package_url": "https://pypi.org/project/McSAS3GUI/"
+}

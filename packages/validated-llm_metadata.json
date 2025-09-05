@@ -1,0 +1,11 @@
+{
+  "name": "validated-llm",
+  "version": "0.1.12",
+  "summary": "LLM output validation with retry loops - ensure your language model responses meet requirements",
+  "author": "validated-llm contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/validated-llm",
+  "download_filename": "validated_llm-0.1.12.tar.gz",
+  "download_time": "2025-09-05T14:22:35.613942",
+  "package_url": "https://pypi.org/project/validated-llm/"
+}

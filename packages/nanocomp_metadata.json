@@ -1,0 +1,11 @@
+{
+  "name": "nanocomp",
+  "version": "1.25.5",
+  "summary": "Comparing runs of Oxford Nanopore sequencing data and alignments",
+  "author": "Wouter De Coster",
+  "license": "MIT",
+  "home_page": "https://github.com/wdecoster/NanoComp",
+  "download_filename": "nanocomp-1.25.5.tar.gz",
+  "download_time": "2025-09-05T14:22:09.231635",
+  "package_url": "https://pypi.org/project/nanocomp/"
+}

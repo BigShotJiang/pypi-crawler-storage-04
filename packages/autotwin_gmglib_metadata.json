@@ -1,0 +1,11 @@
+{
+  "name": "autotwin_gmglib",
+  "version": "0.1.13",
+  "summary": "Graph Model Generation Library for Auto-Twin",
+  "author": "Lulai Zhu",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AutotwinEU/graph-model-gen",
+  "download_filename": "autotwin_gmglib-0.1.13.tar.gz",
+  "download_time": "2025-09-05T14:22:06.617530",
+  "package_url": "https://pypi.org/project/autotwin_gmglib/"
+}

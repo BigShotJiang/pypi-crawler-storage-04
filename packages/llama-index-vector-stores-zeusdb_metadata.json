@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-zeusdb",
+  "version": "0.0.0",
+  "summary": "Advanced RAG made simple: LlamaIndex document processing + ZeusDB enterprise vector storage with production-ready performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_zeusdb-0.0.0.tar.gz",
+  "download_time": "2025-09-05T14:22:19.800956",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-zeusdb/"
+}

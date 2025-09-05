@@ -1,0 +1,11 @@
+{
+  "name": "gql",
+  "version": "4.0.0",
+  "summary": "GraphQL client for Python",
+  "author": "Syrus Akbary",
+  "license": "MIT",
+  "home_page": "https://github.com/graphql-python/gql",
+  "download_filename": "gql-4.0.0.tar.gz",
+  "download_time": "2025-09-05T14:22:20.326839",
+  "package_url": "https://pypi.org/project/gql/"
+}

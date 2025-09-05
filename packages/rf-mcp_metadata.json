@@ -1,11 +1,11 @@
 {
   "name": "rf-mcp",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "summary": "Robot Framework MCP Server - Natural Language Test Automation Bridge",
   "author": "Many Kasiriha",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rf_mcp-0.16.0.tar.gz",
-  "download_time": "2025-09-04T09:23:49.298604",
+  "download_filename": "rf_mcp-0.17.0.tar.gz",
+  "download_time": "2025-09-05T14:22:50.361913",
   "package_url": "https://pypi.org/project/rf-mcp/"
 }
