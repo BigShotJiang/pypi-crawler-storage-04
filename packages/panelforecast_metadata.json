@@ -1,11 +1,11 @@
 {
   "name": "panelforecast",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "A comprehensive library for panel data forecasting",
   "author": "Kajaani Balabavan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "panelforecast-0.1.8.tar.gz",
-  "download_time": "2025-09-05T19:42:10.848559",
+  "download_filename": "panelforecast-0.2.0.tar.gz",
+  "download_time": "2025-09-05T20:28:42.729802",
   "package_url": "https://pypi.org/project/panelforecast/"
 }

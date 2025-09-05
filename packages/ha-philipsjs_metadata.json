@@ -1,0 +1,11 @@
+{
+  "name": "ha-philipsjs",
+  "version": "3.2.4",
+  "summary": "jointSPACE API for Home-Assistant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ha_philipsjs-3.2.4.tar.gz",
+  "download_time": "2025-09-05T20:28:14.891402",
+  "package_url": "https://pypi.org/project/ha-philipsjs/"
+}

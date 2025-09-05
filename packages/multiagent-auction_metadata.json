@@ -1,0 +1,11 @@
+{
+  "name": "multiagent-auction",
+  "version": "0.1.1",
+  "summary": "Multi-agent auction simulations using DRL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multiagent_auction-0.1.1.tar.gz",
+  "download_time": "2025-09-05T20:29:00.195230",
+  "package_url": "https://pypi.org/project/multiagent-auction/"
+}

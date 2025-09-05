@@ -1,11 +1,11 @@
 {
   "name": "chalkpy",
-  "version": "2.86.8",
+  "version": "2.86.9",
   "summary": "Python SDK for Chalk",
   "author": "Chalk AI, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "chalkpy-2.86.8.tar.gz",
-  "download_time": "2025-09-04T23:21:41.043959",
+  "download_filename": "chalkpy-2.86.9.tar.gz",
+  "download_time": "2025-09-05T20:28:20.249454",
   "package_url": "https://pypi.org/project/chalkpy/"
 }

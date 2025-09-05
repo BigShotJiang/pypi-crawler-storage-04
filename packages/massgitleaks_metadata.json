@@ -1,0 +1,11 @@
+{
+  "name": "massgitleaks",
+  "version": "25.1",
+  "summary": "Automate gitleaks scanning across multiple repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "massgitleaks-25.1.tar.gz",
+  "download_time": "2025-09-05T20:28:51.860230",
+  "package_url": "https://pypi.org/project/massgitleaks/"
+}

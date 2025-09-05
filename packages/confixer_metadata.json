@@ -1,0 +1,11 @@
+{
+  "name": "confixer",
+  "version": "0.1.0",
+  "summary": "A modern configuration manager for Python with layered overrides and CLI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "confixer-0.1.0.tar.gz",
+  "download_time": "2025-09-05T20:28:41.480229",
+  "package_url": "https://pypi.org/project/confixer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "databricks-labs-dqx",
+  "version": "0.9.2",
+  "summary": "Data Quality eXtended (DQX) is a Python library for data quality checks and data quality monitoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_labs_dqx-0.9.2.tar.gz",
+  "download_time": "2025-09-05T20:29:03.290581",
+  "package_url": "https://pypi.org/project/databricks-labs-dqx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bibliocommons",
+  "version": "2025.3",
+  "summary": "Python client library to interface with BiblioCommons library systems",
+  "author": "William Jackson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bibliocommons-2025.3.tar.gz",
+  "download_time": "2025-09-05T20:29:02.629084",
+  "package_url": "https://pypi.org/project/bibliocommons/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "astro-sedpy",
+  "version": "0.4.1",
+  "summary": "Simple tools for astronomical spectral energy distributions, particularly filter projections.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "astro_sedpy-0.4.1.tar.gz",
+  "download_time": "2025-09-05T20:28:40.084507",
+  "package_url": "https://pypi.org/project/astro-sedpy/"
+}

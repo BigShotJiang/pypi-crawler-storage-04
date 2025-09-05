@@ -1,0 +1,11 @@
+{
+  "name": "speasy",
+  "version": "1.6.0",
+  "summary": "A simple Python package to deal with main Space Physics WebServices (CDA, CSA, AMDA and SSC).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speasy-1.6.0.tar.gz",
+  "download_time": "2025-09-05T20:28:59.601703",
+  "package_url": "https://pypi.org/project/speasy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bytex",
+  "version": "0.1.4",
+  "summary": "Pydantic-like binary validation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bytex-0.1.4.tar.gz",
+  "download_time": "2025-09-05T20:28:20.910797",
+  "package_url": "https://pypi.org/project/bytex/"
+}
