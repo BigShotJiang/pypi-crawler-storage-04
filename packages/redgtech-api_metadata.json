@@ -1,11 +1,11 @@
 {
   "name": "redgtech-api",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "A Python package to interact with the Redgtech API",
   "author": "Jonh Sady",
   "license": "MIT",
-  "home_page": "https://github.com/redgtech-automação/redgtech-api",
-  "download_filename": "redgtech_api-0.1.31.tar.gz",
-  "download_time": "2025-09-05T15:41:59.694527",
+  "home_page": "https://github.com/redgtech-automacao/redgtech-python-api",
+  "download_filename": "redgtech_api-0.1.32.tar.gz",
+  "download_time": "2025-09-05T15:55:35.854839",
   "package_url": "https://pypi.org/project/redgtech-api/"
 }

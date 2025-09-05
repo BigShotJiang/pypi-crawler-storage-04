@@ -1,0 +1,11 @@
+{
+  "name": "querybuilder-llm",
+  "version": "0.1.0",
+  "summary": "A pip package to generate SQL/Mongo queries from natural language using an LLM API",
+  "author": "Manoj Shetty K",
+  "license": null,
+  "home_page": null,
+  "download_filename": "querybuilder_llm-0.1.0.tar.gz",
+  "download_time": "2025-09-05T15:55:16.285379",
+  "package_url": "https://pypi.org/project/querybuilder-llm/"
+}

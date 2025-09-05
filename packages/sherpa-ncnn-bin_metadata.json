@@ -1,11 +1,11 @@
 {
   "name": "sherpa-ncnn-bin",
-  "version": "2.1.13",
+  "version": "2.1.14",
   "summary": "Binary executables for sherpa-ncnn",
   "author": "The sherpa-ncnn development team",
   "license": "Apache 2.0",
   "home_page": "https://github.com/k2-fsa/sherpa-ncnn",
-  "download_filename": "sherpa_ncnn_bin-2.1.13-py3-none-macosx_10_15_x86_64.whl",
-  "download_time": "2025-09-03T15:43:48.986181",
+  "download_filename": "sherpa_ncnn_bin-2.1.14-py3-none-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-05T15:55:33.245258",
   "package_url": "https://pypi.org/project/sherpa-ncnn-bin/"
 }

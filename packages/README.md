@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T15:42:22.688477
-- **Total Packages**: 90
-- **Total Size**: 24.41 MB
+- **Download Time**: 2025-09-05T15:55:52.764951
+- **Total Packages**: 73
+- **Total Size**: 22.9 MB
 
 ## Packages List
+- ni.measurementlink.pinmap.v1.client
+- orq-ai-sdk
+- Promium
+- antonnia-conversations
+- querybuilder-llm
+- glassflow
+- acryl-datahub-actions
+- jiboia
+- acryl-datahub-gx-plugin
+- acryl-datahub-dagster-plugin
+- jetbrains-cadence
+- prefect-datahub
+- acryl-datahub
+- acryl-datahub-airflow-plugin
+- azureml-registry-tools
+- netron
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- openfund-taker
+- openfund-maker
+- authentik-client
+- tobiko-cloud-pydantic
+- stewbeet
+- sage-agent-internal
+- greeum
+- vinormx
+- withpi
+- policyengine-us
+- kantris
+- mythic-lite
+- onnx-ir
+- griffe-typingdoc
+- fastapi-rtk
+- naneos-devices
+- sherpa-ncnn-core
+- sherpa-ncnn-bin
+- zampie_utils
+- dev-agents
+- sherpa-ncnn
+- gradboard
+- redgtech-api
+- qalita
+- autocrud
 - cronk
 - returnn
 - zhmc-prometheus-exporter
@@ -13,14 +56,12 @@
 - airulermcp
 - google-adk-extras
 - clselove
-- fastapi-rtk
 - qalita_core
 - sparkden
 - ilamb3
 - fastworkflow
 - img4it
 - vibesurf
-- authentik-client
 - plotly-cloud
 - mlx.jira-juggler
 - polars-deunicode-string
@@ -28,71 +69,13 @@
 - aait
 - qnty
 - vspreview
-- mythic-lite
 - flowcept
 - warranty-claim-ai-engine
 - phu
 - scruby
 - locust
-- kantris
 - chia-blockchain
 - trepan3k-mathics3
-- greeum
 - synqly
 - ResSimpy
 - formant
-- posthoganalytics
-- mkdocs-dsfr
-- posthog
-- rda-python-common
-- swak
-- geodesic-api
-- miqa-offline
-- langwatch-scenario
-- azure-functions-doctor
-- certilizer
-- glow
-- redgtech-api
-- pysavant
-- portal-env
-- novita-sandbox
-- cua-agent
-- hlit-dev
-- geostatspy
-- jupyter-kernel-agent
-- ybase
-- cua-computer
-- ledger2bql
-- uipath
-- zampie_utils
-- qalita
-- doc-tracker
-- GluonixDesigner
-- rago
-- wandb-workspaces
-- evolib
-- umap-project
-- nldcsc
-- pyavalon
-- dsharp
-- flexget
-- invenio-rdm-records
-- sync-yt
-- griffe-inherited-docstrings
-- gfa_ml
-- devsecops-engine-tools
-- markmap-anywidget
-- openfl-nightly
-- mc-lab-edu
-- blackdynamite
-- odoo-addon-l10n-it-edi-extension
-- pydantic-graph
-- pydantic-evals
-- pydantic-ai-slim
-- pydantic-ai-examples
-- pydantic-ai
-- clai
-- thormotion
-- sem-meta
-- arthur-client
-- invenio-communities
