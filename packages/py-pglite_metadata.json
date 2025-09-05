@@ -1,11 +1,11 @@
 {
   "name": "py-pglite",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Python testing library for PGlite - in-memory PostgreSQL for tests",
   "author": "Wey Gu",
   "license": null,
   "home_page": null,
-  "download_filename": "py_pglite-0.5.0.tar.gz",
-  "download_time": "2025-09-04T10:24:52.013662",
+  "download_filename": "py_pglite-0.5.1.tar.gz",
+  "download_time": "2025-09-05T01:41:03.856057",
   "package_url": "https://pypi.org/project/py-pglite/"
 }

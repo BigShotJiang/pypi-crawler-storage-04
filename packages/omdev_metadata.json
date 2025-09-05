@@ -1,11 +1,11 @@
 {
   "name": "omdev",
-  "version": "0.0.0.dev424",
+  "version": "0.0.0.dev425",
   "summary": "omdev",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omdev-0.0.0.dev424.tar.gz",
-  "download_time": "2025-09-04T01:29:36.225124",
+  "download_filename": "omdev-0.0.0.dev425.tar.gz",
+  "download_time": "2025-09-05T01:41:10.507623",
   "package_url": "https://pypi.org/project/omdev/"
 }

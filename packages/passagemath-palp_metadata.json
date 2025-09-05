@@ -1,11 +1,11 @@
 {
   "name": "passagemath-palp",
-  "version": "10.6.14",
+  "version": "10.6.15",
   "summary": "passagemath: Lattice polytopes and applications to toric geometry with PALP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_palp-10.6.14.tar.gz",
-  "download_time": "2025-09-03T03:20:31.746783",
+  "download_filename": "passagemath_palp-10.6.15.tar.gz",
+  "download_time": "2025-09-05T01:40:53.592813",
   "package_url": "https://pypi.org/project/passagemath-palp/"
 }

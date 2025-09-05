@@ -1,0 +1,11 @@
+{
+  "name": "riscos-disassemble",
+  "version": "0.8.96",
+  "summary": "Disassemble ARM 32, ARM 64 and Thumb files like RISC OS",
+  "author": "Charles Ferguson",
+  "license": "MIT",
+  "home_page": "https://github.com/gerph/riscos-disassemble-python",
+  "download_filename": "riscos_disassemble-0.8.96.tar.gz",
+  "download_time": "2025-09-05T01:40:30.328014",
+  "package_url": "https://pypi.org/project/riscos-disassemble/"
+}

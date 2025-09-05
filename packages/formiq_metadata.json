@@ -1,11 +1,11 @@
 {
   "name": "formiq",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Formiq: a minimal, configurable workflow & data-quality framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "formiq-0.1.2.tar.gz",
-  "download_time": "2025-09-04T10:44:40.300008",
+  "download_filename": "formiq-0.1.4.tar.gz",
+  "download_time": "2025-09-05T01:40:33.713447",
   "package_url": "https://pypi.org/project/formiq/"
 }
