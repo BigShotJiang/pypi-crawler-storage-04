@@ -1,11 +1,11 @@
 {
   "name": "vpp-vrouter",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "USDN vRouter with VPP",
   "author": "Filip Gschwandtner",
   "license": "US Data Networks. All rights reserved.",
   "home_page": null,
-  "download_filename": "vpp_vrouter-0.1.21.tar.gz",
-  "download_time": "2025-09-05T21:55:06.090134",
+  "download_filename": "vpp_vrouter-0.1.23.tar.gz",
+  "download_time": "2025-09-05T22:43:44.179841",
   "package_url": "https://pypi.org/project/vpp-vrouter/"
 }

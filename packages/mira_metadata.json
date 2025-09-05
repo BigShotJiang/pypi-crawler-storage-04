@@ -1,11 +1,11 @@
 {
   "name": "mira",
-  "version": "0.9.27",
+  "version": "0.9.31",
   "summary": "A package for simplifying object detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mira-0.9.27-py3-none-any.whl",
-  "download_time": "2025-08-28T04:24:43.043169",
+  "download_filename": "mira-0.9.31-py3-none-any.whl",
+  "download_time": "2025-09-05T22:43:19.448671",
   "package_url": "https://pypi.org/project/mira/"
 }

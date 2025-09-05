@@ -1,0 +1,11 @@
+{
+  "name": "plantdb.server",
+  "version": "0.14.5",
+  "summary": "Server-side component of the ROMI plant database system.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "plantdb_server-0.14.5.tar.gz",
+  "download_time": "2025-09-05T22:43:10.438413",
+  "package_url": "https://pypi.org/project/plantdb.server/"
+}

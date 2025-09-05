@@ -1,0 +1,11 @@
+{
+  "name": "ok-logging-setup",
+  "version": "0.8",
+  "summary": "Simple minimalist Python logging defaults",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ok_logging_setup-0.8.tar.gz",
+  "download_time": "2025-09-05T22:43:45.299402",
+  "package_url": "https://pypi.org/project/ok-logging-setup/"
+}

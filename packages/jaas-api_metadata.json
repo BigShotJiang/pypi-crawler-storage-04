@@ -1,11 +1,11 @@
 {
   "name": "jaas-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for JaaS AI evaluation API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jaas_api-0.1.0.tar.gz",
-  "download_time": "2025-09-05T21:41:45.891598",
+  "download_filename": "jaas_api-0.1.1.tar.gz",
+  "download_time": "2025-09-05T22:43:04.198960",
   "package_url": "https://pypi.org/project/jaas-api/"
 }
