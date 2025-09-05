@@ -1,0 +1,11 @@
+{
+  "name": "kubeSmartService",
+  "version": "0.1.0",
+  "summary": "Smart Kubernetes service resolver for Python web apps with health-check and failover",
+  "author": "kubeSmartService Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kubesmartservice-0.1.0.tar.gz",
+  "download_time": "2025-09-05T14:45:09.418351",
+  "package_url": "https://pypi.org/project/kubeSmartService/"
+}

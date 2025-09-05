@@ -1,11 +1,11 @@
 {
   "name": "activemodel",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Make SQLModel more like an a real ORM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "activemodel-0.12.0.tar.gz",
-  "download_time": "2025-09-03T23:40:38.138301",
+  "download_filename": "activemodel-0.13.0.tar.gz",
+  "download_time": "2025-09-05T14:45:28.556908",
   "package_url": "https://pypi.org/project/activemodel/"
 }

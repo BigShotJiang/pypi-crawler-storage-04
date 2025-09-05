@@ -1,0 +1,11 @@
+{
+  "name": "delaunay_refine",
+  "version": "0.1.0",
+  "summary": "\"Performs refinement on constrained Delaunay triangulation to geopandas geodataframes\"",
+  "author": "stippe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "delaunay_refine-0.1.0.tar.gz",
+  "download_time": "2025-09-05T14:45:38.359736",
+  "package_url": "https://pypi.org/project/delaunay_refine/"
+}

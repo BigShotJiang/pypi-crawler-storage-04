@@ -1,11 +1,11 @@
 {
   "name": "floofyredpanda",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A delightfully unhinged socket library with SSL support and caveman energy",
   "author": "shadow113323 ",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "floofyredpanda-1.0.1.tar.gz",
-  "download_time": "2025-09-04T15:15:13.239524",
+  "download_filename": "floofyredpanda-1.0.3.tar.gz",
+  "download_time": "2025-09-05T14:45:05.313902",
   "package_url": "https://pypi.org/project/floofyredpanda/"
 }

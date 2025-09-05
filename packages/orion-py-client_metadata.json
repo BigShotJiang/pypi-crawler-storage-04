@@ -1,0 +1,11 @@
+{
+  "name": "orion-py-client",
+  "version": "0.1.14",
+  "summary": "Python Client for Orion Feature Store to push/produce Model Features and get features' metadata",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orion_py_client-0.1.14.tar.gz",
+  "download_time": "2025-09-05T14:45:31.710168",
+  "package_url": "https://pypi.org/project/orion-py-client/"
+}

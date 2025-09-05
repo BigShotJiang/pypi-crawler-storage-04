@@ -1,11 +1,11 @@
 {
   "name": "SamsPrettyPrint",
-  "version": "2025.0.3",
+  "version": "2025.0.4",
   "summary": "A package for formating titles/tabels/dicationaries/.. into neatly structed text.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "samsprettyprint-2025.0.3.tar.gz",
-  "download_time": "2025-09-05T13:55:02.067268",
+  "download_filename": "samsprettyprint-2025.0.4.tar.gz",
+  "download_time": "2025-09-05T14:45:04.290421",
   "package_url": "https://pypi.org/project/SamsPrettyPrint/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rsocket",
+  "version": "0.4.20",
+  "summary": "Python RSocket library",
+  "author": "Gabriel Shaar",
+  "license": "MIT",
+  "home_page": "https://github.com/rsocket/rsocket-py",
+  "download_filename": "rsocket-0.4.20.tar.gz",
+  "download_time": "2025-09-05T14:45:14.054493",
+  "package_url": "https://pypi.org/project/rsocket/"
+}
