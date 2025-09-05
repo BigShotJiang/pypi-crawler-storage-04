@@ -1,0 +1,11 @@
+{
+  "name": "xplaindb-client",
+  "version": "1.0.0",
+  "summary": "Python client for XplainDB",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xplaindb_client-1.0.0.tar.gz",
+  "download_time": "2025-09-05T05:43:35.802230",
+  "package_url": "https://pypi.org/project/xplaindb-client/"
+}

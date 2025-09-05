@@ -1,11 +1,11 @@
 {
   "name": "pynetmito",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python Client SDK for mitosis",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pynetmito-0.1.2.tar.gz",
-  "download_time": "2025-09-05T04:46:27.282449",
+  "download_filename": "pynetmito-0.1.3.tar.gz",
+  "download_time": "2025-09-05T05:43:39.391024",
   "package_url": "https://pypi.org/project/pynetmito/"
 }
