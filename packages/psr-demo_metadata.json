@@ -1,11 +1,11 @@
 {
   "name": "psr-demo",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "summary": "Demo project for python-semantic-release",
   "author": "fleetingbytes",
   "license": null,
   "home_page": null,
-  "download_filename": "psr_demo-0.9.1.tar.gz",
-  "download_time": "2025-09-05T07:24:39.863432",
+  "download_filename": "psr_demo-0.10.0.tar.gz",
+  "download_time": "2025-09-05T07:41:20.952776",
   "package_url": "https://pypi.org/project/psr-demo/"
 }

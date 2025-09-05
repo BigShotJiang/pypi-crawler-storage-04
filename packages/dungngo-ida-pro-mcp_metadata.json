@@ -1,0 +1,11 @@
+{
+  "name": "dungngo-ida-pro-mcp",
+  "version": "1.4.1",
+  "summary": "Vibe reversing with IDA Pro (republished for testing)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dungngo_ida_pro_mcp-1.4.1.tar.gz",
+  "download_time": "2025-09-05T07:41:39.551341",
+  "package_url": "https://pypi.org/project/dungngo-ida-pro-mcp/"
+}

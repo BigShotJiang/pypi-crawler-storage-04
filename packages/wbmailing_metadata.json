@@ -1,11 +1,11 @@
 {
   "name": "wbmailing",
-  "version": "1.55.6",
+  "version": "1.55.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbmailing-1.55.6.tar.gz",
-  "download_time": "2025-09-04T13:42:28.574992",
+  "download_filename": "wbmailing-1.55.7.tar.gz",
+  "download_time": "2025-09-05T07:41:25.828226",
   "package_url": "https://pypi.org/project/wbmailing/"
 }

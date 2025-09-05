@@ -1,0 +1,11 @@
+{
+  "name": "chempy",
+  "version": "0.10.0",
+  "summary": "ChemPy is a Python package useful for solving problems in chemistry.",
+  "author": "Bjoern I. Dahlgren",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/bjodah/chempy",
+  "download_filename": "chempy-0.10.0.tar.gz",
+  "download_time": "2025-09-05T07:41:38.514395",
+  "package_url": "https://pypi.org/project/chempy/"
+}
