@@ -1,11 +1,11 @@
 {
   "name": "kilm",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "A command-line tool for managing KiCad libraries across projects and workstations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kilm-0.3.1.tar.gz",
-  "download_time": "2025-09-05T21:21:03.519976",
+  "download_filename": "kilm-0.4.2.tar.gz",
+  "download_time": "2025-09-05T23:41:37.630222",
   "package_url": "https://pypi.org/project/kilm/"
 }

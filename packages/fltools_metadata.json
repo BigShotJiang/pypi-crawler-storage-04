@@ -1,0 +1,11 @@
+{
+  "name": "fltools",
+  "version": "0.0.1.17506416626",
+  "summary": "Provides utilities for working with EDA Filelists",
+  "author": "Matthew Ballance",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/fvutils/fltools",
+  "download_filename": "fltools-0.0.1.17506416626-py2.py3-none-any.whl",
+  "download_time": "2025-09-05T23:42:03.927970",
+  "package_url": "https://pypi.org/project/fltools/"
+}

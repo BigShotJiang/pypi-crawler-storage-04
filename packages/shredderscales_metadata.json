@@ -1,0 +1,11 @@
+{
+  "name": "shredderscales",
+  "version": "1.0.5",
+  "summary": "Guitar-scales for any key and tuning",
+  "author": "Jamie Wangen",
+  "license": null,
+  "home_page": "https://github.com/jrw24/shredder-scales",
+  "download_filename": "shredderscales-1.0.5.tar.gz",
+  "download_time": "2025-09-05T23:41:38.665468",
+  "package_url": "https://pypi.org/project/shredderscales/"
+}

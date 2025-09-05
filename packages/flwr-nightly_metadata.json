@@ -1,11 +1,11 @@
 {
   "name": "flwr-nightly",
-  "version": "1.21.0.dev20250904",
+  "version": "1.21.0.dev20250905",
   "summary": "Flower: A Friendly Federated AI Framework",
   "author": "The Flower Authors",
   "license": "Apache-2.0",
   "home_page": "https://flower.ai",
-  "download_filename": "flwr_nightly-1.21.0.dev20250904.tar.gz",
-  "download_time": "2025-09-04T23:21:28.887428",
+  "download_filename": "flwr_nightly-1.21.0.dev20250905.tar.gz",
+  "download_time": "2025-09-05T23:42:06.544384",
   "package_url": "https://pypi.org/project/flwr-nightly/"
 }

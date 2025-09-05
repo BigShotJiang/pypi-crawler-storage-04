@@ -1,11 +1,11 @@
 {
   "name": "tg-bot-screen",
-  "version": "1.4.38",
+  "version": "1.4.39",
   "summary": "Lib that helps with telegram bots",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tg_bot_screen-1.4.38.tar.gz",
-  "download_time": "2025-09-04T21:55:07.293474",
+  "download_filename": "tg_bot_screen-1.4.39.tar.gz",
+  "download_time": "2025-09-05T23:42:03.411567",
   "package_url": "https://pypi.org/project/tg-bot-screen/"
 }
