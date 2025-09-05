@@ -1,0 +1,11 @@
+{
+  "name": "mce-ragas-adapter",
+  "version": "0.1.0",
+  "summary": "RAGAS integration adapter for Metrics Computation Engine",
+  "author": "AGNTCY Telemetry Hub team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mce_ragas_adapter-0.1.0.tar.gz",
+  "download_time": "2025-09-05T20:44:13.842082",
+  "package_url": "https://pypi.org/project/mce-ragas-adapter/"
+}

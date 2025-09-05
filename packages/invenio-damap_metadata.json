@@ -1,0 +1,11 @@
+{
+  "name": "invenio-damap",
+  "version": "0.2.1",
+  "summary": "InvenioRDM module for the Invenio-DAMAP connection.",
+  "author": "DAMAP",
+  "license": "MIT",
+  "home_page": "https://github.com/fair-data-austria/invenio-damap",
+  "download_filename": "invenio-damap-0.2.1.tar.gz",
+  "download_time": "2025-09-05T20:44:09.603265",
+  "package_url": "https://pypi.org/project/invenio-damap/"
+}
