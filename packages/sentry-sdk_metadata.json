@@ -1,11 +1,11 @@
 {
   "name": "sentry-sdk",
-  "version": "2.35.2",
+  "version": "2.36.0",
   "summary": "Python client for Sentry (https://sentry.io)",
   "author": "Sentry Team and Contributors",
   "license": "MIT",
   "home_page": "https://github.com/getsentry/sentry-python",
-  "download_filename": "sentry_sdk-2.35.2.tar.gz",
-  "download_time": "2025-09-01T11:21:14.695377",
+  "download_filename": "sentry_sdk-2.36.0.tar.gz",
+  "download_time": "2025-09-05T11:42:43.973198",
   "package_url": "https://pypi.org/project/sentry-sdk/"
 }

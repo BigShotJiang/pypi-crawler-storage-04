@@ -1,0 +1,11 @@
+{
+  "name": "hnt-nf-jira-servicos-library",
+  "version": "0.0.27",
+  "summary": "Lib to access nf from Jira",
+  "author": "Guillerme Rezende Manhaes",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "hnt_nf_jira_servicos_library-0.0.27.tar.gz",
+  "download_time": "2025-09-05T11:43:13.152895",
+  "package_url": "https://pypi.org/project/hnt-nf-jira-servicos-library/"
+}

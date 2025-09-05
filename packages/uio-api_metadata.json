@@ -1,0 +1,11 @@
+{
+  "name": "uio-api",
+  "version": "0.1.1",
+  "summary": "UIO generic API wrappers with pluggable auth, retries, and pagination profiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uio_api-0.1.1.tar.gz",
+  "download_time": "2025-09-05T11:42:50.580424",
+  "package_url": "https://pypi.org/project/uio-api/"
+}

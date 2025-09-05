@@ -1,0 +1,11 @@
+{
+  "name": "magma-multigas",
+  "version": "1.5.0",
+  "summary": "MultiGas package for internal use. A collaboration between CVGHM and USGS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magma_multigas-1.5.0.tar.gz",
+  "download_time": "2025-09-05T11:43:03.244584",
+  "package_url": "https://pypi.org/project/magma-multigas/"
+}

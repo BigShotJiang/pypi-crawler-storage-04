@@ -1,0 +1,11 @@
+{
+  "name": "gif-pygame",
+  "version": "1.2.0",
+  "summary": "A pygame addon for animated image files",
+  "author": "Zeperox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gif_pygame-1.2.0.tar.gz",
+  "download_time": "2025-09-05T11:43:14.833339",
+  "package_url": "https://pypi.org/project/gif-pygame/"
+}

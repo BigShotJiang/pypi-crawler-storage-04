@@ -1,0 +1,11 @@
+{
+  "name": "nemo-sz",
+  "version": "0.8.1",
+  "summary": "Millimeter-wave galaxy cluster and source detection package",
+  "author": "Matt Hilton + Nemo Contributors",
+  "license": "BSD 3-Clause",
+  "home_page": "https://nemo-sz.readthedocs.io",
+  "download_filename": "nemo_sz-0.8.1.tar.gz",
+  "download_time": "2025-09-05T11:42:44.682263",
+  "package_url": "https://pypi.org/project/nemo-sz/"
+}

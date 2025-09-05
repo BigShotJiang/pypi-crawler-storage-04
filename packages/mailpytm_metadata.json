@@ -1,0 +1,11 @@
+{
+  "name": "mailpytm",
+  "version": "1.1.0",
+  "summary": "Python wrapper for mail.tm disposable email service",
+  "author": "Ulus Vatansever",
+  "license": "MIT",
+  "home_page": "https://github.com/cvcvka5/mailpytm",
+  "download_filename": "mailpytm-1.1.0.tar.gz",
+  "download_time": "2025-09-05T11:42:48.911840",
+  "package_url": "https://pypi.org/project/mailpytm/"
+}
