@@ -1,11 +1,11 @@
 {
   "name": "novita-sandbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Novita Agent Sandbox SDK - Python library for Novita Agent Sandbox",
   "author": "Novita",
   "license": "MIT",
   "home_page": "https://novita.ai",
-  "download_filename": "novita_sandbox-1.0.2.tar.gz",
-  "download_time": "2025-09-04T05:42:44.331632",
+  "download_filename": "novita_sandbox-1.0.3.tar.gz",
+  "download_time": "2025-09-05T15:42:01.252975",
   "package_url": "https://pypi.org/project/novita-sandbox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vspreview",
+  "version": "0.16.0",
+  "summary": "VapourSynth Preview Tool",
+  "author": "Endilll",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vspreview-0.16.0.tar.gz",
+  "download_time": "2025-09-05T15:41:46.775888",
+  "package_url": "https://pypi.org/project/vspreview/"
+}

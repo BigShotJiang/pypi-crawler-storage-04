@@ -1,11 +1,11 @@
 {
   "name": "pysavant",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysavant-0.0.2.tar.gz",
-  "download_time": "2025-09-05T14:22:19.279461",
+  "download_filename": "pysavant-0.0.3.tar.gz",
+  "download_time": "2025-09-05T15:42:00.205440",
   "package_url": "https://pypi.org/project/pysavant/"
 }

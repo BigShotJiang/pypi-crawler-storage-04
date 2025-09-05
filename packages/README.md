@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T15:24:32.985091
-- **Total Packages**: 86
-- **Total Size**: 56.84 MB
+- **Download Time**: 2025-09-05T15:42:22.688477
+- **Total Packages**: 90
+- **Total Size**: 24.41 MB
 
 ## Packages List
+- cronk
+- returnn
+- zhmc-prometheus-exporter
+- radar-data
+- airulermcp
+- google-adk-extras
+- clselove
+- fastapi-rtk
+- qalita_core
+- sparkden
+- ilamb3
+- fastworkflow
+- img4it
+- vibesurf
+- authentik-client
+- plotly-cloud
+- mlx.jira-juggler
+- polars-deunicode-string
+- pyya
+- aait
+- qnty
+- vspreview
+- mythic-lite
+- flowcept
+- warranty-claim-ai-engine
+- phu
+- scruby
+- locust
+- kantris
+- chia-blockchain
+- trepan3k-mathics3
+- greeum
+- synqly
+- ResSimpy
+- formant
+- posthoganalytics
+- mkdocs-dsfr
+- posthog
+- rda-python-common
+- swak
+- geodesic-api
+- miqa-offline
+- langwatch-scenario
+- azure-functions-doctor
+- certilizer
+- glow
+- redgtech-api
+- pysavant
+- portal-env
+- novita-sandbox
+- cua-agent
+- hlit-dev
+- geostatspy
+- jupyter-kernel-agent
 - ybase
 - cua-computer
 - ledger2bql
@@ -30,7 +84,6 @@
 - markmap-anywidget
 - openfl-nightly
 - mc-lab-edu
-- kantris
 - blackdynamite
 - odoo-addon-l10n-it-edi-extension
 - pydantic-graph
@@ -43,52 +96,3 @@
 - sem-meta
 - arthur-client
 - invenio-communities
-- lrdbenchmark
-- mcp-business-central
-- giorgio
-- adafruit-circuitpython-matrixportal
-- plot3d
-- weni-agenteval
-- flowcept
-- authentik-client
-- matrice
-- maps4fs
-- eradiate
-- alawymdb
-- jetbrains-cadence
-- yymake
-- open-rag-eval
-- agentic-ai-engineering-course
-- swh.digestmap
-- prt-rl
-- paar-dev
-- korpy
-- tunablex
-- invenio-requests
-- pytest-gitscope
-- kvcommon
-- dump-things-service
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- arango-cve-processor
-- c2cgeoportal-commons
-- ai-image-platform
-- aser
-- docify-ai
-- wandelbots-api-client
-- ansys-turbogrid-core
-- griffe
-- piperf3
-- haiku.rag
-- swh.graph
-- holobench
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- curies

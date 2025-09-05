@@ -1,0 +1,11 @@
+{
+  "name": "google-adk-extras",
+  "version": "0.1.1",
+  "summary": "Custom implementations of Google ADK services (Session, Artifact, Memory) with multiple storage backends",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/DeadMeme5441/google-adk-extras",
+  "download_filename": "google_adk_extras-0.1.1.tar.gz",
+  "download_time": "2025-09-05T15:41:38.523780",
+  "package_url": "https://pypi.org/project/google-adk-extras/"
+}

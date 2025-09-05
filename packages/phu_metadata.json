@@ -1,11 +1,11 @@
 {
   "name": "phu",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Phage bioinformatics utilities (seqclust runner and friends).",
-  "author": "Camilo García-Botero",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phu-0.1.1.tar.gz",
-  "download_time": "2025-09-02T03:00:37.532743",
+  "download_filename": "phu-0.2.0.tar.gz",
+  "download_time": "2025-09-05T15:41:48.833374",
   "package_url": "https://pypi.org/project/phu/"
 }

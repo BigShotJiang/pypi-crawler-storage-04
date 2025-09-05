@@ -1,11 +1,11 @@
 {
   "name": "langwatch-scenario",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "The end-to-end agent testing library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langwatch_scenario-0.7.9.tar.gz",
-  "download_time": "2025-08-29T14:43:31.473126",
+  "download_filename": "langwatch_scenario-0.7.10.tar.gz",
+  "download_time": "2025-09-05T15:41:57.625187",
   "package_url": "https://pypi.org/project/langwatch-scenario/"
 }

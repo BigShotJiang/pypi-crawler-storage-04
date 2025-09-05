@@ -1,11 +1,11 @@
 {
   "name": "posthog",
-  "version": "6.7.3",
+  "version": "6.7.4",
   "summary": "Integrate PostHog into any python application.",
   "author": "Posthog",
   "license": "MIT",
   "home_page": "https://github.com/posthog/posthog-python",
-  "download_filename": "posthog-6.7.3.tar.gz",
-  "download_time": "2025-09-04T18:31:45.506580",
+  "download_filename": "posthog-6.7.4.tar.gz",
+  "download_time": "2025-09-05T15:41:55.037911",
   "package_url": "https://pypi.org/project/posthog/"
 }

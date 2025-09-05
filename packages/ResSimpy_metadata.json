@@ -1,0 +1,11 @@
+{
+  "name": "ResSimpy",
+  "version": "2.4.11",
+  "summary": "A Python library for working with Reservoir Simulator Models.",
+  "author": "BP",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ressimpy-2.4.11.tar.gz",
+  "download_time": "2025-09-05T15:41:52.965570",
+  "package_url": "https://pypi.org/project/ResSimpy/"
+}

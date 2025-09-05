@@ -1,0 +1,11 @@
+{
+  "name": "airulermcp",
+  "version": "0.2.0",
+  "summary": "MCP server for distributing AI rules from GitLab repositories to IDEs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airulermcp-0.2.0.tar.gz",
+  "download_time": "2025-09-05T15:41:38.012400",
+  "package_url": "https://pypi.org/project/airulermcp/"
+}
