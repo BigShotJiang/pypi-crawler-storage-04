@@ -1,0 +1,11 @@
+{
+  "name": "12tree",
+  "version": "0.1.0",
+  "summary": "12Tree - Efficient Floating Point Data Store with AVL Tree Indexing",
+  "author": "12Tree Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/12tree",
+  "download_filename": "12tree-0.1.0.tar.gz",
+  "download_time": "2025-09-05T09:31:21.710929",
+  "package_url": "https://pypi.org/project/12tree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xgboost-cpu",
+  "version": "3.0.5",
+  "summary": "XGBoost Python Package",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xgboost_cpu-3.0.5.tar.gz",
+  "download_time": "2025-09-05T09:30:41.342753",
+  "package_url": "https://pypi.org/project/xgboost-cpu/"
+}

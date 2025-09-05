@@ -1,11 +1,11 @@
 {
   "name": "pytest-gitscope",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "A pragmatic pytest plugin that runs only the tests that matter, and ship faster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_gitscope-0.3.0.tar.gz",
-  "download_time": "2025-09-05T08:30:41.293355",
+  "download_filename": "pytest_gitscope-0.4.1.tar.gz",
+  "download_time": "2025-09-05T09:31:20.561669",
   "package_url": "https://pypi.org/project/pytest-gitscope/"
 }

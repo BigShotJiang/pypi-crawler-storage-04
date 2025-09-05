@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-timesheet-sheet-autodraft",
+  "version": "18.0.1.0.0.2",
+  "summary": "Automatically draft a Timesheet Sheet for every time entry that does not have a relevant Timesheet Sheet existing.",
+  "author": "CorporateHub, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_hr_timesheet_sheet_autodraft-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-05T09:30:52.389625",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-timesheet-sheet-autodraft/"
+}
