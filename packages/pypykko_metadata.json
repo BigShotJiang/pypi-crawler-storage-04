@@ -1,0 +1,11 @@
+{
+  "name": "pypykko",
+  "version": "0.1",
+  "summary": "A pure-python wrapper for the pykko Finnish morphological analyser and inflector",
+  "author": "Théo Salmenkivi-Friberg",
+  "license": "MIT",
+  "home_page": "https://github.com/fergusq/fst-python",
+  "download_filename": "pypykko-0.1.tar.gz",
+  "download_time": "2025-09-05T10:45:24.617195",
+  "package_url": "https://pypi.org/project/pypykko/"
+}

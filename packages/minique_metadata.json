@@ -1,0 +1,11 @@
+{
+  "name": "minique",
+  "version": "0.11.0",
+  "summary": "Minimal Redis job runner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minique-0.11.0.tar.gz",
+  "download_time": "2025-09-05T10:45:23.011985",
+  "package_url": "https://pypi.org/project/minique/"
+}

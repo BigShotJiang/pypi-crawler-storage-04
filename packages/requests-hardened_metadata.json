@@ -1,11 +1,11 @@
 {
   "name": "requests-hardened",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A library that overrides the default behaviors of the requests library, and adds new security features.",
   "author": "Saleor Commerce",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "requests_hardened-1.1.0.tar.gz",
-  "download_time": "2025-09-02T10:56:48.427616",
+  "download_filename": "requests_hardened-1.1.1.tar.gz",
+  "download_time": "2025-09-05T10:45:45.763045",
   "package_url": "https://pypi.org/project/requests-hardened/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qbitcoin",
+  "version": "1.1.3",
+  "summary": "A Python-based cryptocurrency implementation with quantum-resistant features",
+  "author": "Hamza",
+  "license": null,
+  "home_page": "https://github.com/Hamza1s34/Qbitcoin",
+  "download_filename": "qbitcoin-1.1.3.tar.gz",
+  "download_time": "2025-09-05T10:45:16.815126",
+  "package_url": "https://pypi.org/project/qbitcoin/"
+}
