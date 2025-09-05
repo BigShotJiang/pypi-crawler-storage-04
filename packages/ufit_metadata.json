@@ -1,0 +1,11 @@
+{
+  "name": "ufit",
+  "version": "1.11.1",
+  "summary": "Universal scattering data fitting tool",
+  "author": "Georg Brandl",
+  "license": "BSD-2-Clause",
+  "home_page": "https://forge.frm2.tum.de/review/plugins/gitiles/mlz/general/ufit",
+  "download_filename": "ufit-1.11.1.tar.gz",
+  "download_time": "2025-09-05T08:30:57.407194",
+  "package_url": "https://pypi.org/project/ufit/"
+}

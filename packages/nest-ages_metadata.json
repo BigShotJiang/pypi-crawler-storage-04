@@ -1,0 +1,11 @@
+{
+  "name": "nest-ages",
+  "version": "0.5.0",
+  "summary": "A python package that provides neural networks to estimate ages of stars/star populations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nest_ages-0.5.0.tar.gz",
+  "download_time": "2025-09-05T08:30:27.999653",
+  "package_url": "https://pypi.org/project/nest-ages/"
+}

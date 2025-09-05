@@ -1,0 +1,11 @@
+{
+  "name": "rtedata",
+  "version": "1.0.5",
+  "summary": "Python wrapper for RTE API requests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtedata-1.0.5.tar.gz",
+  "download_time": "2025-09-05T08:30:53.233441",
+  "package_url": "https://pypi.org/project/rtedata/"
+}

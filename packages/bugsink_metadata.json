@@ -1,0 +1,11 @@
+{
+  "name": "bugsink",
+  "version": "1.7.6",
+  "summary": "Self-hosted Error Tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bugsink-1.7.6.tar.gz",
+  "download_time": "2025-09-05T08:30:35.914793",
+  "package_url": "https://pypi.org/project/bugsink/"
+}

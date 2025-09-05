@@ -1,0 +1,11 @@
+{
+  "name": "pyfedic_cython",
+  "version": "25.9.2",
+  "summary": "Digital Image (2D/3D) Correlation Software - CYTHON module",
+  "author": "Joël Lachambre",
+  "license": "CECILL-2.1",
+  "home_page": "https://sourcesup.renater.fr/www/pyfedic/",
+  "download_filename": "pyfedic_cython-25.9.2.tar.gz",
+  "download_time": "2025-09-05T08:30:56.873913",
+  "package_url": "https://pypi.org/project/pyfedic_cython/"
+}

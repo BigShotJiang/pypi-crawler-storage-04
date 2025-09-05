@@ -1,11 +1,11 @@
 {
   "name": "sudarshan-engine",
-  "version": "1.0.0b3",
+  "version": "1.0.0b4",
   "summary": "Universal Quantum-Safe Cybersecurity Engine",
   "author": "Yash Sharma",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/Yash-Sharma1810/sudarshan_engine",
-  "download_filename": "sudarshan-engine-1.0.0b3.tar.gz",
-  "download_time": "2025-09-04T06:32:42.690704",
+  "download_filename": "sudarshan-engine-1.0.0b4.tar.gz",
+  "download_time": "2025-09-05T08:30:55.314760",
   "package_url": "https://pypi.org/project/sudarshan-engine/"
 }

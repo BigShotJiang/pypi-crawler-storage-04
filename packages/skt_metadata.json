@@ -1,11 +1,11 @@
 {
   "name": "skt",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "SKT package",
   "author": "SKT",
   "license": null,
   "home_page": "https://github.com/sktaiflow/skt",
-  "download_filename": "skt-1.0.9.tar.gz",
-  "download_time": "2025-09-02T23:40:16.494047",
+  "download_filename": "skt-1.0.10.tar.gz",
+  "download_time": "2025-09-05T08:30:39.738434",
   "package_url": "https://pypi.org/project/skt/"
 }

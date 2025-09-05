@@ -1,0 +1,11 @@
+{
+  "name": "QEventManager",
+  "version": "1.0.1",
+  "summary": "QEventManager使用多线程的方式对任务进行处理，qasync的另一个替代",
+  "author": "赤鸢仙人",
+  "license": null,
+  "home_page": "https://gitee.com/chiyaun/qevent-manager",
+  "download_filename": "qeventmanager-1.0.1.tar.gz",
+  "download_time": "2025-09-05T08:30:26.415732",
+  "package_url": "https://pypi.org/project/QEventManager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "travo",
+  "version": "1.1.2",
+  "summary": "Management tools for gitlab-based assignment workflows",
+  "author": "Pierre Thomas Froidevaux, Alexandre Blondin-Massé, Jean Privat, Nicolas M. Thiéry, Chiara Marmo, Jérémy Neveu",
+  "license": "CC",
+  "home_page": null,
+  "download_filename": "travo-1.1.2.tar.gz",
+  "download_time": "2025-09-05T08:30:33.265538",
+  "package_url": "https://pypi.org/project/travo/"
+}

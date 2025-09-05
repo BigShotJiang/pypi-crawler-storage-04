@@ -1,0 +1,11 @@
+{
+  "name": "mcp-platform",
+  "version": "1.2.0",
+  "summary": "MCP Platform: Production-ready Model Context Protocol server deployment and management platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_platform-1.2.0.tar.gz",
+  "download_time": "2025-09-05T08:30:25.897699",
+  "package_url": "https://pypi.org/project/mcp-platform/"
+}
