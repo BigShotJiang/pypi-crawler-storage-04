@@ -1,0 +1,11 @@
+{
+  "name": "wetro",
+  "version": "0.2.4",
+  "summary": "Wetrocloud's Official SDK",
+  "author": "Wetrocloud Inc",
+  "license": null,
+  "home_page": "https://docs.wetrocloud.com/",
+  "download_filename": "wetro-0.2.4.tar.gz",
+  "download_time": "2025-09-05T17:00:14.420185",
+  "package_url": "https://pypi.org/project/wetro/"
+}

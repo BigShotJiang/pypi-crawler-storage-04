@@ -1,0 +1,11 @@
+{
+  "name": "hamana",
+  "version": "1.0.1",
+  "summary": "A python library for seamless data extraction, storage, and SQL-based analysis using pandas and SQLite.",
+  "author": "Andrea Zanini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hamana-1.0.1.tar.gz",
+  "download_time": "2025-09-05T16:59:49.217805",
+  "package_url": "https://pypi.org/project/hamana/"
+}

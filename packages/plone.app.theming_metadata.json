@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.theming",
+  "version": "5.0.14",
+  "summary": "Integrates the Diazo theming engine with Plone",
+  "author": "Martin Aspeli and Laurence Rowe",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.app.theming",
+  "download_filename": "plone_app_theming-5.0.14.tar.gz",
+  "download_time": "2025-09-05T16:59:57.310199",
+  "package_url": "https://pypi.org/project/plone.app.theming/"
+}

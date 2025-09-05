@@ -1,11 +1,11 @@
 {
   "name": "uipath-llamaindex",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "summary": "UiPath LlamaIndex SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_llamaindex-0.0.34.tar.gz",
-  "download_time": "2025-09-05T14:22:16.679244",
+  "download_filename": "uipath_llamaindex-0.0.35.tar.gz",
+  "download_time": "2025-09-05T17:00:07.673397",
   "package_url": "https://pypi.org/project/uipath-llamaindex/"
 }

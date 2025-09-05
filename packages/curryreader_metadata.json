@@ -1,0 +1,11 @@
+{
+  "name": "curryreader",
+  "version": "0.1.2",
+  "summary": "File reader for Compumedics Neuroscan data formats (.cdt, .dat).",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "curryreader-0.1.2.tar.gz",
+  "download_time": "2025-09-05T16:59:41.817575",
+  "package_url": "https://pypi.org/project/curryreader/"
+}

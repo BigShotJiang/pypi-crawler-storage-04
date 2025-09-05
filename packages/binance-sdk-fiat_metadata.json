@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-fiat",
+  "version": "1.4.0",
+  "summary": "Official Binance Fiat SDK - A lightweight library that provides a convenient interface to Binance's Fiat REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_fiat-1.4.0.tar.gz",
+  "download_time": "2025-09-05T16:59:33.282560",
+  "package_url": "https://pypi.org/project/binance-sdk-fiat/"
+}

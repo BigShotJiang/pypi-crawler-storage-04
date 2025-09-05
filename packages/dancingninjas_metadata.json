@@ -1,0 +1,11 @@
+{
+  "name": "dancingninjas",
+  "version": "0.1.0",
+  "summary": "A tiny example package for testing PyPI uploads",
+  "author": null,
+  "license": "MIT License\n        \n        Copyright (c) 2025 You",
+  "home_page": null,
+  "download_filename": "dancingninjas-0.1.0.tar.gz",
+  "download_time": "2025-09-05T17:00:09.935072",
+  "package_url": "https://pypi.org/project/dancingninjas/"
+}

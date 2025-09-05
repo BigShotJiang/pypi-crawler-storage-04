@@ -1,11 +1,11 @@
 {
   "name": "quda",
-  "version": "2.0.23",
+  "version": "2.0.24",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quda-2.0.23.tar.gz",
-  "download_time": "2025-09-05T08:30:33.783474",
+  "download_filename": "quda-2.0.24.tar.gz",
+  "download_time": "2025-09-05T17:00:21.222454",
   "package_url": "https://pypi.org/project/quda/"
 }
