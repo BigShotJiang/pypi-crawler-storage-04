@@ -1,11 +1,11 @@
 {
   "name": "Tooldelta",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Plugin Loader for NeteaseRentalServer on Panel",
   "author": "ToolDelta Studio Staff",
   "license": null,
   "home_page": "https://github.com/ToolDelta-Basic/ToolDelta",
-  "download_filename": "tooldelta-1.2.5.tar.gz",
-  "download_time": "2025-09-01T18:29:50.687827",
+  "download_filename": "tooldelta-1.2.6.tar.gz",
+  "download_time": "2025-09-05T18:30:24.274189",
   "package_url": "https://pypi.org/project/Tooldelta/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "warbler-adsonai",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "summary": "Python SDK for AdsonAI contextual advertising platform",
   "author": "AdsonAI Team",
   "license": "MIT",
   "home_page": "https://github.com/adsonai/adsonai-python-sdk",
-  "download_filename": "warbler_adsonai-2.0.0.tar.gz",
-  "download_time": "2025-09-05T10:25:09.270023",
+  "download_filename": "warbler_adsonai-2.0.3.tar.gz",
+  "download_time": "2025-09-05T18:30:43.790014",
   "package_url": "https://pypi.org/project/warbler-adsonai/"
 }

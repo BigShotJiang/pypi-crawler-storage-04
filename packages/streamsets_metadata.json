@@ -1,0 +1,11 @@
+{
+  "name": "streamsets",
+  "version": "6.6.2",
+  "summary": "A Python SDK for StreamSets",
+  "author": "StreamSets Inc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamsets-6.6.2-py3-none-any.whl",
+  "download_time": "2025-09-05T18:30:07.301420",
+  "package_url": "https://pypi.org/project/streamsets/"
+}

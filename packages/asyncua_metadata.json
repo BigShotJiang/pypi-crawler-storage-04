@@ -1,0 +1,11 @@
+{
+  "name": "asyncua",
+  "version": "1.1.8",
+  "summary": "Pure Python OPC-UA client and server library",
+  "author": null,
+  "license": "GNU Lesser General Public License v3 or later",
+  "home_page": null,
+  "download_filename": "asyncua-1.1.8.tar.gz",
+  "download_time": "2025-09-05T18:30:19.063150",
+  "package_url": "https://pypi.org/project/asyncua/"
+}
