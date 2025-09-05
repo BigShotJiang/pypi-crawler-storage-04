@@ -1,11 +1,11 @@
 {
   "name": "triton-shared",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Shared schemas, types, and constants for Boat Fix Triton.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "triton_shared-0.1.6.tar.gz",
-  "download_time": "2025-09-05T14:56:32.321193",
+  "download_filename": "triton_shared-0.1.7.tar.gz",
+  "download_time": "2025-09-05T19:55:46.713298",
   "package_url": "https://pypi.org/project/triton-shared/"
 }

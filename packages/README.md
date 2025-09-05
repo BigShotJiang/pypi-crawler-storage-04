@@ -1,34 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-05T19:42:59.580582
-- **Total Packages**: 87
-- **Total Size**: 22.71 MB
+- **Download Time**: 2025-09-05T19:56:28.450001
+- **Total Packages**: 84
+- **Total Size**: 23.39 MB
 
 ## Packages List
+- pulumi-aws
+- adopt
+- plinkformatter
+- radar-data
+- dockvirt
+- tycho.nexus
+- devsecops-engine-tools
+- pegol
+- pulumi-xyz
+- authentik-client
+- ufr-ds
+- gtm-rosamii1
+- rl_cli
+- actualpy
+- triton-shared
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- dbrownell-Email
+- pyThermoDB
+- ScandEval
+- EuroEval
+- atprun
+- anatools
+- azure-ai-language-conversations-authoring
+- dkist-processing-ops
+- mcp-cyoda-client
+- wiredb
+- supervisely
+- pentesttools
+- drf-inspect
+- esentity
+- kcli
+- edrn.auth
+- i2net
+- dragonfly-core
 - airbyte-cdk
 - mokupdf
 - normcst
-- adopt
 - agentrylab
 - build-the-bot
 - langchain-tool-server
-- dbrownell-Email
 - pulumi-provider-boilerplate
 - httpwrapper
-- gtm-rosamii1
 - panelforecast
 - python-autofixture
 - eformer
 - pymammotion
-- pulumi-xyz
 - kalshi-python
 - deepsweepai
-- i2net
 - langswarm
-- drf-inspect
 - prefect
-- authentik-client
 - orionac-ai
 - prefect-client
 - jetson-stats-node-exporter
@@ -52,44 +80,13 @@
 - kaqing
 - types-boto3-lite
 - types-boto3
-- pegol
 - amalgam-lang
 - types-boto3-sagemaker
 - types-boto3-ecs
 - types-boto3-pcs
-- rxfoundry.clients.swifty_api
 - mypy-boto3-sagemaker
 - mypy-boto3-ecs
 - mypy-boto3-pcs
 - arklex
-- rxfoundry.clients.swifty_oauth_api
 - fastworkflow
 - kryptools
-- dkist-dev-tools
-- modal
-- claude-api-desktop
-- ecopipeline
-- loggerric
-- pulumi
-- gguf-connector
-- net2i
-- aixtools
-- boto3
-- awscli
-- pytopomojo
-- assemblyline-core
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- semantic-pdf-search
-- django-reportcraft
-- aiu-fms-testing-utils
-- rizemind
-- frost-sta-client
-- prelude-sdk
-- fdk
-- wooting-mouse
-- oqpy
-- ji-async-http-utils

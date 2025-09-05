@@ -1,11 +1,11 @@
 {
   "name": "mcp-cyoda-client",
-  "version": "0.1.0",
-  "summary": "Cyoda MCP Server - Model Context Protocol integration for Cyoda platform",
+  "version": "0.1.1",
+  "summary": "Model Context Protocol server for Cyoda platform - enables AI assistants to interact with Cyoda's entity management, search, workflow, and deployment capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_cyoda_client-0.1.0.tar.gz",
-  "download_time": "2025-09-05T18:49:17.098291",
+  "download_filename": "mcp_cyoda_client-0.1.1.tar.gz",
+  "download_time": "2025-09-05T19:55:53.737762",
   "package_url": "https://pypi.org/project/mcp-cyoda-client/"
 }

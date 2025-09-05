@@ -1,11 +1,11 @@
 {
   "name": "i2net",
-  "version": "2.6",
+  "version": "2.6.1",
   "summary": "I2NeT (Images to Network Traffic), extract and reconstruct data from RGB-encoded PNG images into CSV format. Suitable for CNN-based anomaly detection.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "i2net-2.6.tar.gz",
-  "download_time": "2025-09-05T19:42:15.079037",
+  "download_filename": "i2net-2.6.1.tar.gz",
+  "download_time": "2025-09-05T19:55:58.542348",
   "package_url": "https://pypi.org/project/i2net/"
 }

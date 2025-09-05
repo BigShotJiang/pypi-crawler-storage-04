@@ -1,11 +1,11 @@
 {
   "name": "dbrownell-Email",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Email tools and utilities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbrownell_email-0.2.3.tar.gz",
-  "download_time": "2025-09-05T19:42:07.705559",
+  "download_filename": "dbrownell_email-0.2.4.tar.gz",
+  "download_time": "2025-09-05T19:55:48.464136",
   "package_url": "https://pypi.org/project/dbrownell-Email/"
 }
