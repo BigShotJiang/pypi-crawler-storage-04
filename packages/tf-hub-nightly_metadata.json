@@ -1,0 +1,11 @@
+{
+  "name": "tf-hub-nightly",
+  "version": "0.17.0.dev202509050305",
+  "summary": "TensorFlow Hub is a library to foster the publication, discovery, and consumption of reusable parts of machine learning models.",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/tensorflow/hub",
+  "download_filename": "tf_hub_nightly-0.17.0.dev202509050305-py2.py3-none-any.whl",
+  "download_time": "2025-09-05T07:24:40.964021",
+  "package_url": "https://pypi.org/project/tf-hub-nightly/"
+}

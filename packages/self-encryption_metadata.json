@@ -1,0 +1,11 @@
+{
+  "name": "self-encryption",
+  "version": "0.34.0",
+  "summary": "Self encrypting files (convergent encryption plus obfuscation)",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://maidsafe.net",
+  "download_filename": "self_encryption-0.34.0.tar.gz",
+  "download_time": "2025-09-05T07:24:45.407860",
+  "package_url": "https://pypi.org/project/self-encryption/"
+}

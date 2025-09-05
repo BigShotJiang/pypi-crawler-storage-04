@@ -1,0 +1,11 @@
+{
+  "name": "groupdocs-conversion-cloud",
+  "version": "25.9",
+  "summary": "GroupDocs.Conversion Cloud Python SDK",
+  "author": "GroupDocs",
+  "license": null,
+  "home_page": "http://github.com/groupdocs-conversion-cloud/groupdocs-conversion-cloud-python",
+  "download_filename": "groupdocs_conversion_cloud-25.9.tar.gz",
+  "download_time": "2025-09-05T07:24:25.971808",
+  "package_url": "https://pypi.org/project/groupdocs-conversion-cloud/"
+}

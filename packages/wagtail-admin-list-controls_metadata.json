@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-admin-list-controls",
+  "version": "0.1.11",
+  "summary": "A UI toolkit to build custom filtering and other functionalities into wagtail's admin list views.",
+  "author": "The Interaction Consortium",
+  "license": "MIT",
+  "home_page": "https://github.com/ixc/wagtail-admin-list-controls",
+  "download_filename": "wagtail_admin_list_controls-0.1.11.tar.gz",
+  "download_time": "2025-09-05T07:24:40.379798",
+  "package_url": "https://pypi.org/project/wagtail-admin-list-controls/"
+}

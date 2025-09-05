@@ -1,0 +1,11 @@
+{
+  "name": "hefeng-weather-mcp",
+  "version": "0.3.0",
+  "summary": "和风天气 MCP 服务 - 基于 Model Context Protocol 的天气数据查询服务",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hefeng_weather_mcp-0.3.0.tar.gz",
+  "download_time": "2025-09-05T07:24:38.840443",
+  "package_url": "https://pypi.org/project/hefeng-weather-mcp/"
+}

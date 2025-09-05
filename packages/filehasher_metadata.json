@@ -1,11 +1,11 @@
 {
   "name": "filehasher",
-  "version": "0.7",
-  "summary": "File Hasher with multiple algorithms and benchmarking",
+  "version": "1.0.0",
+  "summary": "Modern file hashing utility with parallel processing, multiple algorithms, and benchmarking",
   "author": "Luar Roji",
   "license": "MIT",
   "home_page": "http://github.com/cyberplant/filehasher",
-  "download_filename": "filehasher-0.7.tar.gz",
-  "download_time": "2025-09-05T06:33:36.946927",
+  "download_filename": "filehasher-1.0.0.tar.gz",
+  "download_time": "2025-09-05T07:24:35.933615",
   "package_url": "https://pypi.org/project/filehasher/"
 }

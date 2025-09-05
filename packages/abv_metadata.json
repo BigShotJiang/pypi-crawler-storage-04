@@ -1,0 +1,11 @@
+{
+  "name": "abv",
+  "version": "0.0.1.dev1",
+  "summary": "A client library for accessing abv",
+  "author": "abv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abv-0.0.1.dev1.tar.gz",
+  "download_time": "2025-09-05T07:24:49.877616",
+  "package_url": "https://pypi.org/project/abv/"
+}

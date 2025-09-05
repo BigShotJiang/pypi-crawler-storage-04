@@ -1,0 +1,11 @@
+{
+  "name": "kivy-garden-draggable",
+  "version": "0.3.0",
+  "summary": "Drag & Drop Extension for Kivy",
+  "author": "Nattōsai Mitō",
+  "license": "MIT",
+  "home_page": "https://github.com/kivy-garden/draggable",
+  "download_filename": "kivy_garden_draggable-0.3.0.tar.gz",
+  "download_time": "2025-09-05T07:24:33.333960",
+  "package_url": "https://pypi.org/project/kivy-garden-draggable/"
+}

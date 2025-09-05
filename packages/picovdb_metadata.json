@@ -1,0 +1,11 @@
+{
+  "name": "picovdb",
+  "version": "0.2.0",
+  "summary": "A tiny and fast local vector database in Python.",
+  "author": "Wensheng Wang",
+  "license": null,
+  "home_page": "https://github.com/wensheng/picovdb.git",
+  "download_filename": "picovdb-0.2.0.tar.gz",
+  "download_time": "2025-09-05T07:24:48.732700",
+  "package_url": "https://pypi.org/project/picovdb/"
+}
