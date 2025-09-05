@@ -1,0 +1,11 @@
+{
+  "name": "simplenetlink",
+  "version": "0.7",
+  "summary": "Abstraction layer for for simplified usage of pyroute2",
+  "author": "Wilhelm Putz",
+  "license": "ASL V2",
+  "home_page": "https://github.com/jinjamator/simplenetlink",
+  "download_filename": "simplenetlink-0.7-py3-none-any.whl",
+  "download_time": "2025-09-05T13:43:51.177692",
+  "package_url": "https://pypi.org/project/simplenetlink/"
+}

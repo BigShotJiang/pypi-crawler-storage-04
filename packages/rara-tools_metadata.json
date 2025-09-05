@@ -1,11 +1,11 @@
 {
   "name": "rara-tools",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Tools to support Kata's work.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rara_tools-0.7.7.tar.gz",
-  "download_time": "2025-09-01T13:21:12.422133",
+  "download_filename": "rara_tools-0.7.8.tar.gz",
+  "download_time": "2025-09-05T13:43:53.094877",
   "package_url": "https://pypi.org/project/rara-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gemDP",
+  "version": "0.0.4",
+  "summary": "Gem is a Python library that makes Minecraft Datapack/Resourcepack creation process easier",
+  "author": "UniversalShift",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemdp-0.0.4.tar.gz",
+  "download_time": "2025-09-05T13:44:13.336106",
+  "package_url": "https://pypi.org/project/gemDP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "terminal-karaoke",
+  "version": "1.0.0",
+  "summary": "A terminal-based karaoke player",
+  "author": "Dexter Morgan",
+  "license": "MIT",
+  "home_page": "https://github.com/hissterical/terminal-karaoke",
+  "download_filename": "terminal_karaoke-1.0.0.tar.gz",
+  "download_time": "2025-09-05T13:44:11.468879",
+  "package_url": "https://pypi.org/project/terminal-karaoke/"
+}

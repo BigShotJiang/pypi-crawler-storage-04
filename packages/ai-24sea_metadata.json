@@ -1,11 +1,11 @@
 {
   "name": "ai-24sea",
-  "version": "0.2.5",
+  "version": "1.0.0",
   "summary": "A package containing general functionality for 24sea ai/ml related topics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_24sea-0.2.5.tar.gz",
-  "download_time": "2025-09-03T20:24:29.976539",
+  "download_filename": "ai_24sea-1.0.0.tar.gz",
+  "download_time": "2025-09-05T13:44:28.540640",
   "package_url": "https://pypi.org/project/ai-24sea/"
 }

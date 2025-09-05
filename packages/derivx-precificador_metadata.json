@@ -1,0 +1,11 @@
+{
+  "name": "derivx-precificador",
+  "version": "0.1.1",
+  "summary": "Precificador de derivativos em Python (MC/LSMC, PDE CN, FFT Heston, IR Black-76) com DSL declarativa.",
+  "author": "Walter C. Neto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "derivx_precificador-0.1.1.tar.gz",
+  "download_time": "2025-09-05T13:44:15.036883",
+  "package_url": "https://pypi.org/project/derivx-precificador/"
+}

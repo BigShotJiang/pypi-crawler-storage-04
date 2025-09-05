@@ -1,11 +1,11 @@
 {
   "name": "iranetf",
-  "version": "0.30.0",
+  "version": "0.30.1",
   "summary": "a library to fetch data from ETF websites active TSE",
   "author": "5j9",
   "license": null,
   "home_page": null,
-  "download_filename": "iranetf-0.30.0.tar.gz",
-  "download_time": "2025-08-28T11:17:40.447433",
+  "download_filename": "iranetf-0.30.1.tar.gz",
+  "download_time": "2025-09-05T13:43:50.602659",
   "package_url": "https://pypi.org/project/iranetf/"
 }
