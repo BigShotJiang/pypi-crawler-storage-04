@@ -1,0 +1,11 @@
+{
+  "name": "flask-nova",
+  "version": "0.1.1",
+  "summary": "Extra check using pydandic in flask application",
+  "author": "manitreasure1",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_nova-0.1.1.tar.gz",
+  "download_time": "2025-09-06T23:20:57.501304",
+  "package_url": "https://pypi.org/project/flask-nova/"
+}
