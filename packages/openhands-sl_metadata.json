@@ -1,0 +1,11 @@
+{
+  "name": "openhands-sl",
+  "version": "0.1.8",
+  "summary": "👐OpenHands : Making Sign Language Recognition Accessible",
+  "author": "AI4Bhārat",
+  "license": null,
+  "home_page": "https://openhands.ai4bharat.org",
+  "download_filename": "openhands_sl-0.1.8.tar.gz",
+  "download_time": "2025-09-06T06:49:01.465836",
+  "package_url": "https://pypi.org/project/openhands-sl/"
+}

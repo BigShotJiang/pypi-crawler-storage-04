@@ -1,0 +1,11 @@
+{
+  "name": "s3table",
+  "version": "0.0.2",
+  "summary": "A Python package for managing Iceberg tables in AWS S3 in any regions",
+  "author": "Danh Phan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "s3table-0.0.2.tar.gz",
+  "download_time": "2025-09-06T06:48:57.942968",
+  "package_url": "https://pypi.org/project/s3table/"
+}
