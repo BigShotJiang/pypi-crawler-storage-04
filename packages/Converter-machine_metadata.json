@@ -1,0 +1,11 @@
+{
+  "name": "Converter-machine",
+  "version": "1.0.0",
+  "summary": "A unit conversion library for time, mass, length, temperature, and more",
+  "author": "Amir M. Kimiaei",
+  "license": null,
+  "home_page": "https://github.com/AmirKimiaei/converter_machine",
+  "download_filename": "converter_machine-1.0.0.tar.gz",
+  "download_time": "2025-09-06T11:20:17.122373",
+  "package_url": "https://pypi.org/project/Converter-machine/"
+}

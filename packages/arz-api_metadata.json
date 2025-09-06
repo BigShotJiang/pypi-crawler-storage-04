@@ -1,0 +1,11 @@
+{
+  "name": "arz-api",
+  "version": "2.2",
+  "summary": "Модуль для взаимодействия с форумом без Xenforo ключей",
+  "author": "TastyBread123",
+  "license": null,
+  "home_page": "https://github.com/TastyBread123/Arizona-API/",
+  "download_filename": "arz_api-2.2.tar.gz",
+  "download_time": "2025-09-06T11:20:11.602810",
+  "package_url": "https://pypi.org/project/arz-api/"
+}

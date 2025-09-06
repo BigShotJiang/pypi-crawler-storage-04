@@ -1,0 +1,11 @@
+{
+  "name": "fintag-py",
+  "version": "0.1.1",
+  "summary": "The Official Python SDK for FinTag API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fintag_py-0.1.1.tar.gz",
+  "download_time": "2025-09-06T11:20:22.911233",
+  "package_url": "https://pypi.org/project/fintag-py/"
+}

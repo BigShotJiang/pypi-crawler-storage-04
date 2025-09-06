@@ -1,0 +1,11 @@
+{
+  "name": "rdf-uploader",
+  "version": "0.18.8",
+  "summary": "A tool for uploading RDF data to SPARQL endpoints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdf_uploader-0.18.8.tar.gz",
+  "download_time": "2025-09-06T11:20:12.737531",
+  "package_url": "https://pypi.org/project/rdf-uploader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-okashi",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "KIRAKIRA账号审核入群功能",
   "author": "Yasaitori",
   "license": null,
   "home_page": "https://github.com/YasaitoriOvO/nonebot-plugin-okashi",
-  "download_filename": "nonebot_plugin_okashi-0.1.4.tar.gz",
-  "download_time": "2025-09-06T09:41:17.224784",
+  "download_filename": "nonebot_plugin_okashi-0.1.5.tar.gz",
+  "download_time": "2025-09-06T11:20:06.203386",
   "package_url": "https://pypi.org/project/nonebot-plugin-okashi/"
 }
