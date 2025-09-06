@@ -1,0 +1,11 @@
+{
+  "name": "mredu",
+  "version": "1.0.1",
+  "summary": "A simple simulator of a system which implements map/reduce paradigm.",
+  "author": "ramonpin",
+  "license": "Apache-2",
+  "home_page": "http://github.com/ramonpin/mredu",
+  "download_filename": "mredu-1.0.1.tar.gz",
+  "download_time": "2025-09-06T18:28:57.958466",
+  "package_url": "https://pypi.org/project/mredu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wooting-mouse",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Use Wooting Gamepad as Virtual Mouse",
   "author": "Dick Marinus",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "wooting_mouse-0.8.0.tar.gz",
-  "download_time": "2025-09-05T19:20:09.784471",
+  "download_filename": "wooting_mouse-0.8.1.tar.gz",
+  "download_time": "2025-09-06T18:28:46.096873",
   "package_url": "https://pypi.org/project/wooting-mouse/"
 }

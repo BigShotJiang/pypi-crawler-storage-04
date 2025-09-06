@@ -1,11 +1,11 @@
 {
   "name": "dummysensors",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Dummy sensor data generator for testing IoT/ML pipelines",
   "author": "Mateusz Dalke",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dummysensors-0.2.0.tar.gz",
-  "download_time": "2025-09-04T18:51:42.059679",
+  "download_filename": "dummysensors-0.3.0.tar.gz",
+  "download_time": "2025-09-06T18:28:33.042038",
   "package_url": "https://pypi.org/project/dummysensors/"
 }

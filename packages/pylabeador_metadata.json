@@ -1,0 +1,11 @@
+{
+  "name": "pylabeador",
+  "version": "0.6.0",
+  "summary": "Automatic syllabification for Spanish words",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pylabeador-0.6.0.tar.gz",
+  "download_time": "2025-09-06T18:29:05.415065",
+  "package_url": "https://pypi.org/project/pylabeador/"
+}

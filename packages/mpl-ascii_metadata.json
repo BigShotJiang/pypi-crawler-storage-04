@@ -1,0 +1,11 @@
+{
+  "name": "mpl-ascii",
+  "version": "1.0.0",
+  "summary": "A matplotlib backend that produces plots using only ASCII characters",
+  "author": "Chris Cave",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mpl_ascii-1.0.0.tar.gz",
+  "download_time": "2025-09-06T18:28:53.591345",
+  "package_url": "https://pypi.org/project/mpl-ascii/"
+}

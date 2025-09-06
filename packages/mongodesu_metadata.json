@@ -1,11 +1,11 @@
 {
   "name": "mongodesu",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A mongodb ODM dependant on pymongo with the extensive of model creation and validation and relational model machanism. This helps you create the ODM in the python program with the similarities of an SQL class model.",
   "author": "Akuyaku",
   "license": null,
   "home_page": "https://github.com/AKA-Per/mongudesu",
-  "download_filename": "mongodesu-1.2.1.tar.gz",
-  "download_time": "2025-09-06T17:55:35.548366",
+  "download_filename": "mongodesu-1.2.2.tar.gz",
+  "download_time": "2025-09-06T18:29:05.948695",
   "package_url": "https://pypi.org/project/mongodesu/"
 }

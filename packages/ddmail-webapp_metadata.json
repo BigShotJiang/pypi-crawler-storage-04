@@ -1,0 +1,11 @@
+{
+  "name": "ddmail-webapp",
+  "version": "0.0.9",
+  "summary": "Main web application for the DDMail project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddmail_webapp-0.0.9.tar.gz",
+  "download_time": "2025-09-06T18:28:58.508445",
+  "package_url": "https://pypi.org/project/ddmail-webapp/"
+}

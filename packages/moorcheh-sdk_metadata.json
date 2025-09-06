@@ -1,0 +1,11 @@
+{
+  "name": "moorcheh-sdk",
+  "version": "1.2.1",
+  "summary": "Python SDK for the Moorcheh Semantic Search API",
+  "author": "Majid Fekri majid.fekri@edgeaiinnovations.com",
+  "license": "MIT",
+  "home_page": "https://www.moorcheh.ai",
+  "download_filename": "moorcheh_sdk-1.2.1.tar.gz",
+  "download_time": "2025-09-06T18:28:55.715239",
+  "package_url": "https://pypi.org/project/moorcheh-sdk/"
+}

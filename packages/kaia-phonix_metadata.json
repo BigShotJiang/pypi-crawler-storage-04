@@ -1,0 +1,11 @@
+{
+  "name": "kaia-phonix",
+  "version": "4.0.4",
+  "summary": "Audioservice for avatar, working with pyaudio and porcupine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaia_phonix-4.0.4.tar.gz",
+  "download_time": "2025-09-06T18:28:42.877584",
+  "package_url": "https://pypi.org/project/kaia-phonix/"
+}

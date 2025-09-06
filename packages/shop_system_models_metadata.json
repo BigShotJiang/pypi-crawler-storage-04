@@ -1,11 +1,11 @@
 {
   "name": "shop_system_models",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Shared model definitions for shop system services",
   "author": "Pavel Mulin",
   "license": null,
   "home_page": null,
-  "download_filename": "shop_system_models-1.2.0.tar.gz",
-  "download_time": "2025-09-06T17:55:45.669794",
+  "download_filename": "shop_system_models-1.2.1.tar.gz",
+  "download_time": "2025-09-06T18:29:01.176779",
   "package_url": "https://pypi.org/project/shop_system_models/"
 }

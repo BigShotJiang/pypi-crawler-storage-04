@@ -1,0 +1,11 @@
+{
+  "name": "python-scripttease",
+  "version": "7.2.0",
+  "summary": "A collection of classes and commands for automated command line scripting using Python.",
+  "author": "Shawn Davis",
+  "license": null,
+  "home_page": "https://develmaycare.com/products/python/scripttease/",
+  "download_filename": "python_scripttease-7.2.0.tar.gz",
+  "download_time": "2025-09-06T18:28:52.002217",
+  "package_url": "https://pypi.org/project/python-scripttease/"
+}
