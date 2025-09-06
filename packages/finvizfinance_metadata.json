@@ -1,0 +1,11 @@
+{
+  "name": "finvizfinance",
+  "version": "1.2.0",
+  "summary": "Finviz Finance. Information downloader.",
+  "author": "Tianning Li",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://github.com/lit26/finvizfinance",
+  "download_filename": "finvizfinance-1.2.0.tar.gz",
+  "download_time": "2025-09-06T13:55:37.770509",
+  "package_url": "https://pypi.org/project/finvizfinance/"
+}

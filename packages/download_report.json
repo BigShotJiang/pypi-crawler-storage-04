@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-09-06T13:44:59.250065",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 1.07,
+  "download_time": "2025-09-06T13:56:22.183010",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 0.25,
   "packages": [
+    "finvizfinance",
+    "maleo-logging",
     "signal-ICT-DarshilSapara-92400133027",
     "dreamdream",
     "bin2tap",
@@ -81,7 +83,6 @@
     "alien-cli-tools",
     "agentic-blocks",
     "aiauto-client",
-    "talkpipe",
-    "archipy"
+    "talkpipe"
   ]
 }
