@@ -1,0 +1,11 @@
+{
+  "name": "ML-Automation-Tool",
+  "version": "1.0.0",
+  "summary": "Automated Machine Learning tool with GUI",
+  "author": "Yassine",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ML_Automation_Tool",
+  "download_filename": "ml_automation_tool-1.0.0.tar.gz",
+  "download_time": "2025-09-06T12:39:39.989690",
+  "package_url": "https://pypi.org/project/ML-Automation-Tool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "MongoCommands",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A python package for connecting with database.",
   "author": "AmrMohamed17",
   "license": "MIT",
   "home_page": "https://github.com/AmrMohamed17/MongoCrud",
-  "download_filename": "mongocommands-0.0.3.tar.gz",
-  "download_time": "2025-09-06T11:41:59.503488",
+  "download_filename": "mongocommands-0.0.4.tar.gz",
+  "download_time": "2025-09-06T12:39:58.627683",
   "package_url": "https://pypi.org/project/MongoCommands/"
 }

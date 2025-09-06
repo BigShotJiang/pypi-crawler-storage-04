@@ -1,0 +1,11 @@
+{
+  "name": "dephix-api-models",
+  "version": "0.1.1",
+  "summary": "Models and interfaces for trading APIs",
+  "author": "Dephix",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dephix_api_models-0.1.1.tar.gz",
+  "download_time": "2025-09-06T12:39:40.540004",
+  "package_url": "https://pypi.org/project/dephix-api-models/"
+}

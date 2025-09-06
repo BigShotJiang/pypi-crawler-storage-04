@@ -1,0 +1,11 @@
+{
+  "name": "yhd-depchecker",
+  "version": "1.0.0",
+  "summary": "用于检测当前代码环境是否拥有开发者所要求的库，并安装。可用于直接分发代码快捷安装",
+  "author": "YHD gamepaly（颜华蝶游戏社）",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yhd_depchecker-1.0.0.tar.gz",
+  "download_time": "2025-09-06T12:39:43.771666",
+  "package_url": "https://pypi.org/project/yhd-depchecker/"
+}

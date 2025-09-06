@@ -1,11 +1,11 @@
 {
   "name": "boto3-refresh-session",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "A simple Python package for refreshing the temporary security credentials in a boto3.session.Session object automatically.",
   "author": "Mike Letts",
   "license": "MIT",
   "home_page": "https://github.com/michaelthomasletts/boto3-refresh-session",
-  "download_filename": "boto3_refresh_session-4.0.0.tar.gz",
-  "download_time": "2025-08-31T01:44:46.667289",
+  "download_filename": "boto3_refresh_session-5.0.0.tar.gz",
+  "download_time": "2025-09-06T12:39:54.249596",
   "package_url": "https://pypi.org/project/boto3-refresh-session/"
 }

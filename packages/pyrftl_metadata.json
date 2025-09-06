@@ -1,0 +1,11 @@
+{
+  "name": "pyrftl",
+  "version": "1.1.2",
+  "summary": "A Python package to determine the best pair of lenses to use as a tube lens for remote refocusing or classical microscopy.",
+  "author": "Quentin Bécar, Paul Montgomery, Amir Nahas, Maioli Vincent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrftl-1.1.2.tar.gz",
+  "download_time": "2025-09-06T12:39:45.443937",
+  "package_url": "https://pypi.org/project/pyrftl/"
+}

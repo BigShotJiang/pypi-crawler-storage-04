@@ -1,0 +1,11 @@
+{
+  "name": "tiago-image-processing",
+  "version": "0.0.1",
+  "summary": "Image processing package using Skimage",
+  "author": "tiago-image_processing",
+  "license": null,
+  "home_page": "https://github.com/tiagoosr",
+  "download_filename": "tiago_image_processing-0.0.1.tar.gz",
+  "download_time": "2025-09-06T12:39:56.964339",
+  "package_url": "https://pypi.org/project/tiago-image-processing/"
+}

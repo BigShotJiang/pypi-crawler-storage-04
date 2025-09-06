@@ -1,0 +1,11 @@
+{
+  "name": "open-biohit",
+  "version": "0.0.1",
+  "summary": "Python interface to the InstrumentLib.dll provided by the device vendor",
+  "author": "Niklas Mertsch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_biohit-0.0.1.tar.gz",
+  "download_time": "2025-09-06T12:39:47.105867",
+  "package_url": "https://pypi.org/project/open-biohit/"
+}

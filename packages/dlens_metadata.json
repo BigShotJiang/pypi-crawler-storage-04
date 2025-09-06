@@ -1,0 +1,11 @@
+{
+  "name": "dlens",
+  "version": "1.0.0",
+  "summary": "Enhanced directory mapping and visualization tool",
+  "author": "Muhammad-NSQ",
+  "license": "MIT",
+  "home_page": "https://github.com/Muhammad-NSQ/Dlens",
+  "download_filename": "dlens-1.0.0.tar.gz",
+  "download_time": "2025-09-06T12:40:03.629257",
+  "package_url": "https://pypi.org/project/dlens/"
+}
