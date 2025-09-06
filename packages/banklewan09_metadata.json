@@ -1,11 +1,11 @@
 {
   "name": "banklewan09",
-  "version": "0.1.0",
-  "summary": "This is my first package. This package is related to number theory.",
+  "version": "0.1.2",
+  "summary": "This is my first package. This package are calculation volume ,lateral and surface in cylinder .",
   "author": "Lewan",
   "license": null,
   "home_page": "https://github.com/yourusername/mypackage",
-  "download_filename": "banklewan09-0.1.0.tar.gz",
-  "download_time": "2025-09-04T05:54:05.484033",
+  "download_filename": "banklewan09-0.1.2.tar.gz",
+  "download_time": "2025-09-06T11:55:51.009416",
   "package_url": "https://pypi.org/project/banklewan09/"
 }
