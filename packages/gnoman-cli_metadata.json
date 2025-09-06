@@ -1,0 +1,11 @@
+{
+  "name": "gnoman-cli",
+  "version": "0.1.0",
+  "summary": "Gnosis Safe, HD/hidden wallets, and keyring manager — terminal-native.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnoman_cli-0.1.0.tar.gz",
+  "download_time": "2025-09-06T23:41:28.889161",
+  "package_url": "https://pypi.org/project/gnoman-cli/"
+}

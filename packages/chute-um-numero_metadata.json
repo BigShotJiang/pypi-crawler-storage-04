@@ -1,0 +1,11 @@
+{
+  "name": "chute-um-numero",
+  "version": "0.0.1",
+  "summary": "Um 'jogo' onde você tem que acertar um numero gerado aleatóriamente",
+  "author": "Felipe Ronni",
+  "license": null,
+  "home_page": "https://github.com/feliperonni/simple-package-template",
+  "download_filename": "chute_um_numero-0.0.1.tar.gz",
+  "download_time": "2025-09-06T23:41:27.841510",
+  "package_url": "https://pypi.org/project/chute-um-numero/"
+}

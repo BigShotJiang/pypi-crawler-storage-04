@@ -1,11 +1,11 @@
 {
   "name": "squid-ml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An easy-to-use, no boilerplate ML experiment tracker.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squid_ml-0.1.1.tar.gz",
-  "download_time": "2025-09-06T23:20:59.615168",
+  "download_filename": "squid_ml-0.1.2.tar.gz",
+  "download_time": "2025-09-06T23:41:37.475282",
   "package_url": "https://pypi.org/project/squid-ml/"
 }
