@@ -1,0 +1,11 @@
+{
+  "name": "mrshw",
+  "version": "0.1.3",
+  "summary": "Python bindings for MRSHv2: a fast, modular similarity digest tool for malware analysis, forensics and much more",
+  "author": "w4term3loon",
+  "license": null,
+  "home_page": "https://github.com/w4term3loon/mrsh",
+  "download_filename": "mrshw-0.1.3.tar.gz",
+  "download_time": "2025-09-06T16:25:23.863667",
+  "package_url": "https://pypi.org/project/mrshw/"
+}

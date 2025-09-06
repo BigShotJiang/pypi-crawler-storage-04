@@ -1,0 +1,11 @@
+{
+  "name": "logger-ysy",
+  "version": "0.1.0",
+  "summary": "即导即用的Python日志工具包，支持控制台+文件双输出，可灵活覆盖默认配置",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logger_ysy-0.1.0.tar.gz",
+  "download_time": "2025-09-06T16:25:39.631332",
+  "package_url": "https://pypi.org/project/logger-ysy/"
+}

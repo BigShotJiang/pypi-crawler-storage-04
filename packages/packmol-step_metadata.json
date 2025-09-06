@@ -1,0 +1,11 @@
+{
+  "name": "packmol-step",
+  "version": "2025.9.6",
+  "summary": "A SEAMM plug-in for building periodic boxes of fluid using Packmol",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seam/packmol_step",
+  "download_filename": "packmol_step-2025.9.6.tar.gz",
+  "download_time": "2025-09-06T16:25:49.641473",
+  "package_url": "https://pypi.org/project/packmol-step/"
+}

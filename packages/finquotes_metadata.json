@@ -1,11 +1,11 @@
 {
   "name": "finquotes",
-  "version": "0.65.0",
+  "version": "0.66.4",
   "summary": "Retrieves financial quotes from the web",
   "author": "elmotec",
   "license": null,
   "home_page": null,
-  "download_filename": "finquotes-0.65.0.tar.gz",
-  "download_time": "2025-09-01T23:53:16.987556",
+  "download_filename": "finquotes-0.66.4.tar.gz",
+  "download_time": "2025-09-06T16:25:32.822215",
   "package_url": "https://pypi.org/project/finquotes/"
 }

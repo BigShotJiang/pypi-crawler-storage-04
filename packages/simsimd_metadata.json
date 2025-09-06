@@ -1,11 +1,11 @@
 {
   "name": "simsimd",
-  "version": "6.5.2",
+  "version": "6.5.3",
   "summary": "Portable mixed-precision BLAS-like vector math library for x86 and ARM",
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/simsimd",
-  "download_filename": "simsimd-6.5.2.tar.gz",
-  "download_time": "2025-09-05T14:56:34.646214",
+  "download_filename": "simsimd-6.5.3.tar.gz",
+  "download_time": "2025-09-06T16:25:31.768736",
   "package_url": "https://pypi.org/project/simsimd/"
 }

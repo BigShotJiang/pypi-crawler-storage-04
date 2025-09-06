@@ -1,11 +1,11 @@
 {
   "name": "XuPy",
-  "version": "1.1.0",
-  "summary": "Masked Arrays made simple for CuPy",
+  "version": "1.1.1",
+  "summary": "GPU Accelerated masked arrays with automatic handling of CPU and GPU arrays.",
   "author": "Pietro Ferraiuolo",
   "license": null,
   "home_page": null,
-  "download_filename": "xupy-1.1.0.tar.gz",
-  "download_time": "2025-09-06T15:55:58.466998",
+  "download_filename": "xupy-1.1.1.tar.gz",
+  "download_time": "2025-09-06T16:25:29.608012",
   "package_url": "https://pypi.org/project/XuPy/"
 }

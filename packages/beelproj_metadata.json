@@ -1,0 +1,11 @@
+{
+  "name": "beelproj",
+  "version": "0.1.0",
+  "summary": "This is my first package . A simple example package to discribes Triangle.",
+  "author": "N. Amarittabut",
+  "license": null,
+  "home_page": "https://github.com/Amarit1008/AmaritPg",
+  "download_filename": "beelproj-0.1.0.tar.gz",
+  "download_time": "2025-09-06T16:25:45.416669",
+  "package_url": "https://pypi.org/project/beelproj/"
+}
