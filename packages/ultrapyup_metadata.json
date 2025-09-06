@@ -1,11 +1,11 @@
 {
   "name": "ultrapyup",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "A tool to empower your Python projects",
   "author": "teyik0",
   "license": null,
   "home_page": null,
-  "download_filename": "ultrapyup-0.6.0.tar.gz",
-  "download_time": "2025-09-02T10:24:14.868800",
+  "download_filename": "ultrapyup-0.7.0.tar.gz",
+  "download_time": "2025-09-06T16:45:41.655653",
   "package_url": "https://pypi.org/project/ultrapyup/"
 }

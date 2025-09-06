@@ -1,0 +1,11 @@
+{
+  "name": "pythagore",
+  "version": "1.3.0",
+  "summary": "allows you to solve the Pythagorean theorem in Python",
+  "author": "Tina",
+  "license": "MIT",
+  "home_page": "https://github.com/Tina-1300/pythagore",
+  "download_filename": "pythagore-1.3.0.tar.gz",
+  "download_time": "2025-09-06T16:45:44.869076",
+  "package_url": "https://pypi.org/project/pythagore/"
+}
