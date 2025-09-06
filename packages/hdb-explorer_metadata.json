@@ -1,0 +1,11 @@
+{
+  "name": "hdb-explorer",
+  "version": "0.0.3",
+  "summary": "A simple SAP HANA Database Explorer.",
+  "author": "Praveen Nair",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdb_explorer-0.0.3.tar.gz",
+  "download_time": "2025-09-06T02:46:36.070326",
+  "package_url": "https://pypi.org/project/hdb-explorer/"
+}

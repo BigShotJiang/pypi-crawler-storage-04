@@ -1,11 +1,11 @@
 {
   "name": "umlshapes",
-  "version": "0.9.126",
+  "version": "0.9.140",
   "summary": "Pyut Ogl without homegrown miniogl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "umlshapes-0.9.126.tar.gz",
-  "download_time": "2025-09-02T20:22:51.809054",
+  "download_filename": "umlshapes-0.9.140.tar.gz",
+  "download_time": "2025-09-06T02:46:45.161468",
   "package_url": "https://pypi.org/project/umlshapes/"
 }

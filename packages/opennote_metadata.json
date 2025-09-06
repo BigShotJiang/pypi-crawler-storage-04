@@ -1,11 +1,11 @@
 {
   "name": "opennote",
-  "version": "2.1.2",
+  "version": "2.2.1.post1",
   "summary": "Opennote Python SDK",
   "author": "Opennote, Inc.",
   "license": "MIT",
   "home_page": "https://github.com/opennote-dev/api-sdk-python",
-  "download_filename": "opennote-2.1.2.tar.gz",
-  "download_time": "2025-09-05T06:33:26.099407",
+  "download_filename": "opennote-2.2.1.post1.tar.gz",
+  "download_time": "2025-09-06T02:46:48.137735",
   "package_url": "https://pypi.org/project/opennote/"
 }
