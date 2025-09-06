@@ -1,0 +1,11 @@
+{
+  "name": "chi-sdk",
+  "version": "0.0.3",
+  "summary": "CHI TUI SDK: Typed Python CLI with JSON envelope for TUI frontends",
+  "author": null,
+  "license": "Apache-2.0 (see LICENSE)",
+  "home_page": null,
+  "download_filename": "chi_sdk-0.0.3.tar.gz",
+  "download_time": "2025-09-06T21:56:16.982814",
+  "package_url": "https://pypi.org/project/chi-sdk/"
+}

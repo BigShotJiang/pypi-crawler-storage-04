@@ -1,11 +1,11 @@
 {
   "name": "docstring-format-checker",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A CLI tool to check and validate Python docstring formatting and completeness",
   "author": "Chris Mahoney",
   "license": null,
   "home_page": null,
-  "download_filename": "docstring_format_checker-0.1.0.tar.gz",
-  "download_time": "2025-08-31T22:42:02.688744",
+  "download_filename": "docstring_format_checker-0.3.0.tar.gz",
+  "download_time": "2025-09-06T21:55:56.258631",
   "package_url": "https://pypi.org/project/docstring-format-checker/"
 }

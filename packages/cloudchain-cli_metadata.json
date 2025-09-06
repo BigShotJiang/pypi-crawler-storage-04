@@ -1,11 +1,11 @@
 {
   "name": "cloudchain-cli",
-  "version": "0.1.0",
-  "summary": "Deterministic Google Drive backup manager using chained accounts.",
+  "version": "0.1.1",
+  "summary": "Deterministic Google Drive backup manager with chained accounts and encrypted state.",
   "author": null,
   "license": "CloudChain License\n        \n        Copyright © 2025 Christopher Hirschauer\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, and modify the Software for personal or commercial purposes, subject to the following conditions:\n        \t1.\tThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n        \t2.\tThe Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.\n        \t3.\tAll rights not expressly granted are reserved by the author.\n        \n        ",
   "home_page": null,
-  "download_filename": "cloudchain_cli-0.1.0.tar.gz",
-  "download_time": "2025-09-06T21:20:16.177511",
+  "download_filename": "cloudchain_cli-0.1.1.tar.gz",
+  "download_time": "2025-09-06T21:56:14.076563",
   "package_url": "https://pypi.org/project/cloudchain-cli/"
 }

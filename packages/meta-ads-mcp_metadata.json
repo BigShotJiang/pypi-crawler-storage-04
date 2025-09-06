@@ -1,11 +1,11 @@
 {
   "name": "meta-ads-mcp",
-  "version": "0.11.3",
+  "version": "0.11.6",
   "summary": "Model Context Protocol (MCP) server for interacting with Meta Ads API",
   "author": null,
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "meta_ads_mcp-0.11.3.tar.gz",
-  "download_time": "2025-08-28T18:50:52.606271",
+  "download_filename": "meta_ads_mcp-0.11.6.tar.gz",
+  "download_time": "2025-09-06T21:55:58.035527",
   "package_url": "https://pypi.org/project/meta-ads-mcp/"
 }
