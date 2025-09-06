@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-tlv320",
+  "version": "1.2.2",
+  "summary": "CircuitPython driver for the TLV320DAC3100 I2S DAC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_tlv320-1.2.2.tar.gz",
+  "download_time": "2025-09-06T10:41:57.716627",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-tlv320/"
+}

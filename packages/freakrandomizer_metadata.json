@@ -1,11 +1,11 @@
 {
   "name": "freakrandomizer",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "FreakRandomizer: This lib is uses a new algorithm and works better than random lib",
   "author": "Kutay",
   "license": "MIT",
   "home_page": "https://github.com/Kutay1062/FreakRandomizer",
-  "download_filename": "freakrandomizer-0.1.1.tar.gz",
-  "download_time": "2025-09-05T09:30:38.678300",
+  "download_filename": "freakrandomizer-0.2.1.tar.gz",
+  "download_time": "2025-09-06T10:41:47.424808",
   "package_url": "https://pypi.org/project/freakrandomizer/"
 }
