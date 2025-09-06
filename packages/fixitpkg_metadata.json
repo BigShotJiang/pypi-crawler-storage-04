@@ -1,0 +1,11 @@
+{
+  "name": "fixitpkg",
+  "version": "1.0.0",
+  "summary": "Cross-platform software installation framework",
+  "author": "FixIt Team",
+  "license": null,
+  "home_page": "https://github.com/Jayu1214/fixit",
+  "download_filename": "fixitpkg-1.0.0.tar.gz",
+  "download_time": "2025-09-06T19:56:45.537287",
+  "package_url": "https://pypi.org/project/fixitpkg/"
+}

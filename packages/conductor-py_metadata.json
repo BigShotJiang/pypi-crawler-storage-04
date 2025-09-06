@@ -1,0 +1,11 @@
+{
+  "name": "conductor-py",
+  "version": "1.58.1",
+  "summary": "The official Python library for the conductor API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "conductor_py-1.58.1.tar.gz",
+  "download_time": "2025-09-06T19:56:39.677662",
+  "package_url": "https://pypi.org/project/conductor-py/"
+}

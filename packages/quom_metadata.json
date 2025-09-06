@@ -1,0 +1,11 @@
+{
+  "name": "quom",
+  "version": "4.0.2",
+  "summary": "Quom is a single header generator for C/C++ libraries.",
+  "author": "Toni Neubert",
+  "license": "MIT",
+  "home_page": "https://github.com/Viatorus/quom",
+  "download_filename": "quom-4.0.2.tar.gz",
+  "download_time": "2025-09-06T19:56:41.949765",
+  "package_url": "https://pypi.org/project/quom/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bacpp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Bacterial polyploidy predictor: A Machine Learning Tool for Bacterial Polyploidy Prediction from Genome Assemblies",
   "author": "Zhenxiong Jiang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bacpp-0.1.4.tar.gz",
-  "download_time": "2025-09-06T19:32:23.444237",
+  "download_filename": "bacpp-0.1.5.tar.gz",
+  "download_time": "2025-09-06T19:56:49.466867",
   "package_url": "https://pypi.org/project/bacpp/"
 }
