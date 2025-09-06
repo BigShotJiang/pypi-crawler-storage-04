@@ -1,11 +1,11 @@
 {
   "name": "kalshi-python",
-  "version": "2.1.1",
+  "version": "2.1.4",
   "summary": "Kalshi Trading API",
   "author": "Kalshi Support",
   "license": null,
   "home_page": "https://github.com/Kalshi/exchange-infra",
-  "download_filename": "kalshi_python-2.1.1.tar.gz",
-  "download_time": "2025-09-06T05:55:20.468180",
+  "download_filename": "kalshi_python-2.1.4.tar.gz",
+  "download_time": "2025-09-06T06:30:54.013713",
   "package_url": "https://pypi.org/project/kalshi-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "matmulbench",
+  "version": "0.1.1",
+  "summary": "The idea is primarily to get me to write matmul code and compare with my own eyes the difference across languages.",
+  "author": "Kosaksi Pasappugazh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matmulbench-0.1.1.tar.gz",
+  "download_time": "2025-09-06T06:30:50.420867",
+  "package_url": "https://pypi.org/project/matmulbench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seanox-ai-nlp",
+  "version": "1.2.0",
+  "summary": "Lightweight NLP components for semantic processing of domain-specific content.",
+  "author": "Seanox Software Solutions",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "seanox_ai_nlp-1.2.0.tar.gz",
+  "download_time": "2025-09-06T06:30:45.452605",
+  "package_url": "https://pypi.org/project/seanox-ai-nlp/"
+}
