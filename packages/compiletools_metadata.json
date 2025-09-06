@@ -1,0 +1,11 @@
+{
+  "name": "compiletools",
+  "version": "5.2.0",
+  "summary": "Tools to make compiling C/C++ projects easy",
+  "author": "DrGeoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "compiletools-5.2.0.tar.gz",
+  "download_time": "2025-09-06T05:42:31.757864",
+  "package_url": "https://pypi.org/project/compiletools/"
+}

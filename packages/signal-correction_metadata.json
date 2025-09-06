@@ -1,0 +1,11 @@
+{
+  "name": "signal-correction",
+  "version": "1.0a8",
+  "summary": "Signal correction module for Ariel Data Challenge 2025.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signal_correction-1.0a8.tar.gz",
+  "download_time": "2025-09-06T05:42:26.020240",
+  "package_url": "https://pypi.org/project/signal-correction/"
+}

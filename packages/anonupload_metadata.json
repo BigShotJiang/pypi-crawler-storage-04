@@ -1,11 +1,11 @@
 {
   "name": "anonupload",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "upload and download to anonfiles server",
   "author": "Jak Bin",
   "license": null,
   "home_page": "https://github.com/jakbin/anonupload",
-  "download_filename": "anonupload-1.4.3-py3-none-any.whl",
-  "download_time": "2025-09-06T04:46:06.961764",
+  "download_filename": "anonupload-1.4.4-py3-none-any.whl",
+  "download_time": "2025-09-06T05:42:30.200623",
   "package_url": "https://pypi.org/project/anonupload/"
 }
