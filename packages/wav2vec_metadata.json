@@ -1,0 +1,11 @@
+{
+  "name": "wav2vec",
+  "version": "1.1.0",
+  "summary": "A Python package to convert waveform files (WAV or AIFF) to vector graphics (SVG, PostScript, or CVS)",
+  "author": "Chris Burkhardt",
+  "license": "WTFPL",
+  "home_page": "https://github.com/cristoper/wav2vec",
+  "download_filename": "wav2vec-1.1.0.tar.gz",
+  "download_time": "2025-09-06T05:22:26.386396",
+  "package_url": "https://pypi.org/project/wav2vec/"
+}

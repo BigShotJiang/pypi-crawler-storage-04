@@ -1,11 +1,11 @@
 {
   "name": "zx-rpa",
-  "version": "1.0.3",
-  "summary": "对常见的功能函数和一些平台的API进行封装",
+  "version": "1.0.5",
+  "summary": "ZX_RPA - 机器人流程自动化工具库，提供统一、简洁的API接口",
   "author": "zang xin",
   "license": null,
   "home_page": null,
-  "download_filename": "zx_rpa-1.0.3.tar.gz",
-  "download_time": "2025-08-30T13:31:49.496915",
+  "download_filename": "zx_rpa-1.0.5.tar.gz",
+  "download_time": "2025-09-06T05:22:28.748530",
   "package_url": "https://pypi.org/project/zx-rpa/"
 }
