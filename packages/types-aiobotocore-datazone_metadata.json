@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-datazone",
+  "version": "2.24.2",
+  "summary": "Type annotations for aiobotocore DataZone 2.24.2 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_datazone-2.24.2.tar.gz",
+  "download_time": "2025-09-06T01:30:14.727971",
+  "package_url": "https://pypi.org/project/types-aiobotocore-datazone/"
+}
