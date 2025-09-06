@@ -1,11 +1,11 @@
 {
   "name": "koggi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "PostgreSQL backup & restore CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "koggi-0.1.2.tar.gz",
-  "download_time": "2025-09-06T07:55:26.277078",
+  "download_filename": "koggi-0.1.3.tar.gz",
+  "download_time": "2025-09-06T08:55:50.117842",
   "package_url": "https://pypi.org/project/koggi/"
 }

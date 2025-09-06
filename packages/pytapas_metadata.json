@@ -1,0 +1,11 @@
+{
+  "name": "pytapas",
+  "version": "1.1.5",
+  "summary": "Transient Absorption Processing & Analysis Software",
+  "author": "Philipp Frech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytapas-1.1.5.tar.gz",
+  "download_time": "2025-09-06T08:55:45.461523",
+  "package_url": "https://pypi.org/project/pytapas/"
+}

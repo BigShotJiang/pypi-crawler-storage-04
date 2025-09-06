@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-06T08:45:39.389222
-- **Total Packages**: 98
-- **Total Size**: 34.59 MB
+- **Download Time**: 2025-09-06T08:56:38.324217
+- **Total Packages**: 97
+- **Total Size**: 3.94 MB
 
 ## Packages List
+- pytapas
+- semantic-copycat-purl2notices
+- pars-hitmotop
+- reqman4
+- lovdtools
+- arrlab
+- authentik-client
+- autocrud
+- koggi
+- scruby
+- reifier
+- universal-scraper
+- neverlib
+- jetblack-serialization
 - pt-kmeans
 - tfp-nightly
 - byzh-extra
@@ -17,12 +31,12 @@
 - passagemath-sympow
 - passagemath-symbolics
 - escheduler-sdk
+- passagemath-standard-no-symbolics
 - passagemath-sirocco
 - passagemath-singular
 - passagemath-schemes
 - passagemath-rubiks
 - gassim
-- authentik-client
 - passagemath-qepcad
 - passagemath-polyhedra
 - passagemath-plantri
@@ -89,18 +103,3 @@
 - passagemath-gap-pkg-ctbllib-data
 - passagemath-coxeter3
 - passagemath-environment
-- passagemath-conf
-- langchain-dev-utils
-- passagemath-database-symbolic-data
-- passagemath-database-stein-watkins-mini
-- passagemath-database-odlyzko-zeta
-- passagemath-database-mutation-class
-- ebhkit
-- passagemath-database-kohel
-- passagemath-buckygen
-- passagemath-database-jones-numfield
-- passagemath-brial
-- kybra-simple-db
-- passagemath-database-cunningham
-- passagemath-bliss
-- passagemath-benzene
