@@ -1,0 +1,11 @@
+{
+  "name": "ckan-rescue",
+  "version": "0.0.1",
+  "summary": "A tool to rescue (download) data from CKAN portals.",
+  "author": "Patricio Del Boca",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ckan_rescue-0.0.1.tar.gz",
+  "download_time": "2025-09-06T14:21:33.353821",
+  "package_url": "https://pypi.org/project/ckan-rescue/"
+}

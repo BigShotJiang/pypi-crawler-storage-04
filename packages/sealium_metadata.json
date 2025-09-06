@@ -1,0 +1,11 @@
+{
+  "name": "sealium",
+  "version": "0.0.1",
+  "summary": "Sealium is a state-of-the-art Python library for secure licensing and activation management.",
+  "author": "Kevin Hsu",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "sealium-0.0.1.tar.gz",
+  "download_time": "2025-09-06T14:21:50.712053",
+  "package_url": "https://pypi.org/project/sealium/"
+}

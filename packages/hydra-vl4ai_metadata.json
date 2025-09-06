@@ -1,0 +1,11 @@
+{
+  "name": "hydra-vl4ai",
+  "version": "0.0.6",
+  "summary": "Official implementation for HYDRA.",
+  "author": "ControlNet",
+  "license": null,
+  "home_page": "https://hydra-vl4ai.github.io/",
+  "download_filename": "hydra_vl4ai-0.0.6.tar.gz",
+  "download_time": "2025-09-06T14:21:52.873170",
+  "package_url": "https://pypi.org/project/hydra-vl4ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "break-axes",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Matplotlib-based utility module for creating broken axes.",
   "author": "Wu Yao",
   "license": null,
   "home_page": "https://github.com/wuyao1997/break_axes",
-  "download_filename": "break_axes-0.2.2-py3-none-any.whl",
-  "download_time": "2025-09-06T13:33:57.373863",
+  "download_filename": "break_axes-0.2.3-py3-none-any.whl",
+  "download_time": "2025-09-06T14:21:37.340873",
   "package_url": "https://pypi.org/project/break-axes/"
 }

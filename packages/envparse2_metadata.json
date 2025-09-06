@@ -1,0 +1,11 @@
+{
+  "name": "envparse2",
+  "version": "1.0.0",
+  "summary": "Simple environment variable parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envparse2-1.0.0.tar.gz",
+  "download_time": "2025-09-06T14:21:51.222191",
+  "package_url": "https://pypi.org/project/envparse2/"
+}

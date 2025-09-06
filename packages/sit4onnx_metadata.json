@@ -1,0 +1,11 @@
+{
+  "name": "sit4onnx",
+  "version": "1.0.9",
+  "summary": "Tools for simple inference testing using TensorRT, CUDA and OpenVINO CPU/GPU and CPU providers. Simple Inference Test for ONNX.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/sit4onnx",
+  "download_filename": "sit4onnx-1.0.9.tar.gz",
+  "download_time": "2025-09-06T14:21:50.201946",
+  "package_url": "https://pypi.org/project/sit4onnx/"
+}
