@@ -1,11 +1,11 @@
 {
   "name": "ampy-proto",
-  "version": "1.0.5",
+  "version": "1.0.11",
   "summary": "Canonical schemas for AmpyFin (generated Python protobufs)",
   "author": "AmpyFin Team",
   "license": null,
   "home_page": null,
-  "download_filename": "ampy_proto-1.0.5.tar.gz",
-  "download_time": "2025-09-06T07:20:51.589922",
+  "download_filename": "ampy_proto-1.0.11.tar.gz",
+  "download_time": "2025-09-06T07:42:49.336145",
   "package_url": "https://pypi.org/project/ampy-proto/"
 }

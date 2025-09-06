@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-env-modeler",
+  "version": "2.0.1",
+  "summary": "AWS-Lambda-Env-Modeler is a Python library designed to simplify the process of managing and validating environment variables in your AWS Lambda functions.",
+  "author": "Ran Isenberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_lambda_env_modeler-2.0.1.tar.gz",
+  "download_time": "2025-09-06T07:42:58.192297",
+  "package_url": "https://pypi.org/project/aws-lambda-env-modeler/"
+}

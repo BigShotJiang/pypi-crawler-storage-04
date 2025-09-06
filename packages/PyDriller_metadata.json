@@ -1,0 +1,11 @@
+{
+  "name": "PyDriller",
+  "version": "2.9",
+  "summary": "Framework for MSR",
+  "author": "Davide Spadini",
+  "license": "Apache License",
+  "home_page": "https://github.com/ishepard/pydriller",
+  "download_filename": "PyDriller-2.9-py3-none-any.whl",
+  "download_time": "2025-09-06T07:42:48.046611",
+  "package_url": "https://pypi.org/project/PyDriller/"
+}

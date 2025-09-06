@@ -1,0 +1,11 @@
+{
+  "name": "multidl",
+  "version": "2.1.0",
+  "summary": "A cli tool for downloading media from various platforms.",
+  "author": "Swayam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "multidl-2.1.0.tar.gz",
+  "download_time": "2025-09-06T07:43:05.224639",
+  "package_url": "https://pypi.org/project/multidl/"
+}
