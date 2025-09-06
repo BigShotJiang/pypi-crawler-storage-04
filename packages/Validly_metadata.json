@@ -1,11 +1,11 @@
 {
   "name": "Validly",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "A powerful and extensible data validation and comparison tool for developers and testers.",
   "author": "Dinesh RVL",
   "license": null,
   "home_page": "https://github.com/swattoolchain/validly",
-  "download_filename": "validly-1.0.9.tar.gz",
-  "download_time": "2025-09-06T02:46:19.152710",
+  "download_filename": "validly-1.0.10.tar.gz",
+  "download_time": "2025-09-06T03:20:59.999708",
   "package_url": "https://pypi.org/project/Validly/"
 }

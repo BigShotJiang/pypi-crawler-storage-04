@@ -1,0 +1,11 @@
+{
+  "name": "nyt_recipe",
+  "version": "1.2.0",
+  "summary": "Downloads recipes from the NYT Cooking website and converts them into an Apple Notes-compatible format",
+  "author": "Ian Brault",
+  "license": "MIT",
+  "home_page": "https://github.com/ianbrault/nyt_recipe",
+  "download_filename": "nyt_recipe-1.2.0.tar.gz",
+  "download_time": "2025-09-06T03:21:08.733560",
+  "package_url": "https://pypi.org/project/nyt_recipe/"
+}

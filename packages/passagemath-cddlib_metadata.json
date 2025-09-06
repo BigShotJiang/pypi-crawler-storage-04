@@ -1,11 +1,11 @@
 {
   "name": "passagemath-cddlib",
-  "version": "10.6.15",
+  "version": "10.6.16",
   "summary": "passagemath: Polynomial system solving through algebraic methods with cddlib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_cddlib-10.6.15-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-09-04T10:24:44.442455",
+  "download_filename": "passagemath_cddlib-10.6.16-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-09-06T03:20:46.385093",
   "package_url": "https://pypi.org/project/passagemath-cddlib/"
 }

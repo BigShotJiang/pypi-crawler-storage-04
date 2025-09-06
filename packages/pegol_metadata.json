@@ -1,11 +1,11 @@
 {
   "name": "pegol",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Fun interactive congratulation animation with hearts using curses.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pegol-0.2.0.tar.gz",
-  "download_time": "2025-09-05T19:55:42.570967",
+  "download_filename": "pegol-0.3.0.tar.gz",
+  "download_time": "2025-09-06T03:20:51.889194",
   "package_url": "https://pypi.org/project/pegol/"
 }

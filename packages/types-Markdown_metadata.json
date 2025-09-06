@@ -1,11 +1,11 @@
 {
   "name": "types-Markdown",
-  "version": "3.8.0.20250809",
+  "version": "3.9.0.20250906",
   "summary": "Typing stubs for Markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_markdown-3.8.0.20250809.tar.gz",
-  "download_time": "2025-09-06T02:46:18.435811",
+  "download_filename": "types_markdown-3.9.0.20250906.tar.gz",
+  "download_time": "2025-09-06T03:21:08.206104",
   "package_url": "https://pypi.org/project/types-Markdown/"
 }

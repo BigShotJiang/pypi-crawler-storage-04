@@ -1,0 +1,11 @@
+{
+  "name": "fast-plate-ocr",
+  "version": "1.0.2",
+  "summary": "Fast & Lightweight OCR for vehicle license plates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_plate_ocr-1.0.2.tar.gz",
+  "download_time": "2025-09-06T03:20:55.705843",
+  "package_url": "https://pypi.org/project/fast-plate-ocr/"
+}

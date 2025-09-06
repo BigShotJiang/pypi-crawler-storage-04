@@ -1,11 +1,11 @@
 {
   "name": "passagemath-graphs",
-  "version": "10.6.15",
+  "version": "10.6.16",
   "summary": "passagemath: Graphs, posets, hypergraphs, designs, abstract complexes, combinatorial polyhedra, abelian sandpiles, quivers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_graphs-10.6.15-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-09-04T10:24:40.940910",
+  "download_filename": "passagemath_graphs-10.6.16-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-09-06T03:20:42.969554",
   "package_url": "https://pypi.org/project/passagemath-graphs/"
 }
