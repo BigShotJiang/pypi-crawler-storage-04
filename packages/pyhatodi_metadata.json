@@ -1,11 +1,11 @@
 {
   "name": "pyhatodi",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Toolkit for developers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhatodi-0.1.6.tar.gz",
-  "download_time": "2025-09-06T16:45:26.810799",
+  "download_filename": "pyhatodi-0.1.8.tar.gz",
+  "download_time": "2025-09-06T17:18:35.087261",
   "package_url": "https://pypi.org/project/pyhatodi/"
 }

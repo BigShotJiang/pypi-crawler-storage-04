@@ -1,0 +1,11 @@
+{
+  "name": "rust-tokenizer-pyo3",
+  "version": "0.1.0",
+  "summary": "Fast Unicode-aware tokenizer implemented in Rust (PyO3 + maturin).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rust_tokenizer_pyo3-0.1.0-cp311-cp311-win_amd64.whl",
+  "download_time": "2025-09-06T17:18:32.516117",
+  "package_url": "https://pypi.org/project/rust-tokenizer-pyo3/"
+}

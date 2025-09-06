@@ -1,11 +1,11 @@
 {
   "name": "pygamejr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Simple PyGame extension for education.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygamejr-0.0.2.tar.gz",
-  "download_time": "2025-09-03T15:43:17.060892",
+  "download_filename": "pygamejr-0.0.3.tar.gz",
+  "download_time": "2025-09-06T17:18:33.035626",
   "package_url": "https://pypi.org/project/pygamejr/"
 }

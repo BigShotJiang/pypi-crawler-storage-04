@@ -1,0 +1,11 @@
+{
+  "name": "whatsfly-labfox",
+  "version": "0.3.2",
+  "summary": "Whatsapp Web wrapper in Python, without webdrivers",
+  "author": "LabFox",
+  "license": null,
+  "home_page": "https://whatsfly.labfox.fr",
+  "download_filename": "whatsfly_labfox-0.3.2.tar.gz",
+  "download_time": "2025-09-06T17:18:18.615698",
+  "package_url": "https://pypi.org/project/whatsfly-labfox/"
+}

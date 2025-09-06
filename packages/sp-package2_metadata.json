@@ -1,0 +1,11 @@
+{
+  "name": "sp-package2",
+  "version": "0.1.1",
+  "summary": "A simple example package with basic calculation of sphere.",
+  "author": "Yok",
+  "license": null,
+  "home_page": "https://github.com/paytai/sp_package",
+  "download_filename": "sp_package2-0.1.1.tar.gz",
+  "download_time": "2025-09-06T17:18:48.318226",
+  "package_url": "https://pypi.org/project/sp-package2/"
+}
