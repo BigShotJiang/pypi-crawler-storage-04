@@ -1,11 +1,11 @@
 {
   "name": "robyn",
-  "version": "0.72.1",
+  "version": "0.72.2",
   "summary": "A Super Fast Async Python Web Framework with a Rust runtime.",
   "author": "Sanskar Jethi <sansyrox@gmail.com>",
   "license": "BSD License (BSD)",
   "home_page": "https://github.com/sparckles/robyn",
-  "download_filename": "robyn-0.72.1-cp310-cp310-macosx_10_7_x86_64.whl",
-  "download_time": "2025-09-03T06:51:31.944174",
+  "download_filename": "robyn-0.72.2-cp310-cp310-macosx_10_7_x86_64.whl",
+  "download_time": "2025-09-06T04:46:09.407970",
   "package_url": "https://pypi.org/project/robyn/"
 }
