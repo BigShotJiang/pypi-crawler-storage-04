@@ -1,11 +1,11 @@
 {
   "name": "starhtml",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Modern HTML generation in Python, inspired by FastHTML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "starhtml-0.1.18.tar.gz",
-  "download_time": "2025-09-06T17:43:36.133870",
+  "download_filename": "starhtml-0.1.19.tar.gz",
+  "download_time": "2025-09-06T19:41:59.346316",
   "package_url": "https://pypi.org/project/starhtml/"
 }

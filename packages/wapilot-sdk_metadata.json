@@ -1,0 +1,11 @@
+{
+  "name": "wapilot-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for WAPILOT.io - WhatsApp Business API Integration",
+  "author": "WAPILOT",
+  "license": null,
+  "home_page": "https://wapilot.io",
+  "download_filename": "wapilot_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-06T19:42:00.494228",
+  "package_url": "https://pypi.org/project/wapilot-sdk/"
+}

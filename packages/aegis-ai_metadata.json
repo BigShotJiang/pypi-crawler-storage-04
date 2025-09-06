@@ -1,11 +1,11 @@
 {
   "name": "aegis-ai",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Perform security analysis on security artifacts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_ai-0.2.6.tar.gz",
-  "download_time": "2025-09-06T19:17:40.445417",
+  "download_filename": "aegis_ai-0.2.7.tar.gz",
+  "download_time": "2025-09-06T19:42:04.700511",
   "package_url": "https://pypi.org/project/aegis-ai/"
 }
