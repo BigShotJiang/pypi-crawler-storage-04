@@ -1,11 +1,11 @@
 {
   "name": "pykatex",
-  "version": "0.0.1",
-  "summary": "Reserved package name - work in progress",
+  "version": "0.0.8",
+  "summary": "A Python wrapper for the [KaTeX](https://katex.org/) library, providing fast server-side rendering of mathematical expressions.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "pykatex-0.0.1.tar.gz",
-  "download_time": "2025-09-02T14:57:37.311719",
+  "download_filename": "pykatex-0.0.8.tar.gz",
+  "download_time": "2025-09-06T09:41:28.013213",
   "package_url": "https://pypi.org/project/pykatex/"
 }

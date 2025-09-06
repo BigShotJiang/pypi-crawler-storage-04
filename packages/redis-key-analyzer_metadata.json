@@ -1,0 +1,11 @@
+{
+  "name": "redis-key-analyzer",
+  "version": "0.1.6",
+  "summary": "Redis Key Analyzer is a CLI tool for scanning and analyzing Redis database keys, providing insights into their distribution, type, memory usage, and TTL.",
+  "author": "Ryan Kang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis-key-analyzer-0.1.6.tar.gz",
+  "download_time": "2025-09-06T09:41:22.929942",
+  "package_url": "https://pypi.org/project/redis-key-analyzer/"
+}

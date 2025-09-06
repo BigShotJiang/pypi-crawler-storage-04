@@ -1,11 +1,11 @@
 {
   "name": "neverlib",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A successful sign for python setup",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neverlib-0.2.5.tar.gz",
-  "download_time": "2025-09-06T08:55:52.406904",
+  "download_filename": "neverlib-0.2.6.tar.gz",
+  "download_time": "2025-09-06T09:41:26.070124",
   "package_url": "https://pypi.org/project/neverlib/"
 }

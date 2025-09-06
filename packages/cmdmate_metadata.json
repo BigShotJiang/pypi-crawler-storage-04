@@ -1,11 +1,11 @@
 {
   "name": "cmdmate",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "cmdmate : Your AI powered terminal assistant 🚀",
   "author": "Chinmay Rao",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmdmate-0.1.4.tar.gz",
-  "download_time": "2025-09-01T16:26:45.096160",
+  "download_filename": "cmdmate-0.1.5.tar.gz",
+  "download_time": "2025-09-06T09:41:30.601059",
   "package_url": "https://pypi.org/project/cmdmate/"
 }

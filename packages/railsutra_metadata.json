@@ -1,11 +1,11 @@
 {
   "name": "railsutra",
-  "version": "0.2.5",
-  "summary": "Pandas integrated Indian Railways Information Provider",
+  "version": "0.2.8",
+  "summary": "Your gateway to real-time Indian Railways data powered by NTES.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "railsutra-0.2.5.tar.gz",
-  "download_time": "2025-09-06T08:26:35.041622",
+  "download_filename": "railsutra-0.2.8.tar.gz",
+  "download_time": "2025-09-06T09:41:15.930408",
   "package_url": "https://pypi.org/project/railsutra/"
 }
