@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-06T04:46:45.457731
+- **Download Time**: 2025-09-06T04:58:40.476494
 - **Total Packages**: 72
-- **Total Size**: 2.29 MB
+- **Total Size**: 1.02 MB
 
 ## Packages List
+- jder-fastapi
+- scopinator
+- ji-async-http-utils
+- sysstra
+- authentik-client
+- letta-client
 - svc-infra
 - pydantic-scrapeable-api-model
 - iamdata
@@ -14,7 +20,6 @@
 - qaznltk
 - anonupload
 - cicore
-- authentik-client
 - wayne-trade
 - robyn
 - ksrpc
@@ -73,8 +78,3 @@
 - modern-treasury
 - lionagi
 - agentscope
-- xtop
-- uainepydat
-- teraflopai-data
-- PyBackup-Tool
-- scopinator
