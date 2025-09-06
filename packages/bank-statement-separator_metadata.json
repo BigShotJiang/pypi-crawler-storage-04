@@ -1,11 +1,11 @@
 {
   "name": "bank-statement-separator",
-  "version": "2.1.4",
+  "version": "3.0.2",
   "summary": "AI-powered tool for separating multi-statement PDF files using LangChain and LangGraph",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bank_statement_separator-2.1.4.tar.gz",
-  "download_time": "2025-09-06T16:45:36.678416",
+  "download_filename": "bank_statement_separator-3.0.2.tar.gz",
+  "download_time": "2025-09-06T17:55:42.718269",
   "package_url": "https://pypi.org/project/bank-statement-separator/"
 }

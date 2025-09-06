@@ -1,0 +1,11 @@
+{
+  "name": "mcpypi",
+  "version": "1.0.0",
+  "summary": "🎤 mcpypi - Your Master of Ceremonies for PyPI! The ultimate PyPI package intelligence platform through Model Context Protocol (MCP)",
+  "author": "Hal",
+  "license": "MIT",
+  "home_page": "https://github.com/loonghao/pypi-query-mcp-server",
+  "download_filename": "mcpypi-1.0.0.tar.gz",
+  "download_time": "2025-09-06T17:55:45.104453",
+  "package_url": "https://pypi.org/project/mcpypi/"
+}
