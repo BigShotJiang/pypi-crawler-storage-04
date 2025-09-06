@@ -1,0 +1,11 @@
+{
+  "name": "pallma-guard",
+  "version": "0.0.3",
+  "summary": "The Security Observability Layer for AI Agents",
+  "author": "Dionysis Varelas (@dvarelas), Pavlos Mitsoulis (@pm3310)",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "pallma_guard-0.0.3.tar.gz",
+  "download_time": "2025-09-06T18:57:49.954087",
+  "package_url": "https://pypi.org/project/pallma-guard/"
+}

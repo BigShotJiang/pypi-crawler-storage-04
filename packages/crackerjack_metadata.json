@@ -1,11 +1,11 @@
 {
   "name": "crackerjack",
-  "version": "0.31.16",
+  "version": "0.31.17",
   "summary": "Opinionated Python project management tool",
   "author": null,
   "license": "BSD-3-CLAUSE",
   "home_page": null,
-  "download_filename": "crackerjack-0.31.16.tar.gz",
-  "download_time": "2025-09-06T18:46:38.497631",
+  "download_filename": "crackerjack-0.31.17.tar.gz",
+  "download_time": "2025-09-06T18:57:40.953419",
   "package_url": "https://pypi.org/project/crackerjack/"
 }
