@@ -1,0 +1,11 @@
+{
+  "name": "opengine2",
+  "version": "2.0.1",
+  "summary": "A text box that allows easier input of many characters in a structured way.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opengine2-2.0.1.tar.gz",
+  "download_time": "2025-09-06T10:21:59.031289",
+  "package_url": "https://pypi.org/project/opengine2/"
+}

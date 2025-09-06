@@ -1,0 +1,11 @@
+{
+  "name": "isaadvmutility",
+  "version": "1.3.3",
+  "summary": "Utilities for ADV Microservices (data stores, MS Graph, Splunk, Qualys, RabbitMQ, Azure Blob, Postgres)",
+  "author": "Declerus Yves Kerbens",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isaadvmutility-1.3.3.tar.gz",
+  "download_time": "2025-09-06T10:21:58.488194",
+  "package_url": "https://pypi.org/project/isaadvmutility/"
+}

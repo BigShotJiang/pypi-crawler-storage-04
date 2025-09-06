@@ -1,11 +1,11 @@
 {
   "name": "envcfglib",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Configuration from environment variables",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envcfglib-0.1.4.tar.gz",
-  "download_time": "2025-09-05T18:30:21.669513",
+  "download_filename": "envcfglib-0.1.5.tar.gz",
+  "download_time": "2025-09-06T10:21:57.373246",
   "package_url": "https://pypi.org/project/envcfglib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aps-common-toolkit",
-  "version": "1.4.1",
+  "version": "2.1.0",
   "summary": "Common services and utilities used across projects",
   "author": "Abhay Pratap Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "aps_common_toolkit-1.4.1.tar.gz",
-  "download_time": "2025-09-03T13:18:13.837120",
+  "download_filename": "aps_common_toolkit-2.1.0.tar.gz",
+  "download_time": "2025-09-06T10:22:05.096122",
   "package_url": "https://pypi.org/project/aps-common-toolkit/"
 }

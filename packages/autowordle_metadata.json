@@ -1,0 +1,11 @@
+{
+  "name": "autowordle",
+  "version": "2.2.5.post1",
+  "summary": "Automatic Wordle collector",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autowordle-2.2.5.post1.tar.gz",
+  "download_time": "2025-09-06T10:22:00.210646",
+  "package_url": "https://pypi.org/project/autowordle/"
+}
