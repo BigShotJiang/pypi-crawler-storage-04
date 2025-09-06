@@ -1,0 +1,11 @@
+{
+  "name": "pgeng",
+  "version": "1.8.5",
+  "summary": "Useful functions and classes for PyGame",
+  "author": "Qamynn",
+  "license": "MIT",
+  "home_page": "https://github.com/Qamynn/pgeng",
+  "download_filename": "pgeng-1.8.5.tar.gz",
+  "download_time": "2025-09-06T14:56:44.761287",
+  "package_url": "https://pypi.org/project/pgeng/"
+}

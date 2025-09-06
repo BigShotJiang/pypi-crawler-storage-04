@@ -1,0 +1,11 @@
+{
+  "name": "zhlid",
+  "version": "0.1.0",
+  "summary": "ZHLID: Fine-grained Chinese Language Identification Package",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zhlid-0.1.0.tar.gz",
+  "download_time": "2025-09-06T14:56:53.468522",
+  "package_url": "https://pypi.org/project/zhlid/"
+}
