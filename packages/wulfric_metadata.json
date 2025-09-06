@@ -1,11 +1,11 @@
 {
   "name": "wulfric",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Cell, Atoms, K-path.",
   "author": null,
   "license": "GPL-3.0 license",
   "home_page": null,
-  "download_filename": "wulfric-0.6.0.tar.gz",
-  "download_time": "2025-08-29T18:28:05.917637",
+  "download_filename": "wulfric-0.6.2.tar.gz",
+  "download_time": "2025-09-06T20:23:48.208066",
   "package_url": "https://pypi.org/project/wulfric/"
 }

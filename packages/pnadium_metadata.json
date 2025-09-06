@@ -1,0 +1,11 @@
+{
+  "name": "pnadium",
+  "version": "0.24",
+  "summary": "Pacote para download e processamento dos microdados da PNAD Contínua do IBGE.",
+  "author": "Gustavo G. Ximenez",
+  "license": null,
+  "home_page": "https://github.com/ggximenez/pnadium",
+  "download_filename": "pnadium-0.24.tar.gz",
+  "download_time": "2025-09-06T20:23:42.894736",
+  "package_url": "https://pypi.org/project/pnadium/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "taplite",
+  "version": "0.1.0",
+  "summary": "A lightweight traffic assignment and simulation engine for networks encoded in GMNS",
+  "author": "Dr. Xuesong Zhou, Dr. Peiheng Li",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/asu-trans-ai-lab/TAPLite",
+  "download_filename": "taplite-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-06T20:23:34.176071",
+  "package_url": "https://pypi.org/project/taplite/"
+}

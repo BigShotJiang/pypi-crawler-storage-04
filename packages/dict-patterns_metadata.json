@@ -1,11 +1,11 @@
 {
   "name": "dict-patterns",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A template engine for dictionary data – useful for tests!",
   "author": "Antonio Feregrino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dict_patterns-0.2.1.tar.gz",
-  "download_time": "2025-08-30T18:27:47.421059",
+  "download_filename": "dict_patterns-0.2.2.tar.gz",
+  "download_time": "2025-09-06T20:23:49.401899",
   "package_url": "https://pypi.org/project/dict-patterns/"
 }

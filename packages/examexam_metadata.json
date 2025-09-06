@@ -1,0 +1,11 @@
+{
+  "name": "examexam",
+  "version": "0.1.5",
+  "summary": "Let LLM generate tests, validate test, and then you take them. Useful for certs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "examexam-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-06T20:23:38.241838",
+  "package_url": "https://pypi.org/project/examexam/"
+}
