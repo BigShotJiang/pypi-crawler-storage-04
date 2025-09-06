@@ -1,11 +1,11 @@
 {
   "name": "pdftotxtconverter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdftotxtconverter-0.1.0-cp313-cp313-win_amd64.whl",
-  "download_time": "2025-09-06T18:28:49.858465",
+  "download_filename": "pdftotxtconverter-0.1.1-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-09-06T18:46:35.307912",
   "package_url": "https://pypi.org/project/pdftotxtconverter/"
 }

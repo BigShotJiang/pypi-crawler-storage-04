@@ -1,0 +1,11 @@
+{
+  "name": "codescribe-ai",
+  "version": "0.1.7",
+  "summary": "AI-powered README generator for any codebase",
+  "author": "Mahesh Yannawar",
+  "license": null,
+  "home_page": "https://github.com/Mahi1609/codescribe_ai",
+  "download_filename": "codescribe_ai-0.1.7.tar.gz",
+  "download_time": "2025-09-06T18:46:35.842741",
+  "package_url": "https://pypi.org/project/codescribe-ai/"
+}

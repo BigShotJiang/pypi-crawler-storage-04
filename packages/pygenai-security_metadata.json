@@ -1,11 +1,11 @@
 {
   "name": "pygenai-security",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Comprehensive Python and GenAI security scanning framework",
   "author": "RiteshGenAI",
   "license": "MIT",
   "home_page": "https://github.com/RiteshGenAI/pygenai-security",
-  "download_filename": "pygenai_security-0.0.3.tar.gz",
-  "download_time": "2025-09-06T18:28:43.422714",
+  "download_filename": "pygenai_security-0.0.4.tar.gz",
+  "download_time": "2025-09-06T18:46:36.355132",
   "package_url": "https://pypi.org/project/pygenai-security/"
 }
