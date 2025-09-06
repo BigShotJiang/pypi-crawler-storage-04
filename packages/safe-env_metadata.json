@@ -1,0 +1,11 @@
+{
+  "name": "safe-env",
+  "version": "0.1.5",
+  "summary": "Safe Environment Manager allows to manage secrets in environment variables in a safe way.",
+  "author": "Antons Mislevics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_env-0.1.5.tar.gz",
+  "download_time": "2025-09-06T09:55:25.510317",
+  "package_url": "https://pypi.org/project/safe-env/"
+}

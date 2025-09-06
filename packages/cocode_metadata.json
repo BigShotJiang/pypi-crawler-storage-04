@@ -1,11 +1,11 @@
 {
   "name": "cocode",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Cocode is the friend of your code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cocode-0.1.3.tar.gz",
-  "download_time": "2025-09-05T22:54:51.196981",
+  "download_filename": "cocode-0.2.0.tar.gz",
+  "download_time": "2025-09-06T09:55:28.350222",
   "package_url": "https://pypi.org/project/cocode/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "e-o-easy-stuff",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Easy tools",
   "author": "Gideon",
   "license": null,
   "home_page": null,
-  "download_filename": "e_o_easy_stuff-5.0.0.tar.gz",
-  "download_time": "2025-09-06T08:26:17.093952",
+  "download_filename": "e_o_easy_stuff-5.0.1.tar.gz",
+  "download_time": "2025-09-06T09:55:33.844678",
   "package_url": "https://pypi.org/project/e-o-easy-stuff/"
 }

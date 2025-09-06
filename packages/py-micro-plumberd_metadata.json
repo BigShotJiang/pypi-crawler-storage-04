@@ -1,11 +1,11 @@
 {
   "name": "py-micro-plumberd",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A lightweight Python library for writing events to EventStore, compatible with .NET micro-plumberd",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "py_micro_plumberd-0.1.6.tar.gz",
-  "download_time": "2025-09-06T07:21:09.119742",
+  "download_filename": "py_micro_plumberd-0.1.8.tar.gz",
+  "download_time": "2025-09-06T09:55:34.386954",
   "package_url": "https://pypi.org/project/py-micro-plumberd/"
 }
