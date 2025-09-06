@@ -1,11 +1,11 @@
 {
   "name": "alphabuilder-signal",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alphabuilder_signal-0.2.1-py3-none-any.whl",
-  "download_time": "2025-09-06T07:55:24.627737",
+  "download_filename": "alphabuilder_signal-0.2.3.tar.gz",
+  "download_time": "2025-09-06T08:26:34.025149",
   "package_url": "https://pypi.org/project/alphabuilder-signal/"
 }

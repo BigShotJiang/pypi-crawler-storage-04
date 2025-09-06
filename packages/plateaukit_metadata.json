@@ -1,0 +1,11 @@
+{
+  "name": "plateaukit",
+  "version": "0.18.2",
+  "summary": "Python library and utility for 3D city models by MLIT Project PLATEAU",
+  "author": "Kentaro Ozeki",
+  "license": "MIT",
+  "home_page": "https://ozekik.github.io/plateaukit/",
+  "download_filename": "plateaukit-0.18.2.tar.gz",
+  "download_time": "2025-09-06T08:26:21.688616",
+  "package_url": "https://pypi.org/project/plateaukit/"
+}

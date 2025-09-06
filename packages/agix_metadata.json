@@ -1,0 +1,11 @@
+{
+  "name": "agix",
+  "version": "1.4.0",
+  "summary": "Experimental AGI framework with neuro-symbolic reasoning, evolutionary agents and plastic learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agix-1.4.0.tar.gz",
+  "download_time": "2025-09-06T08:26:23.226979",
+  "package_url": "https://pypi.org/project/agix/"
+}

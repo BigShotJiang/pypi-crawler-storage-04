@@ -1,11 +1,11 @@
 {
   "name": "goosebit",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "A simplistic, opinionated remote update server implementing hawkBit™'s DDI API",
   "author": "Brett Rowan",
   "license": null,
   "home_page": null,
-  "download_filename": "goosebit-0.2.8.tar.gz",
-  "download_time": "2025-09-01T18:49:57.431416",
+  "download_filename": "goosebit-0.2.9.tar.gz",
+  "download_time": "2025-09-06T08:26:37.645630",
   "package_url": "https://pypi.org/project/goosebit/"
 }

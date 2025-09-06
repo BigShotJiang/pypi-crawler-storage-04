@@ -1,0 +1,11 @@
+{
+  "name": "python-a2a",
+  "version": "0.5.10",
+  "summary": "A comprehensive Python library for Google's Agent-to-Agent (A2A) protocol",
+  "author": "Manoj Desai",
+  "license": "MIT",
+  "home_page": "https://github.com/themanojdesai/python-a2a",
+  "download_filename": "python_a2a-0.5.10.tar.gz",
+  "download_time": "2025-09-06T08:26:30.929670",
+  "package_url": "https://pypi.org/project/python-a2a/"
+}

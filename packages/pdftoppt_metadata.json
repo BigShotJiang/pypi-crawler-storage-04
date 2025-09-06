@@ -1,0 +1,11 @@
+{
+  "name": "pdftoppt",
+  "version": "1.0.0",
+  "summary": "Advanced PDF to PowerPoint converter with high fidelity",
+  "author": "Amit Panda",
+  "license": null,
+  "home_page": "https://github.com/amitpanda007/pdftoppt",
+  "download_filename": "pdftoppt-1.0.0.tar.gz",
+  "download_time": "2025-09-06T08:26:29.905142",
+  "package_url": "https://pypi.org/project/pdftoppt/"
+}
