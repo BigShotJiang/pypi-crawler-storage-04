@@ -1,11 +1,11 @@
 {
   "name": "warpcoder",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Universal BDD Project Generator for Claude Code",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "warpcoder-0.4.2.tar.gz",
-  "download_time": "2025-09-06T06:49:05.786202",
+  "download_filename": "warpcoder-0.4.3.tar.gz",
+  "download_time": "2025-09-06T07:21:00.170565",
   "package_url": "https://pypi.org/project/warpcoder/"
 }

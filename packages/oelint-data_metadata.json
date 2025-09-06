@@ -1,11 +1,11 @@
 {
   "name": "oelint-data",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "summary": "Data for oelint-adv",
   "author": "Konrad Weihmann",
   "license": null,
   "home_page": "https://github.com/priv-kweihmann/oelint-data",
-  "download_filename": "oelint_data-1.0.27.tar.gz",
-  "download_time": "2025-09-04T04:26:33.362400",
+  "download_filename": "oelint_data-1.0.28.tar.gz",
+  "download_time": "2025-09-06T07:21:12.750966",
   "package_url": "https://pypi.org/project/oelint-data/"
 }

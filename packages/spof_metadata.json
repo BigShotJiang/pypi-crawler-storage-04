@@ -1,11 +1,11 @@
 {
   "name": "spof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SPOF (Structured Prompt Output Framework) is an open-source Python framework for designing structured, maintainable, and type-safe prompts for Large Language Models (LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spof-0.1.0.tar.gz",
-  "download_time": "2025-09-06T06:48:59.026071",
+  "download_filename": "spof-0.1.1.tar.gz",
+  "download_time": "2025-09-06T07:21:08.601836",
   "package_url": "https://pypi.org/project/spof/"
 }
