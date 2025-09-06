@@ -1,0 +1,11 @@
+{
+  "name": "alien-ai-assistant",
+  "version": "1.0.0",
+  "summary": "Advanced AI assistant for developers and content creators",
+  "author": "Alien Technologies Inc",
+  "license": "Proprietary",
+  "home_page": "https://github.com/alien-tech/alien-ai-assistant",
+  "download_filename": "alien_ai_assistant-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-06T14:41:00.700783",
+  "package_url": "https://pypi.org/project/alien-ai-assistant/"
+}

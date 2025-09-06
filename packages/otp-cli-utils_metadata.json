@@ -1,0 +1,11 @@
+{
+  "name": "otp-cli-utils",
+  "version": "1.2.0",
+  "summary": "A Python CLI tool to validate OTP codes",
+  "author": "Dilanka Rathnasiri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "otp_cli_utils-1.2.0.tar.gz",
+  "download_time": "2025-09-06T14:41:08.923087",
+  "package_url": "https://pypi.org/project/otp-cli-utils/"
+}

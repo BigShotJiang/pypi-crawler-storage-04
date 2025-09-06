@@ -1,0 +1,11 @@
+{
+  "name": "alien-cyber-security",
+  "version": "1.0.0",
+  "summary": "Cybersecurity tools and vulnerability scanners",
+  "author": "Alien Technologies Inc",
+  "license": "Proprietary",
+  "home_page": "https://github.com/alien-tech/alien-cyber-security",
+  "download_filename": "alien_cyber_security-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-06T14:40:59.677465",
+  "package_url": "https://pypi.org/project/alien-cyber-security/"
+}

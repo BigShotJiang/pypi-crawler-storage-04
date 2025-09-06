@@ -1,11 +1,11 @@
 {
   "name": "afnio",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Afnio Python library and Tellurio Studio CLI tool",
   "author": null,
   "license": "License to be determined soon. Please contact author before using.\n        ",
   "home_page": null,
-  "download_filename": "afnio-0.2.4.tar.gz",
-  "download_time": "2025-09-02T09:25:35.855204",
+  "download_filename": "afnio-0.2.5.tar.gz",
+  "download_time": "2025-09-06T14:40:55.057442",
   "package_url": "https://pypi.org/project/afnio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "zimagi",
-  "version": "0.14.15",
+  "version": "0.14.16",
   "summary": "Zimagi CLI and API Client",
   "author": "Adrian Webb",
   "license": "Apache 2.0",
   "home_page": "https://github.com/zimagi/zimagi",
-  "download_filename": "zimagi-0.14.15.tar.gz",
-  "download_time": "2025-09-06T12:39:46.002012",
+  "download_filename": "zimagi-0.14.16.tar.gz",
+  "download_time": "2025-09-06T14:41:09.438123",
   "package_url": "https://pypi.org/project/zimagi/"
 }

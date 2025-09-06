@@ -1,0 +1,11 @@
+{
+  "name": "securaops-mcp-mpl",
+  "version": "0.1.0",
+  "summary": "A marketplace for MCP (Model Context Protocol) connectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "securaops_mcp_mpl-0.1.0.tar.gz",
+  "download_time": "2025-09-06T14:41:10.475288",
+  "package_url": "https://pypi.org/project/securaops-mcp-mpl/"
+}

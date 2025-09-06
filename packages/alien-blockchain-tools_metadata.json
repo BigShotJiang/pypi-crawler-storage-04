@@ -1,0 +1,11 @@
+{
+  "name": "alien-blockchain-tools",
+  "version": "1.0.0",
+  "summary": "Blockchain and cryptocurrency development tools",
+  "author": "Alien Technologies Inc",
+  "license": "Proprietary",
+  "home_page": "https://github.com/alien-tech/alien-blockchain-tools",
+  "download_filename": "alien_blockchain_tools-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-06T14:41:00.189583",
+  "package_url": "https://pypi.org/project/alien-blockchain-tools/"
+}
