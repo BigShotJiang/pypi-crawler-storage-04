@@ -1,0 +1,11 @@
+{
+  "name": "tablur",
+  "version": "1.0.0",
+  "summary": "A simple callable library for creating formatted tables with box-drawing characters",
+  "author": "Duro",
+  "license": null,
+  "home_page": "https://github.com/durocodes/tablur",
+  "download_filename": "tablur-1.0.0.tar.gz",
+  "download_time": "2025-09-06T05:55:28.342499",
+  "package_url": "https://pypi.org/project/tablur/"
+}
