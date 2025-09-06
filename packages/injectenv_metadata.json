@@ -1,11 +1,11 @@
 {
   "name": "injectenv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Inject env vars into a spawned process.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "injectenv-0.1.1.tar.gz",
-  "download_time": "2025-09-06T12:39:59.716756",
+  "download_filename": "injectenv-0.1.2.tar.gz",
+  "download_time": "2025-09-06T20:42:21.609508",
   "package_url": "https://pypi.org/project/injectenv/"
 }

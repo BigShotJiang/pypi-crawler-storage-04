@@ -1,0 +1,11 @@
+{
+  "name": "netbox-floorplan-plugin",
+  "version": "0.8.0",
+  "summary": "Netbox Plugin to support graphical floorplans",
+  "author": "Tony Nealon",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/netbox-community/netbox-floorplan-plugin.git",
+  "download_filename": "netbox_floorplan_plugin-0.8.0.tar.gz",
+  "download_time": "2025-09-06T20:42:26.858085",
+  "package_url": "https://pypi.org/project/netbox-floorplan-plugin/"
+}
