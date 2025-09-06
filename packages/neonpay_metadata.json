@@ -1,0 +1,11 @@
+{
+  "name": "neonpay",
+  "version": "2.5.0",
+  "summary": "Modern Telegram Stars payment library with multi-bot support and enhanced security",
+  "author": "Abbas Sultanov",
+  "license": "MIT",
+  "home_page": "https://github.com/Abbasxan/neonpay",
+  "download_filename": "neonpay-2.5.0.tar.gz",
+  "download_time": "2025-09-06T15:21:55.355399",
+  "package_url": "https://pypi.org/project/neonpay/"
+}

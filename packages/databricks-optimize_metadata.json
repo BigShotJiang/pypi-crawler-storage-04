@@ -1,11 +1,11 @@
 {
   "name": "databricks-optimize",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Databricks utility to identify which column to use for z-ordering and partitioning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "databricks_optimize-0.2.1.tar.gz",
-  "download_time": "2025-09-06T14:56:49.681797",
+  "download_filename": "databricks_optimize-0.2.2.tar.gz",
+  "download_time": "2025-09-06T15:21:51.324354",
   "package_url": "https://pypi.org/project/databricks-optimize/"
 }
