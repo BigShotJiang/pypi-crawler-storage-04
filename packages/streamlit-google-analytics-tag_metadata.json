@@ -1,11 +1,11 @@
 {
   "name": "streamlit-google-analytics-tag",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "Streamlit component that allows you to integrate Google Analytics by tag and send events to Google Analytics",
   "author": "motis10",
   "license": null,
   "home_page": "https://github.com/motistein/streamlit-gtag",
-  "download_filename": "streamlit_google_analytics_tag-1.0.tar.gz",
-  "download_time": "2025-09-06T20:42:17.804962",
+  "download_filename": "streamlit_google_analytics_tag-1.1.tar.gz",
+  "download_time": "2025-09-06T20:55:40.106516",
   "package_url": "https://pypi.org/project/streamlit-google-analytics-tag/"
 }

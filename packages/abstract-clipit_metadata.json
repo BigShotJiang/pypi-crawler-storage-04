@@ -1,11 +1,11 @@
 {
   "name": "abstract-clipit",
-  "version": "0.0.1.53",
-  "summary": null,
+  "version": "0.0.1.54",
+  "summary": "Built using PyQt6, it provides a drag-and-drop interface, a file system browser, and a logging console, enabling users to easily copy file contents to the clipboard, parse Python files for functions and imports, and manage file extensions and directories dynamically.",
   "author": "putkoff",
   "license": null,
-  "home_page": null,
-  "download_filename": "abstract_clipit-0.0.1.53.tar.gz",
-  "download_time": "2025-09-02T04:33:05.638611",
+  "home_page": "https://github.com/AbstractEndeavors/abstract_clipit",
+  "download_filename": "abstract_clipit-0.0.1.54.tar.gz",
+  "download_time": "2025-09-06T20:55:42.945657",
   "package_url": "https://pypi.org/project/abstract-clipit/"
 }
