@@ -1,0 +1,11 @@
+{
+  "name": "generic-lang",
+  "version": "2.1.0",
+  "summary": "A Lox based programming language",
+  "author": "Jan-Eric <janericnitschke@gmail.com",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "generic_lang-2.1.0.tar.gz",
+  "download_time": "2025-09-06T13:06:30.286713",
+  "package_url": "https://pypi.org/project/generic-lang/"
+}

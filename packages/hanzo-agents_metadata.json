@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-agents",
+  "version": "0.1.1",
+  "summary": "Production-grade AI agent runtime for deterministic, debuggable agent systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_agents-0.1.1.tar.gz",
+  "download_time": "2025-09-06T13:06:29.743795",
+  "package_url": "https://pypi.org/project/hanzo-agents/"
+}
