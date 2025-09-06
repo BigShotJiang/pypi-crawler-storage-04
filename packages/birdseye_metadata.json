@@ -1,0 +1,11 @@
+{
+  "name": "birdseye",
+  "version": "0.10.0",
+  "summary": "Graphical Python debugger which lets you easily view the values of all evaluated expressions",
+  "author": "Alex Hall",
+  "license": "MIT",
+  "home_page": "http://github.com/alexmojaki/birdseye",
+  "download_filename": "birdseye-0.10.0.tar.gz",
+  "download_time": "2025-09-06T15:41:16.882550",
+  "package_url": "https://pypi.org/project/birdseye/"
+}

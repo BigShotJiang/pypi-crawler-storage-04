@@ -1,0 +1,11 @@
+{
+  "name": "which-env",
+  "version": "0.2.1",
+  "summary": "A Python library for intelligent multi-environment deployment strategy management with automatic runtime-based environment detection.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "which_env-0.2.1.tar.gz",
+  "download_time": "2025-09-06T15:41:01.738427",
+  "package_url": "https://pypi.org/project/which-env/"
+}

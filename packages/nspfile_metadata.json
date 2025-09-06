@@ -1,0 +1,11 @@
+{
+  "name": "nspfile",
+  "version": "0.2.0",
+  "summary": "KayPENTAX CSL NSP Audio File Format Reader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nspfile-0.2.0.tar.gz",
+  "download_time": "2025-09-06T15:41:12.726324",
+  "package_url": "https://pypi.org/project/nspfile/"
+}

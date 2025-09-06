@@ -1,0 +1,11 @@
+{
+  "name": "fixedwidthfile",
+  "version": "0.83",
+  "summary": "A package defining functions that assists with managing the data processing for fixed width file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fixedwidthfile-0.83.tar.gz",
+  "download_time": "2025-09-06T15:41:05.902829",
+  "package_url": "https://pypi.org/project/fixedwidthfile/"
+}

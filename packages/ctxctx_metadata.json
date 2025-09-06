@@ -1,0 +1,11 @@
+{
+  "name": "ctxctx",
+  "version": "0.3.10",
+  "summary": "Intelligently select, format, and present relevant project files and directory structure as context for LLMs.",
+  "author": "Toomes Gud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctxctx-0.3.10.tar.gz",
+  "download_time": "2025-09-06T15:41:18.976635",
+  "package_url": "https://pypi.org/project/ctxctx/"
+}

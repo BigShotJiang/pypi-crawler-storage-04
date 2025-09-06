@@ -1,0 +1,11 @@
+{
+  "name": "termux-openai",
+  "version": "1.0.0",
+  "summary": "OpenAI Python client fork for Termux (no Rust/jiter required)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "termux_openai-1.0.0.tar.gz",
+  "download_time": "2025-09-06T15:41:15.314750",
+  "package_url": "https://pypi.org/project/termux-openai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vezor-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Bridge Python SDK da Vezor",
   "author": "Breno Leone",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/vezor-group/vezor_sdk",
-  "download_filename": "vezor_sdk-0.1.1.tar.gz",
-  "download_time": "2025-09-06T13:06:31.349019",
+  "download_filename": "vezor_sdk-0.1.2.tar.gz",
+  "download_time": "2025-09-06T15:41:11.167517",
   "package_url": "https://pypi.org/project/vezor-sdk/"
 }
