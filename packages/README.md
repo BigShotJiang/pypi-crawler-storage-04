@@ -1,16 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-06T17:33:31.729505
-- **Total Packages**: 87
-- **Total Size**: 12.61 MB
+- **Download Time**: 2025-09-06T17:44:13.971777
+- **Total Packages**: 81
+- **Total Size**: 8.21 MB
 
 ## Packages List
+- shop_system_models
+- mongodesu
+- careful
+- paar-dev
+- pytest-infrahouse
+- playerpizarro05
+- rust-tokenizer-sober
+- starhtml
+- gpusnatcher
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- lambapi
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- nonebot-plugin-okashi
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- print-fa
+- starch
+- MeUtils
+- siftdb
+- authentik-client
+- beekeeper-vector-stores-elasticsearch
+- crackerjack
+- beekeeper-vector-stores-chroma
+- FontCollector
+- rulecc
+- programming-game
+- greeum
+- beekeeper-retrievers-watson-discovery
+- metaclean-gui
 - mergeron
 - kececilayout
 - sparrow-lib
 - beekeeper-readers-watson-discovery
-- playerpizarro05
 - pyscriptbase
 - pyhatodi
 - filebackup
@@ -19,7 +52,6 @@
 - memoryframes
 - beekeeper-readers-docling
 - dars-framework
-- authentik-client
 - nrel-bird
 - minecraft-datapack-language
 - fastjson-db
@@ -27,8 +59,6 @@
 - bacpp
 - beekeeper-embeddings-watsonx
 - docker-image-pin
-- metaclean-gui
-- mongodesu
 - handsoff
 - scoreganizer-client-lib
 - whatsfly-labfox
@@ -36,14 +66,11 @@
 - OpenPartsLibrary
 - pygenai-security
 - cdk-nag
-- lambapi
-- shop_system_models
 - hyperquant
 - unrealon
 - ammaritproj
 - victron-mqtt
 - zerodha-data-fetcher
-- starch
 - osintgraph
 - dbrownell-placeholder
 - pysqlit
@@ -60,36 +87,3 @@
 - nvidia-nat-mysql
 - nvidia-nat-crewai
 - nvidia-nat-agno
-- nvidia-nat-llama-index
-- nvidia-nat-all
-- nvidia-nat-redis
-- nvidia-nat-profiling
-- nvidia-nat-ingestion
-- nvidia-nat-langchain
-- todo-agent
-- foundry-sdk
-- nvidia-nat-zep-cloud
-- mcpydoc
-- nvidia-nat-s3
-- maleo-database
-- nvidia-nat
-- drf-api-logger
-- nvidia-nat-ragaai
-- ammaproj
-- nvidia-nat-weave
-- nvidia-nat-semantic-kernel
-- nvidia-nat-data-flywheel
-- maleo-middlewares
-- nvidia-nat-test
-- sp-package2
-- aiqtoolkit-langchain
-- aiqtoolkit-zep-cloud
-- aiqtoolkit
-- aiqtoolkit-agno
-- aiqtoolkit-mem0ai
-- pipeline-eds
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-llama-index
-- aiqtoolkit-test
-- maleo-exceptions
-- aiqtoolkit-weave

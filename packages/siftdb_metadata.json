@@ -1,0 +1,11 @@
+{
+  "name": "siftdb",
+  "version": "0.2.2",
+  "summary": "Python client library for SiftDB HTTP API",
+  "author": "SiftDB Team",
+  "license": null,
+  "home_page": "https://github.com/siftdb/siftdb",
+  "download_filename": "siftdb-0.2.2.tar.gz",
+  "download_time": "2025-09-06T17:43:44.416813",
+  "package_url": "https://pypi.org/project/siftdb/"
+}
