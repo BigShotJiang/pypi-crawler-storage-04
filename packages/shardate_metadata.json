@@ -1,0 +1,11 @@
+{
+  "name": "shardate",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library for efficiently reading year-month-day partitioned Parquet datasets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shardate-0.1.0.tar.gz",
+  "download_time": "2025-09-06T07:55:35.906156",
+  "package_url": "https://pypi.org/project/shardate/"
+}

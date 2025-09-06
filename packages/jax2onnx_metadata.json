@@ -1,0 +1,11 @@
+{
+  "name": "jax2onnx",
+  "version": "0.8.1",
+  "summary": "export JAX to ONNX",
+  "author": "enpasos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax2onnx-0.8.1.tar.gz",
+  "download_time": "2025-09-06T07:55:27.414037",
+  "package_url": "https://pypi.org/project/jax2onnx/"
+}

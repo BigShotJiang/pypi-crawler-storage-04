@@ -1,0 +1,11 @@
+{
+  "name": "carthooks",
+  "version": "0.1.8",
+  "summary": "Carthooks Python SDK",
+  "author": "Carthooks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "carthooks-0.1.8.tar.gz",
+  "download_time": "2025-09-06T07:55:35.344333",
+  "package_url": "https://pypi.org/project/carthooks/"
+}

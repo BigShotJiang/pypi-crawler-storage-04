@@ -1,11 +1,11 @@
 {
   "name": "museum-security",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "Museum Security Project",
   "author": "Sai Noon Leng Harn",
   "license": null,
   "home_page": "https://github.com/sainoonlh/museum_security",
-  "download_filename": "museum_security-0.2.tar.gz",
-  "download_time": "2025-09-06T07:42:59.490195",
+  "download_filename": "museum_security-0.3.tar.gz",
+  "download_time": "2025-09-06T07:55:32.461524",
   "package_url": "https://pypi.org/project/museum-security/"
 }
