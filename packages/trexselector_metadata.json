@@ -1,0 +1,11 @@
+{
+  "name": "trexselector",
+  "version": "0.6.13",
+  "summary": "T-Rex Selector: High-Dimensional Variable Selection & FDR Control",
+  "author": "Python port by Arnau Vilella",
+  "license": null,
+  "home_page": "https://github.com/ArnauVilella/TRexSelector-python",
+  "download_filename": "trexselector-0.6.13.tar.gz",
+  "download_time": "2025-09-06T19:17:44.644098",
+  "package_url": "https://pypi.org/project/trexselector/"
+}

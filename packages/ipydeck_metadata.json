@@ -1,0 +1,11 @@
+{
+  "name": "ipydeck",
+  "version": "0.4.5",
+  "summary": "Yet another Jupyter widget for deck.gl",
+  "author": "Kentaro Ozeki",
+  "license": "MIT",
+  "home_page": "https://ozekik.github.io/ipydeck/",
+  "download_filename": "ipydeck-0.4.5-py3-none-any.whl",
+  "download_time": "2025-09-06T19:17:29.542562",
+  "package_url": "https://pypi.org/project/ipydeck/"
+}

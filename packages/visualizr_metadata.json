@@ -1,11 +1,11 @@
 {
   "name": "visualizr",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Video Generator part of the Chatacter Backend",
   "author": "Mohamed Hisham Abdelzaher",
   "license": null,
   "home_page": null,
-  "download_filename": "visualizr-0.0.3.tar.gz",
-  "download_time": "2025-08-31T22:41:45.245585",
+  "download_filename": "visualizr-0.0.5.tar.gz",
+  "download_time": "2025-09-06T19:17:32.402696",
   "package_url": "https://pypi.org/project/visualizr/"
 }

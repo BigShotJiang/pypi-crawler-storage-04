@@ -1,11 +1,11 @@
 {
   "name": "eyelet",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Hook orchestration system for AI agents with SQLite logging and powerful analytics",
   "author": "Brian Morin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eyelet-0.3.3.tar.gz",
-  "download_time": "2025-09-06T18:57:41.990155",
+  "download_filename": "eyelet-0.3.4.tar.gz",
+  "download_time": "2025-09-06T19:17:39.337698",
   "package_url": "https://pypi.org/project/eyelet/"
 }

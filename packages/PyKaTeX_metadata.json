@@ -1,0 +1,11 @@
+{
+  "name": "PyKaTeX",
+  "version": "0.1.0",
+  "summary": "A Python wrapper for the KaTeX library, providing fast server-side rendering of mathematical expressions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykatex-0.1.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-09-06T19:17:26.330140",
+  "package_url": "https://pypi.org/project/PyKaTeX/"
+}
