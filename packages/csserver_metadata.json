@@ -1,0 +1,11 @@
+{
+  "name": "csserver",
+  "version": "0.1.0",
+  "summary": "Compass Server - Web server and API infrastructure for Compass Bot",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "csserver-0.1.0.tar.gz",
+  "download_time": "2025-09-06T13:33:41.653732",
+  "package_url": "https://pypi.org/project/csserver/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sparrow-lib",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "A library to augment LLMs with dynamic, trainable routers for efficient fine-tuning.",
   "author": "AmirReza",
   "license": null,
   "home_page": null,
-  "download_filename": "sparrow_lib-1.1.2.tar.gz",
-  "download_time": "2025-09-06T13:06:16.349756",
+  "download_filename": "sparrow_lib-1.1.4.tar.gz",
+  "download_time": "2025-09-06T13:33:52.709844",
   "package_url": "https://pypi.org/project/sparrow-lib/"
 }

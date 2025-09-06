@@ -1,11 +1,11 @@
 {
   "name": "django-unicom",
-  "version": "25.1.24",
+  "version": "25.1.25",
   "summary": "Unified communication layer for Django (Telegram, WhatsApp, Email)",
   "author": "Meena (Menas) Erian",
   "license": null,
   "home_page": "https://github.com/meena-erian/unicom",
-  "download_filename": "django_unicom-25.1.24.tar.gz",
-  "download_time": "2025-09-06T12:39:46.552838",
+  "download_filename": "django_unicom-25.1.25.tar.gz",
+  "download_time": "2025-09-06T13:34:00.341446",
   "package_url": "https://pypi.org/project/django-unicom/"
 }

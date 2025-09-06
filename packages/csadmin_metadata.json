@@ -1,0 +1,11 @@
+{
+  "name": "csadmin",
+  "version": "0.1.0",
+  "summary": "Compass Admin - Administrative tools for Compass Bot system",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "csadmin-0.1.0.tar.gz",
+  "download_time": "2025-09-06T13:33:53.858492",
+  "package_url": "https://pypi.org/project/csadmin/"
+}

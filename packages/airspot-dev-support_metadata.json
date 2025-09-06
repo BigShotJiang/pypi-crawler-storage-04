@@ -1,11 +1,11 @@
 {
   "name": "airspot-dev-support",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Airspot IaC support library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airspot_dev_support-0.7.4.tar.gz",
-  "download_time": "2025-09-05T09:45:03.223827",
+  "download_filename": "airspot_dev_support-0.7.5.tar.gz",
+  "download_time": "2025-09-06T13:33:54.433437",
   "package_url": "https://pypi.org/project/airspot-dev-support/"
 }

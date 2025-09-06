@@ -1,0 +1,11 @@
+{
+  "name": "bin2tap-metsuos",
+  "version": "0.3",
+  "summary": "MetsuOS Version to avoid skooltools bin2tap dep conflict. Convert a binary file into ZX Spectrum TAP file",
+  "author": "Raül Torralba => Raúl Carrillo aka metsuke",
+  "license": null,
+  "home_page": "https://github.com/metsuke/bin2tap-py-metsuos",
+  "download_filename": "bin2tap_metsuos-0.3.tar.gz",
+  "download_time": "2025-09-06T13:34:03.894017",
+  "package_url": "https://pypi.org/project/bin2tap-metsuos/"
+}
