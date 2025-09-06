@@ -1,0 +1,11 @@
+{
+  "name": "commit-for-free",
+  "version": "1.1.5",
+  "summary": "A sophisticated Git commit message generator that uses AI to create meaningful, conventional commit messages based on your code changes.",
+  "author": "Alaamer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "commit_for_free-1.1.5.tar.gz",
+  "download_time": "2025-09-06T22:21:20.651543",
+  "package_url": "https://pypi.org/project/commit-for-free/"
+}
