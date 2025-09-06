@@ -1,0 +1,11 @@
+{
+  "name": "github-switcher",
+  "version": "0.1.0",
+  "summary": "Professional CLI tool for managing multiple GitHub identities with wizard-based profile creation and SSH key management",
+  "author": "Mostafa Gamil",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_switcher-0.1.0.tar.gz",
+  "download_time": "2025-09-06T11:41:51.601157",
+  "package_url": "https://pypi.org/project/github-switcher/"
+}

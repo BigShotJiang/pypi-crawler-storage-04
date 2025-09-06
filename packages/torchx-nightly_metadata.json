@@ -1,11 +1,11 @@
 {
   "name": "torchx-nightly",
-  "version": "2025.9.5",
+  "version": "2025.9.6",
   "summary": "TorchX SDK and Components",
   "author": "TorchX Devs",
   "license": "BSD-3",
   "home_page": "https://github.com/pytorch/torchx",
-  "download_filename": "torchx_nightly-2025.9.5-py3-none-any.whl",
-  "download_time": "2025-09-05T11:43:05.893081",
+  "download_filename": "torchx_nightly-2025.9.6-py3-none-any.whl",
+  "download_time": "2025-09-06T11:41:58.975021",
   "package_url": "https://pypi.org/project/torchx-nightly/"
 }
