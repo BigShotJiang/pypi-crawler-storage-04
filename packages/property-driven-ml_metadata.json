@@ -1,11 +1,11 @@
 {
   "name": "property-driven-ml",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A general framework for property-driven machine learning with logical constraints",
   "author": "Thomas Flinkow, Gusts Gustavs Grinbergs",
   "license": null,
   "home_page": null,
-  "download_filename": "property_driven_ml-0.2.6.tar.gz",
-  "download_time": "2025-09-04T18:31:56.992566",
+  "download_filename": "property_driven_ml-0.2.7.tar.gz",
+  "download_time": "2025-09-06T13:44:17.135272",
   "package_url": "https://pypi.org/project/property-driven-ml/"
 }

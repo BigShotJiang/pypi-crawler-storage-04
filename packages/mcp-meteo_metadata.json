@@ -1,11 +1,11 @@
 {
   "name": "mcp-meteo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Serveur MCP pour accéder aux données météo via Open-Meteo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_meteo-0.2.0.tar.gz",
-  "download_time": "2025-09-06T13:33:38.762861",
+  "download_filename": "mcp_meteo-0.2.1.tar.gz",
+  "download_time": "2025-09-06T13:44:18.290285",
   "package_url": "https://pypi.org/project/mcp-meteo/"
 }

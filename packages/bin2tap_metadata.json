@@ -1,0 +1,11 @@
+{
+  "name": "bin2tap",
+  "version": "0.4",
+  "summary": "Convert a binary file into ZX Spectrum TAP file",
+  "author": "Raül Torralba",
+  "license": null,
+  "home_page": "https://github.com/rtorralba/bin2tap",
+  "download_filename": "bin2tap-0.4.tar.gz",
+  "download_time": "2025-09-06T13:44:14.245162",
+  "package_url": "https://pypi.org/project/bin2tap/"
+}
