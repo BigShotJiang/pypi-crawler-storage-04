@@ -1,11 +1,11 @@
 {
   "name": "simplelinks",
-  "version": "0.1.0",
+  "version": "1.2.0",
   "summary": "A lightweight network connectivity solution based on secure HTTPS connections",
   "author": "SimpleLinks Team",
   "license": null,
   "home_page": "https://simplelinks.cn",
-  "download_filename": "simplelinks-0.1.0.tar.gz",
-  "download_time": "2025-09-06T03:20:49.719393",
+  "download_filename": "simplelinks-1.2.0.tar.gz",
+  "download_time": "2025-09-06T03:48:04.607070",
   "package_url": "https://pypi.org/project/simplelinks/"
 }

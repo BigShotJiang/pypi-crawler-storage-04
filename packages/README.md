@@ -1,14 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-06T03:21:19.256399
-- **Total Packages**: 81
-- **Total Size**: 51.51 MB
+- **Download Time**: 2025-09-06T03:48:48.398289
+- **Total Packages**: 83
+- **Total Size**: 6.28 MB
 
 ## Packages List
+- yoto-api
+- envedseted
+- pulumi-ns1
+- resi-builder
+- publicsuffixlist
+- slimformers
+- cdk-factory
+- fluidityai
+- pulumi-confluentcloud
+- simplelinks
+- cdktf-cdktf-provider-upcloud
+- modern-treasury
+- lionagi
+- authentik-client
+- agentscope
+- xtop
+- uainepydat
+- teraflopai-data
+- PyBackup-Tool
+- svc-infra
+- scopinator
+- odoo-addon-operating-unit
+- polars-darwin-core
+- odoo-addon-openupgrade-scripts
+- semantic-copycat-purl2src
+- yafi
+- wayback-machine-archiver
 - sentineliqsdk
 - GANDLF
-- svc-infra
 - pydapter
 - py-img-processor
 - GTC-Pygame-Runtime-Support
@@ -32,13 +58,11 @@
 - ji-async-http-utils
 - arthur-client
 - iptv9
-- simplelinks
 - datadog-checkpoint-harmony-endpoint
 - make-xuml-repo
 - odoo-addon-l10n-it-vat-registries
 - pegol
 - hexdoc-slate-work
-- authentik-client
 - llm4time
 - configset
 - physicar
@@ -65,25 +89,3 @@
 - odoo-addon-account-invoice-overdue-reminder
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
-- polars-darwin-core
-- types-Markdown
-- nyt_recipe
-- pygpt-net
-- pypp-bridge-lib-glfw
-- naif-eop-high-prec
-- pypp-cli
-- odoo-addon-account-reconcile-oca
-- odoo14-addon-ssi-consulting
-- odoo-addon-account-invoice-pricelist
-- pipecat-ai
-- airbyte-connector-builder-mcp
-- azure-functions-doctor
-- arthexis
-- reflex-agent
-- odoo-addon-account-tax-balance
-- device-fingerprinting-pro
-- ksrpc
-- styro
-- soifunc
-- bioregistry
-- pytest-snapcheck

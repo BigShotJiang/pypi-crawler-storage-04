@@ -1,11 +1,11 @@
 {
   "name": "polars-darwin-core",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "summary": "Helpers for working with Darwin Core (DwC) CSVs using Polars.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_darwin_core-3.0.0.tar.gz",
-  "download_time": "2025-09-06T02:46:17.697540",
+  "download_filename": "polars_darwin_core-4.0.0.tar.gz",
+  "download_time": "2025-09-06T03:48:12.463410",
   "package_url": "https://pypi.org/project/polars-darwin-core/"
 }

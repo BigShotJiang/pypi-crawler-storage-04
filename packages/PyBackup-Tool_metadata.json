@@ -1,0 +1,11 @@
+{
+  "name": "PyBackup-Tool",
+  "version": "1.0.0",
+  "summary": "Zero-dependency Python backup tool with configuration file support",
+  "author": "ByteStackr",
+  "license": "MIT",
+  "home_page": "https://github.com/ByteStackr/PyBackup-Tool",
+  "download_filename": "pybackup_tool-1.0.0.tar.gz",
+  "download_time": "2025-09-06T03:48:09.960113",
+  "package_url": "https://pypi.org/project/PyBackup-Tool/"
+}
