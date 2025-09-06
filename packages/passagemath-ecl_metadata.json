@@ -1,11 +1,11 @@
 {
   "name": "passagemath-ecl",
-  "version": "10.6.14",
+  "version": "10.6.16",
   "summary": "passagemath: Embeddable Common Lisp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_ecl-10.6.14.tar.gz",
-  "download_time": "2025-09-03T02:44:54.952964",
+  "download_filename": "passagemath_ecl-10.6.16.tar.gz",
+  "download_time": "2025-09-06T08:45:21.120946",
   "package_url": "https://pypi.org/project/passagemath-ecl/"
 }

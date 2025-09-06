@@ -1,11 +1,11 @@
 {
   "name": "passagemath-gfan",
-  "version": "10.6.14",
+  "version": "10.6.16",
   "summary": "passagemath: Groebner fans and tropical varieties with gfan",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_gfan-10.6.14.tar.gz",
-  "download_time": "2025-09-03T03:20:48.783885",
+  "download_filename": "passagemath_gfan-10.6.16.tar.gz",
+  "download_time": "2025-09-06T08:45:12.789381",
   "package_url": "https://pypi.org/project/passagemath-gfan/"
 }

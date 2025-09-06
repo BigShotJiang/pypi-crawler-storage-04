@@ -1,0 +1,11 @@
+{
+  "name": "escheduler-sdk",
+  "version": "0.0.2",
+  "summary": "Python SDK for EScheduler API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "escheduler_sdk-0.0.2.tar.gz",
+  "download_time": "2025-09-06T08:44:52.167100",
+  "package_url": "https://pypi.org/project/escheduler-sdk/"
+}

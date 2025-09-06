@@ -1,11 +1,11 @@
 {
   "name": "passagemath-giac",
-  "version": "10.6.14",
+  "version": "10.6.16",
   "summary": "passagemath: Symbolic computation with GIAC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_giac-10.6.14.tar.gz",
-  "download_time": "2025-09-03T03:20:48.270002",
+  "download_filename": "passagemath_giac-10.6.16.tar.gz",
+  "download_time": "2025-09-06T08:45:12.269689",
   "package_url": "https://pypi.org/project/passagemath-giac/"
 }

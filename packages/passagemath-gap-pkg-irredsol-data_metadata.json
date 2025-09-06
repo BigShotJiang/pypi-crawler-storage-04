@@ -1,11 +1,11 @@
 {
   "name": "passagemath-gap-pkg-irredsol-data",
-  "version": "10.6.14",
+  "version": "10.6.16",
   "summary": "passagemath: Computational Group Theory with GAP: irredsol data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_gap_pkg_irredsol_data-10.6.14.tar.gz",
-  "download_time": "2025-09-03T02:45:08.416536",
+  "download_filename": "passagemath_gap_pkg_irredsol_data-10.6.16.tar.gz",
+  "download_time": "2025-09-06T08:45:28.441526",
   "package_url": "https://pypi.org/project/passagemath-gap-pkg-irredsol-data/"
 }
