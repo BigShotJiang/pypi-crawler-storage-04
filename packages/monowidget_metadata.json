@@ -1,0 +1,11 @@
+{
+  "name": "monowidget",
+  "version": "0.1.1",
+  "summary": "A modern PyQt6 parameter interface library for creating interactive configuration panels with automatic UI generation.",
+  "author": "Eagle'sBaby",
+  "license": "MIT",
+  "home_page": "https://github.com/monowidget/monowidget",
+  "download_filename": "monowidget-0.1.1.tar.gz",
+  "download_time": "2025-09-06T22:55:38.172869",
+  "package_url": "https://pypi.org/project/monowidget/"
+}
