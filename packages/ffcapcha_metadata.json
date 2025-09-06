@@ -1,11 +1,11 @@
 {
   "name": "ffcapcha",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "service is aimed at protecting telegram bots from suspicious requests and DDoS attacks. Documentation about the module and resource news -> https://t.me/ffcapcha",
-  "author": "Vnd FF",
+  "author": "VndFF, pavyk",
   "license": null,
-  "home_page": "https://github.com/yourusername/ffcapcha",
-  "download_filename": "ffcapcha-1.0.0.tar.gz",
-  "download_time": "2025-09-06T15:21:55.929245",
+  "home_page": "https://github.com/skoro_budet/ffcapcha",
+  "download_filename": "ffcapcha-1.2.1.tar.gz",
+  "download_time": "2025-09-06T21:20:32.516573",
   "package_url": "https://pypi.org/project/ffcapcha/"
 }
