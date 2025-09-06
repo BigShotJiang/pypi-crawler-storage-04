@@ -1,11 +1,11 @@
 {
   "name": "quite6",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "QT UI Extension",
   "author": "SF-Zhou",
   "license": "MIT",
   "home_page": "https://github.com/KD-Group/quite6",
-  "download_filename": "quite6-1.0.11.tar.gz",
-  "download_time": "2025-09-06T03:58:30.480588",
+  "download_filename": "quite6-1.0.12.tar.gz",
+  "download_time": "2025-09-06T04:27:02.082618",
   "package_url": "https://pypi.org/project/quite6/"
 }

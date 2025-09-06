@@ -1,0 +1,11 @@
+{
+  "name": "lambapi",
+  "version": "0.2.6",
+  "summary": "モダンな AWS Lambda 用 API フレームワーク",
+  "author": "Yoshihiro Sasaki",
+  "license": "MIT",
+  "home_page": "https://github.com/sskyh0208/lambapi",
+  "download_filename": "lambapi-0.2.6.tar.gz",
+  "download_time": "2025-09-06T04:26:58.634671",
+  "package_url": "https://pypi.org/project/lambapi/"
+}
