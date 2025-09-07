@@ -1,0 +1,11 @@
+{
+  "name": "ai-audit-tool",
+  "version": "0.2.0",
+  "summary": "AI包漏洞审计工具，支持命令行和模块调用",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_audit_tool-0.2.0.tar.gz",
+  "download_time": "2025-09-07T05:44:17.221341",
+  "package_url": "https://pypi.org/project/ai-audit-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SideValidator",
+  "version": "1.0.0",
+  "summary": "Add some Qt input validator.",
+  "author": "qiufeng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sidevalidator-1.0.0.tar.gz",
+  "download_time": "2025-09-07T05:44:16.634280",
+  "package_url": "https://pypi.org/project/SideValidator/"
+}

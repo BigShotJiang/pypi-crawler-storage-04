@@ -1,11 +1,11 @@
 {
   "name": "splurge-dsv",
-  "version": "2025.1.3",
+  "version": "2025.1.5",
   "summary": "A utility library for working with DSV (Delimited String Values) files",
   "author": "Jim Schilling",
   "license": null,
   "home_page": null,
-  "download_filename": "splurge_dsv-2025.1.3.tar.gz",
-  "download_time": "2025-09-03T20:43:53.042884",
+  "download_filename": "splurge_dsv-2025.1.5.tar.gz",
+  "download_time": "2025-09-07T05:44:09.673274",
   "package_url": "https://pypi.org/project/splurge-dsv/"
 }

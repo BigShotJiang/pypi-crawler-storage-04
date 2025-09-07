@@ -1,11 +1,11 @@
 {
   "name": "simple-idealized-1d-nlse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A flexible and efficient solver for the 1D Nonlinear Schrödinger Equation",
   "author": "Sandy H. S. Herho",
   "license": "WTFPL",
   "home_page": null,
-  "download_filename": "simple_idealized_1d_nlse-0.0.3.tar.gz",
-  "download_time": "2025-09-03T21:20:19.526133",
+  "download_filename": "simple_idealized_1d_nlse-0.0.4.tar.gz",
+  "download_time": "2025-09-07T05:44:12.024933",
   "package_url": "https://pypi.org/project/simple-idealized-1d-nlse/"
 }
