@@ -1,11 +1,11 @@
 {
   "name": "peek-agent-service",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Peek Agent Service - where Peek Apps can run their I/O code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-agent-service-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:55:13.006378",
+  "download_filename": "peek-agent-service-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:19.082031",
   "package_url": "https://pypi.org/project/peek-agent-service/"
 }

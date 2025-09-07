@@ -1,11 +1,11 @@
 {
   "name": "peek-admin-doc",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Peek Admin Docs - the admin documentation container",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-admin-doc-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:55:14.540518",
+  "download_filename": "peek-admin-doc-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:20.121429",
   "package_url": "https://pypi.org/project/peek-admin-doc/"
 }

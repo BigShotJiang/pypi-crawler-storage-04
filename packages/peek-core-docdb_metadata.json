@@ -1,11 +1,11 @@
 {
   "name": "peek-core-docdb",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Peek Core Plugin DocDB - an online/offline storage for simple JSON documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-core-docdb-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:55:11.983069",
+  "download_filename": "peek-core-docdb-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:18.040219",
   "package_url": "https://pypi.org/project/peek-core-docdb/"
 }

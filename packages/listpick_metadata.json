@@ -1,11 +1,11 @@
 {
   "name": "listpick",
-  "version": "0.1.16.1",
+  "version": "0.1.16.3",
   "summary": "Listpick is a powerful TUI data tool for creating TUI apps or viewing/comparing tabulated data.",
   "author": "Grim",
   "license": null,
   "home_page": "https://github.com/grimandgreedy/listpick",
-  "download_filename": "listpick-0.1.16.1.tar.gz",
-  "download_time": "2025-09-07T02:58:33.623993",
+  "download_filename": "listpick-0.1.16.3.tar.gz",
+  "download_time": "2025-09-07T03:57:01.744816",
   "package_url": "https://pypi.org/project/listpick/"
 }

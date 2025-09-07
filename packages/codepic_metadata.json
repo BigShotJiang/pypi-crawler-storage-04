@@ -1,0 +1,11 @@
+{
+  "name": "codepic",
+  "version": "0.2.0",
+  "summary": "Capture code in a picture",
+  "author": "Thomas Harrison",
+  "license": "MIT",
+  "home_page": "https://github.com/automas-dev/codepic",
+  "download_filename": "codepic-0.2.0.tar.gz",
+  "download_time": "2025-09-07T03:57:00.133477",
+  "package_url": "https://pypi.org/project/codepic/"
+}

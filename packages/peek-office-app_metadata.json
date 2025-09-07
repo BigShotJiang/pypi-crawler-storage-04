@@ -1,11 +1,11 @@
 {
   "name": "peek-office-app",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Peek Office UI App - the Angular Web build for Peek Office",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-office-app-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:55:06.308717",
+  "download_filename": "peek-office-app-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:11.724046",
   "package_url": "https://pypi.org/project/peek-office-app/"
 }

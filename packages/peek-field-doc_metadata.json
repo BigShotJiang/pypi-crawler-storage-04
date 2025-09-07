@@ -1,11 +1,11 @@
 {
   "name": "peek-field-doc",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Peek Developer Documentation - the user documentation container for Peek Field",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-field-doc-5.0.2.tar.gz",
-  "download_time": "2025-08-31T04:55:08.899541",
+  "download_filename": "peek-field-doc-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:14.396675",
   "package_url": "https://pypi.org/project/peek-field-doc/"
 }

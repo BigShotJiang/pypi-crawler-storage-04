@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-gis-diagram",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "summary": "Peek Plugin GisDiagram - geographic digram of Peek",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-gis-diagram-5.0.3.tar.gz",
-  "download_time": "2025-09-02T03:01:00.206915",
+  "download_filename": "peek-plugin-gis-diagram-5.0.4.tar.gz",
+  "download_time": "2025-09-07T03:57:04.881730",
   "package_url": "https://pypi.org/project/peek-plugin-gis-diagram/"
 }
