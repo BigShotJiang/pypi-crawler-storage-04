@@ -1,0 +1,11 @@
+{
+  "name": "plotplot",
+  "version": "1.0.8",
+  "summary": "Drag and drop plotting, data selection, and filtering",
+  "author": "Andrew Barry",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://plotplot.org",
+  "download_filename": "plotplot-1.0.8.tar.gz",
+  "download_time": "2025-09-07T01:46:00.812092",
+  "package_url": "https://pypi.org/project/plotplot/"
+}

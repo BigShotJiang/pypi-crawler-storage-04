@@ -1,0 +1,11 @@
+{
+  "name": "poetry-plugin-code-artifact",
+  "version": "1.0.0",
+  "summary": "Plugin for poetry that simplifies using AWS CodeArtifact for publishing and downloading dependencies..",
+  "author": "Ben Ellis",
+  "license": "MIT",
+  "home_page": "https://github.com/bellis/poetry-plugin-code-artifact",
+  "download_filename": "poetry_plugin_code_artifact-1.0.0.tar.gz",
+  "download_time": "2025-09-07T01:45:55.433032",
+  "package_url": "https://pypi.org/project/poetry-plugin-code-artifact/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "icc-utils",
-  "version": "0.1.65",
+  "version": "0.1.66",
   "summary": "Package used to handle common functions at ICC",
   "author": "Jordan Bradley",
   "license": null,
   "home_page": "https://github.com/jbradleyicc/icc_utils",
-  "download_filename": "icc_utils-0.1.65.tar.gz",
-  "download_time": "2025-09-04T19:18:44.111740",
+  "download_filename": "icc_utils-0.1.66.tar.gz",
+  "download_time": "2025-09-07T01:45:41.770279",
   "package_url": "https://pypi.org/project/icc-utils/"
 }

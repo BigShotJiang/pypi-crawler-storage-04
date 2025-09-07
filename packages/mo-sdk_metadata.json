@@ -1,0 +1,11 @@
+{
+  "name": "mo-sdk",
+  "version": "1.0.0",
+  "summary": "Official SDK for building Multimodal Observer (MOo) plugins.",
+  "author": "Matías Figueroa Contreras",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/MultimodalObserver-2/mo-api-sdk",
+  "download_filename": "mo_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-07T01:46:07.837370",
+  "package_url": "https://pypi.org/project/mo-sdk/"
+}

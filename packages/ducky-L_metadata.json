@@ -1,11 +1,11 @@
 {
   "name": "ducky-L",
-  "version": "0.1.13",
+  "version": "0.1.18",
   "summary": "Lenguaje en español para programar divertido y fácil",
   "author": "José Pato",
   "license": null,
   "home_page": null,
-  "download_filename": "ducky_l-0.1.13.tar.gz",
-  "download_time": "2025-09-06T03:21:03.354997",
+  "download_filename": "ducky_l-0.1.18.tar.gz",
+  "download_time": "2025-09-07T01:45:54.372377",
   "package_url": "https://pypi.org/project/ducky-L/"
 }
