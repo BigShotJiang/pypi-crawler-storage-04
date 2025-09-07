@@ -1,11 +1,11 @@
 {
   "name": "mycontext",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A tool to generate context files from multiple files and folders.",
   "author": "Martin Castellano",
   "license": null,
   "home_page": "https://github.com/MartinCastellano/mycontext",
-  "download_filename": "mycontext-0.1.10.tar.gz",
-  "download_time": "2025-09-07T03:57:03.840756",
+  "download_filename": "mycontext-0.1.11.tar.gz",
+  "download_time": "2025-09-07T04:26:50.341394",
   "package_url": "https://pypi.org/project/mycontext/"
 }

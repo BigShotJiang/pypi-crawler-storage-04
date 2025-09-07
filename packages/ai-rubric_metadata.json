@@ -1,0 +1,11 @@
+{
+  "name": "ai-rubric",
+  "version": "0.2.2",
+  "summary": "Structured verification with LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_rubric-0.2.2.tar.gz",
+  "download_time": "2025-09-07T04:26:44.703705",
+  "package_url": "https://pypi.org/project/ai-rubric/"
+}

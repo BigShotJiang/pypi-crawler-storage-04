@@ -1,20 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-07T03:57:44.200362
-- **Total Packages**: 85
-- **Total Size**: 25.32 MB
+- **Download Time**: 2025-09-07T04:27:23.398240
+- **Total Packages**: 87
+- **Total Size**: 10.44 MB
 
 ## Packages List
+- dash-pdf-plus
+- authentik-client
+- promptbin
+- benchmark-runner
+- fastapi-project-starter
+- odoo-addon-l10n-br-account
+- gnoman-cli
+- expat
+- tp-helper
+- ariel-data-preprocessing
+- dashlab
+- horusdemodlib
+- ai-rubric
+- PyBACCHUS
+- pydal
+- pyExoyOne
+- sparkden
+- albi0
+- arthur-client
+- tubemp3
+- iranetf
+- sdpmflut
+- dfcleanan
+- mycontext
+- mcp-jupyter
+- plover2cat
+- pineflow
+- chromedriver-binary
+- beswarm
+- pexels-lib
+- mcp-ambari-api
+- mcp-mysql-ops
+- mcp-postgresql-ops
+- odoo-addons-oca-timesheet
+- mcp-airflow-api
 - pypomes-jwt
 - codepic
-- authentik-client
 - llama-index-llms-bedrock-converse
 - listpick
 - crackerjack
 - peek-plugin-livedb
 - peek-plugin-inbox
-- mycontext
 - peek-plugin-graphdb
 - peek-plugin-gis-diagram
 - peek-plugin-eventdb
@@ -60,34 +93,3 @@
 - tail_jsonl
 - x-make-graphviz-x
 - llama-index-core
-- x-make-mermaid-x
-- dfcleanan
-- GANDLF
-- django-okta-client
-- avwx-swift
-- funserver
-- mas
-- cendat
-- causallm
-- qe-connector
-- scrapy-cffi
-- harmonyos-mcp
-- chartengineer
-- llama-index-llms-cometapi
-- ipycc
-- bulletchess
-- BioSAK
-- openbb-akshare
-- sigrid-systems
-- bhp-pro
-- moxn-types
-- devautotools
-- arthur-client
-- odoo-addons-oca-l10n-spain
-- sotiRPA
-- odoo-addon-l10n-es-aeat
-- resi-builder
-- tubemp3
-- api-canvas-lms
-- sphinx-notionbuilder
-- normal-grain-merge
