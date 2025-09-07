@@ -1,11 +1,11 @@
 {
   "name": "sigrid-systems",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python client library for SIGRID legal analysis API",
   "author": "sigrid-systems.com",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sigrid_systems-0.1.0.tar.gz",
-  "download_time": "2025-09-07T03:37:58.057611",
+  "download_filename": "sigrid_systems-0.1.1.tar.gz",
+  "download_time": "2025-09-07T05:22:54.248388",
   "package_url": "https://pypi.org/project/sigrid-systems/"
 }

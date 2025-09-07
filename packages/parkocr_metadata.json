@@ -1,0 +1,11 @@
+{
+  "name": "parkocr",
+  "version": "0.1.1",
+  "summary": "Automatic license plate recognition using YOLOv8 and EasyOCR, with ROI filtering, FIFO output, and screenshot support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parkocr-0.1.1.tar.gz",
+  "download_time": "2025-09-07T05:22:55.988638",
+  "package_url": "https://pypi.org/project/parkocr/"
+}

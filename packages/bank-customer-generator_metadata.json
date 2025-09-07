@@ -1,0 +1,11 @@
+{
+  "name": "bank-customer-generator",
+  "version": "1.0.0",
+  "summary": "A command-line tool to generate fake bank customer data and export to CSV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bank_customer_generator-1.0.0.tar.gz",
+  "download_time": "2025-09-07T05:22:53.586488",
+  "package_url": "https://pypi.org/project/bank-customer-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-storage-plugin",
+  "version": "0.8.0",
+  "summary": "NetBox storage plugin",
+  "author": "Gabor Somogyvari",
+  "license": null,
+  "home_page": "https://github.com/viroge/netbox-storage",
+  "download_filename": "netbox_storage_plugin-0.8.0.tar.gz",
+  "download_time": "2025-09-07T05:22:51.746931",
+  "package_url": "https://pypi.org/project/netbox-storage-plugin/"
+}

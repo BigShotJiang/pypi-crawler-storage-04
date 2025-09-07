@@ -1,0 +1,11 @@
+{
+  "name": "aistv",
+  "version": "1.4.6",
+  "summary": "STV AI Chatbot Library for Python",
+  "author": "Trọng Phúc",
+  "license": null,
+  "home_page": "https://github.com/phuctrong1tuv",
+  "download_filename": "aistv-1.4.6.tar.gz",
+  "download_time": "2025-09-07T05:22:46.983642",
+  "package_url": "https://pypi.org/project/aistv/"
+}
