@@ -1,0 +1,11 @@
+{
+  "name": "bulletchess",
+  "version": "0.4.0",
+  "summary": "A high performance C Extension for chess",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bulletchess-0.4.0.tar.gz",
+  "download_time": "2025-09-07T03:37:56.470906",
+  "package_url": "https://pypi.org/project/bulletchess/"
+}

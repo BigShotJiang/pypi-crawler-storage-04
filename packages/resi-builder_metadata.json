@@ -1,11 +1,11 @@
 {
   "name": "resi-builder",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Create a resume and cover letter automatically",
   "author": "Mario Cerda",
   "license": null,
   "home_page": "https://github.com/cerdamario13/resi-builder",
-  "download_filename": "resi_builder-0.1.2.tar.gz",
-  "download_time": "2025-09-06T03:48:01.083353",
+  "download_filename": "resi_builder-0.2.0.tar.gz",
+  "download_time": "2025-09-07T03:38:02.730026",
   "package_url": "https://pypi.org/project/resi-builder/"
 }

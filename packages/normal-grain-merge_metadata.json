@@ -1,11 +1,11 @@
 {
   "name": "normal-grain-merge",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": "Fused normal and grain merge C extension",
   "author": "Samuel Howard",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "normal_grain_merge-0.0.0.tar.gz",
-  "download_time": "2025-09-07T01:45:58.648633",
+  "download_filename": "normal_grain_merge-0.0.1.tar.gz",
+  "download_time": "2025-09-07T03:38:04.813333",
   "package_url": "https://pypi.org/project/normal-grain-merge/"
 }

@@ -1,17 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-07T02:59:08.387290
-- **Total Packages**: 76
-- **Total Size**: 49.8 MB
+- **Download Time**: 2025-09-07T03:38:23.320997
+- **Total Packages**: 77
+- **Total Size**: 15.53 MB
 
 ## Packages List
+- mycontext
+- pulumi-venafi
+- DDM-HD
+- praasper
+- map-binning
+- wuwa-mcp-server
+- engines4ai
+- authentik-client
+- pypomes-jwt
+- tail_jsonl
+- x-make-graphviz-x
+- llama-index-core
+- x-make-mermaid-x
+- dfcleanan
+- GANDLF
+- django-okta-client
+- avwx-swift
+- funserver
+- mas
+- streamlit-svg-view
+- cendat
+- causallm
+- qe-connector
+- scrapy-cffi
+- harmonyos-mcp
+- chartengineer
+- llama-index-llms-cometapi
+- ipycc
+- bulletchess
+- BioSAK
+- openbb-akshare
+- sigrid-systems
+- bhp-pro
+- moxn-types
+- devautotools
+- arthur-client
+- odoo-addons-oca-l10n-spain
+- sotiRPA
+- odoo-addon-l10n-es-aeat
+- resi-builder
+- tubemp3
+- api-canvas-lms
+- sphinx-notionbuilder
+- normal-grain-merge
+- x-make-test3-x
+- skimly
+- llm4time
+- monopoly-core
 - x-make-test2-x
 - gink
 - types-docker
 - types-yt-dlp
 - types-xmltodict
-- praasper
 - x-make-test-x
 - cloudglue
 - maven-proxy
@@ -27,10 +74,7 @@
 - naif-eop-high-prec
 - elephas
 - judgeval
-- mycontext
-- llm4time
 - svc-infra
-- authentik-client
 - semantic-pdf-search
 - schedulo-api
 - monai-weekly
@@ -39,46 +83,3 @@
 - PyQrackIsing
 - flexAgent
 - claude-agent-toolkit
-- zrb
-- natlog
-- pyAgrum-nightly
-- fastsqs
-- better-social-notifications
-- js-python-starter
-- email-to-calendar
-- govee-cloud
-- detection-dataset-annotator
-- api-canvas-lms
-- js-api
-- openfund-core
-- aioharmony
-- cursus
-- GameSentenceMiner
-- llm_batch_helper
-- dnscode
-- arthur-client
-- periodic-table-cli
-- pyscratch-pysc
-- sqlmesh
-- pykasacloud
-- paas-national-prescription-extractor
-- my_krml_25552249
-- demopy-gb-jj
-- tmus
-- jjrawlins-cdk-iam-policy-builder-helper
-- mcp-mysql-ops
-- osbot-utils
-- litellm
-- pyExploitDb
-- tsugu
-- sioba-subprocess
-- thothctl
-- biology-files
-- projen-modules
-- sentineliqsdk
-- icc-utils
-- pyExoyOne
-- xarray-lmfit
-- rolint
-- apipie
-- rko-lio
