@@ -1,11 +1,11 @@
 {
   "name": "govee-cloud",
-  "version": "20250904150320.dev0",
+  "version": "20250907021929.dev0",
   "summary": "Govee Cloud API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "govee_cloud-20250904150320.dev0.tar.gz",
-  "download_time": "2025-09-04T15:15:40.806206",
+  "download_filename": "govee_cloud-20250907021929.dev0.tar.gz",
+  "download_time": "2025-09-07T02:58:49.022941",
   "package_url": "https://pypi.org/project/govee-cloud/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "paas-national-prescription-extractor",
-  "version": "2.0.6",
+  "version": "2.0.8",
   "summary": "PAAS National - Comprehensive prescription data extraction and standardization system for day supply, quantity, and sig processing",
   "author": "Abdulhaleem Osama",
   "license": "MIT",
   "home_page": "https://github.com/HalemoGPA/paas-national-prescription-extractor",
-  "download_filename": "paas_national_prescription_extractor-2.0.6.tar.gz",
-  "download_time": "2025-09-07T01:45:26.780944",
+  "download_filename": "paas_national_prescription_extractor-2.0.8.tar.gz",
+  "download_time": "2025-09-07T02:58:57.398016",
   "package_url": "https://pypi.org/project/paas-national-prescription-extractor/"
 }

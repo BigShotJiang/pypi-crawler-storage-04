@@ -1,11 +1,11 @@
 {
   "name": "cursus",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Automatic SageMaker Pipeline Generation from DAG Specifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cursus-1.2.2.tar.gz",
-  "download_time": "2025-09-05T17:21:23.019332",
+  "download_filename": "cursus-1.2.3.tar.gz",
+  "download_time": "2025-09-07T02:58:52.649144",
   "package_url": "https://pypi.org/project/cursus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "demopy-gb-jj",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A demo PyPI package with Rust extensions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "demopy_gb_jj-0.6.0.tar.gz",
-  "download_time": "2025-09-07T01:46:01.357178",
+  "download_filename": "demopy_gb_jj-0.6.1.tar.gz",
+  "download_time": "2025-09-07T02:58:58.435678",
   "package_url": "https://pypi.org/project/demopy-gb-jj/"
 }

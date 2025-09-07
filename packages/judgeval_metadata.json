@@ -1,11 +1,11 @@
 {
   "name": "judgeval",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "Judgeval Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "judgeval-0.9.3-py3-none-any.whl",
-  "download_time": "2025-09-04T17:42:01.350176",
+  "download_filename": "judgeval-0.9.4-py3-none-any.whl",
+  "download_time": "2025-09-07T02:58:37.878975",
   "package_url": "https://pypi.org/project/judgeval/"
 }
