@@ -1,0 +1,11 @@
+{
+  "name": "aiolifx-themes",
+  "version": "1.0.1",
+  "summary": "Async library that applies color themes to LIFX lights",
+  "author": "Avi Miller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiolifx_themes-1.0.1.tar.gz",
+  "download_time": "2025-09-07T04:45:03.912094",
+  "package_url": "https://pypi.org/project/aiolifx-themes/"
+}

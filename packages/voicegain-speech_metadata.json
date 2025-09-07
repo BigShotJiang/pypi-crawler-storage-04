@@ -1,0 +1,11 @@
+{
+  "name": "voicegain-speech",
+  "version": "1.124.0",
+  "summary": "Voicegain Speech-to-Text Python SDK",
+  "author": "Huishen Zhan, Kuo Zhang, Jacek Jarmulak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicegain_speech-1.124.0.tar.gz",
+  "download_time": "2025-09-07T04:44:50.421580",
+  "package_url": "https://pypi.org/project/voicegain-speech/"
+}
