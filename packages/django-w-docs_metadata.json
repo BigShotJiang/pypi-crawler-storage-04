@@ -1,11 +1,11 @@
 {
   "name": "django-w-docs",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A reusable documentation app powered by Python, Django, DRF, Wagtail CMS, TailwindCSS and DaisyUI.",
   "author": "Yousef Abu Shanab",
   "license": "MIT",
   "home_page": "https://github.com/youzarsiph/django-w-docs",
-  "download_filename": "django_w_docs-0.1.3.tar.gz",
-  "download_time": "2025-09-07T06:32:52.041628",
+  "download_filename": "django_w_docs-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-07T09:41:56.863068",
   "package_url": "https://pypi.org/project/django-w-docs/"
 }
