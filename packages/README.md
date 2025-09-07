@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-07T05:44:51.344182
+- **Download Time**: 2025-09-07T05:57:04.763544
 - **Total Packages**: 80
-- **Total Size**: 8.19 MB
+- **Total Size**: 0.32 MB
 
 ## Packages List
+- filoma
+- pulumi-provider-boilerplate
+- tortitle
+- authentik-client
+- pulumi-xyz
+- BwETAF
+- py-collections
+- PyBACCHUS
+- metalerp
+- persidict
+- pysmarty2
 - jupyter-kernel-agent
 - splurge-dsv
 - chalkpy
@@ -16,7 +27,6 @@
 - autocli-llm
 - hundredandten
 - networkx-arxiv-generators
-- authentik-client
 - bijx
 - fastsqs
 - SideValidator
@@ -76,13 +86,3 @@
 - fabricatio-diff
 - fabricatio-tool
 - fabricatio-core
-- persidict
-- universal-mcp-agents
-- mcp-airflow-api
-- mcp-ambari-api
-- mcp-mysql-ops
-- mcp-postgresql-ops
-- enumerific
-- ktoolbox
-- expat
-- onefinity

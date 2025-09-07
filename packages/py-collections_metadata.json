@@ -1,0 +1,11 @@
+{
+  "name": "py-collections",
+  "version": "0.1.0",
+  "summary": "A Python collections library providing enhanced collection types with additional functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_collections-0.1.0.tar.gz",
+  "download_time": "2025-09-07T05:56:22.129657",
+  "package_url": "https://pypi.org/project/py-collections/"
+}

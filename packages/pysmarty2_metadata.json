@@ -1,0 +1,11 @@
+{
+  "name": "pysmarty2",
+  "version": "0.10.3",
+  "summary": "Python API for Salda Smarty Modbus TCP",
+  "author": "Martins Sipenko, Theo Nicolaum",
+  "license": null,
+  "home_page": "https://github.com/martinssipenko/pysmarty2",
+  "download_filename": "pysmarty2-0.10.3.tar.gz",
+  "download_time": "2025-09-07T05:56:24.637505",
+  "package_url": "https://pypi.org/project/pysmarty2/"
+}

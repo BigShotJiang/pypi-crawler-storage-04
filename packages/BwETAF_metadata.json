@@ -1,0 +1,11 @@
+{
+  "name": "BwETAF",
+  "version": "0.6",
+  "summary": "Module to load BwETAF models (Flax)",
+  "author": "Boring._.wicked",
+  "license": null,
+  "home_page": null,
+  "download_filename": "BwETAF-0.6.tar.gz",
+  "download_time": "2025-09-07T05:56:21.419766",
+  "package_url": "https://pypi.org/project/BwETAF/"
+}
