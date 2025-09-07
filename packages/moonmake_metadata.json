@@ -1,11 +1,11 @@
 {
   "name": "moonmake",
-  "version": "0.1.512",
+  "version": "0.1.531",
   "summary": "Sistema de creación de proyectos con comandos rápidos.",
   "author": "ranon-rat",
   "license": null,
   "home_page": "https://github.com/ranon-rat/moonmake",
-  "download_filename": "moonmake-0.1.512.tar.gz",
-  "download_time": "2025-08-31T04:55:10.959175",
+  "download_filename": "moonmake-0.1.531.tar.gz",
+  "download_time": "2025-09-07T06:32:55.526629",
   "package_url": "https://pypi.org/project/moonmake/"
 }

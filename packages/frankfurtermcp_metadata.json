@@ -1,11 +1,11 @@
 {
   "name": "frankfurtermcp",
-  "version": "0.3.5",
+  "version": "0.3.5.post0",
   "summary": "A MCP server for currency exchange rates and currency conversion using the Frankfurter API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frankfurtermcp-0.3.5.tar.gz",
-  "download_time": "2025-09-06T23:41:35.925559",
+  "download_filename": "frankfurtermcp-0.3.5.post0.tar.gz",
+  "download_time": "2025-09-07T06:32:44.425218",
   "package_url": "https://pypi.org/project/frankfurtermcp/"
 }

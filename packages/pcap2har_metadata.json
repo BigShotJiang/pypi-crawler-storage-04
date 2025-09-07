@@ -1,0 +1,11 @@
+{
+  "name": "pcap2har",
+  "version": "0.1.0",
+  "summary": "A Python project for converting PCAP files to HAR (HTTP Archive) format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcap2har-0.1.0.tar.gz",
+  "download_time": "2025-09-07T06:32:59.182374",
+  "package_url": "https://pypi.org/project/pcap2har/"
+}

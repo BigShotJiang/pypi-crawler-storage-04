@@ -1,11 +1,11 @@
 {
   "name": "legit-api-client",
-  "version": "1.1.4200",
+  "version": "1.1.4201",
   "summary": "Inventory",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "legit_api_client-1.1.4200.tar.gz",
-  "download_time": "2025-09-05T14:45:00.174964",
+  "download_filename": "legit_api_client-1.1.4201.tar.gz",
+  "download_time": "2025-09-07T06:32:41.892146",
   "package_url": "https://pypi.org/project/legit-api-client/"
 }
