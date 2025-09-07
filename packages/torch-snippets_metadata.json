@@ -1,0 +1,11 @@
+{
+  "name": "torch-snippets",
+  "version": "0.559",
+  "summary": "One line functions for common tasks",
+  "author": "Yeshwanth Reddy",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/sizhky/torch_snippets/tree/master/",
+  "download_filename": "torch_snippets-0.559.tar.gz",
+  "download_time": "2025-09-07T04:56:43.176937",
+  "package_url": "https://pypi.org/project/torch-snippets/"
+}

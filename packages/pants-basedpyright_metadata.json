@@ -1,0 +1,11 @@
+{
+  "name": "pants-basedpyright",
+  "version": "0.1.0",
+  "summary": "Pantsbuild plugin for basedpyright type checking",
+  "author": "Jacob Learned",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pants_basedpyright-0.1.0.tar.gz",
+  "download_time": "2025-09-07T04:56:42.530298",
+  "package_url": "https://pypi.org/project/pants-basedpyright/"
+}
